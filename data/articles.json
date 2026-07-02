@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-07-02T20:15:27.168Z",
+  "generatedAt": "2026-07-02T20:17:24.895Z",
   "articleCount": 71,
   "feedStatus": [
+    {
+      "name": "音楽ナタリー",
+      "category": "music",
+      "ok": false,
+      "usedUrl": null,
+      "errors": [
+        "https://natalie.mu/music/feed/news → HTTP 405"
+      ]
+    },
     {
       "name": "クックパッドニュース",
       "category": "cooking",
@@ -10,15 +19,6 @@
       "errors": [
         "https://news.cookpad.com/rss → HTTP 404",
         "https://news.cookpad.com/feed → HTTP 404"
-      ]
-    },
-    {
-      "name": "音楽ナタリー",
-      "category": "music",
-      "ok": false,
-      "usedUrl": null,
-      "errors": [
-        "https://natalie.mu/music/feed/news → HTTP 405"
       ]
     },
     {
@@ -53,16 +53,6 @@
       ]
     },
     {
-      "name": "ナショナル ジオグラフィック日本版",
-      "category": "documentary",
-      "ok": false,
-      "usedUrl": null,
-      "errors": [
-        "https://natgeo.nikkeibp.co.jp/rss/index.rdf → HTTP 404",
-        "https://natgeo.nikkeibp.co.jp/rss/index.xml → HTTP 404"
-      ]
-    },
-    {
       "name": "B's-LOG.com（女性向けゲーム）",
       "category": "otome",
       "ok": false,
@@ -70,6 +60,16 @@
       "errors": [
         "https://www.bs-log.com/feed → HTTP 404",
         "https://www.bs-log.com/feed/ → HTTP 404"
+      ]
+    },
+    {
+      "name": "ナショナル ジオグラフィック日本版",
+      "category": "documentary",
+      "ok": false,
+      "usedUrl": null,
+      "errors": [
+        "https://natgeo.nikkeibp.co.jp/rss/index.rdf → HTTP 404",
+        "https://natgeo.nikkeibp.co.jp/rss/index.xml → HTTP 404"
       ]
     },
     {
@@ -118,37 +118,16 @@
       "ok": false,
       "usedUrl": null,
       "errors": [
-        "https://amass.jp/feed/ → fetch failed",
-        "https://amass.jp/index.xml → fetch failed",
+        "https://amass.jp/feed/ → HTTP 404",
+        "https://amass.jp/index.xml → HTTP 404",
         "https://amass.jp/rss → fetch failed"
       ]
-    },
-    {
-      "name": "NHKニュース（科学・文化）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-      "errors": []
     },
     {
       "name": "NHKニュース（主要）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（社会）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
       "errors": []
     },
     {
@@ -159,6 +138,27 @@
       "errors": []
     },
     {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（国際）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（社会）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "errors": []
+    },
+    {
       "name": "つくおき",
       "category": "cooking",
       "ok": true,
@@ -166,17 +166,17 @@
       "errors": []
     },
     {
-      "name": "4Gamer（乙女ゲーム関連）",
-      "category": "otome",
-      "ok": true,
-      "usedUrl": "https://www.4gamer.net/rss/index.xml",
-      "errors": []
-    },
-    {
       "name": "sorae（宇宙・天文）",
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://sorae.info/feed",
+      "errors": []
+    },
+    {
+      "name": "4Gamer（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://www.4gamer.net/rss/index.xml",
       "errors": []
     },
     {
@@ -194,13 +194,6 @@
       "errors": []
     },
     {
-      "name": "和樂web",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://intojapanwaraku.com/feed",
-      "errors": []
-    },
-    {
       "name": "CINRA",
       "category": "culture",
       "ok": true,
@@ -208,6 +201,13 @@
       "errors": [
         "https://www.cinra.net/xml/rss.xml → HTTP 404"
       ]
+    },
+    {
+      "name": "和樂web",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://intojapanwaraku.com/feed",
+      "errors": []
     },
     {
       "name": "ほんのひきだし（本・出版）",
