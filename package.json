@@ -1,0 +1,15 @@
+{
+  "name": "judys-jp-news",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Judy's JP News — a cute pastel aggregator for high-quality, freely readable Japanese articles (news, cooking, music, otome games, documentary, culture).",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch.mjs",
+    "serve": "node scripts/serve.mjs",
+    "start": "node scripts/fetch.mjs && node scripts/serve.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

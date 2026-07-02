@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Judy's JP News ｜ 日本語ニュース・よみものアグリゲーター</title>
+  <meta name="description" content="ニュース・料理・音楽・乙女ゲーム・ドキュメンタリー・カルチャー。良質な日本語の記事だけを、やさしくあつめました。">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@400;500;700&family=Quicksand:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='46' fill='%23e5d3ee'/%3E%3Ccircle cx='50' cy='50' r='30' fill='%23bfe8d2'/%3E%3Ctext x='50' y='63' font-size='36' text-anchor='middle'%3E%F0%9F%8D%B5%3C/text%3E%3C/svg%3E">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true">🍵</span>
+        <div>
+          <h1>Judy's JP News</h1>
+          <p class="tagline">日本語のいいよみもの、あつめました ・ᴗ・</p>
+        </div>
+      </div>
+      <div class="search-wrap">
+        <input id="search" type="search" placeholder="🔍 きになる言葉でさがす…" autocomplete="off" aria-label="記事を検索">
+      </div>
+    </div>
+    <nav class="tabs" id="tabs" aria-label="カテゴリー"></nav>
+  </header>
+
+  <main>
+    <div class="meta-bar">
+      <span id="updated-at"></span>
+      <span id="result-count"></span>
+    </div>
+    <section id="articles" class="grid" aria-live="polite"></section>
+    <div id="empty-state" class="empty-state" hidden>
+      <p class="empty-face">(´･ᴗ･`)</p>
+      <p id="empty-message"></p>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <p>記事は各メディアのRSSから自動収集しています。リンク先はすべて無料で読めるサイトです（Yahoo!ニュース・有料媒体は除外）。</p>
+    <p>データは GitHub Actions で約6時間ごとに更新 ｜ ページ表示中も20分ごとに自動リロード 🌱</p>
+    <p class="credit">Judy's JP News — made with 💜 &amp; 🌿</p>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
