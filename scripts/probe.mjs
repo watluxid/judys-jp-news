@@ -9,28 +9,15 @@ const BROWSER_UA =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36";
 
 const TARGETS = [
-  {
-    site: "https://natalie.mu/music",
-    candidates: [
-      "https://natalie.mu/music/feed/news",
-      "https://natalie.mu/feed/news",
-    ],
-  },
-  { site: "https://news.cookpad.com/", candidates: ["https://news.cookpad.com/rss.xml", "https://news.cookpad.com/feed.rss", "https://news.cookpad.com/atom.xml"] },
-  { site: "https://www.sirogohan.com/", candidates: [] },
-  { site: "https://www.kyounoryouri.jp/", candidates: [] },
-  { site: "https://www.hotpepper.jp/mesitsu/", candidates: ["https://www.hotpepper.jp/mesitsu/feed/"] },
-  { site: "https://dancyu.jp/", candidates: ["https://dancyu.jp/feed"] },
-  { site: "https://mikiki.tokyo.jp/", candidates: [] },
-  { site: "https://amass.jp/", candidates: ["https://amass.jp/feed/"] },
-  { site: "https://www.bs-log.com/", candidates: ["https://www.bs-log.com/?feed=rss2"] },
-  { site: "https://dengekionline.com/", candidates: [] },
-  { site: "https://natgeo.nikkeibp.co.jp/", candidates: ["https://natgeo.nikkeibp.co.jp/rss/all.rdf"] },
-  { site: "https://dailyportalz.jp/", candidates: ["https://dailyportalz.jp/feed/headline", "https://feeds.dailyportalz.jp/dpz/headline"] },
-  { site: "https://bijutsutecho.com/", candidates: [] },
-  { site: "https://www.cinra.net/", candidates: [] },
-  { site: "https://www.gamer.ne.jp/", candidates: ["https://www.gamer.ne.jp/rss/news.xml"] },
-  { site: "https://www.famitsu.com/", candidates: ["https://www.famitsu.com/rss/fcom_all.rdf"] },
+  { site: "https://www.animatetimes.com/", candidates: ["https://www.animatetimes.com/rss/index.php", "https://www.animatetimes.com/rss/"] },
+  { site: "https://www.inside-games.jp/", candidates: ["https://www.inside-games.jp/rss/index.rdf", "https://www.inside-games.jp/rss20/index.rdf"] },
+  { site: "https://animeanime.jp/", candidates: ["https://animeanime.jp/rss/index.rdf", "https://animeanime.jp/rss20/index.rdf"] },
+  { site: "https://www.tokyoartbeat.com/", candidates: ["https://www.tokyoartbeat.com/rss/ja.xml"] },
+  { site: "https://www.art-annual.jp/", candidates: [] },
+  { site: "https://bluediary2.jugem.jp/", candidates: ["https://bluediary2.jugem.jp/?mode=rss"] },
+  { site: "https://ototoy.jp/news/", candidates: ["https://ototoy.jp/news/rss", "https://ototoy.jp/news/index.rss"] },
+  { site: "https://realsound.jp/", candidates: ["https://realsound.jp/feed"] },
+  { site: "https://tokion.jp/", candidates: [] },
 ];
 
 const COMMON_PATHS = ["feed", "feed/", "rss", "rss.xml", "atom.xml", "index.rdf", "rss/index.rdf", "feed/rss", "?feed=rss2"];

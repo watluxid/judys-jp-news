@@ -5,177 +5,186 @@
       "name": "NHKニュース（主要）",
       "homepage": "https://www3.nhk.or.jp/news/",
       "category": "news",
-      "urls": ["https://www3.nhk.or.jp/rss/news/cat0.xml"],
+      "urls": [
+        "https://www3.nhk.or.jp/rss/news/cat0.xml"
+      ],
       "maxItems": 8
     },
     {
       "name": "NHKニュース（社会）",
       "homepage": "https://www3.nhk.or.jp/news/",
       "category": "news",
-      "urls": ["https://www3.nhk.or.jp/rss/news/cat1.xml"],
+      "urls": [
+        "https://www3.nhk.or.jp/rss/news/cat1.xml"
+      ],
       "maxItems": 6
     },
     {
       "name": "NHKニュース（科学・文化）",
       "homepage": "https://www3.nhk.or.jp/news/",
       "category": "news",
-      "urls": ["https://www3.nhk.or.jp/rss/news/cat3.xml"],
+      "urls": [
+        "https://www3.nhk.or.jp/rss/news/cat3.xml"
+      ],
       "maxItems": 8
     },
     {
       "name": "NHKニュース（国際）",
       "homepage": "https://www3.nhk.or.jp/news/",
       "category": "news",
-      "urls": ["https://www3.nhk.or.jp/rss/news/cat6.xml"],
+      "urls": [
+        "https://www3.nhk.or.jp/rss/news/cat6.xml"
+      ],
       "maxItems": 5
     },
     {
       "name": "クックパッドニュース",
       "homepage": "https://news.cookpad.com/",
       "category": "cooking",
-      "urls": ["https://news.cookpad.com/rss", "https://news.cookpad.com/feed"],
+      "urls": [
+        "https://news.cookpad.com/feeds/news.rss"
+      ],
       "maxItems": 8
     },
     {
       "name": "つくおき",
       "homepage": "https://cookien.com/",
       "category": "cooking",
-      "urls": ["https://cookien.com/feed/"],
+      "urls": [
+        "https://cookien.com/feed/"
+      ],
       "maxItems": 6
     },
     {
       "name": "樋口直哉（TravelingFoodLab.）",
       "homepage": "https://note.com/travelingfoodlab",
       "category": "cooking",
-      "urls": ["https://note.com/travelingfoodlab/rss"],
+      "urls": [
+        "https://note.com/travelingfoodlab/rss"
+      ],
       "maxItems": 6
     },
     {
-      "name": "白ごはん.com（新着レシピ）",
-      "homepage": "https://www.sirogohan.com/",
+      "name": "メシ通（ホットペッパーグルメ）",
+      "homepage": "https://www.hotpepper.jp/mesitsu/",
       "category": "cooking",
-      "urls": ["https://www.sirogohan.com/rss.xml", "https://www.sirogohan.com/feed"],
+      "urls": [
+        "https://www.hotpepper.jp/mesitsu/feed"
+      ],
       "maxItems": 6
-    },
-    {
-      "name": "音楽ナタリー",
-      "homepage": "https://natalie.mu/music",
-      "category": "music",
-      "urls": ["https://natalie.mu/music/feed/news"],
-      "maxItems": 10
     },
     {
       "name": "Mikiki（タワーレコード）",
       "homepage": "https://mikiki.tokyo.jp/",
       "category": "music",
-      "urls": ["https://mikiki.tokyo.jp/feed", "https://mikiki.tokyo.jp/rss", "https://mikiki.tokyo.jp/rss.xml"],
+      "urls": [
+        "https://mikiki.tokyo.jp/list/feed/rss"
+      ],
       "maxItems": 8
     },
     {
       "name": "amass",
       "homepage": "https://amass.jp/",
       "category": "music",
-      "urls": ["https://amass.jp/feed/", "https://amass.jp/index.xml", "https://amass.jp/rss"],
+      "urls": [
+        "https://amass.jp/rss/new"
+      ],
       "maxItems": 6
-    },
-    {
-      "name": "B's-LOG.com（女性向けゲーム）",
-      "homepage": "https://www.bs-log.com/",
-      "category": "otome",
-      "urls": ["https://www.bs-log.com/feed", "https://www.bs-log.com/feed/"],
-      "maxItems": 10
     },
     {
       "name": "4Gamer（乙女ゲーム関連）",
       "homepage": "https://www.4gamer.net/",
       "category": "otome",
-      "urls": ["https://www.4gamer.net/rss/index.xml", "https://www.4gamer.net/rss/news_topics.xml"],
+      "urls": [
+        "https://www.4gamer.net/rss/index.xml",
+        "https://www.4gamer.net/rss/news_topics.xml"
+      ],
       "maxItems": 8,
-      "includeKeywords": ["乙女ゲーム", "乙女ゲー", "オトメイト", "otomate", "女性向け恋愛", "女性向けゲーム", "恋愛アドベンチャー", "ときめきレストラン", "薄桜鬼", "アムネシア", "コルダ", "遙かなる時空", "ネオロマンス", "カクテル王子", "スタンドマイヒーローズ", "あんさんぶるスターズ", "ツキウタ"]
-    },
-    {
-      "name": "電撃オンライン（女性向け）",
-      "homepage": "https://dengekionline.com/",
-      "category": "otome",
-      "urls": ["https://dengekionline.com/rss/index.xml", "https://dengekionline.com/feed"],
-      "maxItems": 6,
-      "includeKeywords": ["乙女ゲーム", "乙女ゲー", "オトメイト", "女性向け", "恋愛アドベンチャー", "薄桜鬼", "アムネシア", "ネオロマンス", "ビーズログ"]
-    },
-    {
-      "name": "ナショナル ジオグラフィック日本版",
-      "homepage": "https://natgeo.nikkeibp.co.jp/",
-      "category": "documentary",
-      "urls": ["https://natgeo.nikkeibp.co.jp/rss/index.rdf", "https://natgeo.nikkeibp.co.jp/rss/index.xml"],
-      "maxItems": 8
+      "includeKeywords": [
+        "乙女ゲーム",
+        "乙女ゲー",
+        "オトメイト",
+        "otomate",
+        "女性向け恋愛",
+        "女性向けゲーム",
+        "恋愛アドベンチャー",
+        "ときめきレストラン",
+        "薄桜鬼",
+        "アムネシア",
+        "コルダ",
+        "遙かなる時空",
+        "ネオロマンス",
+        "カクテル王子",
+        "スタンドマイヒーローズ",
+        "あんさんぶるスターズ",
+        "ツキウタ"
+      ]
     },
     {
       "name": "sorae（宇宙・天文）",
       "homepage": "https://sorae.info/",
       "category": "documentary",
-      "urls": ["https://sorae.info/feed"],
+      "urls": [
+        "https://sorae.info/feed"
+      ],
       "maxItems": 6
     },
     {
       "name": "ナゾロジー",
       "homepage": "https://nazology.kusuguru.co.jp/",
       "category": "documentary",
-      "urls": ["https://nazology.kusuguru.co.jp/feed", "https://nazology.net/feed"],
+      "urls": [
+        "https://nazology.kusuguru.co.jp/feed",
+        "https://nazology.net/feed"
+      ],
       "maxItems": 6
     },
     {
       "name": "カラパイア",
       "homepage": "https://karapaia.com/",
       "category": "documentary",
-      "urls": ["https://karapaia.com/index.rdf", "https://karapaia.com/feed", "https://karapaia.com/atom.xml"],
+      "urls": [
+        "https://karapaia.com/index.rdf",
+        "https://karapaia.com/feed",
+        "https://karapaia.com/atom.xml"
+      ],
       "maxItems": 5
     },
     {
       "name": "デイリーポータルZ",
       "homepage": "https://dailyportalz.jp/",
       "category": "documentary",
-      "urls": ["https://dailyportalz.jp/feed", "https://dailyportalz.jp/rss", "https://dailyportalz.jp/index.rdf"],
-      "maxItems": 8
-    },
-    {
-      "name": "美術手帖",
-      "homepage": "https://bijutsutecho.com/",
-      "category": "culture",
-      "urls": ["https://bijutsutecho.com/feed", "https://bijutsutecho.com/rss", "https://bijutsutecho.com/rss.xml"],
+      "urls": [
+        "https://dailyportalz.jp/feed/headline"
+      ],
       "maxItems": 8
     },
     {
       "name": "和樂web",
       "homepage": "https://intojapanwaraku.com/",
       "category": "culture",
-      "urls": ["https://intojapanwaraku.com/feed", "https://intojapanwaraku.com/feed/"],
+      "urls": [
+        "https://intojapanwaraku.com/feed",
+        "https://intojapanwaraku.com/feed/"
+      ],
       "maxItems": 8
-    },
-    {
-      "name": "コミックナタリー",
-      "homepage": "https://natalie.mu/comic",
-      "category": "culture",
-      "urls": ["https://natalie.mu/comic/feed/news"],
-      "maxItems": 6
-    },
-    {
-      "name": "ステージナタリー（演劇）",
-      "homepage": "https://natalie.mu/stage",
-      "category": "culture",
-      "urls": ["https://natalie.mu/stage/feed/news"],
-      "maxItems": 5
     },
     {
       "name": "CINRA",
       "homepage": "https://www.cinra.net/",
       "category": "culture",
-      "urls": ["https://www.cinra.net/xml/rss.xml", "https://www.cinra.net/feed", "https://www.cinra.net/rss"],
+      "urls": [
+        "https://www.cinra.net/feed"
+      ],
       "maxItems": 8
     },
     {
       "name": "ほんのひきだし（本・出版）",
       "homepage": "https://hon-hikidashi.jp/",
       "category": "culture",
-      "urls": ["https://hon-hikidashi.jp/feed/"],
+      "urls": [
+        "https://hon-hikidashi.jp/feed/"
+      ],
       "maxItems": 6
     }
   ]
