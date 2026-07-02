@@ -275,8 +275,27 @@ async function main() {
     }
   }
 
+  // Merge in articles collected by previous runs: source feeds only expose a
+  // short window of items, so without this, slower topics would keep vanishing.
+  try {
+    const prev = JSON.parse(
+      readFileSync(path.join(ROOT, "data", "articles.json"), "utf8")
+    );
+    for (const a of prev.articles || []) {
+      const titleKey = a.title.replace(/\s+/g, "").toLowerCase();
+      if (seenUrls.has(a.url) || seenTitles.has(titleKey)) continue;
+      if (!a.date || new Date(a.date).getTime() < cutoff) continue;
+      seenUrls.add(a.url);
+      seenTitles.add(titleKey);
+      articles.push(a);
+    }
+  } catch {
+    // no previous data — first run
+  }
+
   // newest first; undated items sink to the bottom of their insertion order
   articles.sort((a, b) => (b.date || "").localeCompare(a.date || ""));
+  articles.splice(600); // keep the file a reasonable size
 
   const out = {
     generatedAt: new Date().toISOString(),
