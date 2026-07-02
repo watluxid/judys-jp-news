@@ -1,28 +1,12 @@
 {
-  "generatedAt": "2026-07-02T20:23:49.370Z",
-  "articleCount": 117,
+  "generatedAt": "2026-07-02T20:25:18.628Z",
+  "articleCount": 123,
   "feedStatus": [
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": false,
-      "usedUrl": null,
-      "errors": [
-        "https://ototoy.jp/rss → This operation was aborted"
-      ]
-    },
     {
       "name": "NHKニュース（主要）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
       "errors": []
     },
     {
@@ -33,17 +17,17 @@
       "errors": []
     },
     {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
+      "name": "NHKニュース（国際）",
+      "category": "news",
       "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
       "errors": []
     },
     {
-      "name": "つくおき",
+      "name": "クックパッドニュース",
       "category": "cooking",
       "ok": true,
-      "usedUrl": "https://cookien.com/feed/",
+      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
       "errors": []
     },
     {
@@ -54,10 +38,17 @@
       "errors": []
     },
     {
-      "name": "クックパッドニュース",
+      "name": "つくおき",
       "category": "cooking",
       "ok": true,
-      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
+      "usedUrl": "https://cookien.com/feed/",
+      "errors": []
+    },
+    {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -82,13 +73,6 @@
       "errors": []
     },
     {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://sorae.info/feed",
-      "errors": []
-    },
-    {
       "name": "4Gamer（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
@@ -96,31 +80,10 @@
       "errors": []
     },
     {
-      "name": "リアルサウンド",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
-      "errors": []
-    },
-    {
-      "name": "デイリーポータルZ",
+      "name": "sorae（宇宙・天文）",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
-      "errors": []
-    },
-    {
-      "name": "インサイド（乙女ゲーム関連）",
-      "category": "otome",
-      "ok": true,
-      "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "ナゾロジー",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -131,6 +94,20 @@
       "errors": []
     },
     {
+      "name": "リアルサウンド",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://realsound.jp/atom.xml",
+      "errors": []
+    },
+    {
+      "name": "インサイド（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
+      "errors": []
+    },
+    {
       "name": "CINRA",
       "category": "culture",
       "ok": true,
@@ -138,10 +115,24 @@
       "errors": []
     },
     {
-      "name": "カラパイア",
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
+      "errors": []
+    },
+    {
+      "name": "ナゾロジー",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
+      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "errors": []
+    },
+    {
+      "name": "デイリーポータルZ",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -159,6 +150,13 @@
       "errors": []
     },
     {
+      "name": "カラパイア",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://karapaia.com/index.rdf",
+      "errors": []
+    },
+    {
       "name": "ほんのひきだし（本・出版）",
       "category": "culture",
       "ok": true,
@@ -166,17 +164,17 @@
       "errors": []
     },
     {
-      "name": "Art Annual online（美術）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://www.art-annual.jp/feed",
-      "errors": []
-    },
-    {
       "name": "青い日記帳（美術展）",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
+      "errors": []
+    },
+    {
+      "name": "Art Annual online（美術）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://www.art-annual.jp/feed",
       "errors": []
     }
   ],
@@ -407,6 +405,24 @@
       "category": "culture"
     },
     {
+      "title": "やさしいみらい、軽やかで力強い新曲リリース",
+      "url": "https://ototoy.jp/news/130689",
+      "date": "2026-07-02T13:00:00.000Z",
+      "summary": "やさしいみらいが2026年7月1日(水)にニューシングル「サンセット・クルージング」をリリースした",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
+      "title": "〈SSR2026〉第3弾出演アーティスト決定",
+      "url": "https://ototoy.jp/news/130688",
+      "date": "2026-07-02T13:00:00.000Z",
+      "summary": "音楽ディストリビューションサービスのFRIENDSHIP.が主催するショーケースイベント〈SHIBUYA SOUND RIVERSE ～ SSR2026 ～〉の第3弾出演アーティストとして、THE CHARM PARK、Blume popo、Guiba、やさしいみらいの4組が発表された",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
       "title": "〈食と生活〉ポークビンダルーのかんたんレシピ",
       "url": "https://note.com/travelingfoodlab/n/n62131e4cd33a",
       "date": "2026-07-02T12:33:09.000Z",
@@ -441,6 +457,15 @@
       "source": "ナゾロジー",
       "sourceHomepage": "https://nazology.kusuguru.co.jp/",
       "category": "documentary"
+    },
+    {
+      "title": "微熱くん、夏の始まりを思想的に描いた新曲リリース",
+      "url": "https://ototoy.jp/news/130685",
+      "date": "2026-07-02T12:00:00.000Z",
+      "summary": "微熱くんが2026年7月1日(水)にニューシングル「涼夏」をリリースした",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
     },
     {
       "title": "地球最古の隕石衝突クレーターは約30億年前のものであることが鉱物分析で判明",
@@ -623,6 +648,15 @@
       "category": "music"
     },
     {
+      "title": "安 仁、初写真展「un poco loco .....」を初台・Open Roomで開催",
+      "url": "https://ototoy.jp/news/130686",
+      "date": "2026-07-02T09:00:00.000Z",
+      "summary": "“初めて家族以外で 撮り続けたいと思える人に出会えました” 写真家・安 仁による写真展「un poco loco .....」が、2026年7月23日(木)から8月22日(土)まで、東京・初台のOpen Roomで開催される",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
       "title": "リカちゃん人形で再現する菱沼聖子ファッション（傑作選）",
       "url": "https://dailyportalz.jp/kiji/Rika-chan-de-Hishinuma-Seiko-fashion",
       "date": "2026-07-02T09:00:00.000Z",
@@ -650,6 +684,15 @@
       "category": "documentary"
     },
     {
+      "title": "アツムワンダフル、まどろみを音で綴った新曲リリース",
+      "url": "https://ototoy.jp/news/130684",
+      "date": "2026-07-02T08:00:00.000Z",
+      "summary": "アツムワンダフルが2026年7月1日(水)にニューシングル「zzZ寝」をリリースした",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
       "title": "VR内でアインシュタインになると起こった「心理変化」とは",
       "url": "https://nazology.kusuguru.co.jp/archives/197126",
       "date": "2026-07-02T08:00:00.000Z",
@@ -666,6 +709,15 @@
       "source": "クックパッドニュース",
       "sourceHomepage": "https://news.cookpad.com/",
       "category": "cooking"
+    },
+    {
+      "title": "TWS、SHIBUYA109とコラボ夏キャンペーン開催",
+      "url": "https://ototoy.jp/news/130687",
+      "date": "2026-07-02T07:30:00.000Z",
+      "summary": "TWSとSHIBUYA109による夏のコラボキャンペーンが、昨年に続き開催されることが決定した",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
     },
     {
       "title": "専用器具はいらない！フライパンでホットサンドをおいしく作るワザ",
