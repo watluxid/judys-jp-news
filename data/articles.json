@@ -1,47 +1,12 @@
 {
-  "generatedAt": "2026-07-02T20:27:00.071Z",
-  "articleCount": 123,
+  "generatedAt": "2026-07-02T20:48:15.095Z",
+  "articleCount": 124,
   "feedStatus": [
-    {
-      "name": "NHKニュース（主要）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-      "errors": []
-    },
     {
       "name": "NHKニュース（科学・文化）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（社会）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
-      "errors": []
-    },
-    {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
-      "errors": []
-    },
-    {
-      "name": "つくおき",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://cookien.com/feed/",
       "errors": []
     },
     {
@@ -52,6 +17,34 @@
       "errors": []
     },
     {
+      "name": "NHKニュース（主要）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（社会）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "errors": []
+    },
+    {
+      "name": "つくおき",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://cookien.com/feed/",
+      "errors": []
+    },
+    {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "errors": []
+    },
+    {
       "name": "Mikiki（タワーレコード）",
       "category": "music",
       "ok": true,
@@ -59,10 +52,10 @@
       "errors": []
     },
     {
-      "name": "メシ通（ホットペッパーグルメ）",
-      "category": "cooking",
+      "name": "NHKニュース（国際）",
+      "category": "news",
       "ok": true,
-      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
       "errors": []
     },
     {
@@ -70,6 +63,13 @@
       "category": "music",
       "ok": true,
       "usedUrl": "https://amass.jp/rss/new",
+      "errors": []
+    },
+    {
+      "name": "メシ通（ホットペッパーグルメ）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
       "errors": []
     },
     {
@@ -94,20 +94,6 @@
       "errors": []
     },
     {
-      "name": "インサイド（乙女ゲーム関連）",
-      "category": "otome",
-      "ok": true,
-      "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
-      "errors": []
-    },
-    {
       "name": "アニメ！アニメ！（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
@@ -115,17 +101,10 @@
       "errors": []
     },
     {
-      "name": "OTOTOY",
-      "category": "music",
+      "name": "インサイド（乙女ゲーム関連）",
+      "category": "otome",
       "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
-      "errors": []
-    },
-    {
-      "name": "CINRA",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://www.cinra.net/feed",
+      "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
       "errors": []
     },
     {
@@ -136,10 +115,17 @@
       "errors": []
     },
     {
-      "name": "TOKION",
+      "name": "CINRA",
       "category": "culture",
       "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
+      "usedUrl": "https://www.cinra.net/feed",
+      "errors": []
+    },
+    {
+      "name": "デイリーポータルZ",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -147,6 +133,13 @@
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://karapaia.com/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "TOKION",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://tokion.jp/feed/",
       "errors": []
     },
     {
@@ -175,6 +168,13 @@
       "category": "culture",
       "ok": true,
       "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
+      "errors": []
+    },
+    {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
       "errors": []
     }
   ],
@@ -268,6 +268,15 @@
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
+    },
+    {
+      "title": "山梨 震度6弱1週間 専門家“富士山の火山活動に変化見られず”",
+      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167541000.html",
+      "date": "2026-07-02T20:46:50.000Z",
+      "summary": "先月26日に山梨県で最大震度6弱の揺れを観測した地震が発生してから、3日で1週間です。専門家は地震後、富士山の火山活動に変化は見られないとしたうえで、「地震活動がもともと活発な地域なので、ふだんから揺れへの備えを進めてほしい」と呼びかけています。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
     },
     {
       "title": "ミスフィッツ『Earth A.D./Wolfs Blood』のジャケット・カヴァーを立体化した新しいフィギュアが発売決定",
@@ -657,15 +666,6 @@
       "category": "documentary"
     },
     {
-      "title": "安 仁、初写真展「un poco loco .....」を初台・Open Roomで開催",
-      "url": "https://ototoy.jp/news/130686",
-      "date": "2026-07-02T09:00:00.000Z",
-      "summary": "“初めて家族以外で 撮り続けたいと思える人に出会えました” 写真家・安 仁による写真展「un poco loco .....」が、2026年7月23日(木)から8月22日(土)まで、東京・初台のOpen Roomで開催される",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
       "title": "中国で生成ＡＩドラマが人気となり「顔」売買市場が広がる。",
       "url": "https://karapaia.com/archives/612936.html",
       "date": "2026-07-02T09:00:00.000Z",
@@ -673,6 +673,15 @@
       "source": "カラパイア",
       "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
+    },
+    {
+      "title": "安 仁、初写真展「un poco loco .....」を初台・Open Roomで開催",
+      "url": "https://ototoy.jp/news/130686",
+      "date": "2026-07-02T09:00:00.000Z",
+      "summary": "“初めて家族以外で 撮り続けたいと思える人に出会えました” 写真家・安 仁による写真展「un poco loco .....」が、2026年7月23日(木)から8月22日(土)まで、東京・初台のOpen Roomで開催される",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
     },
     {
       "title": "ULAが「アトラスV」で8回目のAmazon Leoミッションを実施 551構成による最後の打ち上げ",
@@ -684,15 +693,6 @@
       "category": "documentary"
     },
     {
-      "title": "アツムワンダフル、まどろみを音で綴った新曲リリース",
-      "url": "https://ototoy.jp/news/130684",
-      "date": "2026-07-02T08:00:00.000Z",
-      "summary": "アツムワンダフルが2026年7月1日(水)にニューシングル「zzZ寝」をリリースした",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
       "title": "VR内でアインシュタインになると起こった「心理変化」とは",
       "url": "https://nazology.kusuguru.co.jp/archives/197126",
       "date": "2026-07-02T08:00:00.000Z",
@@ -700,6 +700,15 @@
       "source": "ナゾロジー",
       "sourceHomepage": "https://nazology.kusuguru.co.jp/",
       "category": "documentary"
+    },
+    {
+      "title": "アツムワンダフル、まどろみを音で綴った新曲リリース",
+      "url": "https://ototoy.jp/news/130684",
+      "date": "2026-07-02T08:00:00.000Z",
+      "summary": "アツムワンダフルが2026年7月1日(水)にニューシングル「zzZ寝」をリリースした",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
     },
     {
       "title": "まだ食べられてない？売り切れ続出の【もっちゅり系ドーナツ】をおうちで作れる黄金レシピ",
