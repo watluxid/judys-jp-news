@@ -12,7 +12,7 @@ import path from "node:path";
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), "..");
 const MAX_AGE_DAYS = 14;
-const FETCH_TIMEOUT_MS = 20000;
+const FETCH_TIMEOUT_MS = 35000;
 const CONCURRENCY = 6;
 const USER_AGENT =
   "Mozilla/5.0 (compatible; JudysJPNews/1.0; +https://github.com/watluxid/judys-jp-news)";
