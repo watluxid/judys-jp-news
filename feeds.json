@@ -92,6 +92,24 @@
       "maxItems": 6
     },
     {
+      "name": "OTOTOY",
+      "homepage": "https://ototoy.jp/news/",
+      "category": "music",
+      "urls": [
+        "https://ototoy.jp/rss"
+      ],
+      "maxItems": 6
+    },
+    {
+      "name": "リアルサウンド",
+      "homepage": "https://realsound.jp/",
+      "category": "music",
+      "urls": [
+        "https://realsound.jp/atom.xml"
+      ],
+      "maxItems": 5
+    },
+    {
       "name": "4Gamer（乙女ゲーム関連）",
       "homepage": "https://www.4gamer.net/",
       "category": "otome",
@@ -115,6 +133,58 @@
         "遙かなる時空",
         "ネオロマンス",
         "カクテル王子",
+        "スタンドマイヒーローズ",
+        "あんさんぶるスターズ",
+        "ツキウタ"
+      ]
+    },
+    {
+      "name": "インサイド（乙女ゲーム関連）",
+      "homepage": "https://www.inside-games.jp/",
+      "category": "otome",
+      "urls": [
+        "https://www.inside-games.jp/rss20/index.rdf"
+      ],
+      "maxItems": 6,
+      "includeKeywords": [
+        "乙女ゲーム",
+        "乙女ゲー",
+        "オトメイト",
+        "otomate",
+        "女性向け恋愛",
+        "女性向けゲーム",
+        "恋愛アドベンチャー",
+        "薄桜鬼",
+        "アムネシア",
+        "コルダ",
+        "遙かなる時空",
+        "ネオロマンス",
+        "スタンドマイヒーローズ",
+        "あんさんぶるスターズ",
+        "ツキウタ"
+      ]
+    },
+    {
+      "name": "アニメ！アニメ！（乙女ゲーム関連）",
+      "homepage": "https://animeanime.jp/",
+      "category": "otome",
+      "urls": [
+        "https://animeanime.jp/rss20/index.rdf"
+      ],
+      "maxItems": 6,
+      "includeKeywords": [
+        "乙女ゲーム",
+        "乙女ゲー",
+        "オトメイト",
+        "otomate",
+        "女性向け恋愛",
+        "女性向けゲーム",
+        "恋愛アドベンチャー",
+        "薄桜鬼",
+        "アムネシア",
+        "コルダ",
+        "遙かなる時空",
+        "ネオロマンス",
         "スタンドマイヒーローズ",
         "あんさんぶるスターズ",
         "ツキウタ"
@@ -186,6 +256,33 @@
         "https://hon-hikidashi.jp/feed/"
       ],
       "maxItems": 6
+    },
+    {
+      "name": "Art Annual online（美術）",
+      "homepage": "https://www.art-annual.jp/",
+      "category": "culture",
+      "urls": [
+        "https://www.art-annual.jp/feed"
+      ],
+      "maxItems": 5
+    },
+    {
+      "name": "青い日記帳（美術展）",
+      "homepage": "https://bluediary2.jugem.jp/",
+      "category": "culture",
+      "urls": [
+        "https://bluediary2.jugem.jp/?mode=rss"
+      ],
+      "maxItems": 4
+    },
+    {
+      "name": "TOKION",
+      "homepage": "https://tokion.jp/",
+      "category": "culture",
+      "urls": [
+        "https://tokion.jp/feed/"
+      ],
+      "maxItems": 5
     }
   ]
 }

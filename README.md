@@ -9,11 +9,13 @@ A cute pastel (light mauve × mint green) news aggregator for **high-quality, Ja
 | Tab | What's inside |
 |---|---|
 | 📰 ニュース | NHK news (general, society, science & culture, world) — sports & market/economy items are filtered out |
-| 🍳 料理 | Cookpad News, つくおき, 樋口直哉's cooking-science notes, 白ごはん.com |
-| 🎵 音楽 | 音楽ナタリー, Mikiki (Tower Records), amass |
-| 💜 乙女ゲーム | B's-LOG, plus otome-related items keyword-filtered from general game sites |
-| 🐾 ドキュメンタリー | National Geographic 日本版, sorae (space), ナゾロジー, カラパイア (animals), デイリーポータルZ (places & field reports) |
-| 🎨 カルチャー | 美術手帖, 和樂web, コミックナタリー, ステージナタリー, CINRA, ほんのひきだし |
+| 🍳 料理 | クックパッドニュース, つくおき, 樋口直哉's cooking-science notes, メシ通 |
+| 🎵 音楽 | Mikiki (Tower Records), amass, OTOTOY, リアルサウンド |
+| 💜 乙女ゲーム | Otome-related items keyword-filtered from 4Gamer, インサイド, アニメ！アニメ！ |
+| 🐾 ドキュメンタリー | sorae (space), ナゾロジー (science), カラパイア (animals), デイリーポータルZ (places & field reports) |
+| 🎨 カルチャー | 和樂web, CINRA, ほんのひきだし (books), Art Annual online, 青い日記帳 (art exhibitions), TOKION |
+
+Every feed URL in `feeds.json` was verified live via the probe workflow (see below). Some well-known sites had to be excluded: natalie.mu blocks non-browser access, and 美術手帖 / B's-LOG / 電撃オンライン / ナショジオ日本版 no longer publish RSS feeds.
 
 ## How quality filtering works
 
@@ -44,6 +46,10 @@ npm start
 - While the page is open in a browser it silently re-loads the data every 20 minutes (and whenever the tab regains focus).
 
 > If the Pages deploy step fails on the first run, enable it once by hand: **Settings → Pages → Source: GitHub Actions**. The data refresh itself is unaffected.
+
+## Finding new sources
+
+Run the **Probe feeds** workflow (Actions → *Probe feeds (maintenance)* → Run workflow) or `node scripts/probe.mjs` locally. It auto-discovers RSS/Atom feeds from each candidate site's HTML and reports which URLs actually serve a working feed — edit the `TARGETS` list in [`scripts/probe.mjs`](scripts/probe.mjs) to test new sites.
 
 ## Adding / removing sources
 
