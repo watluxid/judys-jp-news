@@ -1,6 +1,861 @@
 {
-  "generatedAt": null,
-  "articleCount": 0,
-  "feedStatus": [],
-  "articles": []
+  "generatedAt": "2026-07-02T20:15:27.168Z",
+  "articleCount": 71,
+  "feedStatus": [
+    {
+      "name": "クックパッドニュース",
+      "category": "cooking",
+      "ok": false,
+      "usedUrl": null,
+      "errors": [
+        "https://news.cookpad.com/rss → HTTP 404",
+        "https://news.cookpad.com/feed → HTTP 404"
+      ]
+    },
+    {
+      "name": "音楽ナタリー",
+      "category": "music",
+      "ok": false,
+      "usedUrl": null,
+      "errors": [
+        "https://natalie.mu/music/feed/news → HTTP 405"
+      ]
+    },
+    {
+      "name": "白ごはん.com（新着レシピ）",
+      "category": "cooking",
+      "ok": false,
+      "usedUrl": null,
+      "errors": [
+        "https://www.sirogohan.com/rss.xml → HTTP 404",
+        "https://www.sirogohan.com/feed → HTTP 404"
+      ]
+    },
+    {
+      "name": "Mikiki（タワーレコード）",
+      "category": "music",
+      "ok": false,
+      "usedUrl": null,
+      "errors": [
+        "https://mikiki.tokyo.jp/feed → HTTP 404",
+        "https://mikiki.tokyo.jp/rss → HTTP 404",
+        "https://mikiki.tokyo.jp/rss.xml → HTTP 404"
+      ]
+    },
+    {
+      "name": "電撃オンライン（女性向け）",
+      "category": "otome",
+      "ok": false,
+      "usedUrl": null,
+      "errors": [
+        "https://dengekionline.com/rss/index.xml → HTTP 404",
+        "https://dengekionline.com/feed → HTTP 404"
+      ]
+    },
+    {
+      "name": "ナショナル ジオグラフィック日本版",
+      "category": "documentary",
+      "ok": false,
+      "usedUrl": null,
+      "errors": [
+        "https://natgeo.nikkeibp.co.jp/rss/index.rdf → HTTP 404",
+        "https://natgeo.nikkeibp.co.jp/rss/index.xml → HTTP 404"
+      ]
+    },
+    {
+      "name": "B's-LOG.com（女性向けゲーム）",
+      "category": "otome",
+      "ok": false,
+      "usedUrl": null,
+      "errors": [
+        "https://www.bs-log.com/feed → HTTP 404",
+        "https://www.bs-log.com/feed/ → HTTP 404"
+      ]
+    },
+    {
+      "name": "コミックナタリー",
+      "category": "culture",
+      "ok": false,
+      "usedUrl": null,
+      "errors": [
+        "https://natalie.mu/comic/feed/news → HTTP 405"
+      ]
+    },
+    {
+      "name": "ステージナタリー（演劇）",
+      "category": "culture",
+      "ok": false,
+      "usedUrl": null,
+      "errors": [
+        "https://natalie.mu/stage/feed/news → HTTP 405"
+      ]
+    },
+    {
+      "name": "デイリーポータルZ",
+      "category": "documentary",
+      "ok": false,
+      "usedUrl": null,
+      "errors": [
+        "https://dailyportalz.jp/feed → HTTP 404",
+        "https://dailyportalz.jp/rss → HTTP 404",
+        "https://dailyportalz.jp/index.rdf → HTTP 404"
+      ]
+    },
+    {
+      "name": "美術手帖",
+      "category": "culture",
+      "ok": false,
+      "usedUrl": null,
+      "errors": [
+        "https://bijutsutecho.com/feed → HTTP 404",
+        "https://bijutsutecho.com/rss → HTTP 404",
+        "https://bijutsutecho.com/rss.xml → HTTP 404"
+      ]
+    },
+    {
+      "name": "amass",
+      "category": "music",
+      "ok": false,
+      "usedUrl": null,
+      "errors": [
+        "https://amass.jp/feed/ → fetch failed",
+        "https://amass.jp/index.xml → fetch failed",
+        "https://amass.jp/rss → fetch failed"
+      ]
+    },
+    {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（主要）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（社会）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（国際）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+      "errors": []
+    },
+    {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "errors": []
+    },
+    {
+      "name": "つくおき",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://cookien.com/feed/",
+      "errors": []
+    },
+    {
+      "name": "4Gamer（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://www.4gamer.net/rss/index.xml",
+      "errors": []
+    },
+    {
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://sorae.info/feed",
+      "errors": []
+    },
+    {
+      "name": "ナゾロジー",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "errors": []
+    },
+    {
+      "name": "カラパイア",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://karapaia.com/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "和樂web",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://intojapanwaraku.com/feed",
+      "errors": []
+    },
+    {
+      "name": "CINRA",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://www.cinra.net/feed",
+      "errors": [
+        "https://www.cinra.net/xml/rss.xml → HTTP 404"
+      ]
+    },
+    {
+      "name": "ほんのひきだし（本・出版）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://hon-hikidashi.jp/feed/",
+      "errors": []
+    }
+  ],
+  "articles": [
+    {
+      "title": "ウクライナ政府 ロシア軍の攻撃 被害の深刻さを各国大使に訴え",
+      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167671000.html",
+      "date": "2026-07-02T20:11:30.000Z",
+      "summary": "ウクライナ政府は、ロシア軍による大規模な攻撃で首都キーウで20人以上が死亡したことを受けて、各国の外交官などに対し、現場で被害の深刻さを訴えました。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "WHO クルーズ船でのハンタウイルス集団感染の収束を宣言",
+      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167711000.html",
+      "date": "2026-07-02T20:08:53.000Z",
+      "summary": "WHO＝世界保健機関のテドロス事務局長は、クルーズ船で確認されたハンタウイルスの集団感染について、収束したと宣言しました。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "中国当局に拘束された香港の書店の元店長 台湾で死去",
+      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167701000.html",
+      "date": "2026-07-02T20:06:47.000Z",
+      "summary": "香港で中国共産党に批判的な本を販売する書店の店長を務め、中国当局に長期間、拘束された林栄基さんが拠点を移した台湾で亡くなりました。台湾の頼清徳総統はSNSに「林さんが残した勇気は消えることはない」と投稿し、弔意を示しました。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "ウクライナ外相 日本の支援に謝意 防衛や復興への協力呼びかけ",
+      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167641000.html",
+      "date": "2026-07-02T20:04:12.000Z",
+      "summary": "ウクライナの外相がNHKのインタビューに応じ、日本のこれまでの支援に謝意を示した上で、今後、防衛や復興の分野で日本との協力を進めたい考えを示しました。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "村上春樹さん 3年ぶり新作長編小説発売 書店にファン集まる",
+      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167631000.html",
+      "date": "2026-07-02T20:01:29.000Z",
+      "summary": "世界的に高く評価されている作家、村上春樹さんの3年ぶりとなる長編小説が発売され、午前0時から都内の書店で行われた販売のイベントには熱心なファンが集まりました。",
+      "source": "NHKニュース（科学・文化）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "アメリカ 6月の就業者数 前月比増加続くも市場予想を下回る",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015167521000.html",
+      "date": "2026-07-02T18:43:20.000Z",
+      "summary": "円相場や株価に影響を及ぼすアメリカの雇用統計が2日公表され、6月の農業分野以外の就業者は、5月から5万7000人増加したものの市場の予想を下回りました。アメリカ経済が堅調だという見方などを背景にこのところ外国為替市場でドル高円安の動きが強まっていた中で、今後のアメリカの雇用の動向が焦点となります。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "ウクライナ侵攻でロシア軍死傷者140万人 米シンクタンク分析",
+      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167551000.html",
+      "date": "2026-07-02T15:00:11.000Z",
+      "summary": "アメリカのシンクタンクはウクライナへ侵攻したロシア軍の死傷者がこれまでに140万人に上るとの分析結果を公表しました。ウクライナ側の死傷者1人に対するロシア側の死傷者の数がことしに入り大幅に増えているとして、背景に、ウクライナ軍のAIを搭載した無人機などによる攻撃があるとしています。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "静岡 伊東 田久保前市長めぐる住民監査請求 退けられる",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015167511000.html",
+      "date": "2026-07-02T14:58:46.000Z",
+      "summary": "静岡県伊東市の田久保真紀前市長に対し、学歴詐称の疑いを受けて行われた市長選挙の費用など合わせて8200万円余りを支払わせるよう求めた住民監査請求について、市の監査委員は2日、請求を退けました。請求を行った市民団体は今後、住民訴訟を起こすことにしています。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "札幌の病院 薬局設置めぐる入札妨害事件 最高裁が9月に弁論へ",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015167601000.html",
+      "date": "2026-07-02T14:26:04.000Z",
+      "summary": "札幌市の病院の敷地内に薬局を設置する事業をめぐって、入札妨害の罪に問われ、2審で無罪判決を受けた調剤薬局の運営会社の元社長ら2人の裁判で、最高裁判所はことし9月に弁論を開くことを決め、2審の判決が見直される可能性が出てきました。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "占い師装い“宝くじ当てられる” 鑑定料名目で現金詐取か 逮捕",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015167581000.html",
+      "date": "2026-07-02T14:24:16.000Z",
+      "summary": "占いサイトに誘導するメールを送りつけた上で、占い師を装って「宝くじを当てられる」などとうそをつき、70代の女性から鑑定料の名目で現金などをだまし取ったとして、50歳の容疑者ら3人が逮捕されました。警視庁は容疑者らのグループが同じ手口でこれまでに少なくとも8000万円をだまし取っていた疑いがあるとみて調べています。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "北京 高層ビルに小型機衝突 地元当局「個人的理由による事件」",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015167561000.html",
+      "date": "2026-07-02T13:40:05.000Z",
+      "summary": "中国の首都 北京の高層ビルに先月、小型機が衝突して操縦士1人が死亡したことについて、地元当局は2日、操縦していたのは北京に住む66歳の男性で、「個人的な理由による事件と認定した」と発表しました。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "中東情勢受け 「ナフサ」由来の石油製品など備蓄検討 業界団体",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015167531000.html",
+      "date": "2026-07-02T13:30:58.000Z",
+      "summary": "中東情勢の悪化に伴い、石油化学製品のもとになる「ナフサ」の調達に影響が出たことから、化学メーカーでつくる石油化学工業協会は、今後の対策としてナフサ由来の石油製品などの備蓄を検討していくことになりました。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "〈食と生活〉ポークビンダルーのかんたんレシピ",
+      "url": "https://note.com/travelingfoodlab/n/n62131e4cd33a",
+      "date": "2026-07-02T12:33:09.000Z",
+      "summary": "",
+      "source": "樋口直哉（TravelingFoodLab.）",
+      "sourceHomepage": "https://note.com/travelingfoodlab",
+      "category": "cooking"
+    },
+    {
+      "title": "福島第一原発 核燃料デブリ 3回目の試験的取り出しへ",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015167451000.html",
+      "date": "2026-07-02T12:26:44.000Z",
+      "summary": "東京電力は、福島第一原子力発電所2号機で、ロボットアームを使った「核燃料デブリ」の試験的な取り出しに向けた作業を早ければ今月から始めると発表しました。3か月ほどかけて準備作業などを行ったあと、試験的な取り出しを行う計画で、新たな情報が得られるか、注目されます。",
+      "source": "NHKニュース（科学・文化）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "東京 小学校火事 電気ストーブは音楽教諭の私物 私服など干す",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015167441000.html",
+      "date": "2026-07-02T12:12:16.000Z",
+      "summary": "東京 北区の小学校で児童や教職員合わせて11人が重軽傷を負った火事について、2日夜、区と学校が会見を開き、火元とみられる音楽準備室に音楽教諭の私物の電気ストーブなどがあり、教諭が私服を干していたことを明らかにし、改めて謝罪しました。区は今後、再発防止策を検討する検証会議を立ち上げる方針です。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "老化は「時間切れ」ではなく「若さの副作用」だった──進化が明かす老いの正体",
+      "url": "https://nazology.kusuguru.co.jp/archives/197144",
+      "date": "2026-07-02T12:00:15.000Z",
+      "summary": "いま世界で暮らす私たちは、人類がこれまで、これほど大きな規模では経験してこなかったことをしています。 それは「ふつうに、おじいちゃん・おばあちゃんになるまで生きる」ということです。 当たり前じゃないか、と思われたかもしれません。 でも、進化という長い物差しで見ると、これはごく最近始まった、まったく新しい出来事なのです。 数万年の人類の歴史のほとんどで、乳幼児死亡や感染症などの影響も大きく、集団全体として高齢まで生きる人の割合は、今と比べ",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "地球最古の隕石衝突クレーターは約30億年前のものであることが鉱物分析で判明",
+      "url": "https://karapaia.com/archives/612642.html",
+      "date": "2026-07-02T11:30:00.000Z",
+      "summary": "2025年に地球最古の隕石衝突クレーターとして発見された西オーストラリア州ののノースポールドーム・クレーターが、鉱物分析によって約30億年前に形成されたものであることが確認された。発見当初は約35億年前と推定されていたが、その後の研究で年代の信頼性が崩れ…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
+      "title": "マンボウの「バブルリング」を撮影 SNSで注目 鹿児島の水族館",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015167401000.html",
+      "date": "2026-07-02T11:02:16.000Z",
+      "summary": "鹿児島市の水族館で、マンボウが口から「バブルリング」と呼ばれるリング状の泡を出している様子が偶然撮影され、SNSで注目を集めています。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "40年も保管庫に眠っていた化石、「南極で最初に見つかった恐竜の骨」と判明",
+      "url": "https://nazology.kusuguru.co.jp/archives/197131",
+      "date": "2026-07-02T11:00:32.000Z",
+      "summary": "南極大陸と聞くと、多くの人は分厚い氷床と、ほとんど生命を寄せつけない極寒の世界を思い浮かべるはずです。 しかし、今から約8260万年前の白亜紀後期、南極は現在とはまったく違う姿をしていました。 そこには森林が広がり、小型の草食恐竜や装甲恐竜、肉食恐竜、鳥に近い恐竜たちが暮らしていたと考えられています。 今回、その南極の恐竜史に、思わぬ“最古の発見”が加わりました。 英国南極観測隊の収蔵庫におよそ40年保管されていた骨化石が、再分析の結果",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "窃盗未遂疑いで4人逮捕 羽田の多額現金襲撃事件にも関与か",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166911000.html",
+      "date": "2026-07-02T10:59:28.000Z",
+      "summary": "ことし1月、羽田空港に隣接する駐車場でおよそ1億9000万円の現金を運んでいた男性たちが4人組に現金を奪われそうになった事件で、警視庁はその直前に同じ駐車場で別の男性が持っていたボストンバッグを盗もうとしたとして、16歳の少年を含む4人を逮捕しました。この4人が現金を奪われそうになった事件にも関わった疑いがあるとみて調べています。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "【動画】Pickup NEWS(7月2日）",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166291000.html",
+      "date": "2026-07-02T10:53:06.000Z",
+      "summary": "これまでに入っているニュースを、まとめて1分の動画でお伝えします。（データ放送では動画をご覧いただけません）",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "「誰かにとっての運命のキャラを作りたい」祖母との電話で思い出した原点『カワイイは金なり』【#9】",
+      "url": "https://hon-hikidashi.jp/book-person/156230/",
+      "date": "2026-07-02T10:45:32.000Z",
+      "summary": "ぶんか社より、 『カワイイは金なり』第3巻 が、6月17日（水）に発売されました。 本作は、キャラクター企業の底辺デザイナー・一ノ瀬いちかが、伝説の敏腕営業マン・叢雲百矢とタッグを組み、「売れるカワイイ」を追い求めるお仕事ラブコメです。 今回は第1話～第4話の試し読みを配信します。作品が気になった方は、ぜひお買い求めください。 (adsbygoogle = window.adsbygoogle || []).push({}); 試し読み",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "いて座で輝く古き星団 ハッブル宇宙望遠鏡が観測した球状星団「NGC 6723」",
+      "url": "https://sorae.info/astronomy/20260702-ngc-6723.html",
+      "date": "2026-07-02T10:39:38.000Z",
+      "summary": "こちらは、ハッブル宇宙望遠鏡が観測した球状星団「NGC 6723」。いて座の方向、地球から約2万7000光年先にあります。 漆黒の宇宙空間を背景に、無数の星々が画面いっぱいに散りばめられています。星団の中心付近に近づくほ…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
+    },
+    {
+      "title": "JR中央・総武線 各駅停車と総武快速線 全線で運転再開",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015167381000.html",
+      "date": "2026-07-02T10:29:18.000Z",
+      "summary": "JR東日本によりますと、人身事故の影響で一部の区間で運転を見合わせていた中央・総武線の各駅停車と総武快速線は、午後7時10分すぎに全線で運転を再開したということです。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "「ほかの誰かにならなくていい」涙を流す私に、彼はほしかった言葉をくれた『やわ男とカタ子』【#9】",
+      "url": "https://hon-hikidashi.jp/book-person/154197/",
+      "date": "2026-07-02T10:15:45.000Z",
+      "summary": "「ほんのひきだし」では、 「結婚しても、しなくても、何歳になっても。6月の雨空にそっと寄り添う、人生マンガ」 と題して、多様なライフステージを生きる人々が描かれたコミック作品を紹介しています。 世間の「普通」や年齢にとらわれず、ソロ、婚活、夫婦、老後まで、それぞれの選択に向き合う姿にじんわり救われるラインアップです。ジューンブライドの季節、雨の日の自分時間を充実させたい方、これからに寄り添う一冊を探している方は、ぜひこの機会にお楽しみく",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "順調に成長するいちか！それでも叢雲の“1位を獲ったら――”が引っかかり…『カワイイは金なり』【#8】",
+      "url": "https://hon-hikidashi.jp/book-person/156226/",
+      "date": "2026-07-02T10:15:18.000Z",
+      "summary": "ぶんか社より、 『カワイイは金なり』第3巻 が、6月17日（水）に発売されました。 本作は、キャラクター企業の底辺デザイナー・一ノ瀬いちかが、伝説の敏腕営業マン・叢雲百矢とタッグを組み、「売れるカワイイ」を追い求めるお仕事ラブコメです。 今回は第1話～第4話の試し読みを配信します。作品が気になった方は、ぜひお買い求めください。 (adsbygoogle = window.adsbygoogle || []).push({}); 試し読み",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "「あなたは思慮深い女性だ」魔法を断る私に、魔導士は魔導宮への訪問を提案した『私が聖女？いいえ、悪役令嬢です！～なので、全員破滅は阻止させていただきます～』【#14】",
+      "url": "https://hon-hikidashi.jp/book-person/156976/",
+      "date": "2026-07-02T10:10:01.000Z",
+      "summary": "マイクロマガジン社より、 『私が聖女？いいえ、悪役令嬢です！～なので、全員破滅は阻止させていただきます～』第8巻 が6月29日（月）に発売されました。 悪夢から目覚めると、乙女ゲームの悪役令嬢に転生していたイリス。メリーバッドエンドの末、自身が破滅するしかない運命をどうにか避けようと奔走します。 今回は、第1話～第3話の試し読みを配信します。作品が気になった方はぜひ、店頭でお買い求めください。 (adsbygoogle = window",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "女神から授かったのは“攻略本”！悪役令嬢として滅亡エンド回避を決意する…『クソゲー悪役令嬢～滅亡エンドしかない世界に転生したけど、しぶとく生き残ってやりますわ！～』【#4】",
+      "url": "https://hon-hikidashi.jp/book-person/158896/",
+      "date": "2026-07-02T09:55:08.000Z",
+      "summary": "マイクロマガジン社の「ライドコミックス」より、 『クソゲー悪役令嬢～滅亡エンドしかない世界に転生したけど、しぶとく生き残ってやりますわ！』第2巻 が7月31日（金）に発売されます。 本作は、病死した女子高生が滅亡エンドしか存在しない“クソゲー”の世界の悪役令嬢に転生し、破滅の運命を覆そうと奮闘する異世界ファンタジーです。 今回は第1話～第7話の試し読みを配信します。気になった方はぜひお近くの書店でお買い求めください。 (adsbygoo",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "「1位を獲ったら――」敏腕営業・叢雲の口から出た、まさかの宣言！『カワイイは金なり』【#7】",
+      "url": "https://hon-hikidashi.jp/book-person/156199/",
+      "date": "2026-07-02T09:45:27.000Z",
+      "summary": "ぶんか社より、 『カワイイは金なり』第3巻 が、6月17日（水）に発売されました。 本作は、キャラクター企業の底辺デザイナー・一ノ瀬いちかが、伝説の敏腕営業マン・叢雲百矢とタッグを組み、「売れるカワイイ」を追い求めるお仕事ラブコメです。 今回は第1話～第4話の試し読みを配信します。作品が気になった方は、ぜひお買い求めください。 (adsbygoogle = window.adsbygoogle || []).push({}); 試し読み",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "谷川俊太郎「幻の」絵本『うつくしい！』を川島小鳥の写真で再構成して復刊",
+      "url": "https://www.cinra.net/article/202607-whn-utsukushii_edteam",
+      "date": "2026-07-02T09:15:00.000Z",
+      "summary": "谷川俊太郎が「美しさ」について考え、追求した絵本『うつくしい！』が写真を刷新して7月10日に偕成社から復刊される。",
+      "source": "CINRA",
+      "sourceHomepage": "https://www.cinra.net/",
+      "category": "culture"
+    },
+    {
+      "title": "映画『プロジェクト・ヘイル・メアリー』が7月3日よりPrime Videoで見放題独占配信",
+      "url": "https://www.cinra.net/article/202607-whn-projecthm_edteam",
+      "date": "2026-07-02T09:01:00.000Z",
+      "summary": "映画『プロジェクト・ヘイル・メアリー』が7月3日よりPrime Videoで見放題独占配信。",
+      "source": "CINRA",
+      "sourceHomepage": "https://www.cinra.net/",
+      "category": "culture"
+    },
+    {
+      "title": "”子供期の貧困”を抜け出した人は「老後の抑うつ傾向」が低い",
+      "url": "https://nazology.kusuguru.co.jp/archives/197132",
+      "date": "2026-07-02T09:00:36.000Z",
+      "summary": "人生のスタート地点は、老後の心の健康をどこまで左右するのでしょうか。 貧しい子ども時代を過ごすことは、発達や健康に大きな影響を与えると考えられています。 しかし東京都健康長寿医療センターの新たな研究は、たとえ子ども時代に経済的困難があっても、その後の人生で困難が和らいでいた人では、高齢期の抑うつ傾向が低いという関連を示しました。 この成果は、2026年4月5日に国際学術誌『Journal of Epidemiology』で公開されていま",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "中国で生成ＡＩドラマが人気となり「顔」売買市場が広がる。",
+      "url": "https://karapaia.com/archives/612936.html",
+      "date": "2026-07-02T09:00:00.000Z",
+      "summary": "スマホを開いたら最後、延々とスクロールし続けて、気づけば何十分も経ってしまっている。そんな「時間泥棒」なショート動画は、中国では数十秒から数分で1話が進む「微短劇（ショートドラマ）」というジャンルを生み、巨大な市場を作り出している。その勢いは今…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
+      "title": "ULAが「アトラスV」で8回目のAmazon Leoミッションを実施 551構成による最後の打ち上げ",
+      "url": "https://sorae.info/ssn/20260702-atlasv-leo8.html",
+      "date": "2026-07-02T08:58:11.000Z",
+      "summary": "ULA（United Launch Alliance、ユナイテッド・ローンチ・アライアンス）は日本時間2026年7月2日、「Atlas V（アトラスV）」ロケットの打ち上げを実施しました。搭載されていたAmazonの衛星…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
+    },
+    {
+      "title": "VR内でアインシュタインになると起こった「心理変化」とは",
+      "url": "https://nazology.kusuguru.co.jp/archives/197126",
+      "date": "2026-07-02T08:00:00.000Z",
+      "summary": "VR（バーチャル・リアリティ）の世界で、もし自分がアインシュタインの姿になったら、心にはどんな変化が起こるのでしょうか。 ただ「有名人になった気分」を味わうだけではありません。 新たな研究によると、若い男性被験者が、VR内でアインシュタインの身体を自分の身体のように体験すると、高齢者に対する無意識の偏見が弱まることが示されました。 研究の詳細は、イスラエルのバル＝イラン大学（Bar-Ilan University）により、2026年6月",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "メキシコで謎の自警団員が「バイク泥棒」を狩り、街頭柱にダクトテープで縛り付け指名手配",
+      "url": "https://karapaia.com/archives/613015.html",
+      "date": "2026-07-02T07:00:00.000Z",
+      "summary": "メキシコで、路上での過激な私刑が相次いで発生している。少なくとも5人のバイク窃盗容疑者が顔に泥棒と落書きされ、大量の粘着テープで街灯の柱に縛り付けられた状態で発見された。容疑者の頭上には罪状を書いた看板が掲げられ、足元には盗んだとされるバイクが残されていた…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
+      "title": "【G17-46】スペースXがスターリンク衛星24機を軌道投入",
+      "url": "https://sorae.info/ssn/20260702-starlink-g17-46.html",
+      "date": "2026-07-02T05:14:39.000Z",
+      "summary": "SpaceX（スペースX）は日本時間2026年7月2日、ヴァンデンバーグ宇宙軍基地から「Falcon 9（ファルコン9）」ロケットを打ち上げ、Starlink（スターリンク）衛星24機を所定の軌道へ投入しました。 スター…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
+    },
+    {
+      "title": "中国が「長征4号乙」を打ち上げ 海洋観測衛星「海洋2号E」を軌道投入",
+      "url": "https://sorae.info/ssn/20260702-haiyang-2e.html",
+      "date": "2026-07-02T04:29:00.000Z",
+      "summary": "CASC（中国航天科技集団）は日本時間2026年7月2日、酒泉衛星発射センターから「長征4号乙」ロケットを打ち上げ、搭載していた海洋観測衛星を所定の軌道へ投入しました。 打ち上げに関する情報は以下の通りです。 打ち上げ情…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
+    },
+    {
+      "title": "河合優実が阿波おどりに初挑戦「サントリー生ビール」新CM。ナレーションは神木隆之介",
+      "url": "https://www.cinra.net/article/202607-whn-suntorynama_edteam",
+      "date": "2026-07-02T04:25:00.000Z",
+      "summary": "「サントリー生ビール」メッセンジャーの河合優実が出演する新テレビCM「あゆみさんと祭り」篇（15秒、30秒）が7月6日から全国で順次オンエア。",
+      "source": "CINRA",
+      "sourceHomepage": "https://www.cinra.net/",
+      "category": "culture"
+    },
+    {
+      "title": "5億年前の化石から「クモの牙」につながる最古の証拠を発見",
+      "url": "https://nazology.kusuguru.co.jp/archives/197115",
+      "date": "2026-07-02T03:00:51.000Z",
+      "summary": "クモには、獲物を捕らえるための鋭い牙があります。 では、その「クモの牙」はいったい、いつどのように生まれたのでしょうか。 今回、約5億1800万年前の太古の海に生きていた小さな節足動物の化石から、クモの牙やサソリのハサミにつながる最古級の証拠が見つかりました。 その古生物の名は「ウロコディア・アエクアリス（Urokodia aequalis）」です。 あ 研究の詳細は、英レスター大学（University of Leicester）によ",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "「ミキモト」が彩る日常空間。ジュエリーの美意識が息づく「Home & Lifestyle」登場！",
+      "url": "https://intojapanwaraku.com/lifestyle/308925/",
+      "date": "2026-07-02T03:00:02.000Z",
+      "summary": "真珠養殖への挑戦 「ミキモト」の創業者・御木本幸吉は1858年、現在の三重県鳥羽市に生まれました。20歳の頃、広い世界に憧れを抱き東京へと旅に出た幸吉は、その途中に訪れた横浜で地元の天然真珠が高値で取引されていることを知 […]",
+      "source": "和樂web",
+      "sourceHomepage": "https://intojapanwaraku.com/",
+      "category": "culture"
+    },
+    {
+      "title": "ハチワレ保護猫がニューヨーク骨博物館の警備主任に就任！",
+      "url": "https://karapaia.com/archives/612514.html",
+      "date": "2026-07-02T03:00:00.000Z",
+      "summary": "世界各地で重要任務に就く猫は多いが、アメリカ・ニューヨーク州にあるブルックリン骨博物館に、2025年より警備責任者として任命されたのが、黒白ハチワレ柄の元保護猫だ。その名は骨（ボーン）にちなんで「ボーン・ジョヴィ」という。2万人以上の投票により命名された。ボーン・ジョヴィは…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
+      "title": "染谷将太が朝ドラ『ブラッサム』に出演。主人公・石橋静河と切磋琢磨し合う小説家役",
+      "url": "https://www.cinra.net/article/202607-whn-blossom_edteam",
+      "date": "2026-07-02T02:48:00.000Z",
+      "summary": "染谷将太がNHK2026年度後期連続テレビ小説『ブラッサム』に出演することが発表された。",
+      "source": "CINRA",
+      "sourceHomepage": "https://www.cinra.net/",
+      "category": "culture"
+    },
+    {
+      "title": "蓬莱竜太作・演出『果てない～甦る母篇～』に大竹しのぶ、井上芳雄、伊藤沙莉、名村辰、江口のりこ、高橋克実",
+      "url": "https://www.cinra.net/article/202607-whn-hatenai_edteam",
+      "date": "2026-07-02T02:42:00.000Z",
+      "summary": "シス・カンパニーの新作公演『果てない～甦る母篇～』が11月～12月に東京ほかで上演される。",
+      "source": "CINRA",
+      "sourceHomepage": "https://www.cinra.net/",
+      "category": "culture"
+    },
+    {
+      "title": "長続きするカップルは「正直さ」と「好奇心」が似ていた",
+      "url": "https://nazology.kusuguru.co.jp/archives/197117",
+      "date": "2026-07-02T02:30:38.000Z",
+      "summary": "「長年連れ添ったカップルは、だんだん性格まで似てくる」とよく言われます。 しかしカナダ・カルガリー大学（University of Calgary）の研究チームが、オランダの長期カップル451組を調べた結果、長く関係を続けているカップルで特に似ていたのは、性格全体ではなく「正直さ」と「好奇心」に関わる部分でした。 またパートナー同士の性格評価はかなりよく一致している一方で、相手を実際以上に「自分に似ている」と見なす傾向もあることも分かり",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "ISSでNASAの宇宙飛行士2名が通算280回目の船外活動を実施 カナダアーム2の関節を交換",
+      "url": "https://sorae.info/space/20260702-iss-spacewalk.html",
+      "date": "2026-07-02T02:17:56.000Z",
+      "summary": "NASA（アメリカ航空宇宙局）は2026年6月30日付で、ISS（国際宇宙ステーション）で船外活動が実施され、無事に完了したと発表しました。今回の作業はNASAのChris Williams宇宙飛行士とJessica M…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
+    },
+    {
+      "title": "夢の世界は水の中、山の中にも。異世界を垣間見た昔話の人びと",
+      "url": "https://intojapanwaraku.com/culture/308462/",
+      "date": "2026-07-02T02:00:18.000Z",
+      "summary": "宝石がちりばめられた夢のような世界『吾妻むかし物語』 魚屋北渓「山水」 出典：The Art Institute of Chicago （https://www.artic.edu/artworks/23773/a-mo […]",
+      "source": "和樂web",
+      "sourceHomepage": "https://intojapanwaraku.com/",
+      "category": "culture"
+    },
+    {
+      "title": "赤ちゃんを身ごもっていた1億2500万年前の二枚貝の化石を発見",
+      "url": "https://karapaia.com/archives/612557.html",
+      "date": "2026-07-01T23:00:00.000Z",
+      "summary": "恐竜が闊歩していた白亜紀前期、1億2500万年前の二枚貝の化石の中に、赤ちゃんが入ったまま保存されていた。イギリス、ワイト島地層から発見された淡水性の貝の化石を調べたところ、母貝のえらの中で卵から孵ったばかりの幼生が複数の発育段階で保存されていたのだ…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
+      "title": "世界で最も細い直径約4ミリの胃カメラ開発 大阪大発ベンチャー",
+      "url": "http://www3.nhk.or.jp/news/html/20260702/k10015166561000.html",
+      "date": "2026-07-01T20:06:05.000Z",
+      "summary": "胃がんの検診に使う胃カメラの構造をシンプルにすることで、世界で最も細い直径4ミリほどのモデルを開発したと大阪大学発のベンチャー企業が発表しました。再来年にも国に承認申請を行うとしています。",
+      "source": "NHKニュース（科学・文化）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "将棋「棋聖戦」 藤井聡太六冠 3連勝でタイトル防衛 7連覇",
+      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015166231000.html",
+      "date": "2026-07-01T12:45:52.000Z",
+      "summary": "将棋の八大タイトルの1つ、「棋聖戦」五番勝負の第3局が7月1日に静岡県沼津市で行われ、藤井聡太六冠が、挑戦者の服部慎一郎七段に勝ってタイトルを防衛し、7連覇を果たしました。",
+      "source": "NHKニュース（科学・文化）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "浜岡原発データ不正問題 中部電力が規制委指摘後もデータ操作",
+      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015166151000.html",
+      "date": "2026-07-01T12:41:03.000Z",
+      "summary": "中部電力が、静岡県にある浜岡原子力発電所の審査で不正なデータ処理を行っていた問題で、原子力規制委員会から説明を求められた去年5月以降もデータの操作を行っていたことが分かりました。規制委員会は、中部電力が審査での説明とあうようにデータを操作していたとみて、詳しく調べることにしています。",
+      "source": "NHKニュース（科学・文化）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "初期宇宙の“霧”を晴らした紫外線 ハッブルが観測した約124億年前の銀河「MXDFz4.4」",
+      "url": "https://sorae.info/astronomy/20260701-mxdfz4-4.html",
+      "date": "2026-07-01T12:20:18.000Z",
+      "summary": "STScI（宇宙望遠鏡科学研究所）のIlias Goovaerts氏を筆頭とする研究チームは、ビッグバンから14億年後、今から約124億年前の初期宇宙に存在した銀河「MXDFz4.4」に関する研究成果を発表しました。 研…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
+    },
+    {
+      "title": "『氣志團万博』第1弾でGEZAN、日向坂46、モナキ、スチャダラパー、ゴールデンボンバーら13組",
+      "url": "https://www.cinra.net/article/202607-whn-kishidanbanpaku_edteam",
+      "date": "2026-07-01T10:00:00.000Z",
+      "summary": "『サントリー オールフリー presents 氣志團万博2026 ～房総爆音リゾート～』の第1弾アーティスト13組が発表された。",
+      "source": "CINRA",
+      "sourceHomepage": "https://www.cinra.net/",
+      "category": "culture"
+    },
+    {
+      "title": "夏目真悟監督×マッドハウス『ghost／夜の果て』主題歌＆挿入歌は羊文学、音楽は君島大空",
+      "url": "https://www.cinra.net/article/202607-whn-ghostyoruhate_edteam",
+      "date": "2026-07-01T09:40:00.000Z",
+      "summary": "夏目真悟監督初のオリジナル長編劇場アニメーションの正式タイトルが『ghost／夜の果て』に決定し、2027年2月11日に全国公開。",
+      "source": "CINRA",
+      "sourceHomepage": "https://www.cinra.net/",
+      "category": "culture"
+    },
+    {
+      "title": "桜井ユキ主演NHKドラマ『しあわせは食べて寝て待て～早春の養生編～』が8月18日放送",
+      "url": "https://www.cinra.net/article/202607-whn-shiawase_edteam",
+      "date": "2026-07-01T07:02:00.000Z",
+      "summary": "特集ドラマ『しあわせは食べて寝て待て～早春の養生編～』が8月18日22:00からNHK総合で放送される。",
+      "source": "CINRA",
+      "sourceHomepage": "https://www.cinra.net/",
+      "category": "culture"
+    },
+    {
+      "title": "「アニメイトガールズフェスティバル2026」，11月7日，8日に開催決定。チケットや出展ブースなどの情報が明らかに",
+      "url": "https://www.4gamer.net/games/991/G999111/20260701009/",
+      "date": "2026-07-01T05:45:15.000Z",
+      "summary": "アニメイトガールズフェスティバル実行委員会は本日，イベント「アニメイトガールズフェスティバル2026」を2026年11月7日，8日に開催すると発表した。「アニメイトガールズフェスティバル」は，アニメやコミック，声優，グッズ，乙女ゲーム，コスプレなど“乙女のためのすべて”が集まる大型イベントだ。",
+      "source": "4Gamer（乙女ゲーム関連）",
+      "sourceHomepage": "https://www.4gamer.net/",
+      "category": "otome"
+    },
+    {
+      "title": "ミュトス提供再開 “情報収集進める”国内金融機関",
+      "url": "http://www3.nhk.or.jp/news/html/20260701/k10015165431000.html",
+      "date": "2026-07-01T04:58:53.000Z",
+      "summary": "アメリカのAI新興企業「アンソロピック」は6月30日、最新のAIモデルの「クロード・ミュトス5」や、同等の性能を持つ「フェイブル5」について、アメリカ政府の輸出規制が解除されたことを受けて、提供を再開すると明らかにしました。",
+      "source": "NHKニュース（科学・文化）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "桃⾹る夏、フレンチと和の美意識が息づく2種のアフタヌーンティー【フェアモント東京】",
+      "url": "https://intojapanwaraku.com/travel/308843/",
+      "date": "2026-07-01T04:00:07.000Z",
+      "summary": "桃とシャンパンの余韻を味わう「フレンチアフタヌーンティー」 フレンチアフタヌーンティー「ピーチ＆シャンパンアフタヌーンティー」では、桃のやさしい甘みと、シャンパンの華やかで奥行きのある風味を、厳選した食材とともに味わえま […]",
+      "source": "和樂web",
+      "sourceHomepage": "https://intojapanwaraku.com/",
+      "category": "culture"
+    },
+    {
+      "title": "蝉時雨はノイズ？虫の音を「声」と感じる不思議な感性【彬子女王殿下が未来へ伝えたいにっぽんのことば】",
+      "url": "https://intojapanwaraku.com/culture/308755/",
+      "date": "2026-07-01T02:00:29.000Z",
+      "summary": "英国人の友人が驚いた「大きなノイズの虫」 オックスフォード大学に留学し、初めてできた友人が二人いた。英国に到着してから1カ月の間ホームステイをしていたのだが、英語の先生でもあったホストマザーが、同年代の友人がいたほうがい […]",
+      "source": "和樂web",
+      "sourceHomepage": "https://intojapanwaraku.com/",
+      "category": "culture"
+    },
+    {
+      "title": "「パルミジャーニ・フルリエ」を知っていますか？ シンプルで、静かに、美しい！ 天才時計師の情熱を宿すタイムピース",
+      "url": "https://intojapanwaraku.com/jewelry/308635/",
+      "date": "2026-07-01T02:00:10.000Z",
+      "summary": "メゾンの真髄を語る二大ウォッチコレクション ■「トンダ PF」コレクション マニュファクチュールの美学をピュアなデザインで表現 メゾンのウォッチメイキングの理念である「プライベート・ラグジュアリー」を、最もシンプルに、そ […]",
+      "source": "和樂web",
+      "sourceHomepage": "https://intojapanwaraku.com/",
+      "category": "culture"
+    },
+    {
+      "title": "フライパンで簡単！鯖の味噌煮",
+      "url": "https://cookien.com/recipe/7909/",
+      "date": "2026-06-30T14:58:09.000Z",
+      "summary": "鯖の味噌煮は、さばを味噌ベースの煮汁で煮る和食の定番です。フライパンで手軽に作れて、霜降りとしょうがで臭みを抑え、味噌は後入れして風味よく。ふっくら味しみに仕上がる基本レシピです。 お料理メモ メモ1: 下ごしらえのポイ Read More",
+      "source": "つくおき",
+      "sourceHomepage": "https://cookien.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "落語協会 新会長に林家正蔵さん就任 “若手の育成などに対処”",
+      "url": "http://www3.nhk.or.jp/news/html/20260630/k10015165211000.html",
+      "date": "2026-06-30T11:58:48.000Z",
+      "summary": "人気落語家の林家正蔵さんが東京の落語家などで作る団体「落語協会」の新しい会長に就任し、「若手の育成などの問題に一つ一つ対処していきたい」などと抱負を述べました。",
+      "source": "NHKニュース（科学・文化）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "「フレッド」90周年を祝う新作「ソレイユ ドール サンライズ」の幸福な輝き【和樂好みな名品＆逸品 Jewelry】",
+      "url": "https://intojapanwaraku.com/jewelry/308956/",
+      "date": "2026-06-30T06:00:51.000Z",
+      "summary": "あとで",
+      "source": "和樂web",
+      "sourceHomepage": "https://intojapanwaraku.com/",
+      "category": "culture"
+    },
+    {
+      "title": "『和樂』8,9月号、大特集は「天才！琳派オールスターズ」付録は和樂オリジナル「琳派一かわいい芳中＆雪佳シール」♡",
+      "url": "https://intojapanwaraku.com/culture/308444/",
+      "date": "2026-06-30T03:00:13.000Z",
+      "summary": "特別付録は、とじ込み付録「芳中＆雪佳シール」！ 『和樂』だけのオリジナル！琳派一かわいい芳中＆雪佳がシールになりました！ ＜大特集＞天才！琳派オールスターズ 光悦、宗達、光琳、抱一、其一… 華麗なる日本美術の大動脈 まず […]",
+      "source": "和樂web",
+      "sourceHomepage": "https://intojapanwaraku.com/",
+      "category": "culture"
+    },
+    {
+      "title": "失敗しらずで簡単！基本のチキンライス",
+      "url": "https://cookien.com/recipe/50301/",
+      "date": "2026-06-30T02:59:50.000Z",
+      "summary": "チキンライスは、鶏肉と野菜をご飯と炒め、ケチャップで味付けする洋食の定番です。ケチャップを先に炒めてうま味を濃縮し、バターでコクうま味に。オムライスにも使える、失敗しらずの基本レシピです。このレシピは冷凍保存推奨です。 Read More",
+      "source": "つくおき",
+      "sourceHomepage": "https://cookien.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "進化した「ブレゲ」の「トラディション」。自分らしさを誇り、価値観を共有する…時計の魅力を再発見！",
+      "url": "https://intojapanwaraku.com/jewelry/308148/",
+      "date": "2026-06-30T02:00:13.000Z",
+      "summary": "ブルーのラバーストラップがスポーティな雰囲気を漂わせて 鮮やかなブルーの「トラディション 7037」をTシャツやタンクトップに合わせることで、大人のカジュアルスタイルに。文字盤やストラップまでブルーで統一された一本に「グ […]",
+      "source": "和樂web",
+      "sourceHomepage": "https://intojapanwaraku.com/",
+      "category": "culture"
+    },
+    {
+      "title": "AI活用歩行型ロボの実証実験推進を 規制改革推進会議 答申決定",
+      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163811000.html",
+      "date": "2026-06-29T08:15:32.000Z",
+      "summary": "政府の規制改革推進会議は、「フィジカルAI」を活用した歩行型ロボットの法律上の扱いを明確にし、公道での実証実験を推進することなどを盛り込んだ答申を決定しました。",
+      "source": "NHKニュース（科学・文化）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "身近な調味料で◎ 基本の麻婆豆腐",
+      "url": "https://cookien.com/recipe/5593/",
+      "date": "2026-06-27T02:59:38.000Z",
+      "summary": "家にある調味料で簡単おいしい、基本の麻婆豆腐のレシピです。市販の素や甜麺醤を使わず、みそと醤油でコクうま味に。豆腐の下ごしらえ・辛さ調整・本格アレンジまで広く紹介します。 お料理メモ メモ1: 豆腐の選び方と下ごしらえの Read More",
+      "source": "つくおき",
+      "sourceHomepage": "https://cookien.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "しっとりやわらか！豚肉の冷しゃぶサラダ",
+      "url": "https://cookien.com/recipe/21306/",
+      "date": "2026-06-26T02:59:39.000Z",
+      "summary": "豚肉をしっとりやわらかく仕上げる、冷しゃぶサラダのレシピです。固くならないゆで方と冷やし方は要必見！さっぱりコクのあるごまポン酢だれで、野菜もおいしく食べられます。 お料理メモ メモ1: 豚肉の部位について 冷しゃぶは、 Read More",
+      "source": "つくおき",
+      "sourceHomepage": "https://cookien.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "白だしとごま油で決まる！きゅうりの浅漬け",
+      "url": "https://cookien.com/recipe/50266/",
+      "date": "2026-06-24T12:59:57.000Z",
+      "summary": "白だしのうま味とごま油の香りで箸がすすむ、きゅうりの浅漬けのレシピです。ポリポリ食感になる効果的な下ごしらえもご紹介。作り置きにも便利な、失敗しない簡単副菜です。表示の調理時間に漬ける時間は含んでいません。 お料理メモ Read More",
+      "source": "つくおき",
+      "sourceHomepage": "https://cookien.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "〈食と生活〉鮎のムニエル 焦がしバターソース",
+      "url": "https://note.com/travelingfoodlab/n/n8784e4467f01",
+      "date": "2026-06-21T08:08:30.000Z",
+      "summary": "",
+      "source": "樋口直哉（TravelingFoodLab.）",
+      "sourceHomepage": "https://note.com/travelingfoodlab",
+      "category": "cooking"
+    }
+  ]
 }
