@@ -1,47 +1,12 @@
 {
-  "generatedAt": "2026-07-04T09:03:05.373Z",
-  "articleCount": 345,
+  "generatedAt": "2026-07-04T14:04:04.208Z",
+  "articleCount": 367,
   "feedStatus": [
-    {
-      "name": "NHKニュース（主要）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（社会）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
-      "errors": []
-    },
     {
       "name": "NHKニュース（科学・文化）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-      "errors": []
-    },
-    {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
-      "errors": []
-    },
-    {
-      "name": "つくおき",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://cookien.com/feed/",
       "errors": []
     },
     {
@@ -52,17 +17,45 @@
       "errors": []
     },
     {
+      "name": "NHKニュース（国際）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（主要）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（社会）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "errors": []
+    },
+    {
+      "name": "つくおき",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://cookien.com/feed/",
+      "errors": []
+    },
+    {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "errors": []
+    },
+    {
       "name": "Mikiki（タワーレコード）",
       "category": "music",
       "ok": true,
       "usedUrl": "https://mikiki.tokyo.jp/list/feed/rss",
-      "errors": []
-    },
-    {
-      "name": "メシ通（ホットペッパーグルメ）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
       "errors": []
     },
     {
@@ -80,10 +73,10 @@
       "errors": []
     },
     {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
+      "name": "メシ通（ホットペッパーグルメ）",
+      "category": "cooking",
       "ok": true,
-      "usedUrl": "https://sorae.info/feed",
+      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
       "errors": []
     },
     {
@@ -94,17 +87,17 @@
       "errors": []
     },
     {
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://sorae.info/feed",
+      "errors": []
+    },
+    {
       "name": "インサイド（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -115,20 +108,6 @@
       "errors": []
     },
     {
-      "name": "CINRA",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://www.cinra.net/feed",
-      "errors": []
-    },
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
-      "errors": []
-    },
-    {
       "name": "ナゾロジー",
       "category": "documentary",
       "ok": true,
@@ -136,10 +115,24 @@
       "errors": []
     },
     {
-      "name": "TOKION",
+      "name": "デイリーポータルZ",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "errors": []
+    },
+    {
+      "name": "CINRA",
       "category": "culture",
       "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
+      "usedUrl": "https://www.cinra.net/feed",
+      "errors": []
+    },
+    {
+      "name": "カラパイア",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://karapaia.com/index.rdf",
       "errors": []
     },
     {
@@ -150,10 +143,10 @@
       "errors": []
     },
     {
-      "name": "カラパイア",
-      "category": "documentary",
+      "name": "TOKION",
+      "category": "culture",
       "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
+      "usedUrl": "https://tokion.jp/feed/",
       "errors": []
     },
     {
@@ -176,9 +169,97 @@
       "ok": true,
       "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
+    },
+    {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
+      "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "ガス・G. 「Confession」のミュージックビデオ公開",
+      "url": "https://amass.jp/190495/",
+      "date": "2026-07-04T21:38:00.000Z",
+      "summary": "ギタリストのガス・G.は「Confession」のミュージックビデオ公開。この曲は最新ソロ・アルバム『Steel Burner』に収録 https://amass.jp/190495/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ディーヴォのジェラルド・キャセール、トランプ米大統領を独裁者として描いた新曲「Just Do It!」のMV公開",
+      "url": "https://amass.jp/190494/",
+      "date": "2026-07-04T21:34:00.000Z",
+      "summary": "ディーヴォのジェラルド・キャセールは、アメリカ合衆国建国250周年の独立記念日にあわせ、新曲「Just Do It!」をリリース。トランプ米大統領を独裁者として描いたミュージックビデオが公開されています。 https://amass.jp/190494/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "Touch and Go Recordsの創設者のひとり、デイヴ・スティムソン死去",
+      "url": "https://amass.jp/190493/",
+      "date": "2026-07-04T21:10:00.000Z",
+      "summary": "80年代から続く米国の老舗インディーレーベル、Touch and Go Recordsの創設者のひとり、デイヴ・スティムソン（Dave Stimson）が死去。創設者のひとりであるコリー・ラスクが発表 https://amass.jp/190493/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "the bercedes menzが鳴らすポップネスとしての異質なテクスチャ “ハードコアJ-POP”の理想と可能性＝『weapons』を紐解く",
+      "url": "https://realsound.jp/2026/07/post-2450141.html",
+      "date": "2026-07-04T21:00:45.000Z",
+      "summary": "音のテクスチャ自体が楽曲の第一印象を決定づけるようになっている昨今、自らを「ハードコアJ-POPバンド」と名乗り、ギターバンド側からJ-POPを更新しているthe bercedes menz。そのコンポーザー・田中喉笛（Ba）にインタビューし、ニューアルバム『weapons』を紐解いていく。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "キッス ポール・スタンレー息子＆ジーン・シモンズ息子の新ユニット 新曲「Don't Leave Me Here Like That」のMV公開",
+      "url": "https://amass.jp/190492/",
+      "date": "2026-07-04T20:31:00.000Z",
+      "summary": "キッスのポール・スタンレーの息子エヴァンと、ジーン・シモンズの息子ニックによる新ユニット、スタンレー・シモンズ。新曲「Don't Leave Me Here Like That」をリリース。ミュージックビデオが公開されています https://amass.jp/190492/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "メタリカ 6月21日ダブリン公演から「Whiskey in the Jar」のライヴ映像公開",
+      "url": "https://amass.jp/190491/",
+      "date": "2026-07-04T20:20:00.000Z",
+      "summary": "メタリカはオフィシャル・ライヴ映像を公開。2026年6月21日にアイルランドのダブリンで行われた公演の映像で、曲は「Whiskey in the Jar」 https://amass.jp/190491/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "デフ・レパードの最新ライヴにヌーノ・ベッテンコートがゲスト参加 「Slang」演奏",
+      "url": "https://amass.jp/190490/",
+      "date": "2026-07-04T20:15:00.000Z",
+      "summary": "デフ・レパードの最新ライヴ（7月2日 英ロンドン）にエクストリームのヌーノ・ベッテンコートがゲスト参加。「Slang」を一緒に披露しています。映像あり https://amass.jp/190490/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "fav me・丸山蘭奈、メイク直し動画に「マジで顔強い」「癒しの神」 ナレーションの甘い声にも注目",
+      "url": "https://realsound.jp/2026/07/post-2450570.html",
+      "date": "2026-07-04T19:53:08.000Z",
+      "summary": "アソビシステム所属のアイドルグループ・fav meの丸山蘭奈が、自身のTikTokでお昼寝後のメイク直し動画を公開した。 丸山は、アソビシステムのアイドルプロジェクト「PEAK SPOT」の1stグループであるfav",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "EXILE AKIRA、自らマイクを握ることで出会う“まだ見ぬ自分” グループとソロ、それぞれの表現で示すもの",
+      "url": "https://realsound.jp/2026/07/post-2433373.html",
+      "date": "2026-07-04T18:00:59.000Z",
+      "summary": "デビュー20周年という大きな節目に、EXILE AKIRAが初のセルフプロデュースEP『URBAN SAVAGE』をリリースし、ソロアーティストとして新たな一歩を踏み出した。本インタビューでは、MIYAVIやJAY'ED、F.HEROら同世代の盟友達と紡いだ音楽の裏側から、豪華ゲストが集結するライブハウスツアーへの意気込みまで、「自分らしさ」の壁を壊して挑む彼の飽くなき情熱と生き様に迫る。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
     {
       "title": "佐々木チワワ 寄稿：きゃりーぱみゅぱみゅとカワイイコンプレックスの私",
       "url": "https://realsound.jp/2026/07/post-2450162.html",
@@ -225,6 +306,15 @@
       "category": "music"
     },
     {
+      "title": "『感動建築』",
+      "url": "https://bluediary2.jugem.jp/?eid=8118",
+      "date": "2026-07-04T13:53:00.000Z",
+      "summary": "大洋図書より刊行となった『感動建築』 『感動建築』 高橋福生 (写真), 中田薫 (著, 編集) 建築を見に行く旅は、目的地に着く前から始まっています。 どの駅で降りるのか。どの時間帯に訪れるのか。晴れているのか、雨上がりなのか。人の少ない朝なのか、光...",
+      "source": "青い日記帳（美術展）",
+      "sourceHomepage": "https://bluediary2.jugem.jp/",
+      "category": "culture"
+    },
+    {
       "title": "中島健人、新曲「鬼事」がアニメ『逃げ上手の若君』第2期OPに起用 両A面の3rdシングルリリースも",
       "url": "https://realsound.jp/2026/07/post-2450298.html",
       "date": "2026-07-04T13:03:43.000Z",
@@ -234,6 +324,15 @@
       "category": "music"
     },
     {
+      "title": "“友達から恋人に発展”した人はカップル全体の約3分の2",
+      "url": "https://nazology.kusuguru.co.jp/archives/93022",
+      "date": "2026-07-04T13:00:54.000Z",
+      "summary": "恋人を作るルートは、現代では様々なパターンが考えられます。 友達の紹介、合コン、イベントなどでの出会い、マッチングアプリ。 でも一番想像しやすいのは、もともと友達だった相手をだんだん好きになり恋人になる、というパターンかもしれません。 では友達から恋人になった人というのは、どのくらいいるのでしょうか？ カナダ・ビクトリア大学（University of Victoria）心理学部に所属するダヌ・アンソニー・スティンソン氏ら研究チームが調",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
       "title": "『THE MUSIC DAY 2026』タイムテーブル発表 総勢65組の出演アーティスト&シャッフルメドレー全曲目も",
       "url": "https://realsound.jp/2026/07/post-2450315.html",
       "date": "2026-07-04T13:00:15.000Z",
@@ -241,6 +340,15 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "建国250年 トランプ大統領 独立記念日前に演説 党派色強い内容",
+      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168671000.html",
+      "date": "2026-07-04T12:48:03.000Z",
+      "summary": "アメリカのトランプ大統領は、4日の独立記念日を前に中西部サウスダコタ州で演説しました。演説は、野党・民主党の一部の政治家を念頭に「共産主義を速やかに打破する」と述べるなど党派色の強い内容となり、アメリカのメディアは11月の中間選挙に向けたウォームアップのようだと伝えています。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
     },
     {
       "title": "丸山純奈、自身最大規模の東阪Zeppワンマン開催 新曲「RAIL」が『ミヤネ屋』7月期EDテーマ起用も",
@@ -270,6 +378,132 @@
       "category": "music"
     },
     {
+      "title": "梅雨前線 6日かけて停滞 九州北部は断続的に激しい雨のおそれ",
+      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168721000.html",
+      "date": "2026-07-04T12:16:19.000Z",
+      "summary": "梅雨前線の活動が活発になり、西日本では午前中を中心に雨が強まって、九州北部では非常に激しい雨が降りました。前線は、6日にかけて、西日本付近に停滞する見込みで、気象庁は、引き続き、土砂災害などに十分注意するよう呼びかけています。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "「半分の卵が死亡する」イモリの200年にわたる致死システムの謎がついに解明",
+      "url": "https://nazology.kusuguru.co.jp/archives/166072",
+      "date": "2026-07-04T12:00:19.000Z",
+      "summary": "産まれる前に半分死ぬイモリの話です。 オランダのライデン大学（LU）で行われた研究により、卵の半分が孵化前に死亡するというイモリの奇妙な致死システムの謎が解明されました。 この奇妙な現象については200年以上前に発見されてから現在に至るまでに、致死システムの仕組みや死ぬことで得られるメリットなどさまざまな説が報告されてきましたが、どの研究も染色体や遺伝子の包括的な分析が行われておらず、決め手に欠けていました。 しかし新たに行われた研究で",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "天の川銀河の「渦巻腕」は一部が想定よりも大きく広がっている？ X線観測データを分析",
+      "url": "https://sorae.info/astronomy/20260704-milky-way-galaxy.html",
+      "date": "2026-07-04T11:31:14.000Z",
+      "summary": "私たちが住む天の川銀河の本当の姿は、いまだに多くの謎に包まれています。イタリアのパヴィア高等研究所とトレント大学の共同プログラムに博士課程学生として在籍していたBeatrice Vaia氏を筆頭とする研究チームは、天の川…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
+    },
+    {
+      "title": "スウィフト衛星を救うために旅立った旧世代旅客機、ロケットを送り出すことに成功！",
+      "url": "https://karapaia.com/archives/613850.html",
+      "date": "2026-07-04T11:30:00.000Z",
+      "summary": "2026年6月、大気圏落下が迫るNASAの観測衛星スウィフトを救うため、旧世代旅客機の最後の生き残り、スターゲイザーがロケットを抱えて旅立っていった。その後の展開がついに明らかになった。スターゲイザーは2026年7月3日、南太平洋マーシャル諸島の上空約1万2000mで…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
+      "title": "【動画】Pickup NEWS(7月4日）",
+      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168371000.html",
+      "date": "2026-07-04T10:53:27.000Z",
+      "summary": "これまでに入っているニュースを、まとめて1分の動画でお伝えします。（データ放送では動画をご覧いただけません）",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "「叢雲さんの道具にしてくださいね」キャラクター選挙へ向け、いちかの覚悟が決まる…！『カワイイは金なり』【#20】",
+      "url": "https://hon-hikidashi.jp/book-person/156438/",
+      "date": "2026-07-04T10:45:09.000Z",
+      "summary": "ぶんか社より、 『カワイイは金なり』第3巻 が、6月17日（水）に発売されました。 本作は、キャラクター企業の底辺デザイナー・一ノ瀬いちかが、伝説の敏腕営業マン・叢雲百矢とタッグを組み、「売れるカワイイ」を追い求めるお仕事ラブコメです。 今回は第1話～第4話の試し読みを配信します。作品が気になった方は、ぜひお買い求めください。 (adsbygoogle = window.adsbygoogle || []).push({}); 試し読み",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "「新情報出て来すぎ！」マヌエラが突如、柄の悪い男の姿に…その正体とは！？『クソゲー悪役令嬢～滅亡エンドしかない世界に転生したけど、しぶとく生き残ってやりますわ！～』【#16】",
+      "url": "https://hon-hikidashi.jp/book-person/159258/",
+      "date": "2026-07-04T10:20:26.000Z",
+      "summary": "マイクロマガジン社の「ライドコミックス」より、 『クソゲー悪役令嬢～滅亡エンドしかない世界に転生したけど、しぶとく生き残ってやりますわ！』第2巻 が7月31日（金）に発売されます。 本作は、病死した女子高生が滅亡エンドしか存在しない“クソゲー”の世界の悪役令嬢に転生し、破滅の運命を覆そうと奮闘する異世界ファンタジーです。 今回は第1話～第7話の試し読みを配信します。気になった方はぜひお近くの書店でお買い求めください。 (adsbygoo",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "熊本豪雨から6年 安心して住み続けられる環境づくり課題",
+      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168161000.html",
+      "date": "2026-07-04T10:19:56.000Z",
+      "summary": "災害関連死を含め67人が犠牲となり、今も2人の行方が分かっていない熊本豪雨から4日で6年です。被災した地域で人口減少が一段と進む中、安心して住み続けられる環境づくりが大きな課題となっています。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "酔ってる今なら聞けるかも…いちかは叢雲が“辞めたい理由”に触れてみる…『カワイイは金なり』【#19】",
+      "url": "https://hon-hikidashi.jp/book-person/156435/",
+      "date": "2026-07-04T10:15:50.000Z",
+      "summary": "ぶんか社より、 『カワイイは金なり』第3巻 が、6月17日（水）に発売されました。 本作は、キャラクター企業の底辺デザイナー・一ノ瀬いちかが、伝説の敏腕営業マン・叢雲百矢とタッグを組み、「売れるカワイイ」を追い求めるお仕事ラブコメです。 今回は第1話～第4話の試し読みを配信します。作品が気になった方は、ぜひお買い求めください。 (adsbygoogle = window.adsbygoogle || []).push({}); 試し読み",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "大阪 守口 交通トラブルで小学生をはねた建設作業員を逮捕",
+      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168901000.html",
+      "date": "2026-07-04T09:55:51.000Z",
+      "summary": "3日、大阪 守口市の路上で道路の通行をめぐってトラブルになった小学生を軽ワゴン車ではねたとして、40代の建設作業員が殺人未遂の疑いで逮捕されました。「わざとではない」と話し、容疑を否認しているということです。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "「あなたの太くて長いのくわえてあげるからぁ」サキュバスを怒りのすべてを込めて滅し斬る剣士！『サキュバススレイヤー～女冒険者と世界を救う終末のハーレム部隊～』【#6】",
+      "url": "https://hon-hikidashi.jp/book-person/159688/",
+      "date": "2026-07-04T09:45:59.000Z",
+      "summary": "美少女ヒロインたちとともに人類（♂）の天敵を殲滅せよ！！！！ 『 サキュバススレイヤー～女冒険者と世界を救う終末のハーレム部隊～ 』の連載がこのほど、 「竹コミ！」 でスタートしました。 本作の試し読み記事を配信します。 【あらすじ】 魔王が倒され、平和を取り戻した世界に突如として現れた不死身の性欲モンスター・サキュバス。 男たちは為す術なく搾り取られ、再び訪れた世界存亡の危機に、一人の戦士が勃ちあがる―。世界の命運は、彼とサキュバスの",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "「売れないキャラは死ぬんです」意味ありげに呟く叢雲…その言葉の真意とは『カワイイは金なり』【#18】",
+      "url": "https://hon-hikidashi.jp/book-person/156432/",
+      "date": "2026-07-04T09:45:46.000Z",
+      "summary": "ぶんか社より、 『カワイイは金なり』第3巻 が、6月17日（水）に発売されました。 本作は、キャラクター企業の底辺デザイナー・一ノ瀬いちかが、伝説の敏腕営業マン・叢雲百矢とタッグを組み、「売れるカワイイ」を追い求めるお仕事ラブコメです。 今回は第1話～第4話の試し読みを配信します。作品が気になった方は、ぜひお買い求めください。 (adsbygoogle = window.adsbygoogle || []).push({}); 試し読み",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "「お買い得ね」宝石でマヌエラを家庭教師にスカウト！すると突然、彼女の姿が歪みはじめ…！？『クソゲー悪役令嬢～滅亡エンドしかない世界に転生したけど、しぶとく生き残ってやりますわ！～』【#15】",
+      "url": "https://hon-hikidashi.jp/book-person/159194/",
+      "date": "2026-07-04T09:20:21.000Z",
+      "summary": "マイクロマガジン社の「ライドコミックス」より、 『クソゲー悪役令嬢～滅亡エンドしかない世界に転生したけど、しぶとく生き残ってやりますわ！』第2巻 が7月31日（金）に発売されます。 本作は、病死した女子高生が滅亡エンドしか存在しない“クソゲー”の世界の悪役令嬢に転生し、破滅の運命を覆そうと奮闘する異世界ファンタジーです。 今回は第1話～第7話の試し読みを配信します。気になった方はぜひお近くの書店でお買い求めください。 (adsbygoo",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "イラン 前最高指導者ハメネイ師の葬儀始まる 大勢の市民が追悼",
+      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168741000.html",
+      "date": "2026-07-04T09:16:05.000Z",
+      "summary": "アメリカとイスラエルの攻撃でことし2月に殺害されたイランの前の最高指導者、ハメネイ師の葬儀が4日、首都テヘランで始まり、大勢の市民が追悼のために集まっています。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "東京 中野区 住宅など7棟焼ける火事 1人軽いけが",
       "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168821000.html",
       "date": "2026-07-04T09:00:28.000Z",
@@ -288,15 +522,6 @@
       "category": "documentary"
     },
     {
-      "title": "〈Anison Days〉7/8のゲストはMYTH ＆ ROID",
-      "url": "https://ototoy.jp/news/130710",
-      "date": "2026-07-04T09:00:00.000Z",
-      "summary": "BS11〈Anison Days〉7月8日はゲストにMYTH ＆ ROIDが出演する",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
       "title": "アメリカ建国250周年記念で強固なタイムカプセルを埋設。2276年に開封予定",
       "url": "https://karapaia.com/archives/613833.html",
       "date": "2026-07-04T09:00:00.000Z",
@@ -304,6 +529,15 @@
       "source": "カラパイア",
       "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
+    },
+    {
+      "title": "〈Anison Days〉7/8のゲストはMYTH ＆ ROID",
+      "url": "https://ototoy.jp/news/130710",
+      "date": "2026-07-04T09:00:00.000Z",
+      "summary": "BS11〈Anison Days〉7月8日はゲストにMYTH ＆ ROIDが出演する",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
     },
     {
       "title": "嫁なのに、手すらつないでいない！？実は弟のために結んだ契約結婚だった？『帝都契約結婚～だんな様とわたしの幸せな秘密～』【#4】",
@@ -409,7 +643,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168811000.html",
       "date": "2026-07-04T07:15:32.000Z",
       "summary": "アメリカ・ニューヨークにある国連本部の前で、チベット出身の男性がみずからに火をつけて自殺し、中国の民族政策が抑圧的だと抗議する目的があったとみられています。",
-      "source": "NHKニュース（主要）",
+      "source": "NHKニュース（国際）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -423,15 +657,6 @@
       "category": "documentary"
     },
     {
-      "title": "NHK〈SONGS〉THE ALFEEライブSP あす地上波放送",
-      "url": "https://ototoy.jp/news/130709",
-      "date": "2026-07-04T07:00:00.000Z",
-      "summary": "今年3月にBSP4Kで放送された「SONGSライブスペシャル THE ALFEE」の地上波放送があす7月5日(木)17時から放送される",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
       "title": "私の頭の中の虫。脳腫瘍を疑われた男性の脳内に多数のサナダムシを発見",
       "url": "https://karapaia.com/archives/613582.html",
       "date": "2026-07-04T07:00:00.000Z",
@@ -441,20 +666,20 @@
       "category": "documentary"
     },
     {
+      "title": "NHK〈SONGS〉THE ALFEEライブSP あす地上波放送",
+      "url": "https://ototoy.jp/news/130709",
+      "date": "2026-07-04T07:00:00.000Z",
+      "summary": "今年3月にBSP4Kで放送された「SONGSライブスペシャル THE ALFEE」の地上波放送があす7月5日(木)17時から放送される",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
       "title": "「新婚です」テイラー・スウィフトさん NFL選手と結婚を発表",
       "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168781000.html",
       "date": "2026-07-04T06:14:13.000Z",
       "summary": "アメリカの世界的人気歌手、テイラー・スウィフトさんとNFL＝アメリカプロフットボールリーグのトラビス・ケルシー選手が3日、結婚を発表しました。ニューヨーク中心部では著名人を集めた大規模なお祝いのイベントも開かれ、アメリカのメディアが大きく伝えています。",
       "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "建国250年 トランプ大統領 独立記念日前に演説 党派色強い内容",
-      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168671000.html",
-      "date": "2026-07-04T06:09:22.000Z",
-      "summary": "アメリカのトランプ大統領は、4日の独立記念日を前に中西部サウスダコタ州で演説しました。演説は、野党・民主党の一部の政治家を念頭に「共産主義を速やかに打破する」と述べるなど党派色の強い内容となり、アメリカのメディアは11月の中間選挙に向けたウォームアップのようだと伝えています。",
-      "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -493,33 +718,6 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
-    },
-    {
-      "title": "イラン 前最高指導者ハメネイ師の葬儀始まる 大勢の市民が追悼",
-      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168741000.html",
-      "date": "2026-07-04T05:48:59.000Z",
-      "summary": "アメリカとイスラエルの攻撃でことし2月に殺害されたイランの前の最高指導者、ハメネイ師の葬儀が4日、首都テヘランで始まり、大勢の市民が追悼のために集まっています。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "熊本豪雨から6年 安心して住み続けられる環境づくり課題",
-      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168161000.html",
-      "date": "2026-07-04T05:07:23.000Z",
-      "summary": "災害関連死を含め67人が犠牲となり、今も2人の行方が分かっていない熊本豪雨から4日で6年です。被災した地域で人口減少が一段と進む中、安心して住み続けられる環境づくりが大きな課題となっています。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "【動画】Pickup NEWS(7月4日）",
-      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168371000.html",
-      "date": "2026-07-04T05:05:16.000Z",
-      "summary": "これまでに入っているニュースを、まとめて1分の動画でお伝えします。（データ放送では動画をご覧いただけません）",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
     },
     {
       "title": "【殿堂入りレシピも】まるで天の川！七夕に作りたいキラキラ2層ゼリー",
@@ -610,15 +808,6 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
-    },
-    {
-      "title": "九州北部で非常に激しい雨 雨雲移動も6日にかけ前線停滞",
-      "url": "http://www3.nhk.or.jp/news/html/20260704/k10015168721000.html",
-      "date": "2026-07-04T02:54:53.000Z",
-      "summary": "梅雨前線の活動が活発になっている影響で西日本で雨が強まり、九州北部では非常に激しい雨が降ったところがあります。前線は6日にかけて西日本付近に停滞する見込みで、気象庁は、土砂災害や低い土地の浸水などに十分注意するよう呼びかけています。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
     },
     {
       "title": "ベネズエラ地震 日本の国際緊急援助隊が現地に向け出発",
@@ -1096,6 +1285,15 @@
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
+    },
+    {
+      "title": "国際シンポジウム 「スイス絵画の異才 カール・ヴァルザー その多面的な魅力に迫る」",
+      "url": "https://bluediary2.jugem.jp/?eid=8117",
+      "date": "2026-07-03T13:10:00.000Z",
+      "summary": "大阪中之島美術館で開催中の「スイス絵画の異才 カール・ヴァルザー」にあわせ、国際シンポジウム「スイス絵画の異才 カール・ヴァルザー その多面的な魅力に迫る」が開催されます。 カール・ヴァルザー（Karl Walser／1877&#8211;1943）は、20世紀前半に活躍し...",
+      "source": "青い日記帳（美術展）",
+      "sourceHomepage": "https://bluediary2.jugem.jp/",
+      "category": "culture"
     },
     {
       "title": "pavilion、10/14に新ALリリース決定",
