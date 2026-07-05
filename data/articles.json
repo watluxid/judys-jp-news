@@ -1,26 +1,19 @@
 {
-  "generatedAt": "2026-07-05T14:13:19.450Z",
-  "articleCount": 462,
+  "generatedAt": "2026-07-05T19:47:21.279Z",
+  "articleCount": 464,
   "feedStatus": [
-    {
-      "name": "NHKニュース（科学・文化）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-      "errors": []
-    },
     {
       "name": "NHKニュース（主要）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -42,6 +35,13 @@
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://news.cookpad.com/feeds/news.rss",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（国際）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
       "errors": []
     },
     {
@@ -73,17 +73,17 @@
       "errors": []
     },
     {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://sorae.info/feed",
-      "errors": []
-    },
-    {
       "name": "4Gamer（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://www.4gamer.net/rss/index.xml",
+      "errors": []
+    },
+    {
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -94,17 +94,17 @@
       "errors": []
     },
     {
-      "name": "インサイド（乙女ゲーム関連）",
-      "category": "otome",
-      "ok": true,
-      "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
       "name": "デイリーポータルZ",
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "errors": []
+    },
+    {
+      "name": "インサイド（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
       "errors": []
     },
     {
@@ -129,10 +129,17 @@
       "errors": []
     },
     {
-      "name": "カラパイア",
-      "category": "documentary",
+      "name": "OTOTOY",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
+      "usedUrl": "https://ototoy.jp/rss",
+      "errors": []
+    },
+    {
+      "name": "和樂web",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://intojapanwaraku.com/feed",
       "errors": []
     },
     {
@@ -143,10 +150,10 @@
       "errors": []
     },
     {
-      "name": "和樂web",
-      "category": "culture",
+      "name": "カラパイア",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://intojapanwaraku.com/feed",
+      "usedUrl": "https://karapaia.com/index.rdf",
       "errors": []
     },
     {
@@ -169,16 +176,18 @@
       "ok": true,
       "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
-    },
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
-      "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "ポール・マッカートニー、テイラー・スウィフトの結婚披露宴で62年ぶりにビートルズ「抱きしめたい」演奏 米メディア報道",
+      "url": "https://amass.jp/190502/",
+      "date": "2026-07-06T00:48:00.000Z",
+      "summary": "ポール・マッカートニーは、テイラー・スウィフトとトラビス・ケルシーの結婚披露宴で、62年ぶりにビートルズ「I Want to Hold Your Hand（邦題：抱きしめたい）」を演奏したと報じられています。ビートルズの64年9月NY公演以来だという https://amass.jp/190502/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "ジャーニーのジョナサン・ケイン、アメリカ合衆国建国250周年を記念した楽曲「Winds Of Freedom」公開",
       "url": "https://amass.jp/190501/",
@@ -279,6 +288,24 @@
       "category": "music"
     },
     {
+      "title": "高市首相 ペルー大統領選 勝利宣言のケイコ・フジモリ氏に祝辞",
+      "url": "http://www3.nhk.or.jp/news/html/20260705/k10015169551000.html",
+      "date": "2026-07-05T14:32:14.000Z",
+      "summary": "高市総理大臣は、南米ペルーの大統領選挙で勝利を宣言した、ケイコ・フジモリ氏に祝辞を送りました。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "6日にかけ梅雨前線停滞 九州北部で非常に激しい雨のおそれ",
+      "url": "http://www3.nhk.or.jp/news/html/20260705/k10015168961000.html",
+      "date": "2026-07-05T14:28:27.000Z",
+      "summary": "梅雨前線の活動が活発になっている影響で、九州北部では断続的に非常に激しい雨が降り、長崎県ではレベル4土砂災害危険警報が出されている地域があります。前線が停滞するため、九州北部では6日にかけて断続的に非常に激しい雨が降るおそれがあり、土砂災害などに厳重な警戒が必要です。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "「“カフェ”に集う芸術家」",
       "url": "https://bluediary2.jugem.jp/?eid=8119",
       "date": "2026-07-05T14:08:00.000Z",
@@ -337,7 +364,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260705/k10015168951000.html",
       "date": "2026-07-05T12:41:16.000Z",
       "summary": "6年前、小惑星のサンプルを地球に届けたあと、次の目的地への飛行を続けている日本の探査機「はやぶさ2」は、5日午後、別の小惑星のすぐそばを極めて速いスピードで通過する「フライバイ」を行いました。JAXA＝宇宙航空研究開発機構によりますと、無事にフライバイを終えたということです。",
-      "source": "NHKニュース（科学・文化）",
+      "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -387,15 +414,6 @@
       "category": "documentary"
     },
     {
-      "title": "6日にかけ梅雨前線停滞 九州北部で非常に激しい雨のおそれ",
-      "url": "http://www3.nhk.or.jp/news/html/20260705/k10015168961000.html",
-      "date": "2026-07-05T11:54:29.000Z",
-      "summary": "梅雨前線の活動が活発になっている影響で、九州北部では非常に激しい雨が降り長崎県と佐賀県にはレベル4の危険警報が出されている地域があります。前線が停滞するため、九州北部では6日にかけて断続的に非常に激しい雨が降るおそれがあり、土砂災害などに厳重な警戒が必要です。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
       "title": "ハッブルが霧の中から光を発見、初期宇宙の銀河MXDFz4.4の紫外線だった",
       "url": "https://karapaia.com/archives/613905.html",
       "date": "2026-07-05T11:30:00.000Z",
@@ -409,7 +427,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260705/k10015169471000.html",
       "date": "2026-07-05T11:22:07.000Z",
       "summary": "イランではアメリカとイスラエルの攻撃で殺害された前の最高指導者、ハメネイ師の葬儀が5日も続いています。アラグチ外相は、葬儀に参列したレバノンのイスラム教シーア派組織ヒズボラの幹部などと会談し、連帯を確認したものとみられます。",
-      "source": "NHKニュース（国際）",
+      "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -558,15 +576,6 @@
       "category": "culture"
     },
     {
-      "title": "AIが生成した顔画像は、6つの特徴に注目すると見分けやすくなる",
-      "url": "https://karapaia.com/archives/613947.html",
-      "date": "2026-07-05T09:00:00.000Z",
-      "summary": "AIが生成した顔画像は、本物の人間の写真と見分けがつかないほど精巧になり、誤情報やAIを使った詐欺の増加を招いている。オーストラリア国立大学（ANU）の研究チームは、参加者に対し、指の数など細部の欠陥を探す従来の方法ではなく…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
       "title": "私立恵比寿中学、新アー写公開&仲村悠菜がメンバーカラー変更",
       "url": "https://ototoy.jp/news/130716",
       "date": "2026-07-05T09:00:00.000Z",
@@ -574,6 +583,15 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
+    },
+    {
+      "title": "AIが生成した顔画像は、6つの特徴に注目すると見分けやすくなる",
+      "url": "https://karapaia.com/archives/613947.html",
+      "date": "2026-07-05T09:00:00.000Z",
+      "summary": "AIが生成した顔画像は、本物の人間の写真と見分けがつかないほど精巧になり、誤情報やAIを使った詐欺の増加を招いている。オーストラリア国立大学（ANU）の研究チームは、参加者に対し、指の数など細部の欠陥を探す従来の方法ではなく…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
     },
     {
       "title": "番にはらまされた男性には死の危険！？助かる方法は子どもを卵に移すこと！？『獣人王のお手つきが身ごもりまして』第2巻【#2】",
@@ -589,7 +607,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260705/k10015169361000.html",
       "date": "2026-07-05T08:46:38.000Z",
       "summary": "「アジア最大の国際犯罪組織のひとつ」としてアメリカ当局から制裁を受けているカンボジアの複合企業の幹部とみられる44歳の容疑者が、日本での在留カードを不正に他人に渡し都内の区役所で手続きをさせたとして再逮捕された事件で、容疑者が調べに対し「身の危険を感じ、安全に暮らせる場所がほしかった」などと供述していることが分かりました。警視庁は日本に永住する目的があったとみて調べています。",
-      "source": "NHKニュース（主要）",
+      "source": "NHKニュース（社会）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -598,7 +616,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260705/k10015169311000.html",
       "date": "2026-07-05T08:33:54.000Z",
       "summary": "記録的な熱波に見舞われたフランスのパリでは、美しい町並みを特徴づけている亜鉛製の屋根によって室内が高温となり、住民からは、対策の必要性を訴える声も相次いでいます。",
-      "source": "NHKニュース（国際）",
+      "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -963,15 +981,6 @@
       "category": "music"
     },
     {
-      "title": "致死率98%「殺人アメーバ」が世界へ拡散、塩素に強い仲間も判明",
-      "url": "https://karapaia.com/archives/613660.html",
-      "date": "2026-07-04T23:00:00.000Z",
-      "summary": "2020年にお伝えした「脳を食べるアメーバ」、フォーラーネグレリアは、今もその勢力を拡大させており、世界33カ国以上ですでに約500件の感染例が報告されている。中国・中山大学などの研究チームが国際誌に発表した最新の報告によると、この殺人アメーバによる感染症の致死率は98%を超える…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
       "title": "乃木坂46、6期生曲「命の色」配信開始",
       "url": "https://ototoy.jp/news/130714",
       "date": "2026-07-04T23:00:00.000Z",
@@ -979,6 +988,15 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
+    },
+    {
+      "title": "致死率98%「殺人アメーバ」が世界へ拡散、塩素に強い仲間も判明",
+      "url": "https://karapaia.com/archives/613660.html",
+      "date": "2026-07-04T23:00:00.000Z",
+      "summary": "2020年にお伝えした「脳を食べるアメーバ」、フォーラーネグレリアは、今もその勢力を拡大させており、世界33カ国以上ですでに約500件の感染例が報告されている。中国・中山大学などの研究チームが国際誌に発表した最新の報告によると、この殺人アメーバによる感染症の致死率は98%を超える…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
     },
     {
       "title": "イラン ハメネイ師葬儀続く “米と1週間 協議中断合意”報道も",
