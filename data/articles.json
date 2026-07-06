@@ -1,28 +1,7 @@
 {
-  "generatedAt": "2026-07-06T15:57:31.554Z",
+  "generatedAt": "2026-07-06T20:17:36.724Z",
   "articleCount": 600,
   "feedStatus": [
-    {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-      "errors": []
-    },
-    {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（社会）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
-      "errors": []
-    },
     {
       "name": "NHKニュース（主要）",
       "category": "news",
@@ -38,6 +17,27 @@
       "errors": []
     },
     {
+      "name": "つくおき",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://cookien.com/feed/",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（国際）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（社会）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "errors": []
+    },
+    {
       "name": "クックパッドニュース",
       "category": "cooking",
       "ok": true,
@@ -45,10 +45,10 @@
       "errors": []
     },
     {
-      "name": "つくおき",
+      "name": "樋口直哉（TravelingFoodLab.）",
       "category": "cooking",
       "ok": true,
-      "usedUrl": "https://cookien.com/feed/",
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -73,13 +73,6 @@
       "errors": []
     },
     {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://sorae.info/feed",
-      "errors": []
-    },
-    {
       "name": "4Gamer（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
@@ -87,10 +80,10 @@
       "errors": []
     },
     {
-      "name": "インサイド（乙女ゲーム関連）",
-      "category": "otome",
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
+      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -101,10 +94,31 @@
       "errors": []
     },
     {
+      "name": "インサイド（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
+      "errors": []
+    },
+    {
       "name": "アニメ！アニメ！（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://animeanime.jp/rss20/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
+      "errors": []
+    },
+    {
+      "name": "CINRA",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://www.cinra.net/feed",
       "errors": []
     },
     {
@@ -115,10 +129,10 @@
       "errors": []
     },
     {
-      "name": "CINRA",
-      "category": "culture",
+      "name": "カラパイア",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://www.cinra.net/feed",
+      "usedUrl": "https://karapaia.com/index.rdf",
       "errors": []
     },
     {
@@ -136,10 +150,10 @@
       "errors": []
     },
     {
-      "name": "カラパイア",
-      "category": "documentary",
+      "name": "ほんのひきだし（本・出版）",
+      "category": "culture",
       "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
+      "usedUrl": "https://hon-hikidashi.jp/feed/",
       "errors": []
     },
     {
@@ -147,13 +161,6 @@
       "category": "culture",
       "ok": true,
       "usedUrl": "https://tokion.jp/feed/",
-      "errors": []
-    },
-    {
-      "name": "ほんのひきだし（本・出版）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://hon-hikidashi.jp/feed/",
       "errors": []
     },
     {
@@ -168,13 +175,6 @@
       "category": "culture",
       "ok": true,
       "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
-      "errors": []
-    },
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
       "errors": []
     }
   ],
@@ -268,6 +268,42 @@
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
+    },
+    {
+      "title": "東京 10代少女監禁事件 母親を再逮捕 ブルーシートで拘束か",
+      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170331000.html",
+      "date": "2026-07-06T20:08:25.000Z",
+      "summary": "ことし1月、都内の住宅で、知的障害のある10代の少女を押し入れの中に監禁したなどとして、40代の母親らが逮捕された事件で、母親が少女の胸元に凍らせたペットボトルを入れたうえ、ブルーシートを全身に巻きつけて拘束したなどとして、警視庁に再逮捕されたことが捜査関係者への取材で分かりました。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "ハマス ガザ地区の行政当局解散と発表も和平計画進展は不透明",
+      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015170241000.html",
+      "date": "2026-07-06T19:58:23.000Z",
+      "summary": "パレスチナのガザ地区を実効支配するイスラム組織ハマスは、みずからが運営するガザ地区の行政当局を解散したと発表しました。ただ和平計画に盛り込まれている武装解除には言及しておらず、計画の進展につながるかは不透明です。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "トランプ大統領 FIFA会長に電話で判定の再検討求めたと認める",
+      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170451000.html",
+      "date": "2026-07-06T19:57:31.000Z",
+      "summary": "アメリカのトランプ大統領は6日、記者団に対し、サッカーワールドカップ北中米大会でアメリカ代表の選手がレッドカードで退場になった判定について、FIFA＝国際サッカー連盟の会長に電話し再検討を求めていたことを認めました。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "ネアンデルタール人と現生人類 文化交流か トルコの洞窟で発見",
+      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170291000.html",
+      "date": "2026-07-06T19:56:23.000Z",
+      "summary": "トルコ南部の洞窟で、ネアンデルタール人と、現在の人類、ホモ・サピエンスの間に文化的な交流があった可能性を示す貝が見つかったと、京都大学などの研究グループが発表しました。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
     },
     {
       "title": "オーストラリア首相、カイリー・ミノーグに関する不適切発言で激しい批判を浴び、公に謝罪",
@@ -364,7 +400,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260706/k10015169931000.html",
       "date": "2026-07-06T13:46:14.000Z",
       "summary": "中国海軍は日本時間の6日午後1時すぎ、戦略原子力潜水艦が訓練用の模擬弾頭を搭載した戦略ミサイル1発を発射し、太平洋の公海上に着弾させたと発表しました。日本政府は中国から弾道ミサイルを発射すると説明を受けたとしていて、中国側には軍事活動が活発化していることへの深刻な懸念を伝えたということです。",
-      "source": "NHKニュース（国際）",
+      "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -373,7 +409,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260706/k10015170271000.html",
       "date": "2026-07-06T13:40:53.000Z",
       "summary": "フィリピンの議会上院で、機密費の不正使用などをめぐり、ドゥテルテ前大統領の長女、サラ・ドゥテルテ副大統領に対する弾劾裁判が6日から始まりました。弾劾裁判の行方次第では、サラ氏は2028年に予定されている大統領選挙に立候補できなくなる可能性があります。",
-      "source": "NHKニュース（国際）",
+      "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -409,7 +445,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260706/k10015170311000.html",
       "date": "2026-07-06T13:18:47.000Z",
       "summary": "大型で猛烈な台風9号は、午後6時の時点で中心気圧は910ヘクトパスカル、中心付近の最大風速は55メートル、最大瞬間風速は80メートルで、日本のはるか南のマリアナ諸島付近を西寄りに進んでいます。アメリカのJTWC＝米軍合同台風警報センターは、「スーパータイフーン」＝「スーパー台風」だと解析しています。",
-      "source": "NHKニュース（社会）",
+      "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -585,15 +621,6 @@
       "category": "music"
     },
     {
-      "title": "ハマス ガザ地区の行政当局を解散と発表 先行きは不透明",
-      "url": "http://www3.nhk.or.jp/news/html/20260706/k10015170241000.html",
-      "date": "2026-07-06T11:52:34.000Z",
-      "summary": "パレスチナのガザ地区を実効支配しているイスラム組織ハマスは6日、みずからが運営するガザ地区の行政当局を解散したと発表しました。アメリカのトランプ大統領が推し進める和平計画に基づき、パレスチナ人の専門家で構成される委員会に権限を移譲するためなどと主張しています。ただ、和平計画に盛り込まれたハマスの武装解除については言及がないほか、権限の移譲先となる委員会はガザ地区に入ることができていないなど、先行きは不透明です。ハマスは2007年からガザ",
-      "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
       "title": "「センチメンタルグラフティリメイク」の対応機種，PS5とSwitchに決定",
       "url": "https://www.4gamer.net/games/021/G102118/20260706041/",
       "date": "2026-07-06T11:37:21.000Z",
@@ -616,7 +643,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260706/k10015170191000.html",
       "date": "2026-07-06T11:19:11.000Z",
       "summary": "KDDIは、企業に提供しているメールシステムで発生した不正アクセスについて、およそ1200万人分のアドレスが漏えいし、このうちおよそ760万人分については、パスワードの漏えいも確認されたなどとする調査結果を公表しました。",
-      "source": "NHKニュース（社会）",
+      "source": "NHKニュース（科学・文化）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -891,21 +918,21 @@
       "category": "cooking"
     },
     {
-      "title": "清掃ロボットが販売もしていた",
-      "url": "https://dailyportalz.jp/koresugo/robots-hanbai",
-      "date": "2026-07-06T07:00:00.000Z",
-      "summary": "地元スーパーで夕飯の買い物をしているとガラガラと不思議な音が。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
       "title": "クロコンドルがアメリカの住宅街を占拠、フン害に悩む住民が手を出せない理由",
       "url": "https://karapaia.com/archives/613933.html",
       "date": "2026-07-06T07:00:00.000Z",
       "summary": "アメリカの住宅街に、クロコンドルの群れが居着いて住民を困らせている。動物の死骸を食べて掃除する生態系で重要な役割を果たしている鳥だが、車や屋根に落とす大量のフンは悪臭を放ち、酸性のため、時間がたつと表面を傷めていく。クロコンドルは近年アメリカで生息域を北へ広げ…",
       "source": "カラパイア",
       "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
+      "title": "清掃ロボットが販売もしていた",
+      "url": "https://dailyportalz.jp/koresugo/robots-hanbai",
+      "date": "2026-07-06T07:00:00.000Z",
+      "summary": "地元スーパーで夕飯の買い物をしているとガラガラと不思議な音が。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
     },
     {
@@ -1332,15 +1359,6 @@
       "category": "cooking"
     },
     {
-      "title": "キリンは足し算ができる可能性。でも引き算はできない",
-      "url": "https://karapaia.com/archives/614177.html",
-      "date": "2026-07-05T23:00:00.000Z",
-      "summary": "キリンは数が多いか少ないかを理解できることはこれまでの研究でわかっていた。では数を記憶し、足し算することは可能なのか。スペインの動物園でおこなわれたバルセロナ大学の実験によると、キリンが頭の中で足し算をしていた可能性が示された。ただし引き算になると…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
       "title": "夏焼 雅プロデュースの新アイドルオーディション開催",
       "url": "https://ototoy.jp/news/130725",
       "date": "2026-07-05T23:00:00.000Z",
@@ -1357,6 +1375,15 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
+    },
+    {
+      "title": "キリンは足し算ができる可能性。でも引き算はできない",
+      "url": "https://karapaia.com/archives/614177.html",
+      "date": "2026-07-05T23:00:00.000Z",
+      "summary": "キリンは数が多いか少ないかを理解できることはこれまでの研究でわかっていた。では数を記憶し、足し算することは可能なのか。スペインの動物園でおこなわれたバルセロナ大学の実験によると、キリンが頭の中で足し算をしていた可能性が示された。ただし引き算になると…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
     },
     {
       "title": "ちゃくら『GIRLS BAND NEVER DIE』テクニックとエモーションの二兎を得た仕上がりが眩しい現代的バンドのメジャーデビュー作! - レビュー",
@@ -5551,33 +5578,6 @@
       "source": "青い日記帳（美術展）",
       "sourceHomepage": "https://bluediary2.jugem.jp/",
       "category": "culture"
-    },
-    {
-      "title": "AI活用歩行型ロボの実証実験推進を 規制改革推進会議 答申決定",
-      "url": "http://www3.nhk.or.jp/news/html/20260629/k10015163811000.html",
-      "date": "2026-06-29T08:15:32.000Z",
-      "summary": "政府の規制改革推進会議は、「フィジカルAI」を活用した歩行型ロボットの法律上の扱いを明確にし、公道での実証実験を推進することなどを盛り込んだ答申を決定しました。",
-      "source": "NHKニュース（科学・文化）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "下ごしらえからフライパンでいける、鶏むね肉となすのラタトゥイユ風夏メシ【筋肉料理人】",
-      "url": "https://www.hotpepper.jp/mesitsu/entry/kinniku/2026-01319",
-      "date": "2026-06-29T00:00:00.000Z",
-      "summary": "こんにちは、料理と筋トレをこよなく愛する筋肉料理人です。 今日は、野菜がしっかりとれて、鶏むね肉でコスパよくたんぱく質も補給できる、ボリューム満点の夏メシ「鶏むね肉となすのワンパンラタトゥイユ風」をご紹介します。 トマトの酸味と甘み、にんにくの風味が効いて、野菜のうま味もたっぷり。フライパン1つで完成します。 加熱するとパサつきがちな鶏むね肉は、マヨネーズでしっとり仕上げるのがポイント。その下ごしらえもフライパンの中で済ませて、洗い物を",
-      "source": "メシ通（ホットペッパーグルメ）",
-      "sourceHomepage": "https://www.hotpepper.jp/mesitsu/",
-      "category": "cooking"
-    },
-    {
-      "title": "身近な調味料で◎ 基本の麻婆豆腐",
-      "url": "https://cookien.com/recipe/5593/",
-      "date": "2026-06-27T02:59:38.000Z",
-      "summary": "家にある調味料で簡単おいしい、基本の麻婆豆腐のレシピです。市販の素や甜麺醤を使わず、みそと醤油でコクうま味に。豆腐の下ごしらえ・辛さ調整・本格アレンジまで広く紹介します。 お料理メモ メモ1: 豆腐の選び方と下ごしらえの Read More",
-      "source": "つくおき",
-      "sourceHomepage": "https://cookien.com/",
-      "category": "cooking"
     }
   ]
 }
