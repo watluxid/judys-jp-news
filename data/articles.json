@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-07-07T15:20:19.500Z",
+  "generatedAt": "2026-07-07T20:18:50.794Z",
   "articleCount": 600,
   "feedStatus": [
+    {
+      "name": "NHKニュース（社会）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "errors": []
+    },
     {
       "name": "NHKニュース（主要）",
       "category": "news",
@@ -14,27 +28,6 @@
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（社会）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
-      "errors": []
-    },
-    {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（科学・文化）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -52,6 +45,13 @@
       "errors": []
     },
     {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "errors": []
+    },
+    {
       "name": "Mikiki（タワーレコード）",
       "category": "music",
       "ok": true,
@@ -63,20 +63,6 @@
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
-      "errors": []
-    },
-    {
-      "name": "4Gamer（乙女ゲーム関連）",
-      "category": "otome",
-      "ok": true,
-      "usedUrl": "https://www.4gamer.net/rss/index.xml",
-      "errors": []
-    },
-    {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -94,10 +80,17 @@
       "errors": []
     },
     {
-      "name": "デイリーポータルZ",
+      "name": "4Gamer（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://www.4gamer.net/rss/index.xml",
+      "errors": []
+    },
+    {
+      "name": "sorae（宇宙・天文）",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -122,13 +115,6 @@
       "errors": []
     },
     {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
-      "errors": []
-    },
-    {
       "name": "ナゾロジー",
       "category": "documentary",
       "ok": true,
@@ -136,10 +122,10 @@
       "errors": []
     },
     {
-      "name": "和樂web",
-      "category": "culture",
+      "name": "デイリーポータルZ",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://intojapanwaraku.com/feed",
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -150,17 +136,10 @@
       "errors": []
     },
     {
-      "name": "TOKION",
+      "name": "和樂web",
       "category": "culture",
       "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
-      "errors": []
-    },
-    {
-      "name": "青い日記帳（美術展）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
+      "usedUrl": "https://intojapanwaraku.com/feed",
       "errors": []
     },
     {
@@ -171,14 +150,62 @@
       "errors": []
     },
     {
+      "name": "青い日記帳（美術展）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
+      "errors": []
+    },
+    {
       "name": "ほんのひきだし（本・出版）",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://hon-hikidashi.jp/feed/",
       "errors": []
+    },
+    {
+      "name": "TOKION",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://tokion.jp/feed/",
+      "errors": []
+    },
+    {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
+      "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "U2 新曲「Streets of Dreams」をリリース ミュージックビデオ公開",
+      "url": "https://amass.jp/190542/",
+      "date": "2026-07-08T01:26:00.000Z",
+      "summary": "U2は新曲「Streets of Dreams」をリリース。ミュージックビデオが公開されています。プロデュースはジャックナイフ・リー。この曲は発売を予定している新スタジオ・アルバムからの先行シングル https://amass.jp/190542/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ロジャー・ダルトリー 75年米TV番組『The Midnight Special』から「Get Your Love」のライヴ映像公開",
+      "url": "https://amass.jp/190541/",
+      "date": "2026-07-08T00:40:00.000Z",
+      "summary": "ザ・フーのロジャー・ダルトリーが1975年11月7日に米国の音楽番組『The Midnight Special』で披露したパフォーマンスのオフィシャル・ライヴ映像が公開。曲は「Get Your Love」 https://amass.jp/190541/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "アラバマ・シェイクス、11年ぶりの新アルバム『I Must Be Dreaming』発売",
+      "url": "https://amass.jp/190540/",
+      "date": "2026-07-08T00:35:00.000Z",
+      "summary": "アラバマ・シェイクス（Alabama Shakes）は、11年ぶりとなる新スタジオ・アルバム『I Must Be Dreaming』を海外で8月28日発売。アルバム・トレーラー映像あり。7月10日には新シングル・リリース予定 https://amass.jp/190540/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "コーネリアス 新曲「Twisting & Glistening」公開",
       "url": "https://amass.jp/190539/",
@@ -250,6 +277,24 @@
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
+    },
+    {
+      "title": "臓器移植法違反事件 “医師への謝礼”名目の金で借金返済か",
+      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171251000.html",
+      "date": "2026-07-07T20:12:40.000Z",
+      "summary": "都内に住む男性にカンボジアでの臓器移植手術をあっせんし、その対価として1200万円余りを受け取ったとしてNPO法人の元理事ら3人が逮捕された事件で、元理事が医師への謝礼などの名目で受け取った金の大半をみずからの借金の返済にあてていたとみられることが、警視庁への取材で分かりました。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "クロマグロ国際会議8日開幕 新ルール合意で増枠できるか焦点",
+      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171241000.html",
+      "date": "2026-07-07T20:06:45.000Z",
+      "summary": "太平洋クロマグロの資源管理を話し合う国際会議が8日から長崎市で開かれます。漁獲量の急増で上限に迫り一部の地域で漁を停止するなどの事態も起きる中、水産庁は新たなルールで合意し、漁獲枠の拡大につなげたい考えです。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
     },
     {
       "title": "ザ・スペシャルズ、最後のアルバム／故テリー・ホールが今もバンドのレガシーの中心／ザ・クラッシュが彼らの「基準を作った」ことを語る",
@@ -355,7 +400,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260707/k10015171321000.html",
       "date": "2026-07-07T14:36:09.000Z",
       "summary": "中国政府が軍民両用の品目の日本への輸出管理を強化するなか、日本人2人がレアアースの輸出に関連して逮捕されたことなどを受けて、北京にある日本大使館は企業などに注意を呼びかけました。",
-      "source": "NHKニュース（主要）",
+      "source": "NHKニュース（国際）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -409,7 +454,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260707/k10015171281000.html",
       "date": "2026-07-07T13:39:41.000Z",
       "summary": "フジテレビが制作したテレビドラマの撮影現場で、男性俳優から女性俳優に不適切な言動があったとする週刊誌の報道をめぐり、フジテレビは7日、経緯を説明する文書を公表し、2人の俳優に多大な負担と心労をかける事態となったとして謝罪しました。",
-      "source": "NHKニュース（主要）",
+      "source": "NHKニュース（社会）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -481,7 +526,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170891000.html",
       "date": "2026-07-07T12:51:27.000Z",
       "summary": "東京の設備工事会社の役員らが、カンボジアにあった子会社の売却に向けて登記の手続きを迅速に進めてもらう目的で、現地の公務員におよそ11万円相当の現金を渡したとして、外国の公務員への賄賂を禁じた不正競争防止法違反の罪で略式起訴されました。",
-      "source": "NHKニュース（国際）",
+      "source": "NHKニュース（社会）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -639,7 +684,7 @@
       "category": "music"
     },
     {
-      "title": "ヒト細胞に回路を組み込み生物学的コンピューターを開発、病気の幹部に治療薬を放出",
+      "title": "ヒト細胞に回路を組み込み生物学的コンピューターを開発、病気の患部に治療薬を放出",
       "url": "https://karapaia.com/archives/614219.html",
       "date": "2026-07-07T11:30:00.000Z",
       "summary": "人間の細胞に回路を組み込んだ生物学的コンピューターが開発された。イスラエルにあるエルサレム・ヘブライ大学の研究チームが構築したこの技術は、がんなど複雑な病気のサインを細胞自身に計算させるものだ。病気の患部であると判断した時にだけ、正確に治療薬を放出する…",
@@ -828,6 +873,15 @@
       "category": "documentary"
     },
     {
+      "title": "「不気味の谷」を越える日も近い？感情を認識するAIリアルヒューマノイドが公開（中国）",
+      "url": "https://karapaia.com/archives/613776.html",
+      "date": "2026-07-07T09:00:00.000Z",
+      "summary": "中国のロボット企業、ユービーテック（UBTECH）社が、等身大の人型ロボット「UWORLD U1」シリーズを正式発表した。これらのシリコン製のヒューマノイドを開発した背景には一人暮らしの人や独居老人の増加といった、現代ならではの社会問題があるという。開発したユービーテック（UBTECH）社は…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
       "title": "I See.、繊細な新曲「サムネイルファンタジー」リリース",
       "url": "https://ototoy.jp/news/130739",
       "date": "2026-07-07T09:00:00.000Z",
@@ -844,15 +898,6 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
-    },
-    {
-      "title": "「不気味の谷」を越える日も近い？感情を認識するAIリアルヒューマノイドが公開（中国）",
-      "url": "https://karapaia.com/archives/613776.html",
-      "date": "2026-07-07T09:00:00.000Z",
-      "summary": "中国のロボット企業、ユービーテック（UBTECH）社が、等身大の人型ロボット「UWORLD U1」シリーズを正式発表した。これらのシリコン製のヒューマノイドを開発した背景には一人暮らしの人や独居老人の増加といった、現代ならではの社会問題があるという。開発したユービーテック（UBTECH）社は…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
     },
     {
       "title": "リニア中央新幹線 静岡県知事 県内の着工容認を表明",
@@ -5533,51 +5578,6 @@
       "source": "Mikiki（タワーレコード）",
       "sourceHomepage": "https://mikiki.tokyo.jp/",
       "category": "music"
-    },
-    {
-      "title": "映画「カウント・ベイシー」が映すキング・オブ・スウィングのスタイルと素顔に冨田ラボは何を思う? - コラム",
-      "url": "https://mikiki.tokyo.jp/articles/-/45353",
-      "date": "2026-07-03T02:46:00.000Z",
-      "summary": "映画「カウント・ベイシー」が映すキング・オブ・スウィングのスタイルと素顔に冨田ラボは何を思う?",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "【タワレコ店長おすすめの1枚】アラン・トゥーサン（Allen Toussaint）のピアノソロライブを収録した傑作『Songbook』が拡大版に! - 連載",
-      "url": "https://mikiki.tokyo.jp/articles/-/45334",
-      "date": "2026-07-03T02:45:00.000Z",
-      "summary": "【タワレコ店長おすすめの1枚】アラン・トゥーサン（Allen Toussaint）のピアノソロライブを収録した傑作『Songbook』が拡大版に!",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "三宅香帆が「物語」を通して「家族の形」に切り込む。最新刊『「夫婦」不在社会』7月16日刊行",
-      "url": "https://www.cinra.net/article/202607-whn-miyakekaho_edteam",
-      "date": "2026-07-03T02:44:00.000Z",
-      "summary": "文芸評論家・三宅香帆の著書『「夫婦」不在社会』が7月16日に刊行される。",
-      "source": "CINRA",
-      "sourceHomepage": "https://www.cinra.net/",
-      "category": "culture"
-    },
-    {
-      "title": "「在宅勤務」で”別れ”を考えるカップルの特徴とは",
-      "url": "https://nazology.kusuguru.co.jp/archives/197153",
-      "date": "2026-07-03T02:30:09.000Z",
-      "summary": "在宅勤務は、通勤時間を減らし、仕事と家庭を両立しやすくする働き方として広がりました。 しかし、家が職場になることで、仕事と私生活の境界線があいまいになり、かえってストレスが増える人もいます。 では、その影響は一緒に暮らすパートナーとの関係にも及ぶのでしょうか。 英インペリアル・カレッジ・ビジネス・スクール（Imperial Business School）などの研究チームは、在宅勤務のもとで仕事と家庭の境界線が崩れると、カップルの孤独感",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "覆面作家・雨穴さんの「変な絵」 ダガー賞翻訳部門 受賞逃す",
-      "url": "http://www3.nhk.or.jp/news/html/20260703/k10015167871000.html",
-      "date": "2026-07-03T02:05:16.000Z",
-      "summary": "優れた推理小説に贈られる英国推理作家協会賞＝「ダガー賞」の受賞作品が発表され、翻訳部門で最終候補に残っていたユーチューバーで覆面の日本人作家、雨穴さんの「変な絵」は受賞を逃しました。",
-      "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
     }
   ]
 }
