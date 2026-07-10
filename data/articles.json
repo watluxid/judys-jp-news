@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-10T15:06:06.758Z",
+  "generatedAt": "2026-07-10T19:55:08.343Z",
   "articleCount": 600,
   "feedStatus": [
     {
-      "name": "NHKニュース（科学・文化）",
+      "name": "NHKニュース（主要）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
       "errors": []
     },
     {
@@ -17,17 +17,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（主要）",
+      "name": "NHKニュース（科学・文化）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-      "errors": []
-    },
-    {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -42,6 +35,13 @@
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://news.cookpad.com/feeds/news.rss",
+      "errors": []
+    },
+    {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -73,13 +73,6 @@
       "errors": []
     },
     {
-      "name": "リアルサウンド",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
-      "errors": []
-    },
-    {
       "name": "sorae（宇宙・天文）",
       "category": "documentary",
       "ok": true,
@@ -94,10 +87,10 @@
       "errors": []
     },
     {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
+      "name": "リアルサウンド",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "usedUrl": "https://realsound.jp/atom.xml",
       "errors": []
     },
     {
@@ -115,31 +108,10 @@
       "errors": []
     },
     {
-      "name": "ナゾロジー",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
-      "errors": []
-    },
-    {
       "name": "CINRA",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://www.cinra.net/feed",
-      "errors": []
-    },
-    {
-      "name": "カラパイア",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "TOKION",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
       "errors": []
     },
     {
@@ -150,10 +122,38 @@
       "errors": []
     },
     {
+      "name": "デイリーポータルZ",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "errors": []
+    },
+    {
+      "name": "ナゾロジー",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "errors": []
+    },
+    {
+      "name": "カラパイア",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://karapaia.com/index.rdf",
+      "errors": []
+    },
+    {
       "name": "和樂web",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://intojapanwaraku.com/feed",
+      "errors": []
+    },
+    {
+      "name": "TOKION",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://tokion.jp/feed/",
       "errors": []
     },
     {
@@ -179,6 +179,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "「前田寛治 ポエジイとレアリスム」",
+      "url": "https://bluediary2.jugem.jp/?eid=8125",
+      "date": "2026-07-11T13:04:00.000Z",
+      "summary": "東京ステーションギャラリーで開催中の 「生誕130年 前田寛治 ポエジイとレアリスム 一九三〇年協会設立100年」展へ行って来ました。 https://www.ejrcf.or.jp/gallery/ 東京ステーションギャラリーでは、これまでも日本近代美術史の中で十分に語られてこなかっ...",
+      "source": "青い日記帳（美術展）",
+      "sourceHomepage": "https://bluediary2.jugem.jp/",
+      "category": "culture"
+    },
     {
       "title": "浜野はるき、初のLINE CUBE SHIBUYAでの単独公演開催 新たなファンクラブ開設＆チケット先行も",
       "url": "https://realsound.jp/2026/07/post-2456607.html",
@@ -369,6 +378,15 @@
       "category": "music"
     },
     {
+      "title": "日本が支援のインドネシアの港でコンテナターミナルの利用開始",
+      "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174151000.html",
+      "date": "2026-07-10T16:31:27.000Z",
+      "summary": "経済成長が続くインドネシアで、日本からの円借款を受けて整備が進められてきた新たな港のコンテナターミナルの利用が始まり、近郊に多くの日系企業が進出する中、安定した輸送やコストの削減につながることが期待されています。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "坂本龍一とアルヴァ・ノトが2022年に録音した未発表音源をまとめたコラボ・アルバム『12 Conversations』発売",
       "url": "https://amass.jp/190616/",
       "date": "2026-07-10T16:22:00.000Z",
@@ -378,19 +396,28 @@
       "category": "music"
     },
     {
-      "title": "宮古島・八重山地方 11日明け方～夕方 線状降水帯発生のおそれ",
-      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015174141000.html",
-      "date": "2026-07-10T14:51:42.000Z",
-      "summary": "沖縄県の宮古島地方と八重山地方では、11日明け方から夕方にかけて、線状降水帯が発生して、災害の危険度が急激に高まる可能性があり、気象庁が厳重に警戒するよう呼びかけています。",
+      "title": "台風9号 沖縄 先島諸島・本島地方が暴風域に 厳重警戒を",
+      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015173061000.html",
+      "date": "2026-07-10T15:52:58.000Z",
+      "summary": "大型で強い台風9号は、沖縄県の先島諸島や本島地方を暴風域に巻き込みながら進んでいて、11日の午前中、先島諸島にかなり近づく見込みです。先島諸島では風がさらに強まり、11日夜にかけて長時間暴風となるほか、明け方から夕方にかけて線状降水帯が発生して災害の危険度が急激に高まる可能性があり、安全な場所で過ごすようにしてください。",
       "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
     {
-      "title": "台風9号 沖縄 先島諸島・本島地方が暴風域に 厳重警戒を",
-      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015173061000.html",
-      "date": "2026-07-10T14:40:56.000Z",
-      "summary": "大型で非常に強い台風9号は、沖縄県の先島諸島や本島地方を暴風域に巻き込みながら進んでいて、先島諸島に11日の午前中、かなり近づく見込みです。先島諸島では風がさらに強まり、11日の夜にかけて長時間暴風となる見込みで、頑丈な建物など、安全な場所で過ごすようにしてください。",
+      "title": "スペイン南部 大規模山火事 少なくとも12人死亡 23人行方不明",
+      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015173961000.html",
+      "date": "2026-07-10T15:38:11.000Z",
+      "summary": "スペイン南部で大規模な山火事が発生し、地元当局によりますと、これまでに少なくとも12人が死亡したほか、23人が行方不明になっているということです。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "宮古島・八重山地方 11日明け方～夕方 線状降水帯発生のおそれ",
+      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015174141000.html",
+      "date": "2026-07-10T14:51:42.000Z",
+      "summary": "沖縄県の宮古島地方と八重山地方では、11日明け方から夕方にかけて、線状降水帯が発生して、災害の危険度が急激に高まる可能性があり、気象庁が厳重に警戒するよう呼びかけています。",
       "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
@@ -502,15 +529,6 @@
       "source": "ナゾロジー",
       "sourceHomepage": "https://nazology.kusuguru.co.jp/",
       "category": "documentary"
-    },
-    {
-      "title": "スペイン南部 大規模山火事 少なくとも11人死亡 19人行方不明",
-      "url": "http://www3.nhk.or.jp/news/html/20260710/k10015173961000.html",
-      "date": "2026-07-10T12:19:56.000Z",
-      "summary": "スペイン南部で大規模な山火事が発生し、地元当局によりますと、これまでに少なくとも11人が死亡したほか、19人が行方不明になっているということです。",
-      "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
     },
     {
       "title": "幸福の科学総裁の法話紹介した番組 審議入り BPO倫理検証委",
@@ -855,6 +873,15 @@
       "category": "otome"
     },
     {
+      "title": "頓知気さきな&兎遊、新アイドルユニット・うゆさきな結成",
+      "url": "https://ototoy.jp/news/130794",
+      "date": "2026-07-10T09:00:00.000Z",
+      "summary": "頓知気さきなと兎遊が新アイドルユニット・うゆさきなを結成した",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
       "title": "二度寝をするための旅（傑作選）",
       "url": "https://dailyportalz.jp//kiji/nidone-travel",
       "date": "2026-07-10T09:00:00.000Z",
@@ -871,15 +898,6 @@
       "source": "カラパイア",
       "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
-    },
-    {
-      "title": "頓知気さきな&兎遊、新アイドルユニット・うゆさきな結成",
-      "url": "https://ototoy.jp/news/130794",
-      "date": "2026-07-10T09:00:00.000Z",
-      "summary": "頓知気さきなと兎遊が新アイドルユニット・うゆさきなを結成した",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
     },
     {
       "title": "漫画家・いましろたかし、〈JULY TREE〉にて原画展開催中 7月12日に本人在廊＆DJイベント開催",
@@ -5560,24 +5578,6 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
-    },
-    {
-      "title": "【動画】Pickup NEWS(7月7日）",
-      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170201000.html",
-      "date": "2026-07-07T00:59:06.000Z",
-      "summary": "これまでに入っているニュースを、まとめて1分の動画でお伝えします。（データ放送では動画をご覧いただけません）",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "トランプ大統領 FIFA会長に再検討求めるも「指示はせず」",
-      "url": "http://www3.nhk.or.jp/news/html/20260707/k10015170451000.html",
-      "date": "2026-07-07T00:57:30.000Z",
-      "summary": "サッカーワールドカップ北中米大会で、アメリカ代表の選手がレッドカードで退場になったものの次の試合の出場停止が猶予されたことをめぐり、アメリカのトランプ大統領はFIFA＝国際サッカー連盟の会長に電話し、判定の再検討を求めていたことを認めました。一方で「何をすべきか指示したわけではない」と述べ、決定に介入したわけではないという認識を示しました。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
     }
   ]
 }
