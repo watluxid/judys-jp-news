@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-07-13T04:05:31.171Z",
+  "generatedAt": "2026-07-13T09:50:23.946Z",
   "articleCount": 600,
   "feedStatus": [
+    {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "errors": []
+    },
     {
       "name": "NHKニュース（主要）",
       "category": "news",
@@ -17,10 +24,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（科学・文化）",
-      "category": "news",
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -28,13 +35,6 @@
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
-      "errors": []
-    },
-    {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -59,24 +59,17 @@
       "errors": []
     },
     {
-      "name": "amass",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://amass.jp/rss/new",
-      "errors": []
-    },
-    {
-      "name": "リアルサウンド",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
-      "errors": []
-    },
-    {
       "name": "メシ通（ホットペッパーグルメ）",
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
+      "errors": []
+    },
+    {
+      "name": "amass",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://amass.jp/rss/new",
       "errors": []
     },
     {
@@ -94,17 +87,17 @@
       "errors": []
     },
     {
+      "name": "リアルサウンド",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://realsound.jp/atom.xml",
+      "errors": []
+    },
+    {
       "name": "インサイド（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -115,6 +108,13 @@
       "errors": []
     },
     {
+      "name": "ナゾロジー",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "errors": []
+    },
+    {
       "name": "CINRA",
       "category": "culture",
       "ok": true,
@@ -122,10 +122,17 @@
       "errors": []
     },
     {
-      "name": "ナゾロジー",
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
+      "errors": []
+    },
+    {
+      "name": "デイリーポータルZ",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -136,13 +143,6 @@
       "errors": []
     },
     {
-      "name": "和樂web",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://intojapanwaraku.com/feed",
-      "errors": []
-    },
-    {
       "name": "TOKION",
       "category": "culture",
       "ok": true,
@@ -150,10 +150,10 @@
       "errors": []
     },
     {
-      "name": "Art Annual online（美術）",
+      "name": "和樂web",
       "category": "culture",
       "ok": true,
-      "usedUrl": "https://www.art-annual.jp/feed",
+      "usedUrl": "https://intojapanwaraku.com/feed",
       "errors": []
     },
     {
@@ -164,21 +164,75 @@
       "errors": []
     },
     {
+      "name": "Art Annual online（美術）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://www.art-annual.jp/feed",
+      "errors": []
+    },
+    {
       "name": "青い日記帳（美術展）",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
-    },
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
-      "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "『ガールズバンドクライ』公式ゲーム発バンド F-272、デビュー曲「Diorama」リリース MV公開も",
+      "url": "https://realsound.jp/2026/07/post-2458687.html",
+      "date": "2026-07-13T18:17:20.000Z",
+      "summary": "『ガールズバンドクライ』の公式ゲーム『ガールズバンドクライ First Riff』に登場するオリジナル新バンド F-272が、デビュー曲「Diorama」を本日7月13日に配信リリース。また、本日20時にMVも公開され",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "NEK!、メジャー1stEP『B!NARY』リリース Shibuya eggmanでのフリーライブ＆サイン会開催も",
+      "url": "https://realsound.jp/2026/07/post-2458814.html",
+      "date": "2026-07-13T18:10:14.000Z",
+      "summary": "NEK!が、9月2日にメジャー1st EP『B!NARY』（読み：バイナリー）をリリースする。あわせて、7月18日に東京 Shibuya eggmanで開催されるフリーライブイベントにて、同作の予約購入者を対象としたサイン会を行うことを明らかにした。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "桑田佳祐インタビュー「全国ツアーは恩返し」 自らの音楽の原体験とツアーへの思いを語る",
+      "url": "https://realsound.jp/2026/07/post-2458389.html",
+      "date": "2026-07-13T18:00:04.000Z",
+      "summary": "今年3月11日にDate fmで放送された『Date fm Pass On The Message 〜桑田佳祐スペシャル〜』（MC 井上崇）の未放送部分も含め編集した桑田佳祐の重要なインタビューを掲載する。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "NELKE、8都市をめぐる全国ツアーを2027年6月より開催 チケットのファンクラブ先行受付開始",
+      "url": "https://realsound.jp/2026/07/post-2458624.html",
+      "date": "2026-07-13T17:45:47.000Z",
+      "summary": "NELKEが、2027年6月13日の石川 EIGHT HALL公演を皮切りに全国ツアーを開催する。 同情報は、7月10日にSGCホール有明にて開催された『ONE MAN LIVE TOUR 2026「VAST RES",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ミセス 大森元貴、制作部屋からドアップ写真まで近況を公開 「素敵な写真ばかり」「もっくんの目ってめちゃ綺麗」",
+      "url": "https://realsound.jp/2026/07/post-2458650.html",
+      "date": "2026-07-13T15:00:04.000Z",
+      "summary": "Mrs. GREEN APPLEの大森元貴が自身のInstagramを更新。大量の写真とともに近況を報告し、注目後集めている。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "劇場アニメ『ルックバック』 Eテレで7月25日再放送",
+      "url": "https://amass.jp/190646/",
+      "date": "2026-07-13T13:05:00.000Z",
+      "summary": "漫画家・藤本タツキが描いた渾身の青春物語が原作の劇場アニメーション作品『ルックバック』。NHKで再放送決定。Eテレで7月25日放送 https://amass.jp/190646/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "80年代にPMRCに反対した検閲反対団体を設立した活動家メアリー・モレロ死去 トム・モレロの母親",
       "url": "https://amass.jp/190645/",
@@ -243,12 +297,363 @@
       "category": "music"
     },
     {
+      "title": "大分 佐伯 4人刃物で刺され2人重傷 44歳男を逮捕 事件に関与か",
+      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175551000.html",
+      "date": "2026-07-13T09:48:15.000Z",
+      "summary": "13日午前、大分県佐伯市の店舗の駐車場などで4人が刃物で刺されるなどして2人が重傷です。いずれも命に別状はなく、警察は現場近くで包丁を所持していたとして44歳の男の容疑者を逮捕し、事件に関わった疑いがあるとみて調べています。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "横浜駅の有隣堂はダンジョン…語学書コーナーがあるのは横浜駅西口エキニア横浜店だった！『#神奈川に住んでるエルフ』【#3】",
+      "url": "https://hon-hikidashi.jp/book-person/161377/",
+      "date": "2026-07-13T09:45:01.000Z",
+      "summary": "ほんのひきだしでは、7月17日の漫画の日を記念して、出版社がおすすめする今夏に読んでほしい注目コミック作品の試し読み記事を配信します。 マイクロマガジン社のおすすめコミックは、 『#神奈川に住んでるエルフ』 です。 次に読む漫画を探している方、夏休みの自分時間を充実させたい方は、ぜひこの機会におすすめコミック作品をお楽しみください。 (adsbygoogle = window.adsbygoogle || []).push({}); 試",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "辺野古沖埋め立て承認めぐる訴訟 3人の原告適格認める 最高裁",
+      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175851000.html",
+      "date": "2026-07-13T09:32:07.000Z",
+      "summary": "沖縄県の名護市辺野古沖の埋め立て承認をめぐり、周辺の住民4人が国土交通大臣の裁決は違法だと訴えている裁判で、最高裁判所はこのうち3人について訴える資格があると判断し、国側の上告を退けました。今後、改めて那覇地方裁判所で本格的な審理が行われます。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "猫の毛づくろいには「友好」だけでなく「圧力」の意味もある",
+      "url": "https://nazology.kusuguru.co.jp/archives/197490",
+      "date": "2026-07-13T09:30:22.000Z",
+      "summary": "猫を複数飼っている人なら、きっと見たことがあるでしょう。 一匹の猫がもう一匹の頭や耳のあたりを、ペロペロと丁寧に舐めている「毛づくろい」の光景。 見ているだけで温かい気持ちになりますし、思わず「うちの子たち、仲がいいなあ」とつぶやきたくなります。 実際、科学の世界でもそう考えられてきました。 猫が別の猫の体を舐める行為——専門的にはアログルーミングと呼ばれます——は、長年にわたり「友好の証」「社会的な絆の表れ」として分類されてきたのです",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "ホルムズ海峡代替ルートでの原油調達進める 資源エネルギー庁",
+      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175821000.html",
+      "date": "2026-07-13T09:29:47.000Z",
+      "summary": "イランの革命防衛隊がホルムズ海峡を封鎖すると表明したことについて、資源エネルギー庁は13日の会見で、情勢が落ち着くには時間がかかるとの見通しを示したうえで、引き続き海峡を通らない代替ルートでの原油調達を進めていく考えを示しました。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "羽田空港 路面剥離で閉鎖していたC滑走路が運用再開",
+      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175781000.html",
+      "date": "2026-07-13T09:27:24.000Z",
+      "summary": "国土交通省東京空港事務所によりますと、路面の剥離が見つかって閉鎖していた羽田空港のC滑走路について午後5時50分ごろに運用を再開したということです。午後3時半ごろから修復作業を行っていました。この影響で一部の便に遅れが出ているということです。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "さあ夏本番のノースリーブ！乃木坂46・菅原咲月がソロ表紙＆巻頭グラビアを飾る『EX大衆』8・9月号は7月15日に発売",
+      "url": "https://hon-hikidashi.jp/news/165804/",
+      "date": "2026-07-13T09:25:44.000Z",
+      "summary": "新キャプテン就任で新たな夏の予感！ 乃木坂46・菅原咲月さんが表紙を飾る 『EX大衆』8・9月号 が7月15日（水）に発売されます。 撮影：HIROKAZU・双葉社 現在、夏の定番となった「真夏の全国ツアー2026」真っ最中の乃木坂46。今年5月に新キャプテンに就任したばかりの菅原咲月さんが、表紙＆巻頭グラビアに登場します。 テーマは、「あの頃の夏と、新しい夏」。『EX大衆』2022年7月号で、加入したばかりの初々しい姿を雑誌初グラビア",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "3万円の“貴族牛”が招いた悲劇…すみれ先生はまたもや優良物件を逃してしまう…『すみれ先生は料理したくない』【#15】",
+      "url": "https://hon-hikidashi.jp/book-person/163792/",
+      "date": "2026-07-13T09:15:54.000Z",
+      "summary": "ぶんか社の人気作品、 『すみれ先生は料理したくない』 第1話～第5話を配信します。 料理が苦手で、できれば台所には立ちたくない――。本作は、そんな“料理したくない”気持ちを抱えるすみれ先生が、超簡単レシピに挑戦しながら日々奮闘するクッキングコメディです。悪戦苦闘しつつ料理と向き合っていく姿をコミカルに描いた、料理が苦手な人ほど共感できる、新感覚のお料理漫画です。 作品が気になった方は、ぜひお近くの書店店頭でお買い求めください。 (ads",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "森田剛、鈴木杏、峯田和伸が高校時代の同級生役。初共演舞台『僕らの時代じゃない』",
+      "url": "https://www.cinra.net/article/202607-whn-bokuranojidaijanai_edteam",
+      "date": "2026-07-13T09:15:00.000Z",
+      "summary": "舞台『僕らの時代じゃない』が10月8日から東京・紀伊國屋ホールで上演。",
+      "source": "CINRA",
+      "sourceHomepage": "https://www.cinra.net/",
+      "category": "culture"
+    },
+    {
+      "title": "“桃”キャラといえば？ 3位「あはれ！名作くん」スウィーツ、2位「鬼滅の刃」獪岳、1位「アイナナ」百＜26年版＞",
+      "url": "https://animeanime.jp/article/2026/07/13/101019.html",
+      "date": "2026-07-13T09:05:02.000Z",
+      "summary": "アニメ！アニメ！では「“桃”キャラといえば？」と題した読者アンケートを昨年に引き続き実施しました。結果を発表します。",
+      "source": "アニメ！アニメ！（乙女ゲーム関連）",
+      "sourceHomepage": "https://animeanime.jp/",
+      "category": "otome"
+    },
+    {
+      "title": "cero荒内佑の初エッセイ集『小鳥たちの計画』文庫化。書き下ろしも加えて大幅増補、解説は三浦透子",
+      "url": "https://www.cinra.net/article/202607-whn-arauchiyu_edteam",
+      "date": "2026-07-13T09:04:00.000Z",
+      "summary": "荒内佑（cero）が2020年に筑摩書房より刊行した初のエッセイ集『小鳥たちの計画』が書き下ろしエッセイ7編を含む大幅な増補と改稿で文庫化。",
+      "source": "CINRA",
+      "sourceHomepage": "https://www.cinra.net/",
+      "category": "culture"
+    },
+    {
+      "title": "藝大発の前衛ポップバンド、カブトムシとは? 謎めいた4人組が新作『Panorama Pig』とベスト盤『ハクブツシ』を語るカブトムシ『ハクブツシ「感覚」』『ハクブツシ「遊び」』『ハクブツシ「わざ」』 - インタビュー",
+      "url": "https://mikiki.tokyo.jp/articles/-/45519",
+      "date": "2026-07-13T09:01:00.000Z",
+      "summary": "藝大発の前衛ポップバンド、カブトムシとは? 謎めいた4人組が新作『Panorama Pig』とベスト盤『ハクブツシ』を語る",
+      "source": "Mikiki（タワーレコード）",
+      "sourceHomepage": "https://mikiki.tokyo.jp/",
+      "category": "music"
+    },
+    {
+      "title": "【1人前100円以内の鶏むねレシピだけ厳選】夏の物価高を賢く乗り切る「鶏むねおかず」",
+      "url": "https://news.cookpad.com/articles/65220",
+      "date": "2026-07-13T09:00:00.000Z",
+      "summary": "夏の物価高が厳しくなっています。旅行の計画を立てている人も多く、この時期は少しでも食費を抑えたいですよね。そんなときに頼りになるのが鶏むね肉。1人前100円以内で作れる人気レシピを3品集めました...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "【西山瞳の鋼鉄のジャズ女】第102回 メタル出身ジャズミュージシャン座談会! マルセロ木村、鈴木直人、織原良次、馬場孝喜と語り合うあれこれ - 連載",
+      "url": "https://mikiki.tokyo.jp/articles/-/45503",
+      "date": "2026-07-13T09:00:00.000Z",
+      "summary": "【西山瞳の鋼鉄のジャズ女】第102回 メタル出身ジャズミュージシャン座談会! マルセロ木村、鈴木直人、織原良次、馬場孝喜と語り合うあれこれ",
+      "source": "Mikiki（タワーレコード）",
+      "sourceHomepage": "https://mikiki.tokyo.jp/",
+      "category": "music"
+    },
+    {
+      "title": "沖縄の謎フルーツ『ピタンガ』の正解を知りたい （傑作選）",
+      "url": "https://dailyportalz.jp/kiji/okinawa-nazo-fruits-pitanga",
+      "date": "2026-07-13T09:00:00.000Z",
+      "summary": "ピタンガ。沖縄の庭でよく育てられているが、現地でも存在すらあまり認知されていないという。その矛盾した存在感に迫ります。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "なぜ生やした？毛深いクロワッサンがタイで爆誕し、世界が動揺",
+      "url": "https://karapaia.com/archives/615473.html",
+      "date": "2026-07-13T09:00:00.000Z",
+      "summary": "タイのパタヤにある人気のパン屋が発売した新商品がSNSで拡散され、世界中で動揺が広がっている。話題となっているのは、食用の黒い藍藻をトッピングした、毛深いクロワッサンだ。クロワッサンに白いクリームを挟むまでは良かったが…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
+      "title": "「鎮痛剤」で心停止…？専門医が警告する、“ある種類の薬”の長期使用に潜む最大の皮肉",
+      "url": "https://hon-hikidashi.jp/book-person/165547/",
+      "date": "2026-07-13T08:50:26.000Z",
+      "summary": "ちょっとした頭痛や、腰・ひざの痛みがあるとき、ドラッグストアで手軽に買える「痛み止め（鎮痛剤）」に助けられている、という方は多いのではないでしょうか。 つらい痛みを抑えてくれる頼もしい存在ですが、「なんとなく手放せないから」とお守りのように長期間飲み続けてしまうと、知らず知らずのうちに心臓や血管に大きな負担をかけているかもしれません。 ※本稿は 『 科学的に証明された 突然死を招く習慣・長生きする習慣 』 （高橋書店）の一部を再編集した",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "愛知 豊田 市街地にイノシシ 4人けが その後捕獲",
+      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175661000.html",
+      "date": "2026-07-13T08:49:51.000Z",
+      "summary": "13日朝、愛知県豊田市の市街地でイノシシに襲われる被害が相次ぎ、合わせて4人がけがをしました。イノシシは警察などに捕獲されましたが、市は目撃した際には刺激しないよう注意を呼びかけています。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "英語の本を買いに来たエルフ…しかし、横浜駅の有隣堂に語学書コーナーが見当たらない『#神奈川に住んでるエルフ』【#2】",
+      "url": "https://hon-hikidashi.jp/book-person/161376/",
+      "date": "2026-07-13T08:45:54.000Z",
+      "summary": "ほんのひきだしでは、7月17日の漫画の日を記念して、出版社がおすすめする今夏に読んでほしい注目コミック作品の試し読み記事を配信します。 マイクロマガジン社のおすすめコミックは、 『#神奈川に住んでるエルフ』 です。 次に読む漫画を探している方、夏休みの自分時間を充実させたい方は、ぜひこの機会におすすめコミック作品をお楽しみください。 (adsbygoogle = window.adsbygoogle || []).push({}); 試",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "メッタ刺しにされた3万円の“貴族牛”…すみれ先生が捧げたのは“葬送曲”！？『すみれ先生は料理したくない』【#14】",
+      "url": "https://hon-hikidashi.jp/book-person/163778/",
+      "date": "2026-07-13T08:45:17.000Z",
+      "summary": "ぶんか社の人気作品、 『すみれ先生は料理したくない』 第1話～第5話を配信します。 料理が苦手で、できれば台所には立ちたくない――。本作は、そんな“料理したくない”気持ちを抱えるすみれ先生が、超簡単レシピに挑戦しながら日々奮闘するクッキングコメディです。悪戦苦闘しつつ料理と向き合っていく姿をコミカルに描いた、料理が苦手な人ほど共感できる、新感覚のお料理漫画です。 作品が気になった方は、ぜひお近くの書店店頭でお買い求めください。 (ads",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "日本学士院賞の授賞式 天皇陛下も出席され開かれる",
+      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175811000.html",
+      "date": "2026-07-13T08:45:05.000Z",
+      "summary": "学術の分野で優れた業績をあげた研究者に贈られる日本学士院賞の授賞式が、天皇陛下も出席されて東京で開かれました。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "JAXAの小型実験機「RV-X」が約40秒の飛行試験を実施 基幹ロケット再使用化への新たな一歩",
+      "url": "https://sorae.info/space/20260713-jaxa-rv-x.html",
+      "date": "2026-07-13T08:22:04.000Z",
+      "summary": "JAXA（宇宙航空研究開発機構）は2026年7月11日、小型実験機「RV-X」による再使用ロケット実験の初めての飛行試験を秋田県の能代ロケット実験場にて実施しました。 JAXAによると、機体は離陸から着陸まで正常に飛行し…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
+    },
+    {
+      "title": "アメリカ中央軍 イランへ追加攻撃発表 協議再開か不透明",
+      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175301000.html",
+      "date": "2026-07-13T08:20:23.000Z",
+      "summary": "中東地域を管轄するアメリカ中央軍は日本時間の13日、イランへの追加攻撃を行ったと明らかにしました。ホルムズ海峡の航行をめぐりアメリカとイラン双方が攻撃を繰り返すなか、両国の協議が再開されるのか不透明な情勢が続いています。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "「読書には3タイプある」現代人が偏りがちな2つのタイプとは",
+      "url": "https://nazology.kusuguru.co.jp/archives/197473",
+      "date": "2026-07-13T08:00:33.000Z",
+      "summary": "本やニュース記事を読むとき、私たちはすべての文章を同じように読んでいるわけではありません。 英オックスフォード大学で哲学の教鞭をとり、現在は作家として活動するジョニー・トムソン（Jonny Thomson）氏は「読書に大きく分けて3タイプの読み方がある」といいます。 その3つとは、 「拾い読み」「流し読み」「精読」 です。 そしてトムソン氏によれば、デジタルコンテンツに囲まれた現代人は、知らないうちに2つの読み方に偏っているという。 で",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "Jobim’s bossa nova as performed by the Morelenbaums and Ryuichi Sakamoto: Listening to the newly remastered masterpiece “Casa” - コラム",
+      "url": "https://mikiki.tokyo.jp/articles/-/45344",
+      "date": "2026-07-13T08:00:00.000Z",
+      "summary": "Jobim’s bossa nova as performed by the Morelenbaums and Ryuichi Sakamoto: Listening to the newly rem…",
+      "source": "Mikiki（タワーレコード）",
+      "sourceHomepage": "https://mikiki.tokyo.jp/",
+      "category": "music"
+    },
+    {
+      "title": "王冠は受け継がれ，騎士たちは未来へ。“傷跡”を越え進むKnightsの物語「『あんさんぶるスターズ！THE STAGE』-Requiem from Knights-」",
+      "url": "https://www.4gamer.net/games/440/G044054/20260708038/",
+      "date": "2026-07-13T08:00:00.000Z",
+      "summary": "王位継承を懸けた「Knights」の戦いを描く舞台「『あんさんぶるスターズ！THESTAGE』-RequiemfromKnights-」。王としての月永レオ，未来を託される朱桜司，そして騎士たちの選択を中心に，ゲネプロの模様をレポートする。",
+      "source": "4Gamer（乙女ゲーム関連）",
+      "sourceHomepage": "https://www.4gamer.net/",
+      "category": "otome"
+    },
+    {
+      "title": "誰かの好きなものは、誰かは忘れている / うっかりデイリー 2026年7月11日号",
+      "url": "https://dailyportalz.jp/dpq/ukkari_20260711",
+      "date": "2026-07-13T08:00:00.000Z",
+      "summary": "デイリーポータルZが配信しているメルマガ「うっかりデイリー7/11配信号です。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "東京 警察署に勾留中のトルコ国籍男性が死亡 経緯調べる",
+      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175761000.html",
+      "date": "2026-07-13T07:47:30.000Z",
+      "summary": "入国管理法違反の疑いで逮捕され、東京 八王子市の警察署に勾留されていたトルコ国籍の48歳の男性が7月2日、トイレで倒れているのが見つかり、その後、死亡していたことが分かりました。前日に腹痛を訴えましたが、病院で入院の必要はないと判断され留置場に戻っていたということで、警視庁が詳しい経緯を調べています。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "ベネズエラ大地震 被害の実態把握なお課題",
+      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175261000.html",
+      "date": "2026-07-13T07:45:36.000Z",
+      "summary": "南米ベネズエラで先月に起きた大地震は、捜索が難航するなか、死者が増え続けていて、確認された死者は4400人を超えました。建物の被害は政府の発表を大きく上回るという推計もあり、国際社会から支援を受けるためには、被害の実態を正確に把握し、情報を公開していくことも課題になりそうです。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "岩手 雫石町の住宅にクマが入り込む この住宅では今月4回目",
+      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175741000.html",
+      "date": "2026-07-13T07:44:37.000Z",
+      "summary": "11日、岩手県雫石町にある住宅の中にクマが入り込みました。けが人はいませんでしたが、この住宅にクマが入り込むのは今月に入って4回目で、町が電気柵を設置するなど対応を強化しています。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "北海道 江別 公園での強盗致死事件 2人の被告が起訴内容認める",
+      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175631000.html",
+      "date": "2026-07-13T07:33:22.000Z",
+      "summary": "おととし、北海道江別市の公園で男子大学生から金品などを奪ったうえ、暴行を加えて死亡させた罪などで起訴された6人のうち、当時18歳のアルバイト従業員だった被告と当時17歳の少年だった被告の初公判が開かれ、いずれも起訴された内容を認めました。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "RPGの創作指南書『堀井雄二のドラゴンクエストのつくりかた』が7月17日刊行",
+      "url": "https://www.cinra.net/article/202607-whn-dq_edteam",
+      "date": "2026-07-13T07:25:00.000Z",
+      "summary": "堀井雄二、塩崎剛三によるRPGの創作指南書『堀井雄二のドラゴンクエストのつくりかた』が7月17日に刊行される。",
+      "source": "CINRA",
+      "sourceHomepage": "https://www.cinra.net/",
+      "category": "culture"
+    },
+    {
+      "title": "秋田 2人死亡の火事 夫婦と連絡とれず 息子は交通事故で搬送",
+      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175591000.html",
+      "date": "2026-07-13T07:17:33.000Z",
+      "summary": "13日朝、秋田県にかほ市で住宅1棟が焼ける火事があり、2人が遺体で見つかりました。この家には夫婦と息子の3人が暮らしていますが、火事のあと夫婦と連絡がとれなくなっているほか、息子は市内で交通事故にあい、病院に搬送されたということで、警察が確認を進めています。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月13日の動き）",
+      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015140941000.html",
+      "date": "2026-07-13T07:01:30.000Z",
+      "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる13日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "SUPER BEAVER 柳沢亮太、murffin discs20周年記念映画『はじまりのさよなら』で映画音楽初担当",
       "url": "https://realsound.jp/2026/07/post-2458134.html",
       "date": "2026-07-13T07:00:50.000Z",
       "summary": "SUPER BEAVERの柳沢亮太が、murffin discs設立20周年を記念したオリジナル長編映画『はじまりのさよなら』にて、映画音楽を初担当。また、あわせてティザービジュアルおよび特別先行映像も公開となった。",
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "包丁キャンセル◎ピーラーで作るシャキシャキ食感の「極上リボンサラダ」",
+      "url": "https://news.cookpad.com/articles/65155",
+      "date": "2026-07-13T07:00:00.000Z",
+      "summary": "あと一品欲しい時、包丁を使いたくない時に作ってほしいのが、にんじんだけのリボンサラダです。千切りやしりしりよりも手軽で、しかもおいしい！今回は3つの味付けをご紹介します。ピーラーでスライスするだ...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "トーストを立てかける道具",
+      "url": "https://dailyportalz.jp/koresugo/toast-tate",
+      "date": "2026-07-13T07:00:00.000Z",
+      "summary": "トーストを皿の上で重ねると蒸気で柔らかくなってしまうので、それを防ぐのがトーストを立てかける道具「トーストラック」です。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "ロボットが薬を完全自動調剤。薬局コストも待ち時間も大幅減少 （アメリカ）",
+      "url": "https://karapaia.com/archives/614457.html",
+      "date": "2026-07-13T07:00:00.000Z",
+      "summary": "薬局で処方箋の薬を受け取るときには結構待たされることもあるのだが、アメリカではついに自動調剤ロボットが誕生した。アメリカ・カリフォルニア州のロボティクス企業「Queue（キュー）」が、完全自動の処方箋ロボットを開発した。世界初のことだという。このロボットは…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
+      "title": "「Fit Boxing 3」×「あんさんぶるスターズ！！」コラボ記念Xキャンペーンの詳細を公開。「舞闘会」のメンバーがSNS限定インストラクターに",
+      "url": "https://www.4gamer.net/games/832/G083254/20260713014/",
+      "date": "2026-07-13T06:00:00.000Z",
+      "summary": "イマジニアは本日，「FitBoxing3」で2026年7月16日に配信する追加コンテンツ「あんさんぶるスターズ！！」パックを記念したユーザー参加型Xキャンペーンの詳細を公開した。ゲーム内シャッフルユニット「舞闘会」のメンバーがSNS限定インストラクターとして登場し，プレイヤーの「心・技・体」の向上をサポートする。",
+      "source": "4Gamer（乙女ゲーム関連）",
+      "sourceHomepage": "https://www.4gamer.net/",
+      "category": "otome"
+    },
+    {
+      "title": "NHK〈SONGS〉山崎育三郎が2年ぶりに登場",
+      "url": "https://ototoy.jp/news/130819",
+      "date": "2026-07-13T06:00:00.000Z",
+      "summary": "7月16日のNHK〈SONGS〉は最新アルバムをリリースした山崎育三郎が2年ぶりに登場する",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
     },
     {
@@ -270,6 +675,42 @@
       "category": "music"
     },
     {
+      "title": "南シナ海問題で中国外務省が日本大使館公使呼び出し 日本反論",
+      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175681000.html",
+      "date": "2026-07-13T05:16:25.000Z",
+      "summary": "南シナ海の領有権をめぐる中国の主張を退けた国際的な仲裁裁判の判断について、日本の茂木外務大臣が談話を発表したことなどに対して、中国外務省は12日、日本大使館の公使を呼び出して抗議しました。これに対して日本側は、政府の立場を説明して反論したということです。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "タイ 飲食店で火災 27人死亡 約60人けが 日本人被害確認されず",
+      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175291000.html",
+      "date": "2026-07-13T05:14:15.000Z",
+      "summary": "タイの首都バンコクにある飲食店で、現地時間の12日夜遅く、大規模な火災があり、現地の消防当局によりますと、少なくとも27人が死亡し、およそ60人がけがをしたということです。これまでに日本人が被害を受けたという情報は確認されていないということで、警察などが火災の原因を調べています。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "【薬味をもう腐らせない】「少ししか使わない」問題が解決！最後までおいしい保存ワザ4選",
+      "url": "https://news.cookpad.com/articles/64669",
+      "date": "2026-07-13T05:00:00.000Z",
+      "summary": "しょうがや大葉などの薬味は、暑い日の食欲増進にぴったり。とはいえ、使うのはほんの少しで、余らせてしまうことも多いですよね。そこで今回は、長持ちする保存ワザをご紹介。正しい方法を覚えて、最後までお...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "米津玄師、映画キングダム主題歌「夜鷹」配信開始",
+      "url": "https://ototoy.jp/news/130817",
+      "date": "2026-07-13T04:00:00.000Z",
+      "summary": "映画『キングダム 魂の決戦』の主題歌として米津玄師が書き下ろした「夜鷹」(読み：よだか)が配信リリースされた",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
       "title": "福岡 篠栗町 逆走ダンプカーがトラックと衝突 1人死亡",
       "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175491000.html",
       "date": "2026-07-13T03:58:13.000Z",
@@ -283,7 +724,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175281000.html",
       "date": "2026-07-13T03:55:41.000Z",
       "summary": "アメリカの有力紙ニューヨーク・タイムズは、日本がロシアの情報機関の活動により、ウクライナへの軍事侵攻に必要なハイテク物資などの調達拠点になっていると報じました。",
-      "source": "NHKニュース（主要）",
+      "source": "NHKニュース（国際）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -313,33 +754,6 @@
       "source": "CINRA",
       "sourceHomepage": "https://www.cinra.net/",
       "category": "culture"
-    },
-    {
-      "title": "北海道 江別 公園での強盗致死事件 2人の被告が起訴内容認める",
-      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175631000.html",
-      "date": "2026-07-13T03:27:30.000Z",
-      "summary": "おととし、北海道江別市の公園で男子大学生から金品などを奪ったうえ、暴行を加えて死亡させた罪などで起訴された6人のうち、当時18歳のアルバイト従業員だった被告と当時17歳の少年だった被告の初公判が開かれ、いずれも起訴された内容を認めました。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "大分 佐伯 “包丁で刺された人いる” 4人けが 44歳男を逮捕",
-      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175551000.html",
-      "date": "2026-07-13T03:17:31.000Z",
-      "summary": "13日午前9時半すぎ、大分県佐伯市の「TSUTAYA佐伯店」で「包丁で右脇を刺された人がいる」などという連絡があり、警察によりますと4人がけがをしましたが、いずれも意識があるということです。警察は現場近くで44歳の男の容疑者を銃刀法違反の疑いで逮捕し、事件との関連を調べています。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "秋田 にかほ 住宅火災で2人の遺体 3人と連絡とれず",
-      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175591000.html",
-      "date": "2026-07-13T03:10:05.000Z",
-      "summary": "13日朝、秋田県にかほ市で住宅1棟が焼ける火事があり、警察によりますと、これまでに2人の遺体が見つかりました。この家には3人が暮らしていますが、火事のあと3人と連絡が取れていないということで、警察が確認を進めています。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
     },
     {
       "title": "西日本中心に猛烈な暑さ 九州南部梅雨明け 熱中症対策を",
@@ -387,13 +801,22 @@
       "category": "cooking"
     },
     {
-      "title": "ほぼ毛のない状態で救助されたカラスのヒナ、施設の子ガラスが熱心にお世話する",
-      "url": "https://karapaia.com/archives/614715.html",
+      "title": "〈@JAM EXPO 2026〉第6弾31組発表",
+      "url": "https://ototoy.jp/news/130821",
       "date": "2026-07-13T03:00:00.000Z",
-      "summary": "イギリスのノッティンガムシャー州で、羽毛がなく衰弱しきった生後6週間のニシコクマルガラスのヒナが発見され、地元の動物救護所に保護された。フランクと名付けられたこのヒナは、同じ施設に保護されていた若い子ガラスに興味を示したため、同室にさせたところ…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
+      "summary": "8月29日(土)、30日(日)に横浜アリーナで行われる〈@JAM EXPO 2026〉の第6弾出演者31組が発表された",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
+      "title": "〈うたコン〉7/14は拡大版「青春ソング」歌唱曲発表",
+      "url": "https://ototoy.jp/news/130818",
+      "date": "2026-07-13T03:00:00.000Z",
+      "summary": "7月14日の「うたコン」は「夏！海の歌特集」と題し海をテーマにした名曲を放送する",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
     },
     {
       "title": "【急上昇ワード】『ふつうの軽音部』× 忘れらんねえよ「アイラブ言う」スペシャルコラボPV公開",
@@ -405,6 +828,15 @@
       "category": "music"
     },
     {
+      "title": "ほぼ毛のない状態で救助されたカラスのヒナ、施設の子ガラスが熱心にお世話する",
+      "url": "https://karapaia.com/archives/614715.html",
+      "date": "2026-07-13T03:00:00.000Z",
+      "summary": "イギリスのノッティンガムシャー州で、羽毛がなく衰弱しきった生後6週間のニシコクマルガラスのヒナが発見され、地元の動物救護所に保護された。フランクと名付けられたこのヒナは、同じ施設に保護されていた若い子ガラスに興味を示したため、同室にさせたところ…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
       "title": "山﨑賢人×松下洸平W主演『殺人の門』友情と殺意が絡み合う特報到着。佐藤浩市らの出演も",
       "url": "https://www.cinra.net/article/202607-whn-satsujinnomon_edteam",
       "date": "2026-07-13T02:59:00.000Z",
@@ -412,15 +844,6 @@
       "source": "CINRA",
       "sourceHomepage": "https://www.cinra.net/",
       "category": "culture"
-    },
-    {
-      "title": "アメリカ中央軍 イランへ追加攻撃発表 協議再開か不透明",
-      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175301000.html",
-      "date": "2026-07-13T02:53:40.000Z",
-      "summary": "中東地域を管轄するアメリカ中央軍は日本時間の13日、イランへの追加攻撃を行ったと明らかにしました。ホルムズ海峡の航行をめぐりアメリカとイラン双方が攻撃を繰り返すなか、両国の協議が再開されるのか不透明な情勢が続いています。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
     },
     {
       "title": "デクスター・ワンセル（Dexter Wansel）とは? ジャクソンズやスタイリスティックスなどフィリーソウルのレジェンドによる名仕事たち【IN THE SHADOW OF SOUL】第168回 永遠のデクスター・ワンゼル - コラム",
@@ -538,6 +961,15 @@
       "source": "クックパッドニュース",
       "sourceHomepage": "https://news.cookpad.com/",
       "category": "cooking"
+    },
+    {
+      "title": "Number_i、神宮寺勇太プロデュース曲「BUGS LIFE」配信開始",
+      "url": "https://ototoy.jp/news/130820",
+      "date": "2026-07-13T01:00:00.000Z",
+      "summary": "Number_iが神宮寺勇太プロデュースの新曲「BUGS LIFE」を配信リリースし、ミュージックビデオを公開した",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
     },
     {
       "title": "和食居酒屋ナピューザ（2026.7.13 朝エッセイと更新情報）",
@@ -664,15 +1096,6 @@
       "source": "Mikiki（タワーレコード）",
       "sourceHomepage": "https://mikiki.tokyo.jp/",
       "category": "music"
-    },
-    {
-      "title": "タイ バンコクの飲食店で火災 AP通信“少なくとも27人が死亡”",
-      "url": "http://www3.nhk.or.jp/news/html/20260713/k10015175291000.html",
-      "date": "2026-07-12T22:19:25.000Z",
-      "summary": "タイの首都バンコクにある飲食店で13日未明、大規模な火災があり、AP通信によりますとこれまでに少なくとも27人が死亡したということです。",
-      "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
     },
     {
       "title": "金塊購入させる詐欺の手口 被害60億円で業界に協力要請",
@@ -5154,429 +5577,6 @@
       "summary": "花冷え",
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "【動画】Pickup NEWS(7月9日）",
-      "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172071000.html",
-      "date": "2026-07-09T00:53:42.000Z",
-      "summary": "これまでに入っているニュースを、まとめて1分の動画でお伝えします。（データ放送では動画をご覧いただけません）",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "NHK夏の音楽特番『うたであえたら』にくるり、速水けんたろう、茂森あゆみ、佐藤弘道、松野ちか",
-      "url": "https://www.cinra.net/article/202607-whn-uta_edteam",
-      "date": "2026-07-09T00:45:00.000Z",
-      "summary": "音楽特番『NHK夏の音楽祭 うたであえたら 2026』のEテレソング企画、追加アーティストが発表された。",
-      "source": "CINRA",
-      "sourceHomepage": "https://www.cinra.net/",
-      "category": "culture"
-    },
-    {
-      "title": "細野晴臣の新アルバム『Yours Sincerely』から「Note of Mothership」公開",
-      "url": "https://amass.jp/190570/",
-      "date": "2026-07-09T00:33:00.000Z",
-      "summary": "細野晴臣の新アルバム『Yours Sincerely』から「Note of Mothership」公開。 https://amass.jp/190570/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "アクセプト結成50周年記念作からロブ・ハルフォード／マティアス・ヤプス／レックス・ブラウン／ジェイソン・ボウルド参加の「Balls To The Wal」公開",
-      "url": "https://amass.jp/190569/",
-      "date": "2026-07-09T00:27:00.000Z",
-      "summary": "アクセプト結成50周年記念作からジューダス・プリーストのロブ・ハルフォード、スコーピオンズのマティアス・ヤプス、パンテラのレックス・ブラウン、ブレット・フォー・マイ・ヴァレンタインのジェイソン・ボウルドが参加した「Balls To The Wal」公開 https://amass.jp/190569/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "時間も食欲もどっか行った日に。みそ×レモンで食べる爽快メシ【ヤスナリオ】",
-      "url": "https://www.hotpepper.jp/mesitsu/entry/yasunario/2026-01322",
-      "date": "2026-07-09T00:00:00.000Z",
-      "summary": "こんにちは、高円寺メタルめしのヤスナリオです。 忙しいわ暑いわで時間も食欲もどっか行った日、冷蔵庫の前で立ち尽くしたら思い出してもらいたいのが、今回ご紹介する夏メシ「みそとレモンの冷や汁風」です。 みそ×レモン汁でさわやかに食べる冷や汁風のスープご飯に、みそと相性のいいかつお節をどさっとトッピングして、うま味マシマシに！ 火を使わずに5分もあれば支度できるので、朝メシにも向いている一杯ですよ。 ヤスナリオの「みそとレモンの冷や汁風」 【",
-      "source": "メシ通（ホットペッパーグルメ）",
-      "sourceHomepage": "https://www.hotpepper.jp/mesitsu/",
-      "category": "cooking"
-    },
-    {
-      "title": "「奴隷商に売ってやろう」無能と判断され袋叩きにされる…耐える俺を、周りの人間はあざ笑った『爆弾魔な傭兵、同時召喚された最強チート共を片っ端から消し飛ばす』【#5】",
-      "url": "https://hon-hikidashi.jp/book-person/158329/",
-      "date": "2026-07-08T23:45:28.000Z",
-      "summary": "キルタイムコミュニケーションの「ヴァルキリーコミックス」より、 『爆弾魔な傭兵、同時召喚された最強チート共を片っ端から消し飛ばす』第3巻 が7月8日（水）に発売されました。 「爆弾魔」の異名を持つ凶悪な傭兵・ジャックは、ある日、異世界に召喚されてしまいます。そこで無能な役立たずと侮辱された彼は、衝動性の高い性格と「確実に作動する爆弾が作れる」という唯一無二の能力を駆使し、周囲を破滅へと追い込んでいきます。 今回は、第1話～第3話の試し読",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "「お前なら店ぐらいは開けると思うぞ」師匠お勧めの格安物件は、とんでもない田舎にあるようで！？『新米錬金術師の店舗経営』【#5】",
-      "url": "https://hon-hikidashi.jp/book-person/157966/",
-      "date": "2026-07-08T23:15:33.000Z",
-      "summary": "キルタイムコミュニケーションの「ヴァルキリーコミックス」より、 『新米錬金術師の店舗経営』第9巻 が7月8日（水）に発売されました。 王立錬金術師養成学校を優秀な成績で卒業したサラサは、師匠から田舎にある一軒のお店をプレゼントされます。しかし、辺境の村にあるその建物は、想像以上のオンボロでした。 今回は、第1話～第4話の試し読みを配信します。作品が気になった方はぜひ、店頭でお買い求めください。 (adsbygoogle = window",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "絶滅危惧種のキタケバナウォンバットの地下に広がる巨大トンネルをレーダーで解析",
-      "url": "https://karapaia.com/archives/611515.html",
-      "date": "2026-07-08T23:00:00.000Z",
-      "summary": "世界で最も希少な大型哺乳類のひとつである、絶滅危惧種「キタケバナウォンバット」。彼らが掘る巣穴は、ときに100mを超えることもある巨大な迷宮だ。今回、オーストラリアの研究者たちは、最新の地中レーダー技術を使って、この地下世界を3Dマッピングで調査。その結果…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
-      "title": "【実は余ったアレで作りました】サクサク＆もっちり！オーブンなしで「極上ひと口スイーツ」",
-      "url": "https://news.cookpad.com/articles/65143",
-      "date": "2026-07-08T23:00:00.000Z",
-      "summary": "餃子を作ったあと、皮が何枚か余ってしまうことがありますよね。そのままにしておくのももったいないもの。実は、余った餃子の皮はオーブンなしで手軽なスイーツに変身するんです！オーブンなしで作れる、とっ...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "【オフィシャルレポ】Payrin's、半年ぶりワンマンで新衣装＆新曲初披露",
-      "url": "https://ototoy.jp/news/130775",
-      "date": "2026-07-08T23:00:00.000Z",
-      "summary": "Payrin’sが7月6日(月)にclub asiaにてワンマンライブ『Fractal』を開催した",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "「線状降水帯直前予測」的中率は約3割 発生まで平均約1時間",
-      "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172241000.html",
-      "date": "2026-07-08T22:42:38.000Z",
-      "summary": "大雨災害をもたらす線状降水帯について気象庁は、3時間以内に発生する可能性が高まった場合、「線状降水帯直前予測」という情報で危険性を伝える取り組みを5月から始めました。これまでの的中率は、およそ3割で、「線状降水帯発生」の情報が出るまで平均およそ1時間であることが気象庁への取材でわかりました。気象庁は、ウェブサイトで情報についての説明を充実させるとしています。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "indigo la End『満ちた紫』多彩な音楽性が溶け込んだギターロック越しにひりついた心象風景をシネマティックに映し出す - レビュー",
-      "url": "https://mikiki.tokyo.jp/articles/-/45412",
-      "date": "2026-07-08T22:35:00.000Z",
-      "summary": "indigo la End『満ちた紫』多彩な音楽性が溶け込んだギターロック越しにひりついた心象風景をシネマティックに映し出す",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "HEY-SMITH × Less Than Jake『Unity』踊る以外の選択肢なし! 結成20周年バンドとスカパンクのレジェンドによるスプリットEP - レビュー",
-      "url": "https://mikiki.tokyo.jp/articles/-/45411",
-      "date": "2026-07-08T22:34:00.000Z",
-      "summary": "HEY-SMITH × Less Than Jake『Unity』踊る以外の選択肢なし! 結成20周年バンドとスカパンクのレジェンドによるスプリットEP",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "アイタル・テック（Ital Tek）『Mind Abandon』ポストロック的とも言える今作は何度目かのキャリアの分岐点になる予感 - レビュー",
-      "url": "https://mikiki.tokyo.jp/articles/-/45410",
-      "date": "2026-07-08T22:33:00.000Z",
-      "summary": "アイタル・テック（Ital Tek）『Mind Abandon』ポストロック的とも言える今作は何度目かのキャリアの分岐点になる予感",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "エヴァネッセンス（Evanescence）『Sanctuary』ジョーダン・フィッシュら参加の6作目はゴシック／インダストリアルロックの要素も - レビュー",
-      "url": "https://mikiki.tokyo.jp/articles/-/45409",
-      "date": "2026-07-08T22:32:00.000Z",
-      "summary": "エヴァネッセンス（Evanescence）『Sanctuary』ジョーダン・フィッシュら参加の6作目はゴシック／インダストリアルロックの要素も",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "仕事が楽しくなるカギは「3つの心理的欲求」にあった",
-      "url": "https://nazology.kusuguru.co.jp/archives/197325",
-      "date": "2026-07-08T22:00:55.000Z",
-      "summary": "仕事が楽しくてやりがいを感じている人と、ただただ辛くて疲労や退屈を感じている人。 その違いは、単に仕事内容や給料だけでは説明できないかもしれません。 最近の心理学研究では、人が仕事でいきいきと力を発揮するには、ある「3つの心理的欲求」が重要であると示されました。 その3つとは「自律性」「有能感」「関係性」です。 具体的に、その3つはどんなことを指しているのでしょうか？ 研究の詳細は、豪カーティン大学（Curtin University）",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "”100歳まで生きる人々”に目立つ「性格」とは",
-      "url": "https://nazology.kusuguru.co.jp/archives/197326",
-      "date": "2026-07-08T21:30:40.000Z",
-      "summary": "「100歳まで元気に生きる人」と聞くと、食事や運動、遺伝の良さを思い浮かべるかもしれません。 しかし長寿地域として知られるイタリア・サルデーニャ島の高齢者を調べた新研究では、もう1つ見逃せない要素が浮かび上がりました。 それは、新しい経験や学びに前向きな「開放性」という性格特性です。 イタリア・カリアリ大学（University of Cagliari）の研究により、長寿地域の高齢者では、この開放性や対処力の高さが、活動的な老いと関係し",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "ロビン・ヒッチコック 新曲「Yesterday's Rain」のミュージックビデオ公開",
-      "url": "https://amass.jp/190568/",
-      "date": "2026-07-08T21:05:00.000Z",
-      "summary": "ロビン・ヒッチコック（Robyn Hitchcock）は新曲「Yesterday's Rain」をリリース。ミュージックビデオが公開されています。この曲は7月発売の新スタジオ・アルバム『The Confuser』に収録 https://amass.jp/190568/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "インターポール 新曲「Iron City」公開",
-      "url": "https://amass.jp/190567/",
-      "date": "2026-07-08T21:02:00.000Z",
-      "summary": "米ニューヨークのインディーロックバンド、インターポール（Interpol）は新曲「Iron City」公開。この曲は8月発売の新スタジオ・アルバム『This Mirror Weighs a Ton』に収録 https://amass.jp/190567/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "HOME、ニューシングル「Deja Vu Slider」MV公開 Margtによる全編沖縄で撮影された映像世界に",
-      "url": "https://realsound.jp/2026/07/post-2454484.html",
-      "date": "2026-07-08T21:00:10.000Z",
-      "summary": "HOMEが、ニューシングル「Deja Vu Slider」のMVを公開した。 HOME - Deja Vu Slider (Official Music Video) 本楽曲は、HOMEにとって初の外部プロデューサー",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "≒JOY、夏の恋をテーマにした「サマーツインテール」先行配信＆MV公開",
-      "url": "https://ototoy.jp/news/130771",
-      "date": "2026-07-08T21:00:00.000Z",
-      "summary": "≒JOYが8月5日(水)にリリースする5thシングルから表題曲「サマーツインテール」のミュージックビデオを公開した",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "タヒチ80 新曲「Wild Romance」のミュージックビデオ公開",
-      "url": "https://amass.jp/190566/",
-      "date": "2026-07-08T21:00:00.000Z",
-      "summary": "タヒチ80（Tahiti 80）は新曲「Wild Romance」をリリース。ミュージックビデオが公開されています。この曲は9月発売の新アルバム『リジョイス (アン・インヴェントリー・オブ・ポップ・マップス)』に収録 https://amass.jp/190566/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "ジョン5 「You, Me & The Devil Makes Three」のミュージックビデオ公開",
-      "url": "https://amass.jp/190565/",
-      "date": "2026-07-08T20:58:00.000Z",
-      "summary": "モトリー・クルーでの活躍でも知られるギタリストのジョン5は「You、 Me & The Devil Makes Three」のミュージックビデオ公開。この曲は最新ソロ・アルバム『Ghost』に収録 https://amass.jp/190565/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "プロング 新アルバム『Prong』発売",
-      "url": "https://amass.jp/190564/",
-      "date": "2026-07-08T20:54:00.000Z",
-      "summary": "ニューヨークのメタル・バンド、プロングの新作は、通算14作目のスタジオ・アルバムにして初のセルフタイトルの『Prong』。海外で11月6日発売。「これまでで最高のプロングのアルバムかもしれない。だからこそタイトルをセルフタイトルにしたんだ」 https://amass.jp/190564/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "ブリング・ミー・ザ・ホライズン ＜Hellfest 2026＞のフルライヴ映像90分公開",
-      "url": "https://amass.jp/190563/",
-      "date": "2026-07-08T20:41:00.000Z",
-      "summary": "ブリング・ミー・ザ・ホライズンの最新フルライヴ映像約90分が公開。2026年6月18日にフランスで開催されたフェスティバル＜Hellfest Open Air 2026＞でのパフォーマンスのフル映像。 https://amass.jp/190563/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "亀梨和也、1stアルバムよりリード曲「WAVE」MV公開 水深5mのプールでの水中撮影に初挑戦",
-      "url": "https://realsound.jp/2026/07/post-2454670.html",
-      "date": "2026-07-08T20:30:28.000Z",
-      "summary": "亀梨和也の1stアルバム『WAVE』より、アルバムリード曲「WAVE」のMVが公開された。 亀梨和也 - WAVE [Official Music Video] 同MVでは“現実の世界”と“内面の感情”が重なり合いな",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "ベネズエラ地震 国連が継続支援を各国に呼びかけ",
-      "url": "http://www3.nhk.or.jp/news/html/20260709/k10015172431000.html",
-      "date": "2026-07-08T20:09:04.000Z",
-      "summary": "地震で甚大な被害を受けた南米ベネズエラに現地入りした国連の人道部門のトップは、地震により130万人の人道支援が新たに必要になっているとして、各国に支援の継続を呼びかけました。",
-      "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "Dream Ami、約9年ぶりの“Dream再集結”で届けた夢のステージ デビュー記念日に仲間と紡いだ華やかな一夜",
-      "url": "https://realsound.jp/2026/07/post-2453626.html",
-      "date": "2026-07-08T20:00:49.000Z",
-      "summary": "Dream Amiがアーティストとしてのデビュー記念日となる7月7日に、ビルボードライブ東京で『Dream Ami Billboard Live 2026 ～Milkyway～』を開催した。スペシャルゲストとしてShizuka、Aya、Erieが登場し約9年ぶりにDreamが再集結。2部制で行われた公演のうち、本稿では2ndステージの模様をレポートする。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "Daoko、アニメ『転スラ』第4期OP第2弾「TACTIC」MV公開 映像チーム YYG NT Labによる作品に",
-      "url": "https://realsound.jp/2026/07/post-2454397.html",
-      "date": "2026-07-08T20:00:32.000Z",
-      "summary": "Daokoが、7月4日にリリースした新曲「TACTIC」のMVを公開した。 Daoko「TACTIC」- TVアニメ『転生したらスライムだった件』第4期OP主題歌 第2弾 本楽曲は、TVアニメ『転生したらスライムだっ",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "板野友美、『トイ・ストーリー』の世界に入り込んだようなベアトップドレス姿 「お人形さんみたい」「世界一超かわいい」",
-      "url": "https://realsound.jp/2026/07/post-2454510.html",
-      "date": "2026-07-08T19:30:05.000Z",
-      "summary": "板野友美が自身のInstagramを更新。『トイ・ストーリー5』ジャパンプレミアレッドカーペットに参加した際のオフショットを公開し注目を集めている。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "ザ・カルト、ブレイク直前のガンズ・アンド・ローゼズをツアーのオープニングアクトに起用した理由を回想",
-      "url": "https://amass.jp/190558/",
-      "date": "2026-07-08T17:25:00.000Z",
-      "summary": "ガンズ・アンド・ローゼズがブレイクする直前、ザ・カルトはツアーのオープニングアクトにガンズを起用した。ザ・カルトはどうやってガンズを知り、なぜオープニングアクトに起用したのか？ ツアーはどんな感じだったのか？ ギタリストのビリー・ダフィーが回想 https://amass.jp/190558/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "日食なつこ、Hindia、Cup of Joe、Billyrrom……アジア音楽の盛り上がりを実感した『Shibuya Sound Scramble 2026』",
-      "url": "https://realsound.jp/2026/07/post-2453372.html",
-      "date": "2026-07-08T17:00:27.000Z",
-      "summary": "『Shibuya Sound Scramble 2026』duo MUSIC EXCHANGE（SONG BRIDGE Stage）の模様をレポートする。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "ポール・マッカートニーのアコースティック・サイドにフィーチャーした総力特集 『アコースティック・ギター・マガジン Vol.109』発売",
-      "url": "https://amass.jp/190557/",
-      "date": "2026-07-08T16:29:00.000Z",
-      "summary": "『アコースティック・ギター・マガジン Vol.109』の特集は「Acoustic side of Paul McCartney ギタリスト、ポール・マッカートニー至上主義」。ポール・マッカートニーのアコースティック・サイドにフィーチャーした総力特集 https://amass.jp/190557/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "ベンソン・ブーンの来日公演決定",
-      "url": "https://amass.jp/190556/",
-      "date": "2026-07-08T16:21:00.000Z",
-      "summary": "ベンソン・ブーン（Benson Boone）の来日公演が決定。10月29日に東京・TOYOTA ARENA TOKYOで行われます https://amass.jp/190556/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "イラン情勢 トランプ大統領「おそらく今夜もまた攻撃する」",
-      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015171371000.html",
-      "date": "2026-07-08T15:31:01.000Z",
-      "summary": "アメリカのトランプ大統領は8日、イラン情勢について「イランは非常に悪いふるまいをしている。昨夜、彼らが無人機やミサイルなどで攻撃したあと、われわれは彼らを激しく攻撃した」と述べました。その上で「われわれはおそらく今夜もまた彼らを激しく攻撃する。少し警告しておく」と述べ、イランに対して、7日に続き、8日も攻撃を行う可能性を示しました。",
-      "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "MORE STAR、新曲が1stシングルCD表題曲に 『テレビ朝日・六本木ヒルズ SUMMER FES』ドリームソングにも決定",
-      "url": "https://realsound.jp/2026/07/post-2454132.html",
-      "date": "2026-07-08T15:09:55.000Z",
-      "summary": "MORE STARが、新曲「サマーゴー！！」を1stシングルCD（両A面）の表題曲としてリリース。あわせて、同曲が『テレビ朝日・六本木ヒルズ SUMMER FES』サマフェス'26 ドリームソングに決定した。 1st",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "izna、日本デビュー決定",
-      "url": "https://ototoy.jp/news/130773",
-      "date": "2026-07-08T15:00:00.000Z",
-      "summary": "iznaがソニー・ミュージックレーベルズより日本デビューすることが決定した",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "ユニコーン、アニメ『片田舎のおっさん、剣聖になるII』OP「クレナイノハ」“アニメば～じょん”配信",
-      "url": "https://realsound.jp/2026/07/post-2454051.html",
-      "date": "2026-07-08T14:16:37.000Z",
-      "summary": "ユニコーンが、TVアニメ『片田舎のおっさん、剣聖になるII』のオープニング主題歌に起用される新曲「クレナイノハ」の“アニメば〜じょん”を本日7月8日に配信リリースした。 本楽曲は、同アニメのために書き下ろした楽曲とな",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "東急百貨店本店跡地に出現！「渋谷松濤ウォールギャラリー」",
-      "url": "https://bluediary2.jugem.jp/?eid=8122",
-      "date": "2026-07-08T14:13:00.000Z",
-      "summary": "渋谷・東急百貨店本店跡地で進む「Shibuya Upper West Project」の工事仮囲いを活用したアートプロジェクト「渋谷松濤ウォールギャラリー」が始まりました。 再開発の現場というと、どうしても街の変化を告げる無機質な壁を思い浮かべます。かつて多くの人が訪れた...",
-      "source": "青い日記帳（美術展）",
-      "sourceHomepage": "https://bluediary2.jugem.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "YU（楊宇騰YU）、12作目となるオリジナル日本楽曲リリース デビュー6周年記念イベント開催も",
-      "url": "https://realsound.jp/2026/07/post-2453879.html",
-      "date": "2026-07-08T14:05:30.000Z",
-      "summary": "YU（楊宇騰YU）が、12作目となるオリジナル日本楽曲「不器用な僕なりの愛の歌」を、デビュー6周年を迎える8月12日にリリースする。 本楽曲は、愛する人へ向けたまっすぐで不器用な想いを綴ったラブバラード。“うまく言葉",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "旧安倍派出身議員ら約60人 安倍元首相の命日に合わせ会合",
-      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015172381000.html",
-      "date": "2026-07-08T14:01:16.000Z",
-      "summary": "安倍元総理大臣が演説中に銃撃され、死亡した事件から4年となる8日、自民党の旧安倍派出身の議員らおよそ60人が東京都内で会合を開き、安倍氏をしのびました。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "MISIA、2027年1月より全国アリーナツアー開催 地元 長崎県対馬での初凱旋ライブで発表",
-      "url": "https://realsound.jp/2026/07/post-2453862.html",
-      "date": "2026-07-08T13:53:46.000Z",
-      "summary": "MISIAが、2027年1月より全国アリーナツアー『STARTS presents MISIA BIG BAND ORCHESTRA 2027 BEYOND FREEDOM』を開催する。 本ツアーは、ビッグバンドオー",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "ラッシュ、Mobile Fidelity Sound Labと協力して74年～85年のスタジオアルバム11作をハイブリッドSACD／高音質アナログ盤で再発",
-      "url": "https://amass.jp/190555/",
-      "date": "2026-07-08T13:52:00.000Z",
-      "summary": "ラッシュはMobile Fidelity Sound Labと協力し、74年～85年のスタジオアルバム11作をハイブリッドSACD、および高音質アナログ盤で再発。第1弾は『Rush』『Fly By Night』『A Farewell To Kings』 https://amass.jp/190555/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "宇宙の膨張率「ハッブル定数」に新たな測定値 中性子星合体の観測データをもとに算出",
-      "url": "https://sorae.info/astronomy/20260708-hubble-constant-gw170817.html",
-      "date": "2026-07-08T13:38:30.000Z",
-      "summary": "CSIRO（オーストラリア連邦科学産業研究機構）のKelly Gourdji博士を筆頭とする研究チームは、中性子星合体の観測データを利用して、宇宙の膨張率を示す「ハッブル定数」の新たな測定値を導き出したとする研究成果を発…",
-      "source": "sorae（宇宙・天文）",
-      "sourceHomepage": "https://sorae.info/",
-      "category": "documentary"
-    },
-    {
-      "title": "ピクルスが電気で光る謎現象――実は水素爆発と火花が鍵だった",
-      "url": "https://nazology.kusuguru.co.jp/archives/197341",
-      "date": "2026-07-08T13:20:18.000Z",
-      "summary": "「火災報知器が鳴らないことを祈ります」 米国静電気学会の年次大会の会場で、アメリカのポートランド州立大学（PSU）のメンデス・ハーパー氏が取り出したのは、ピクルスの瓶と電源タップ、そして2本の電極でした。 会場に笑いが起きる中、彼はピクルスの両端に電極を突き刺し、スイッチを入れます。 ジュージューという抗議するような音。 焦げたような匂い。 そして——ピクルスの片側が、鮮やかなオレンジ色に光り始めました。 実はこれ、科学の世界では「光る",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "中東情勢が日本経済に影響 NW9広内キャスターが現場取材",
-      "url": "http://www3.nhk.or.jp/news/html/20260708/k10015172261000.html",
-      "date": "2026-07-08T13:19:13.000Z",
-      "summary": "不透明さを増す中東情勢が日本の経済に影を落としています。上半期に全国で倒産した企業は2年連続で5000件を超えました。何が起きているのか、ニュースウォッチ9の広内キャスターが現場を取材しました。",
-      "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "ファットボーイ・スリムは幼い頃、叔父がビートルズのメンバーだと思い込んでいた",
-      "url": "https://amass.jp/190554/",
-      "date": "2026-07-08T13:05:00.000Z",
-      "summary": "ファットボーイ・スリムは幼い頃、叔父がビートルズのメンバーだと思い込んでいた。叔父のバンドが練習していた曲がラジオから流れた時「叔父さんのバンドだ」と言うと、周りが「君の叔父さんってビートルズ？」と反応。当時はまだカヴァーという概念を理解していなかった https://amass.jp/190554/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
       "category": "music"
     }
   ]
