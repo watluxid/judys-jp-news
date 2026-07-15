@@ -1,14 +1,7 @@
 {
-  "generatedAt": "2026-07-15T14:15:21.282Z",
+  "generatedAt": "2026-07-15T19:41:21.120Z",
   "articleCount": 600,
   "feedStatus": [
-    {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-      "errors": []
-    },
     {
       "name": "NHKニュース（主要）",
       "category": "news",
@@ -17,10 +10,31 @@
       "errors": []
     },
     {
+      "name": "NHKニュース（国際）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（社会）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "errors": []
+    },
+    {
       "name": "樋口直哉（TravelingFoodLab.）",
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -38,31 +52,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（科学・文化）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（社会）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
-      "errors": []
-    },
-    {
       "name": "Mikiki（タワーレコード）",
       "category": "music",
       "ok": true,
       "usedUrl": "https://mikiki.tokyo.jp/list/feed/rss",
-      "errors": []
-    },
-    {
-      "name": "amass",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://amass.jp/rss/new",
       "errors": []
     },
     {
@@ -73,10 +66,24 @@
       "errors": []
     },
     {
+      "name": "amass",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://amass.jp/rss/new",
+      "errors": []
+    },
+    {
       "name": "4Gamer（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://www.4gamer.net/rss/index.xml",
+      "errors": []
+    },
+    {
+      "name": "リアルサウンド",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://realsound.jp/atom.xml",
       "errors": []
     },
     {
@@ -94,31 +101,10 @@
       "errors": []
     },
     {
-      "name": "リアルサウンド",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
-      "errors": []
-    },
-    {
-      "name": "アニメ！アニメ！（乙女ゲーム関連）",
-      "category": "otome",
-      "ok": true,
-      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
-      "errors": []
-    },
-    {
-      "name": "ナゾロジー",
+      "name": "デイリーポータルZ",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -129,10 +115,24 @@
       "errors": []
     },
     {
-      "name": "デイリーポータルZ",
+      "name": "アニメ！アニメ！（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "ナゾロジー",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "errors": []
+    },
+    {
+      "name": "和樂web",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://intojapanwaraku.com/feed",
       "errors": []
     },
     {
@@ -150,17 +150,17 @@
       "errors": []
     },
     {
-      "name": "和樂web",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://intojapanwaraku.com/feed",
-      "errors": []
-    },
-    {
       "name": "Art Annual online（美術）",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://www.art-annual.jp/feed",
+      "errors": []
+    },
+    {
+      "name": "青い日記帳（美術展）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
     },
     {
@@ -171,14 +171,50 @@
       "errors": []
     },
     {
-      "name": "青い日記帳（美術展）",
-      "category": "culture",
+      "name": "OTOTOY",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
+      "usedUrl": "https://ototoy.jp/rss",
       "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "65年に録音されたデヴィッド・ボウイの未発表曲「I Want Your Love」公開 オフィシャル初期音源集発売決定",
+      "url": "https://amass.jp/190705/",
+      "date": "2026-07-16T01:11:00.000Z",
+      "summary": "65年に録音されたデヴィッド・ボウイの未発表曲「I Want Your Love」公開。9月に発売されるボウイのオフィシャル初期音源集『David Bowie: The Shel Talmy Recordings』収録（未発表音源10曲含む21曲入り） https://amass.jp/190705/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "Beck、7年ぶりの新アルバム『Ride Lonesome』発売 新曲「In The Night」MVあり",
+      "url": "https://amass.jp/190704/",
+      "date": "2026-07-16T00:46:00.000Z",
+      "summary": "Beckは7年ぶりとなる全曲新録の新スタジオ・アルバム『Ride Lonesome』を9月18日発売。新曲「In The Night」のミュージックビデオあり https://amass.jp/190704/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ザ・デッド・デイジーズからジョン・コラビ脱退",
+      "url": "https://amass.jp/190703/",
+      "date": "2026-07-16T00:29:00.000Z",
+      "summary": "ザ・デッド・デイジーズはジョン・コラビの脱退を発表しています https://amass.jp/190703/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "メガデス ＜Hellfest 2026＞のフルライヴ映像74分公開",
+      "url": "https://amass.jp/190702/",
+      "date": "2026-07-16T00:18:00.000Z",
+      "summary": "メガデスの最新フルライヴ映像約74分が公開。2026年6月20日にフランスで開催されたフェスティバル＜Hellfest Open Air 2026＞でのパフォーマンスのフル映像 https://amass.jp/190702/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "Vシンガー 稀羽すう、なとり提供の新曲「ゆーえふおー」配信リリース 新3D衣装お披露目も",
       "url": "https://realsound.jp/2026/07/post-2460933.html",
@@ -324,6 +360,24 @@
       "category": "music"
     },
     {
+      "title": "エヌビディアCEOが来日 日本の大手ゲーム会社と交流",
+      "url": "http://www3.nhk.or.jp/news/html/20260715/k10015178011000.html",
+      "date": "2026-07-15T14:55:08.000Z",
+      "summary": "アメリカの半導体大手「エヌビディア」のジェンスン・フアンCEOが日本を訪れ、長年、自社製品を提供する日本の大手ゲーム会社と共同で開いたイベントに出席し、経営が苦しかった時代に出資を受けたエピソードなどを披露しました。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "天皇ご一家 那須御用邸に静養のため滞在",
+      "url": "http://www3.nhk.or.jp/news/html/20260715/k10015178021000.html",
+      "date": "2026-07-15T14:51:26.000Z",
+      "summary": "天皇ご一家は静養のため、15日から栃木県の那須御用邸に滞在されています。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "HOKUTO（吉野北人）、鈴木愛理を迎えたデュエット曲が自身出演映画『昨夜は殺れたかも』主題歌に",
       "url": "https://realsound.jp/2026/07/post-2460831.html",
       "date": "2026-07-15T14:46:26.000Z",
@@ -331,6 +385,15 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "浜岡原発データ不正問題 市議会で審査での防止対策を求める声",
+      "url": "http://www3.nhk.or.jp/news/html/20260715/k10015178001000.html",
+      "date": "2026-07-15T14:36:52.000Z",
+      "summary": "中部電力が、浜岡原子力発電所の審査で不正なデータ処理を行っていた問題を受けて、15日、原発が立地する静岡県御前崎市で開かれた市議会の特別委員会に原子力規制庁の担当者が出席し、議員側からは、電力会社の不正を防ぐ対策を審査に導入するよう求める意見が出されました。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
     },
     {
       "title": "E'sekai、新曲「TRIGGER」配信リリース 重永亮介との共作によるガレージロックナンバー",
@@ -391,7 +454,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260715/k10015176981000.html",
       "date": "2026-07-15T13:24:04.000Z",
       "summary": "15日は東北から九州の各地で猛暑日となり、38度以上の危険な暑さになったところも相次ぎました。16日は北海道を含めた広い範囲で猛烈な暑さとなる見込みで、熱中症対策を徹底してください。一方、台風9号から変わった低気圧が近づく影響で、北日本では16日朝にかけて激しい雨が降って大雨のおそれがあり、土砂災害などに警戒が必要です。",
-      "source": "NHKニュース（主要）",
+      "source": "NHKニュース（社会）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -409,7 +472,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260715/k10015177971000.html",
       "date": "2026-07-15T13:02:59.000Z",
       "summary": "大雨災害をもたらす線状降水帯について、気象庁は、3時間以内に発生する可能性が高まった場合、「線状降水帯直前予測」という情報をことしから発表しています。この情報のあと、線状降水帯が発生したと発表されるまでの時間はこれまでのところ平均でおよそ1時間となっていて、気象庁の野村長官は情報の普及・啓発を進める必要があるという考えを示しました。",
-      "source": "NHKニュース（主要）",
+      "source": "NHKニュース（社会）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -472,7 +535,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260715/k10015177821000.html",
       "date": "2026-07-15T12:00:39.000Z",
       "summary": "東京大学は医学部附属病院で相次いだ不祥事を受けて、ガバナンスを強化するため附属病院を本部直轄の組織に改編したうえで、名称を「東京大学病院」に変更することを公表しました。",
-      "source": "NHKニュース（主要）",
+      "source": "NHKニュース（社会）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -549,7 +612,7 @@
       "category": "news"
     },
     {
-      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月15日の動き）",
+      "title": "【詳細】ロシア ウクライナに軍事侵攻（7月15日の動き）",
       "url": "http://www3.nhk.or.jp/news/html/20260715/k10015140961000.html",
       "date": "2026-07-15T11:02:19.000Z",
       "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる15日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
@@ -720,6 +783,24 @@
       "category": "cooking"
     },
     {
+      "title": "芋ようかんの聖地！ 舟和の工場直営店（傑作選）",
+      "url": "https://dailyportalz.jp/kiji/the_holy_land_of_imoiyokan",
+      "date": "2026-07-15T09:00:00.000Z",
+      "summary": "あの芋ようかんの舟和の工場が埼玉にあり、工場には直売所があるという。そんなできたて芋ようかんが買えそうなところ、行くしかない。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "トイレ専用の厚底サンダルが登場！姿勢を改善し快便を促す",
+      "url": "https://karapaia.com/archives/616038.html",
+      "date": "2026-07-15T09:00:00.000Z",
+      "summary": "アメリカの腸活ブランドであるレット・ルースが、トイレでの排便をスムーズにするための厚底サンダルを限定発売した。約18cmの厚底構造により、便座に座った状態で膝が腰より高くなり、この姿勢をとることで直腸周りの筋肉の緊張が解け、便秘や痔の原因となる力みを軽減するという…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
       "title": "【ライブレポ】山本彩、初の日本武道館、ソロ10周年、そして自らの誕生日に誓った「これから」の物語──〈山本彩 LIVE at 武道館〉",
       "url": "https://ototoy.jp/news/130852",
       "date": "2026-07-15T09:00:00.000Z",
@@ -745,24 +826,6 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
-    },
-    {
-      "title": "芋ようかんの聖地！ 舟和の工場直営店（傑作選）",
-      "url": "https://dailyportalz.jp/kiji/the_holy_land_of_imoiyokan",
-      "date": "2026-07-15T09:00:00.000Z",
-      "summary": "あの芋ようかんの舟和の工場が埼玉にあり、工場には直売所があるという。そんなできたて芋ようかんが買えそうなところ、行くしかない。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "トイレ専用の厚底サンダルが登場！姿勢を改善し快便を促す",
-      "url": "https://karapaia.com/archives/616038.html",
-      "date": "2026-07-15T09:00:00.000Z",
-      "summary": "アメリカの腸活ブランドであるレット・ルースが、トイレでの排便をスムーズにするための厚底サンダルを限定発売した。約18cmの厚底構造により、便座に座った状態で膝が腰より高くなり、この姿勢をとることで直腸周りの筋肉の緊張が解け、便秘や痔の原因となる力みを軽減するという…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
     },
     {
       "title": "クイーンズ・オブ・ザ・ストーン・エイジ 3年ぶりの新曲「Easy Street」公開",
@@ -5515,69 +5578,6 @@
       "source": "NHKニュース（国際）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
-    },
-    {
-      "title": "コツさえ分かれば実は簡単。おかずになるトロットロナスの煮浸し。",
-      "url": "https://news.cookpad.com/articles/65207",
-      "date": "2026-07-11T06:00:00.000Z",
-      "summary": "YouTubeとクックパッドで話題の料理系クリエイター・こじまぽん助さん。分子調理学をベースに「なぜおいしくなるのか」を徹底的に解明した、失敗しないレシピが人気を集めています。毎回ひとつの料理を深掘りしながら、作り方の「理由」から教えてもらいます。",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "【もう火は使わない】生で食べられるなんて！ピーマンの概念が変わる旨さ",
-      "url": "https://news.cookpad.com/articles/64651",
-      "date": "2026-07-11T05:00:00.000Z",
-      "summary": "一年中スーパーで見かける「ピーマン」ですが、今が旬の夏野菜です。炒め物にするイメージが強いけれど、じつは生でも食べられるのをご存じですか？ 今回は、夏に嬉しい火を使わない4つのレシピをお届けしま...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "北朝鮮 キム総書記 軍幹部の汚職事件受け綱紀粛正の徹底を指示",
-      "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174451000.html",
-      "date": "2026-07-11T04:49:05.000Z",
-      "summary": "北朝鮮の党や政府、それに軍の高官などを集めた合同会議で軍の幹部らによる汚職が報告され、キム・ジョンウン（金正恩）総書記が、綱紀粛正を徹底するよう指示したと、北朝鮮のメディアが伝えました。",
-      "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "“国内最高齢のピアニスト” 室井摩耶子さん死去 105歳",
-      "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174441000.html",
-      "date": "2026-07-11T04:15:02.000Z",
-      "summary": "国内最高齢のピアニストとして、100歳を超えても活動を続けていた室井摩耶子さんが、今月5日、東京都内の自宅で亡くなりました。105歳でした。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "嘘でしょ!?「きゅうりの一本漬け」が30分で浸かるらしいから試してみた",
-      "url": "https://news.cookpad.com/articles/64763",
-      "date": "2026-07-11T04:00:00.000Z",
-      "summary": "夏野菜、食べていますか？なす、トマト、とうもろこし、きゅうりなど、おいしい野菜がたくさんあるこの時期。特にきゅうりは、安くて子どもも食べてくれる率が高いので、我が家ではよく使います。ただ、調理の...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "アップルがオープンAIを提訴 “企業秘密盗まれた”",
-      "url": "http://www3.nhk.or.jp/news/html/20260711/k10015174381000.html",
-      "date": "2026-07-11T03:53:23.000Z",
-      "summary": "アメリカのIT大手アップルは、自社の機密情報を盗んで独自の端末を開発しようとしているとして、生成AIのChatGPTを開発するオープンAIを訴えました。",
-      "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "爆弾魔として追われる俺が、どうやって後ろ盾を得る？思案する俺の前に、見覚えのある男が現れた『爆弾魔な傭兵、同時召喚された最強チート共を片っ端から消し飛ばす』【#14】",
-      "url": "https://hon-hikidashi.jp/book-person/158338/",
-      "date": "2026-07-11T03:45:35.000Z",
-      "summary": "キルタイムコミュニケーションの「ヴァルキリーコミックス」より、 『爆弾魔な傭兵、同時召喚された最強チート共を片っ端から消し飛ばす』第3巻 が7月8日（水）に発売されました。 「爆弾魔」の異名を持つ凶悪な傭兵・ジャックは、ある日、異世界に召喚されてしまいます。そこで無能な役立たずと侮辱された彼は、衝動性の高い性格と「確実に作動する爆弾が作れる」という唯一無二の能力を駆使し、周囲を破滅へと追い込んでいきます。 今回は、第1話～第3話の試し読",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
     }
   ]
 }
