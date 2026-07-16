@@ -1,14 +1,7 @@
 {
-  "generatedAt": "2026-07-16T14:27:35.371Z",
+  "generatedAt": "2026-07-16T19:36:54.141Z",
   "articleCount": 600,
   "feedStatus": [
-    {
-      "name": "NHKニュース（主要）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-      "errors": []
-    },
     {
       "name": "NHKニュース（国際）",
       "category": "news",
@@ -17,17 +10,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（科学・文化）",
+      "name": "NHKニュース（主要）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（社会）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
       "errors": []
     },
     {
@@ -38,10 +24,24 @@
       "errors": []
     },
     {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "errors": []
+    },
+    {
       "name": "つくおき",
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://cookien.com/feed/",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（社会）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
       "errors": []
     },
     {
@@ -73,13 +73,6 @@
       "errors": []
     },
     {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://sorae.info/feed",
-      "errors": []
-    },
-    {
       "name": "4Gamer（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
@@ -87,10 +80,24 @@
       "errors": []
     },
     {
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://sorae.info/feed",
+      "errors": []
+    },
+    {
       "name": "リアルサウンド",
       "category": "music",
       "ok": true,
       "usedUrl": "https://realsound.jp/atom.xml",
+      "errors": []
+    },
+    {
+      "name": "デイリーポータルZ",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -115,13 +122,6 @@
       "errors": []
     },
     {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
-      "errors": []
-    },
-    {
       "name": "CINRA",
       "category": "culture",
       "ok": true,
@@ -129,17 +129,10 @@
       "errors": []
     },
     {
-      "name": "デイリーポータルZ",
+      "name": "カラパイア",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
-      "errors": []
-    },
-    {
-      "name": "和樂web",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://intojapanwaraku.com/feed",
+      "usedUrl": "https://karapaia.com/index.rdf",
       "errors": []
     },
     {
@@ -150,10 +143,10 @@
       "errors": []
     },
     {
-      "name": "カラパイア",
-      "category": "documentary",
+      "name": "和樂web",
+      "category": "culture",
       "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
+      "usedUrl": "https://intojapanwaraku.com/feed",
       "errors": []
     },
     {
@@ -176,9 +169,79 @@
       "ok": true,
       "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
+    },
+    {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
+      "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "「『怖い』本」",
+      "url": "https://bluediary2.jugem.jp/?eid=8130",
+      "date": "2026-07-17T12:39:00.000Z",
+      "summary": "東洋文庫ミュージアムで開催中の 企画展「『怖い』本」へ行って来ました。 https://toyo-bunko.or.jp/museum/ 夏になると、怪談やホラー映画、お化け屋敷が身近になります。けれども、私たちが「怖い」と感じるものは、幽霊や妖怪だけではありません。 展覧会...",
+      "source": "青い日記帳（美術展）",
+      "sourceHomepage": "https://bluediary2.jugem.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "ビースティ・ボーイズのマイクD ソロ新曲「Crypto」公開",
+      "url": "https://amass.jp/190732/",
+      "date": "2026-07-17T00:47:00.000Z",
+      "summary": "ビースティ・ボーイズ（Beastie Boys）のマイクD（Mike D）はソロ新曲「Crypto」公開。この曲は8月に発売する初ソロ・アルバム『Thank You』に収録 https://amass.jp/190732/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "坂本龍一とアルヴァ・ノトが2022年に録音した未発表音源をまとめたコラボ作から「Conversation 3」公開",
+      "url": "https://amass.jp/190731/",
+      "date": "2026-07-17T00:40:00.000Z",
+      "summary": "坂本龍一とアルヴァ・ノト（Alva Noto）が2022年に録音した未発表音源をまとめたコラボレーション・アルバム『12 Conversations』から「Conversation 3」が公開中。 https://amass.jp/190731/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ウォーターボーイズ『Fisherman's Blues』セッションから新たに発見された未発表音源を収めたアルバム全曲公開",
+      "url": "https://amass.jp/190730/",
+      "date": "2026-07-17T00:33:00.000Z",
+      "summary": "マイク・スコット率いるウォーターボーイズの『Fisherman's Blues』のレコーディング・セッションから新たに発見された未発表音源を収めたアルバム『Atlantic Rain』がリリース。ストリーミング配信開始。YouTubeほかで聴けます https://amass.jp/190730/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "イエス 76年6月17日ニュージャージー公演のオフィシャル・ライヴ・アルバム全曲公開",
+      "url": "https://amass.jp/190729/",
+      "date": "2026-07-17T00:25:00.000Z",
+      "summary": "イエスが76年6月17日に米ニュージャージーのルーズベルト・スタジアムで行ったコンサート。50周年を記念して、この公演の模様を収めたライヴ・アルバムが初めて公式リリース。ストリーミング配信開始。YouTubeほかで聴けます https://amass.jp/190729/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "パティ・スミス・グループのレニー・ケイ 初ソロアルバム『Goin' Local』全曲公開",
+      "url": "https://amass.jp/190728/",
+      "date": "2026-07-17T00:19:00.000Z",
+      "summary": "パティ・スミス・グループにて長年活躍し、また名コンピ『Nuggets』のキュレーターも務めたことでも知られるレニー・ケイ。79歳にして初めてソロ名義で発表するアルバム『Goin' Local』がストリーミング配信開始。YouTube他で聴けます https://amass.jp/190728/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ニュー・オーダー 『(The Best & The Rest Of) New Order (Deluxe Edition)』全曲公開",
+      "url": "https://amass.jp/190727/",
+      "date": "2026-07-17T00:15:00.000Z",
+      "summary": "ニュー・オーダーは、ベスト盤とリミックス盤をリマスターし、さらに未発表音源などを追加した『(The Best & The Rest Of) New Order (Deluxe Edition)』をストリーミング配信開始。YouTubeほかで聴けます https://amass.jp/190727/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "グー・グー・ドールズ 「Ocean」のミュージックビデオ公開",
       "url": "https://amass.jp/190726/",
@@ -279,6 +342,24 @@
       "category": "music"
     },
     {
+      "title": "松下洸平、新曲リリース&博物館で撮影したMV公開",
+      "url": "https://ototoy.jp/news/130865",
+      "date": "2026-07-16T19:00:00.000Z",
+      "summary": "松下洸平が2026年7月17日(金)にニューシングル「Journey」をリリースし、ミュージックビデオを公開した",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
+      "title": "米 ブラジルに25％追加関税 ブラジル「正当化の根拠ない」",
+      "url": "http://www3.nhk.or.jp/news/html/20260717/k10015178861000.html",
+      "date": "2026-07-16T18:57:34.000Z",
+      "summary": "アメリカのトランプ政権は、ブラジルの不公正な貿易慣行を理由に、通商法301条に基づいてブラジルからの特定の品目を除く輸入品に新たに25％の追加関税を課すことを決定しました。これに対しブラジルは「一方的な措置を正当化する根拠は一切ない」として反発しています。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "“ギタリスト”デヴィッド・ボウイについてボウイのサイドマンとしてギターを弾いたギタリストたちが語る",
       "url": "https://amass.jp/190717/",
       "date": "2026-07-16T17:23:00.000Z",
@@ -348,6 +429,51 @@
       "summary": "Nulbarichのボーカル JQによるソロプロジェクト Jeremy Quartus（ジェレミー クォータス）が、セルフカバーライブ『Been a Minute』を12月5日にビルボードライブ東京で開催する。 本公",
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "Luov、新曲「Endroll」リリース&初ワンマン開催決定",
+      "url": "https://ototoy.jp/news/130866",
+      "date": "2026-07-16T15:00:00.000Z",
+      "summary": "Luovが2026年7月17日(金)にニューシングル「Endroll」をリリースした",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
+      "title": "米 6月の小売業売上高 前月比0.2％増 消費堅調続くか焦点",
+      "url": "http://www3.nhk.or.jp/news/html/20260716/k10015178831000.html",
+      "date": "2026-07-16T14:57:12.000Z",
+      "summary": "アメリカの6月の小売業の売上高は、5月と比べて0.2％増加しました。イラン情勢の影響で、原油価格が再び上昇傾向となる中、個人消費の堅調さが維持されるかが焦点となります。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "国産AI開発「ノエトラ」 エヌビディアから新システム導入へ",
+      "url": "http://www3.nhk.or.jp/news/html/20260716/k10015178411000.html",
+      "date": "2026-07-16T14:47:08.000Z",
+      "summary": "国産AIの開発を目指す新会社「ノエトラ」が、アメリカの半導体大手「エヌビディア」から、最新の半導体を搭載した次世代のシステムを導入すると発表しました。自律的にロボットなどを動かす「フィジカルAI」の基盤となる技術開発を加速させるねらいがあります。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "【ライブレポ】日向坂46、五期生が描いた未来へのプロローグ──〈日向坂46 五期生LIVE〉",
+      "url": "https://ototoy.jp/news/130868",
+      "date": "2026-07-16T14:45:00.000Z",
+      "summary": "2026年7月16日、日向坂46五期生による単独公演〈日向坂46 五期生LIVE〉がぴあアリーナMMで開催された",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
+      "title": "PompadollS、ドラマ主題歌の新曲リリース&MV公開",
+      "url": "https://ototoy.jp/news/130867",
+      "date": "2026-07-16T14:30:00.000Z",
+      "summary": "PompadollSが2026年7月16日(木)にニューシングル「ASURA」をリリースした",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
     },
     {
@@ -481,7 +607,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260716/k10015178581000.html",
       "date": "2026-07-16T11:51:07.000Z",
       "summary": "16日夕方、北海道上富良野町のJR富良野線の踏切で列車と乗用車が衝突し、乗用車に乗っていた5人が病院に搬送されました。警察によりますと5人は外国籍で、いずれも搬送時意識はあったということで、警察が詳しい状況を調べています。",
-      "source": "NHKニュース（主要）",
+      "source": "NHKニュース（社会）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -490,18 +616,9 @@
       "url": "http://www3.nhk.or.jp/news/html/20260716/k10015178511000.html",
       "date": "2026-07-16T11:34:54.000Z",
       "summary": "6月、相模原市の河川敷で17歳の女子高校生を殺害したとして逮捕され、家庭裁判所に送られた19歳の元交際相手について、警察はスマートフォンのアプリで復縁を迫るメッセージを繰り返し送ったり、「家族全員殺す」などと脅したりしたとして16日、ストーカー規制法違反などの疑いで再逮捕しました。",
-      "source": "NHKニュース（主要）",
+      "source": "NHKニュース（社会）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
-    },
-    {
-      "title": "さよならポニーテール、新SG 「マジカルらぱぱ！」リリース",
-      "url": "https://ototoy.jp/news/130857",
-      "date": "2026-07-16T11:30:00.000Z",
-      "summary": "さよならポニーテールが、ニューシングル 「マジカルらぱぱ！」 を2026年7月15日（水）にリリースした",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
     },
     {
       "title": "ドイツのエニグマ暗号を解読した数学者が極秘で開発していた携帯型音声暗号装置「デリラ」",
@@ -511,6 +628,15 @@
       "source": "カラパイア",
       "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
+    },
+    {
+      "title": "さよならポニーテール、新SG 「マジカルらぱぱ！」リリース",
+      "url": "https://ototoy.jp/news/130857",
+      "date": "2026-07-16T11:30:00.000Z",
+      "summary": "さよならポニーテールが、ニューシングル 「マジカルらぱぱ！」 を2026年7月15日（水）にリリースした",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
     },
     {
       "title": "辻井くぬえ、2nd EP『汽水域』よりリード曲「なんで」MV公開 ローポリゴン調のCGアニメーションで制作",
@@ -756,15 +882,6 @@
       "category": "cooking"
     },
     {
-      "title": "〈ナノボロ2026〉第3弾でComical Fighters、ぞうつかいになった。、せだい、Ooら11組",
-      "url": "https://ototoy.jp/news/130861",
-      "date": "2026-07-16T09:00:00.000Z",
-      "summary": "2026年8月29日(土)、30日(日)の2日間、京都で開催される音楽フェス〈ナノボロ2026〉",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
       "title": "日本の淡水魚で一番巨大な幻の魚「イトウ」を食べる（傑作選）",
       "url": "https://dailyportalz.jp/kiji/eating-illusive-fish-Itou",
       "date": "2026-07-16T09:00:00.000Z",
@@ -781,6 +898,15 @@
       "source": "カラパイア",
       "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
+    },
+    {
+      "title": "〈ナノボロ2026〉第3弾でComical Fighters、ぞうつかいになった。、せだい、Ooら11組",
+      "url": "https://ototoy.jp/news/130861",
+      "date": "2026-07-16T09:00:00.000Z",
+      "summary": "2026年8月29日(土)、30日(日)の2日間、京都で開催される音楽フェス〈ナノボロ2026〉",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
     },
     {
       "title": "胸元が丸見え！愛ちゃんパパがニヤニヤ！「その服捨てたら？ 俺が間違えていた時ある？」『アンチは隣で密かに笑う～優先席に座っただけなのに～（電子版）』【#21】",
@@ -860,15 +986,6 @@
       "date": "2026-07-16T08:11:49.000Z",
       "summary": "日銀が行った個人の生活意識に関する調査で、1年後の物価が今より上がるとみている人の割合が90％を超え、これまでの調査で最も高くなりました。",
       "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "国産AI開発「ノエトラ」 エヌビディアから新システム導入へ",
-      "url": "http://www3.nhk.or.jp/news/html/20260716/k10015178411000.html",
-      "date": "2026-07-16T08:10:32.000Z",
-      "summary": "国産AIの開発を目指す新会社「ノエトラ」が、アメリカの半導体大手「エヌビディア」から、最新の半導体を搭載した次世代のシステムを導入する方針を固めました。これにより、新会社が自律的にロボットなどを動かす「フィジカルAI」の基盤となる技術開発を加速させるねらいがあります。",
-      "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -1125,6 +1242,15 @@
       "category": "cooking"
     },
     {
+      "title": "人に捨てられたペットのアヒル、公園で人を追いかけ助けを求める",
+      "url": "https://karapaia.com/archives/616119.html",
+      "date": "2026-07-16T03:00:00.000Z",
+      "summary": "ヒナの時から人に飼われ、人を親だと思っていたアヒルがアメリカ、ニューヨークの公園に置き去りにされた。人懐っこいアヒルは、公園に来た人間に出会うとその後を必死についていく。ところが…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
       "title": "〈鶴瓶のええ歌やなぁ〉三山ひろし＆市川由紀乃が来店",
       "url": "https://ototoy.jp/news/130859",
       "date": "2026-07-16T03:00:00.000Z",
@@ -1141,15 +1267,6 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
-    },
-    {
-      "title": "人に捨てられたペットのアヒル、公園で人を追いかけ助けを求める",
-      "url": "https://karapaia.com/archives/616119.html",
-      "date": "2026-07-16T03:00:00.000Z",
-      "summary": "ヒナの時から人に飼われ、人を親だと思っていたアヒルがアメリカ、ニューヨークの公園に置き去りにされた。人懐っこいアヒルは、公園に来た人間に出会うとその後を必死についていく。ところが…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
     },
     {
       "title": "「Fit Boxing 3 -Your パーソナルトレーナー Nintendo Switch 2 Edition」本日発売。「あんスタ！！」コラボDLCも配信開始",
@@ -5461,123 +5578,6 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
-    },
-    {
-      "title": "Ms.OOJA、明治座に響いた美しい歌声 演歌・歌謡曲・シティポップで辿る日本の大衆音楽史",
-      "url": "https://realsound.jp/2026/07/post-2455874.html",
-      "date": "2026-07-12T18:00:53.000Z",
-      "summary": "Ms.OOJAによるワンマンライブ『Ms.OOJA 明治座公演2026』の模様を振り返る。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "HOKUTO（吉野北人）、自身初のソロツアー『JUKE BOX LAND』開催 1stアルバム携え4都市まわる",
-      "url": "https://realsound.jp/2026/07/post-2458169.html",
-      "date": "2026-07-12T14:24:42.000Z",
-      "summary": "HOKUTO（THE RAMPAGE 吉野北人）が、自身初となるソロライブツアー『HOKUTO 1st LIVE TOUR 2026 “JUKE BOX LAND”』を9月より開催する。 6月にリリースした1stアル",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "相葉雅紀さんも驚いた“いきものの生き残り術”「いきもの超ワールド展」開幕",
-      "url": "https://bluediary2.jugem.jp/?eid=8126",
-      "date": "2026-07-12T13:38:00.000Z",
-      "summary": "国立科学博物館で、特別展「いきもの超ワールド展 国立科学博物館×ダーウィンが来た！」が開幕しました。 NHKの自然番組「ダーウィンが来た！」と国立科学博物館がタッグを組み、標本・資料、研究成果、そして番組が撮影してきた迫力ある映像を通して、いきものたちの...",
-      "source": "青い日記帳（美術展）",
-      "sourceHomepage": "https://bluediary2.jugem.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "美空ひばり、渡辺美里、安室奈美恵、矢井田 瞳、ちゃんみな……“時代の鏡” 東京ドームに立った12人の女性たち",
-      "url": "https://realsound.jp/2026/07/post-2458149.html",
-      "date": "2026-07-12T13:08:19.000Z",
-      "summary": "1988年の開場以来、この会場に立つことが、その時代のひとつの象徴になる。そんな意味を持つ、特別な会場にたどり着いたソロ女性アーティストは、たった12人。それぞれの時代に、それぞれの文脈で、その場所に立った12人の女性たちの姿を振り返る。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "初性交年齢が早いほど「寿命」に不利な傾向、遺伝研究で判明",
-      "url": "https://nazology.kusuguru.co.jp/archives/197410",
-      "date": "2026-07-12T13:00:38.000Z",
-      "summary": "初めて性交を経験した年齢は、若い時期の個人的な出来事に思えます。 しかし過去の研究では、初性交年齢が早い人ほど、年齢を重ねた後の健康状態が不利になる傾向が統計的に示されていました。 一見、初性交年齢と将来の健康にはなんの関係もなさそうに思えますが、なぜ両者のデータは相関するのでしょうか。 そこで中国・山東大学（Shandong University）公衆衛生学部のKaixian Wang氏らは、初性交年齢と寿命や虚弱などの加齢指標に因果",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "衛星の大量打ち上げによる汚染物質が、上層大気に急速に蓄積していることが推定される",
-      "url": "https://sorae.info/space/20260712-satellite-launch-pollution.html",
-      "date": "2026-07-12T12:54:12.000Z",
-      "summary": "現在の地球の周りには全地球的な通信を目的とした、それぞれが数千機以上の衛星から成る「衛星コンステレーション」を構成する衛星が多数存在します。SpaceX社の「スターリンク（Starlink）」は特に有名ですが、他の企業や…",
-      "source": "sorae（宇宙・天文）",
-      "sourceHomepage": "https://sorae.info/",
-      "category": "documentary"
-    },
-    {
-      "title": "THE JET BOY BANGERZメンバー紹介第5回：TAKUMI ダンスへの飽くなき探究心で表現を磨き続ける実力者",
-      "url": "https://realsound.jp/2026/07/post-2457300.html",
-      "date": "2026-07-12T12:10:00.000Z",
-      "summary": "NEO EXILE世代のメンバー紹介第22弾はTHE JET BOY BANGERZよりTAKUMIをピックアップ。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "Kis-My-Ft2とU-NEXTによる大型プロジェクト『キスマイ×NEXT』始動 歴代MVやライブ映像配信",
-      "url": "https://realsound.jp/2026/07/post-2458106.html",
-      "date": "2026-07-12T12:07:35.000Z",
-      "summary": "Kis-My-Ft2とU-NEXTによる大型プロジェクト『キスマイ×NEXT』が始動。第1弾として、U-NEXTにて本日7月12日よりKis-My-Ft2の歴代MV64作品を一挙配信する。 プロジェクト名に込めた想い",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "【世界初】星が爆発した場所で、生まれたばかりの「星のゆりかご」を発見",
-      "url": "https://nazology.kusuguru.co.jp/archives/197419",
-      "date": "2026-07-12T12:00:29.000Z",
-      "summary": "太陽よりはるかに重い星が、一生の最後に起こす「超新星爆発」。 その現場は、強烈な衝撃波やX線、高エネルギー粒子が飛び交う、宇宙でも指折りの過酷な場所です。 そんな環境の中で、新潟大学・岐阜大学・理化学研究所・京都大学らの共同研究チームは、生まれたばかりの星を包む「星のゆりかご」を2つ発見したと発表しました。 しかも、その内部には水に関係する分子や、生命関連物質の材料となりうる多様な有機分子が含まれていたとのこと。 超新星爆発の跡で、この",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "板野友美、愛娘と水着の親子コーデでプール満喫 「足長くてうらやましい」「親子お揃いで素敵」",
-      "url": "https://realsound.jp/2026/07/post-2457967.html",
-      "date": "2026-07-12T12:00:03.000Z",
-      "summary": "板野友美が子供たちとプールに行ったことを自身のInstagramにて報告している。 板野は自身がディレクションするライフスタイルブランド「Rosy luce」にて、甘すぎないフリルとシャーリングデザインを取り入れたス",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "元特捜部検事と女性の不適切な関係 刑事手続き終わる前からか",
-      "url": "http://www3.nhk.or.jp/news/html/20260712/k10015175111000.html",
-      "date": "2026-07-12T11:52:56.000Z",
-      "summary": "東京地検特捜部に在籍していた男性検事が、事件の捜査で取り調べた女性と不適切な関係を持ったとして調査を受けている問題で、不適切な関係は、女性の刑事手続きが終わる前から始まったとみられることが、関係者への取材で新たにわかりました。最高検察庁もこうした経緯を把握していて、男性検事の処分について検討しています。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "恒星が死んでも生き延びた、木星サイズの惑星をジェイムズウェッブが発見",
-      "url": "https://karapaia.com/archives/615427.html",
-      "date": "2026-07-12T11:30:00.000Z",
-      "summary": "太陽のような恒星が一生を終えるとき、その周りを回る惑星も普通は巻き添えになって滅びる運命にある。ところが地球から約80光年先で、恒星が死んでも生き延びた木星サイズの巨大ガス惑星「WD 1856 b」が見つかった…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
-      "title": "四国梅雨明け 九州や中国は38度超の危険な暑さ 13日も注意を",
-      "url": "http://www3.nhk.or.jp/news/html/20260712/k10015174761000.html",
-      "date": "2026-07-12T11:29:41.000Z",
-      "summary": "12日は、九州や中国地方で最高気温が38度を超えて危険な暑さになりました。13日も西日本を中心に猛烈な暑さが続く見込みで、熱中症対策を徹底してください。一方、北日本では断続的に発達した雨雲が流れ込み、雨量が多くなっている地域があり、気象庁は土砂災害などに警戒するよう呼びかけています。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
     }
   ]
 }
