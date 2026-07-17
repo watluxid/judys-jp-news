@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-07-17T14:07:36.822Z",
+  "generatedAt": "2026-07-17T19:36:46.559Z",
   "articleCount": 600,
   "feedStatus": [
+    {
+      "name": "NHKニュース（主要）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（社会）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "errors": []
+    },
     {
       "name": "NHKニュース（国際）",
       "category": "news",
@@ -14,20 +28,6 @@
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://note.com/travelingfoodlab/rss",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（主要）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-      "errors": []
-    },
-    {
-      "name": "クックパッドニュース",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
       "errors": []
     },
     {
@@ -45,10 +45,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（社会）",
-      "category": "news",
+      "name": "クックパッドニュース",
+      "category": "cooking",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
       "errors": []
     },
     {
@@ -73,6 +73,13 @@
       "errors": []
     },
     {
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://sorae.info/feed",
+      "errors": []
+    },
+    {
       "name": "4Gamer（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
@@ -80,10 +87,17 @@
       "errors": []
     },
     {
-      "name": "sorae（宇宙・天文）",
+      "name": "リアルサウンド",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://realsound.jp/atom.xml",
+      "errors": []
+    },
+    {
+      "name": "デイリーポータルZ",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://sorae.info/feed",
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -101,17 +115,10 @@
       "errors": []
     },
     {
-      "name": "リアルサウンド",
-      "category": "music",
+      "name": "ナゾロジー",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
-      "errors": []
-    },
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
+      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
       "errors": []
     },
     {
@@ -122,17 +129,10 @@
       "errors": []
     },
     {
-      "name": "ナゾロジー",
-      "category": "documentary",
+      "name": "和樂web",
+      "category": "culture",
       "ok": true,
-      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
-      "errors": []
-    },
-    {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "usedUrl": "https://intojapanwaraku.com/feed",
       "errors": []
     },
     {
@@ -150,20 +150,6 @@
       "errors": []
     },
     {
-      "name": "和樂web",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://intojapanwaraku.com/feed",
-      "errors": []
-    },
-    {
-      "name": "Art Annual online（美術）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://www.art-annual.jp/feed",
-      "errors": []
-    },
-    {
       "name": "ほんのひきだし（本・出版）",
       "category": "culture",
       "ok": true,
@@ -176,9 +162,32 @@
       "ok": true,
       "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
+    },
+    {
+      "name": "Art Annual online（美術）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://www.art-annual.jp/feed",
+      "errors": []
+    },
+    {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
+      "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "ビル・ブルーフォード擁するピート・ロス・トリオ ライヴ作品発売 ライヴ映像1曲あり",
+      "url": "https://amass.jp/190759/",
+      "date": "2026-07-18T00:37:00.000Z",
+      "summary": "イエスやキング・クリムゾン等で知られるビル・ブルーフォードは2024年、ライヴ活動からの引退を撤回し、英ジャズバンド、ピート・ロス・トリオに参加してライヴ音楽界に復帰。そのトリオのライヴCD＋DVD作品が9月発売。ライヴ映像1曲あり https://amass.jp/190759/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "嵐からACEesが受け取ったものとは？ 大きな背中と継承する伝統 憧れの先を目指して5人で作る“次の時代”",
       "url": "https://realsound.jp/2026/07/post-2463166.html",
@@ -279,6 +288,24 @@
       "category": "music"
     },
     {
+      "title": "栃木 群馬で記録的な大雨 旗川では氾濫が発生 厳重な警戒を",
+      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179941000.html",
+      "date": "2026-07-17T19:07:56.000Z",
+      "summary": "湿った空気の影響で、栃木県と群馬県では記録的な大雨になり、栃木県を流れる旗川では氾濫が発生したほか、土砂災害も起きています。雨は次第に弱まっていますが、いまも土砂災害や氾濫の危険度が高まっている地域があり、厳重に警戒してください。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "栃木 足利市と佐野市 レベル4大雨危険警報 解除",
+      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015180001000.html",
+      "date": "2026-07-17T18:33:43.000Z",
+      "summary": "宇都宮地方気象台は午前2時54分、栃木県の足利市と佐野市に発表していたレベル4大雨危険警報を解除しました。足利市と佐野市には引き続き、レベル4土砂災害危険警報が発表されています。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "ウィルコのジェフ・トゥイーディー 米TV番組で「Out in the Dark」披露",
       "url": "https://amass.jp/190748/",
       "date": "2026-07-17T17:10:00.000Z",
@@ -306,6 +333,15 @@
       "category": "music"
     },
     {
+      "title": "栃木 足利 8万9572人に避難指示 大雨と土砂災害の危険警報で",
+      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179951000.html",
+      "date": "2026-07-17T16:59:05.000Z",
+      "summary": "栃木県足利市は、レベル4大雨危険警報と土砂災害危険警報が発表されたことなどを受けて、17日午後10時50分、市内の一部の地区の4万5459世帯、8万9572人に避難指示を出しました。5段階の警戒レベルのうち警戒レベル4の情報で、危険な場所から全員避難するよう呼びかけています。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "トーキング・ヘッズ『ストップ・メイキング・センス』4Kデジタルリマスター版 Netflixで配信中 トレーラー映像公開",
       "url": "https://amass.jp/190747/",
       "date": "2026-07-17T16:57:00.000Z",
@@ -324,6 +360,24 @@
       "category": "music"
     },
     {
+      "title": "【大雨 被害情報】群馬 浸水の通報相次ぐ 栃木 足利で土砂崩れ",
+      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179921000.html",
+      "date": "2026-07-17T16:30:30.000Z",
+      "summary": "大雨による被害などの情報をまとめました。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "栃木 足利市 旗川で氾濫おそれ 1万7812人に「緊急安全確保」",
+      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179931000.html",
+      "date": "2026-07-17T16:22:06.000Z",
+      "summary": "栃木県足利市は、市内を流れる旗川で氾濫が発生するおそれが高まったことから、これまで避難指示が出されていた地域のうち、毛野地区と富田地区の合わせて8679世帯、1万7812人を対象に、18日午前0時半に「緊急安全確保」を出しました。警戒レベルで最も高いレベル5にあたり、周囲の状況を確認し、近くの建物や自宅の2階以上、斜面から離れた場所など少しでも安全な場所で命が助かる可能性の高い行動を取るよう呼びかけています。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "SWEET STEADY、新曲「DASH!!!」配信リリース ライブでの一体感を目指したアッパーチューンに",
       "url": "https://realsound.jp/2026/07/post-2463901.html",
       "date": "2026-07-17T16:03:14.000Z",
@@ -333,6 +387,60 @@
       "category": "music"
     },
     {
+      "title": "群馬 太田 利根川水系石田川に氾濫危険警報 厳重警戒を",
+      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179911000.html",
+      "date": "2026-07-17T15:59:19.000Z",
+      "summary": "気象庁と群馬県は午前0時20分、群馬県太田市を流れる利根川水系石田川にレベル4氾濫危険警報を発表しました。水位が上昇していて、氾濫に厳重な警戒が必要です。氾濫した場合、太田市と埼玉県熊谷市では浸水のおそれがあります。気象庁と群馬県は自治体からの避難の情報を確認し、危険な場所にいる人は速やかに安全な場所に避難するよう呼びかけています。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "栃木 群馬で記録的な大雨 線状降水帯発生の可能性 厳重警戒を",
+      "url": "http://www3.nhk.or.jp/news/html/20260717/k10015178661000.html",
+      "date": "2026-07-17T15:50:28.000Z",
+      "summary": "湿った空気の影響で、栃木県と群馬県では局地的に雨雲が発達して当初の予想を上回る記録的な大雨になっています。気象庁は栃木県と群馬県に線状降水帯が発生する可能性が高まっているとして、17日午後10時前、「線状降水帯直前予測」を発表しました。土砂災害や低い土地の浸水、川の氾濫に厳重な警戒が必要です。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "栃木 佐野市 旗川周辺の2249世帯6520人に「緊急安全確保」",
+      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179901000.html",
+      "date": "2026-07-17T15:49:01.000Z",
+      "summary": "栃木県佐野市は市内を流れる旗川で氾濫が発生したことから、川の周辺の地区に住む2249世帯6520人を対象に「緊急安全確保」を出しました。警戒レベルで最も高いレベル5にあたり、周囲の状況を確認し、近くの建物や自宅の2階以上、斜面から離れた場所など少しでも安全な場所で命が助かる可能性の高い行動を取るよう呼びかけています。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "メキシコ チアパス州沿岸で大地震 M7.4 日本へ津波の影響なし",
+      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179891000.html",
+      "date": "2026-07-17T15:33:25.000Z",
+      "summary": "ハワイにある太平洋津波警報センターから気象庁に入った連絡によりますと、日本時間の17日午後11時49分ごろ、メキシコのチアパス州沿岸を震源とするマグニチュード7.4の大きな地震がありました。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "奈良 川岸に女性2人の遺体 37歳会社員を遺体遺棄の疑いで逮捕",
+      "url": "http://www3.nhk.or.jp/news/html/20260717/k10015179671000.html",
+      "date": "2026-07-17T15:23:45.000Z",
+      "summary": "17日、奈良市の川岸で女性2人の遺体が見つかり、警察はこのうち1人の遺体を遺棄した疑いで奈良市の37歳の会社員を逮捕しました。調べに対し会社員は、三重県内に住む交際相手の44歳の女性と、その娘で20歳の大学生の遺体を遺棄したことをほのめかす供述をしているということで、警察が身元の確認を進めるとともに詳しいいきさつを調べています。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "東広島 殺人放火事件 元社員が代金回収指示された日に事件か",
+      "url": "http://www3.nhk.or.jp/news/html/20260717/k10015179851000.html",
+      "date": "2026-07-17T14:51:14.000Z",
+      "summary": "広島県東広島市の住宅に火をつけ、リフォーム会社の経営者を殺害したなどの疑いで元社員が17日に逮捕された事件で、元社員は、会社に支払われていなかった工事代金を事件当日に回収するよう経営者から指示されていたことが捜査関係者への取材で分かりました。代金は元社員が不正に得ていたとみられ、警察は事件を起こすことで発覚を免れようとしたとみて調べています。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "NiziIROぱれっと、初のアジアツアー開催 2ndシングル『君に恋した瞬間/チョーゾッコンチュー』リリースも",
       "url": "https://realsound.jp/2026/07/post-2463535.html",
       "date": "2026-07-17T14:32:16.000Z",
@@ -340,6 +448,15 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "インド 初の“水素列車” 運行開始",
+      "url": "http://www3.nhk.or.jp/news/html/20260717/k10015179761000.html",
+      "date": "2026-07-17T14:31:37.000Z",
+      "summary": "インドでは脱炭素社会の実現を目指す中、水素を使った燃料電池で動き二酸化炭素を排出しない列車が開発され、17日から運行を開始しました。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
     },
     {
       "title": "超新星爆発の過酷な環境でも有機分子は生き残る？ アルマ望遠鏡が超新星残骸で“星のゆりかご”を初発見",
@@ -355,16 +472,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260717/k10015179841000.html",
       "date": "2026-07-17T13:54:32.000Z",
       "summary": "栃木県佐野市は、レベル4大雨危険警報と土砂災害危険警報が発表されたことを受けて、午後10時15分、市内西部のおよそ3300世帯、9000人余りに避難指示を出しました。5段階の警戒レベルのうち警戒レベル4の情報で、危険な場所から全員避難するよう呼びかけています。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "関東で猛烈な雨相次ぐ 北海道など連休中は大雨になるおそれ",
-      "url": "http://www3.nhk.or.jp/news/html/20260717/k10015178661000.html",
-      "date": "2026-07-17T13:45:54.000Z",
-      "summary": "湿った空気の影響で、17日は関東で局地的な大雨となり、関東北部では、当初の予想を上回る記録的な大雨となったところもあります。土砂災害や低い土地の浸水、川の氾濫に厳重な警戒が必要です。北海道などでは連休中は断続的に激しい雨が降って大雨になるおそれがあり、最新の気象情報に注意が必要です。",
-      "source": "NHKニュース（主要）",
+      "source": "NHKニュース（社会）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -430,15 +538,6 @@
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
-    },
-    {
-      "title": "奈良 川岸に女性2人の遺体 37歳会社員を遺体遺棄の疑いで逮捕",
-      "url": "http://www3.nhk.or.jp/news/html/20260717/k10015179671000.html",
-      "date": "2026-07-17T13:09:35.000Z",
-      "summary": "17日、奈良市の川岸で女性2人の遺体が見つかり、警察はこのうち1人の遺体を遺棄した疑いで奈良市の37歳の会社員を逮捕しました。調べに対し会社員は、三重県内に住む交際相手の44歳の女性と、その娘で20歳の大学生の遺体を遺棄したことをほのめかす供述をしているということで、警察が身元の確認を進めるとともに詳しいいきさつを調べています。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
     },
     {
       "title": "衆院本会議 今国会の会期 25日まで8日間延長を議決",
@@ -765,15 +864,6 @@
       "category": "culture"
     },
     {
-      "title": "〈LessThanTV〉、8年ぶりDOMMUNE登場 『SUPER METEO DOMMUNE』開催決定",
-      "url": "https://ototoy.jp/news/130881",
-      "date": "2026-07-17T10:00:00.000Z",
-      "summary": "8月8日(土)に開催される〈中METEO〉および〈極小METEO〉に先駆け、〈LessThanTV〉による特別番組〈SUPER METEO DOMMUNE〉が、7月28日(火)にDOMMUNEにて生配信されることが決定",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
       "title": "「これすごくない？」鑑賞会",
       "url": "https://dailyportalz.jp/dpq/koresugo-movie-01",
       "date": "2026-07-17T10:00:00.000Z",
@@ -781,6 +871,15 @@
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
+    },
+    {
+      "title": "〈LessThanTV〉、8年ぶりDOMMUNE登場 『SUPER METEO DOMMUNE』開催決定",
+      "url": "https://ototoy.jp/news/130881",
+      "date": "2026-07-17T10:00:00.000Z",
+      "summary": "8月8日(土)に開催される〈中METEO〉および〈極小METEO〉に先駆け、〈LessThanTV〉による特別番組〈SUPER METEO DOMMUNE〉が、7月28日(火)にDOMMUNEにて生配信されることが決定",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
     },
     {
       "title": "オジー・オズボーンの故郷バーミンガム、オジーの命日に史上初の「オジー・デー」開催",
@@ -855,15 +954,6 @@
       "category": "otome"
     },
     {
-      "title": "【連載コラム】遊津場の関西アーティスト週報 vol.114「すっかり定着！MINAMI WHEEL 2026-New Age-が今年も熱い」",
-      "url": "https://ototoy.jp/news/130882",
-      "date": "2026-07-17T09:00:00.000Z",
-      "summary": "こんにちは",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
       "title": "今、都内の路上に大量に落ちている謎の「ゴム輪」を大調査（傑作選）",
       "url": "https://dailyportalz.jp/kiji/rubber-ring-in-Tokyo",
       "date": "2026-07-17T09:00:00.000Z",
@@ -880,6 +970,15 @@
       "source": "カラパイア",
       "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
+    },
+    {
+      "title": "【連載コラム】遊津場の関西アーティスト週報 vol.114「すっかり定着！MINAMI WHEEL 2026-New Age-が今年も熱い」",
+      "url": "https://ototoy.jp/news/130882",
+      "date": "2026-07-17T09:00:00.000Z",
+      "summary": "こんにちは",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
     },
     {
       "title": "「【テイム】！！」凶暴な魔物・ライガルが一瞬でごろにゃーん♡状態に！？『異世界でテイムした最強の使い魔は、幼馴染の美少女でした』【#7】",
@@ -1395,15 +1494,6 @@
       "category": "culture"
     },
     {
-      "title": "「T.T」のウィメンズコレクションローンチを記念した展示会が8月1日から日本橋兜町で開催",
-      "url": "https://www.cinra.net/article/202607-whn-tt_edteam",
-      "date": "2026-07-17T02:00:00.000Z",
-      "summary": "展示会『IN THE BEGINNING WOMAN WAS TRULY THE SUN』が8月1日〜8月9日に東京都中央区日本橋兜町3-3 1F 直観で開催される。",
-      "source": "CINRA",
-      "sourceHomepage": "https://www.cinra.net/",
-      "category": "culture"
-    },
-    {
       "title": "超ぷっくりシール交換",
       "url": "https://dailyportalz.jp/kiji/cho-pukkuri-seal",
       "date": "2026-07-17T02:00:00.000Z",
@@ -1420,6 +1510,15 @@
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
+    },
+    {
+      "title": "「T.T」のウィメンズコレクションローンチを記念した展示会が8月1日から日本橋兜町で開催",
+      "url": "https://www.cinra.net/article/202607-whn-tt_edteam",
+      "date": "2026-07-17T02:00:00.000Z",
+      "summary": "展示会『IN THE BEGINNING WOMAN WAS TRULY THE SUN』が8月1日〜8月9日に東京都中央区日本橋兜町3-3 1F 直観で開催される。",
+      "source": "CINRA",
+      "sourceHomepage": "https://www.cinra.net/",
+      "category": "culture"
     },
     {
       "title": "米軍兵士に男性ホルモン検査を毎年義務づけの方針 米国防総省",
@@ -5476,105 +5575,6 @@
       "url": "http://www3.nhk.or.jp/news/html/20260714/k10015176281000.html",
       "date": "2026-07-14T02:38:59.000Z",
       "summary": "指定暴力団、住吉会系の「幸平一家」傘下の暴力団員らが、おととし、特殊詐欺事件で都内の80代の男性から現金5500万円をだまし取ったとして、警視庁に逮捕されました。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "死亡事故の歩行者44％から「薬物・アルコール」が検出される、ニューヨーク",
-      "url": "https://nazology.kusuguru.co.jp/archives/197525",
-      "date": "2026-07-14T02:30:16.000Z",
-      "summary": "お酒を飲んだ後、「運転しなければ大丈夫」と考えて、歩いて帰る人は少なくありません。 しかし、米ニューヨーク州保健局とコロンビア大学（Columbia University）の研究チームが同州の歩行者死亡事故を調べたところ、死亡した歩行者の43.8％から薬物またはアルコールが検出されました。 特に「薬物のみ」のケースは、「アルコールのみ」のケースより多かったといいます。 この結果は、飲酒運転だけでなく、酒や薬物の影響を受けた可能性がある状",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "スペースXが「スターシップ」第13回飛行試験を早ければ日本時間7月17日にも実施予定",
-      "url": "https://sorae.info/space/20260714-starship-13.html",
-      "date": "2026-07-14T02:13:29.000Z",
-      "summary": "アメリカ企業SpaceX（スペースX）は2026年7月12日に、同社が開発中の大型ロケット「Starship（スターシップ）」による第13回飛行試験に向けて準備を進めていると発表しました。 直近の打ち上げ予定日・予定時間…",
-      "source": "sorae（宇宙・天文）",
-      "sourceHomepage": "https://sorae.info/",
-      "category": "documentary"
-    },
-    {
-      "title": "学童保育の待機児童 全国で約1万4700人 2年連続で減少",
-      "url": "http://www3.nhk.or.jp/news/html/20260714/k10015176321000.html",
-      "date": "2026-07-14T02:00:13.000Z",
-      "summary": "共働き家庭などの小学生を放課後に預かる「学童保育」について、定員に空きがないなどの理由で利用できない待機児童の数は、全国でおよそ1万4700人と、2年連続で減少しました。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "落語の元ネタを書いたのは僧侶？落語の祖のひとり・安楽庵策伝の「ご縁」に彩られた生涯",
-      "url": "https://intojapanwaraku.com/culture/308380/",
-      "date": "2026-07-14T02:00:07.000Z",
-      "summary": "さらに江戸時代、これらの夜話や笑話を書き溜めた本が人気を呼びます。それが『醒睡笑（せいすいしょう）』です。この著者とされるのが、美濃国（現在の岐阜県）出身の僧侶・安楽庵策伝（あんらくあんさくでん）、落語の祖のひとりと言わ […]",
-      "source": "和樂web",
-      "sourceHomepage": "https://intojapanwaraku.com/",
-      "category": "culture"
-    },
-    {
-      "title": "渦巻きを飲む",
-      "url": "https://dailyportalz.jp/kiji/uzumaki-wo-nomu",
-      "date": "2026-07-14T02:00:00.000Z",
-      "summary": "夏といえば、冷たいスムージーやアイスを乗せたフロートなど、飲み物が楽しい季節である。そんなサマードリンク界に、新しい潮流を提案したい。それは「渦巻き」である。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "買い物リストをビンゴにすると冒険感がすごい",
-      "url": "https://dailyportalz.jp/kiji/kaimono-bingo",
-      "date": "2026-07-14T02:00:00.000Z",
-      "summary": "数字ではなく、身のまわりにあるものをテーマにしたビンゴがあるらしい。無人販売での買い物リストをビンゴにしたら、いつもの買い物も冒険のように楽しくなるのではないか。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "プーチン大統領「ウクライナの攻撃に数倍の威力で反撃」",
-      "url": "http://www3.nhk.or.jp/news/html/20260714/k10015176111000.html",
-      "date": "2026-07-14T01:13:48.000Z",
-      "summary": "ウクライナがロシアの石油関連施設への攻撃を強めていることについて、ロシアのプーチン大統領は「数倍の威力で反撃する」と述べ、大規模な攻撃を示唆してけん制しました。",
-      "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "独フォルクスワーゲンCEO 従業員5万人の追加削減策に言及",
-      "url": "http://www3.nhk.or.jp/news/html/20260714/k10015176171000.html",
-      "date": "2026-07-14T01:12:31.000Z",
-      "summary": "ドイツの自動車大手、フォルクスワーゲンのトップは、アメリカの関税措置などで利益が大幅に減少していると指摘したうえで、追加のコスト削減策として、新たに従業員をおよそ5万人削減する可能性に言及しました。",
-      "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "【オクラ、そのまま食べてない？】知らなきゃ損！おいしさが劇的に変わる下処理＆保存法、新鮮さキープの秘訣",
-      "url": "https://news.cookpad.com/articles/64698",
-      "date": "2026-07-14T01:00:00.000Z",
-      "summary": "オクラをゆでるとき、そのまま塩水に入れていませんか？実は、ひと手間加えるだけで口当たりがなめらかになり、見た目も鮮やかに仕上がります。知っておくと差がつく、オクラの正しい下処理と保存法をご紹介し...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "「おふろ犬」の謎（2026.7.14 朝エッセイと更新情報）",
-      "url": "https://dailyportalz.jp/dpq/midokoro-20260714",
-      "date": "2026-07-14T01:00:00.000Z",
-      "summary": "最近、ガチャポンコーナーや雑貨売り場に行くと、1990年代後半〜2000年代前半に流行ったキャラクターのグッズがたくさんありますよね。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "秋田 にかほ 住宅全焼 夫婦と連絡取れず 長男を放火疑いで逮捕",
-      "url": "http://www3.nhk.or.jp/news/html/20260714/k10015176271000.html",
-      "date": "2026-07-14T00:16:09.000Z",
-      "summary": "13日、秋田県にかほ市の住宅が全焼し、焼け跡から2人の遺体がみつかった火事で、警察はこの家に住む夫婦の44歳の長男を、放火の疑いで逮捕しました。火事のあと夫婦と連絡が取れておらず、警察が遺体の身元の確認を進めています。",
       "source": "NHKニュース（社会）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
