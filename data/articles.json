@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T13:56:59.202Z",
+  "generatedAt": "2026-07-19T19:36:36.137Z",
   "articleCount": 600,
   "feedStatus": [
     {
@@ -10,10 +10,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（国際）",
-      "category": "news",
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -24,6 +24,13 @@
       "errors": []
     },
     {
+      "name": "クックパッドニュース",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
+      "errors": []
+    },
+    {
       "name": "NHKニュース（科学・文化）",
       "category": "news",
       "ok": true,
@@ -31,17 +38,10 @@
       "errors": []
     },
     {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
+      "name": "NHKニュース（国際）",
+      "category": "news",
       "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
-      "errors": []
-    },
-    {
-      "name": "クックパッドニュース",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
       "errors": []
     },
     {
@@ -59,24 +59,17 @@
       "errors": []
     },
     {
-      "name": "amass",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://amass.jp/rss/new",
-      "errors": []
-    },
-    {
-      "name": "リアルサウンド",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
-      "errors": []
-    },
-    {
       "name": "メシ通（ホットペッパーグルメ）",
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
+      "errors": []
+    },
+    {
+      "name": "amass",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://amass.jp/rss/new",
       "errors": []
     },
     {
@@ -101,31 +94,17 @@
       "errors": []
     },
     {
+      "name": "リアルサウンド",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://realsound.jp/atom.xml",
+      "errors": []
+    },
+    {
       "name": "アニメ！アニメ！（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://animeanime.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
-      "errors": []
-    },
-    {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
-      "errors": []
-    },
-    {
-      "name": "ナゾロジー",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
       "errors": []
     },
     {
@@ -136,10 +115,17 @@
       "errors": []
     },
     {
-      "name": "和樂web",
-      "category": "culture",
+      "name": "ナゾロジー",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://intojapanwaraku.com/feed",
+      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "errors": []
+    },
+    {
+      "name": "デイリーポータルZ",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -150,17 +136,17 @@
       "errors": []
     },
     {
+      "name": "和樂web",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://intojapanwaraku.com/feed",
+      "errors": []
+    },
+    {
       "name": "TOKION",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://tokion.jp/feed/",
-      "errors": []
-    },
-    {
-      "name": "Art Annual online（美術）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://www.art-annual.jp/feed",
       "errors": []
     },
     {
@@ -171,10 +157,24 @@
       "errors": []
     },
     {
+      "name": "Art Annual online（美術）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://www.art-annual.jp/feed",
+      "errors": []
+    },
+    {
       "name": "青い日記帳（美術展）",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
+      "errors": []
+    },
+    {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
       "errors": []
     }
   ],
@@ -261,6 +261,15 @@
       "category": "music"
     },
     {
+      "title": "メッシと赤ちゃん時代のヤマル 撮影の舞台裏は ユニセフ",
+      "url": "http://www3.nhk.or.jp/news/html/20260720/k10015180991000.html",
+      "date": "2026-07-19T18:40:57.000Z",
+      "summary": "サッカーワールドカップ北中米大会の決勝を前に、ユニセフ＝国連児童基金はSNSなどで話題となっているアルゼンチンのメッシ選手と、赤ちゃんだったスペインのヤマル選手とが一緒に写った写真について、ユニセフの活動支援のためのカレンダーの撮影だったと明らかにしました。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "L7のベーシスト、ジェニファー・フィンチ死去",
       "url": "https://amass.jp/190769/",
       "date": "2026-07-19T14:51:00.000Z",
@@ -315,7 +324,7 @@
       "category": "culture"
     },
     {
-      "title": "福岡 太宰府で38度 あすも埼玉で危険な暑さ予想 熱中症対策を",
+      "title": "福岡 太宰府で38度 20日も埼玉で危険な暑さ予想 熱中症対策を",
       "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180531000.html",
       "date": "2026-07-19T13:01:03.000Z",
       "summary": "19日も西日本や北陸の各地で気温が上がり、福岡県太宰府市では38度ちょうどと危険な暑さとなりました。20日は、埼玉県で危険な暑さが見込まれるなど関東甲信や東北でも気温が上がるため、熱中症への対策を徹底してください。",
@@ -346,7 +355,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180891000.html",
       "date": "2026-07-19T12:17:46.000Z",
       "summary": "19日午後、長崎市の海水浴場で43歳の男性が海中に沈んでいるのが見つかり、病院に運ばれましたが、死亡が確認されました。警察は男性が溺れそうになった男の子を救助しようとして溺れた可能性があるとみて、当時の詳しい状況を調べています。",
-      "source": "NHKニュース（社会）",
+      "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -457,6 +466,15 @@
       "source": "クックパッドニュース",
       "sourceHomepage": "https://news.cookpad.com/",
       "category": "cooking"
+    },
+    {
+      "title": "【動画】Pickup NEWS（7月19日）",
+      "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180231000.html",
+      "date": "2026-07-19T10:40:28.000Z",
+      "summary": "これまでに入っているニュースを、まとめて1分の動画でお伝えします。（データ放送では動画をご覧いただけません）",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
     },
     {
       "title": "米軍8日連続の攻撃完了 イラン「壊滅的な反撃招く」とけん制",
@@ -756,15 +774,6 @@
       "category": "news"
     },
     {
-      "title": "【動画】Pickup NEWS（7月19日）",
-      "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180231000.html",
-      "date": "2026-07-19T04:43:23.000Z",
-      "summary": "これまでに入っているニュースを、まとめて1分の動画でお伝えします。（データ放送では動画をご覧いただけません）",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
       "title": "【検証】お湯は沸かさないで！ミニトマトを「凍らせる」だけで皮がツルンと剥けて気持ちよすぎた",
       "url": "https://news.cookpad.com/articles/65261",
       "date": "2026-07-19T04:00:00.000Z",
@@ -864,6 +873,15 @@
       "category": "cooking"
     },
     {
+      "title": "お気に入りはピンク！観光客のタオルを占拠してグデっとお昼寝するアシカ（ガラパゴス諸島）",
+      "url": "https://karapaia.com/archives/616185.html",
+      "date": "2026-07-19T03:00:00.000Z",
+      "summary": "観光地の夏のビーチで、野生動物との遭遇は心躍るものだが、予想以上に距離が縮まることもある。ガラパゴス諸島で、海水浴から戻った観光客の鮮やかなピンク色のビーチタオルを、1頭の野生のアシカがベッド代わりに占領するという珍事が起きた…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
       "title": "UNIS、初の夏曲「ギミサマ☆」MV公開",
       "url": "https://ototoy.jp/news/130906",
       "date": "2026-07-19T03:00:00.000Z",
@@ -889,15 +907,6 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
-    },
-    {
-      "title": "お気に入りはピンク！観光客のタオルを占拠してグデっとお昼寝するアシカ（ガラパゴス諸島）",
-      "url": "https://karapaia.com/archives/616185.html",
-      "date": "2026-07-19T03:00:00.000Z",
-      "summary": "観光地の夏のビーチで、野生動物との遭遇は心躍るものだが、予想以上に距離が縮まることもある。ガラパゴス諸島で、海水浴から戻った観光客の鮮やかなピンク色のビーチタオルを、1頭の野生のアシカがベッド代わりに占領するという珍事が起きた…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
     },
     {
       "title": "信長が認めた、織田一門の若き実力者。津田信澄の生涯",
@@ -927,15 +936,6 @@
       "category": "cooking"
     },
     {
-      "title": "ハラミちゃん、ピアノツアー音源第1弾配信開始",
-      "url": "https://ototoy.jp/news/130901",
-      "date": "2026-07-19T01:00:00.000Z",
-      "summary": "ハラミちゃんが現在開催中の全国ツアー「ハラミちゃん47都道府県ピアノツアー2026 ～旅するピアノと47の出会い～」のライブ音源2曲を配信リリースした",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
       "title": "Googleマップの嬉しい機能（2026.7.19 朝エッセイ/西村まさゆき）",
       "url": "https://dailyportalz.jp/dpq/midokoro-20260719",
       "date": "2026-07-19T01:00:00.000Z",
@@ -943,6 +943,15 @@
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
+    },
+    {
+      "title": "ハラミちゃん、ピアノツアー音源第1弾配信開始",
+      "url": "https://ototoy.jp/news/130901",
+      "date": "2026-07-19T01:00:00.000Z",
+      "summary": "ハラミちゃんが現在開催中の全国ツアー「ハラミちゃん47都道府県ピアノツアー2026 ～旅するピアノと47の出会い～」のライブ音源2曲を配信リリースした",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
     },
     {
       "title": "青森 外ヶ浜町 高齢者等避難の情報 蟹田地区1164世帯2482人に",
@@ -5569,15 +5578,6 @@
       "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
-    },
-    {
-      "title": "デイヴ・ムステイン、「Ride The Lightning」のメガデス版を語る 「その一部は俺のヴォーカルの限界を試すものだった」",
-      "url": "https://amass.jp/190677/",
-      "date": "2026-07-15T08:31:00.000Z",
-      "summary": "メガデスは新たな楽曲解説動画を投稿し、「Ride The Lightning」のメガデス版を録音した理由についてデイヴ・ムステインが改めて語る。「ジェイムズは素晴らしいシンガー。俺も歌ってみたけど、いくつかは俺のヴォーカルの限界を試すものだった」 https://amass.jp/190677/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
     }
   ]
 }
