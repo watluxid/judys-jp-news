@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T14:35:37.787Z",
+  "generatedAt": "2026-07-20T20:00:29.788Z",
   "articleCount": 600,
   "feedStatus": [
     {
@@ -17,6 +17,13 @@
       "errors": []
     },
     {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "errors": []
+    },
+    {
       "name": "NHKニュース（社会）",
       "category": "news",
       "ok": true,
@@ -24,10 +31,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（科学・文化）",
-      "category": "news",
+      "name": "つくおき",
+      "category": "cooking",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "usedUrl": "https://cookien.com/feed/",
       "errors": []
     },
     {
@@ -42,13 +49,6 @@
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://note.com/travelingfoodlab/rss",
-      "errors": []
-    },
-    {
-      "name": "つくおき",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://cookien.com/feed/",
       "errors": []
     },
     {
@@ -73,17 +73,17 @@
       "errors": []
     },
     {
-      "name": "4Gamer（乙女ゲーム関連）",
-      "category": "otome",
-      "ok": true,
-      "usedUrl": "https://www.4gamer.net/rss/index.xml",
-      "errors": []
-    },
-    {
       "name": "sorae（宇宙・天文）",
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://sorae.info/feed",
+      "errors": []
+    },
+    {
+      "name": "4Gamer（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://www.4gamer.net/rss/index.xml",
       "errors": []
     },
     {
@@ -101,17 +101,10 @@
       "errors": []
     },
     {
-      "name": "ナゾロジー",
-      "category": "documentary",
+      "name": "アニメ！アニメ！（乙女ゲーム関連）",
+      "category": "otome",
       "ok": true,
-      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
-      "errors": []
-    },
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
+      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
       "errors": []
     },
     {
@@ -122,10 +115,10 @@
       "errors": []
     },
     {
-      "name": "アニメ！アニメ！（乙女ゲーム関連）",
-      "category": "otome",
+      "name": "ナゾロジー",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
+      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
       "errors": []
     },
     {
@@ -136,13 +129,6 @@
       "errors": []
     },
     {
-      "name": "カラパイア",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
-      "errors": []
-    },
-    {
       "name": "和樂web",
       "category": "culture",
       "ok": true,
@@ -150,17 +136,24 @@
       "errors": []
     },
     {
-      "name": "ほんのひきだし（本・出版）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://hon-hikidashi.jp/feed/",
-      "errors": []
-    },
-    {
       "name": "TOKION",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://tokion.jp/feed/",
+      "errors": []
+    },
+    {
+      "name": "カラパイア",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://karapaia.com/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "ほんのひきだし（本・出版）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://hon-hikidashi.jp/feed/",
       "errors": []
     },
     {
@@ -176,9 +169,25 @@
       "ok": true,
       "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
+    },
+    {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
+      "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "TOMORROW X TOGETHER、『サントリー天然水 きりっと果実』新CM出演 日本オリジナル最新曲を初公開",
+      "url": "https://realsound.jp/2026/07/post-2465442.html",
+      "date": "2026-07-21T00:00:23.000Z",
+      "summary": "TOMORROW X TOGETHERが、『サントリー天然水 きりっと果実』とのスペシャル企画『OUR SHINING MOMENTS』を本日7月21日よりスタート。また、あわせてオリジナルWeb CMが公開となった。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
     {
       "title": "リオン・ブリッジズ 新アルバム『Happiness Anytime』発売 4曲試聴可",
       "url": "https://amass.jp/190780/",
@@ -234,6 +243,33 @@
       "category": "music"
     },
     {
+      "title": "中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認",
+      "url": "http://www3.nhk.or.jp/news/html/20260720/k10015181411000.html",
+      "date": "2026-07-20T19:44:47.000Z",
+      "summary": "防衛省は、中国海軍の艦艇が19日、小笠原諸島の沖ノ鳥島周辺の日本のEEZ＝排他的経済水域の内側で機関銃の射撃訓練を実施したのを確認したと発表しました。付近にはロシア海軍の艦艇も確認され、防衛省が警戒と監視を続けています。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "米 9日連続イラン攻撃 イラン外相「世界はイランの強さ認識」",
+      "url": "http://www3.nhk.or.jp/news/html/20260720/k10015180931000.html",
+      "date": "2026-07-20T19:28:51.000Z",
+      "summary": "アメリカ軍は、イランに対して今月11日以降、9日連続となる攻撃を行いました。一方、イランの革命防衛隊はヨルダンとクウェートに展開するアメリカ軍の航空機やレーダー施設などを攻撃したと主張しました。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "英労働党のバーナム党首 イギリスの新首相に就任 国王が任命",
+      "url": "http://www3.nhk.or.jp/news/html/20260720/k10015181251000.html",
+      "date": "2026-07-20T19:23:28.000Z",
+      "summary": "イギリスの与党・労働党のバーナム党首は20日、チャールズ国王に任命され、首相に就任しました。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "40年前に録音されたガンズ・アンド・ローゼズの完全未公開リハーサル・テープの音源がネットに デビュー作収録曲の初期版収録",
       "url": "https://amass.jp/190775/",
       "date": "2026-07-20T19:18:00.000Z",
@@ -270,10 +306,10 @@
       "category": "music"
     },
     {
-      "title": "小泉防衛相「中国とロシアが日本のEEZで実戦演習」明らかに",
-      "url": "http://www3.nhk.or.jp/news/html/20260720/k10015181411000.html",
-      "date": "2026-07-20T14:25:25.000Z",
-      "summary": "小泉防衛大臣は日本時間の20日夜、訪問先のイギリスで行った講演で「今、中国とロシアの海軍艦艇が日本の周辺海域で共同航行作戦を実施している。両国はこの週末にかけて、日本のEEZ＝排他的経済水域内で実戦演習を行った」と明らかにしました。",
+      "title": "小泉防衛相 日英伊の次期戦闘機開発は安保協力の新モデルに",
+      "url": "http://www3.nhk.or.jp/news/html/20260721/k10015181421000.html",
+      "date": "2026-07-20T15:38:46.000Z",
+      "summary": "小泉防衛大臣は、訪問先のイギリスで講演し、日本とイギリス、イタリアの3か国で進めている次期戦闘機の共同開発について、地域を越えた安全保障協力の新たなモデルとなるとして、計画の重要性を強調しました。",
       "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
@@ -288,7 +324,7 @@
       "category": "news"
     },
     {
-      "title": "東京 熱中症疑い142人搬送 あす埼玉 熊谷で40度「酷暑日」予想",
+      "title": "東京 熱中症疑い142人搬送 21日は埼玉 熊谷40度「酷暑日」予想",
       "url": "http://www3.nhk.or.jp/news/html/20260720/k10015181031000.html",
       "date": "2026-07-20T13:42:08.000Z",
       "summary": "20日は東日本から西日本を中心に広い範囲で気温が上がり、山梨県では39度を超えるなど内陸部を中心に危険な暑さになりました。21日は埼玉県では40度と命に関わる危険な暑さが予想されるなど、20日よりもさらに気温が上がるところがある見込みです。熱中症に厳重に警戒し、より一層、対策を心がけてください。",
@@ -301,15 +337,6 @@
       "url": "http://www3.nhk.or.jp/news/html/20260720/k10015181331000.html",
       "date": "2026-07-20T13:37:00.000Z",
       "summary": "韓国の海洋警察は、島根県の竹島で7月22日に音楽会を開催すると発表しました。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "英労働党のバーナム党首 イギリスの新首相に就任 国王が任命",
-      "url": "http://www3.nhk.or.jp/news/html/20260720/k10015181251000.html",
-      "date": "2026-07-20T13:12:16.000Z",
-      "summary": "イギリスの与党・労働党のバーナム党首は20日、チャールズ国王に任命され、首相に就任しました。",
       "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
@@ -410,15 +437,6 @@
       "date": "2026-07-20T10:59:21.000Z",
       "summary": "これまでに入っているニュースを、まとめて1分の動画でお伝えします。（データ放送では動画をご覧いただけません）",
       "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "米 9日連続イラン攻撃 イラン外相「世界はイランの強さ認識」",
-      "url": "http://www3.nhk.or.jp/news/html/20260720/k10015180931000.html",
-      "date": "2026-07-20T10:21:24.000Z",
-      "summary": "アメリカ軍は、イランに対して今月11日以降、9日連続となる攻撃を行いました。一方、イランの革命防衛隊はヨルダンとクウェートに展開するアメリカ軍の航空機やレーダー施設などを攻撃したと主張しました。",
-      "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -540,6 +558,24 @@
       "category": "cooking"
     },
     {
+      "title": "価格設定も営業時間もどうかしてる酒場「大塚大酒場」（傑作選）",
+      "url": "https://dailyportalz.jp/kiji/ohtsuka-daisakaba",
+      "date": "2026-07-20T09:00:00.000Z",
+      "summary": "先日ふらりと入った酒場が、あとから考えるにつれ、値段設定も営業時間もどうかしてたんです。あれって幻だったのかな？ もう一度確認しに行ってみよう。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "1200年前のマヤの遺跡からアメリカ大陸最古の科学者の名前を発見",
+      "url": "https://karapaia.com/archives/616459.html",
+      "date": "2026-07-20T09:00:00.000Z",
+      "summary": "今から約1200年前、空を見上げ、マヤ文明の時代に金星や火星の動きを数式に書き残した人物の名前が判明した。アメリカの研究チームがグアテマラのマヤ遺跡に残る壁画を解読したところ、天文学の数式の末尾に「白い胸のキツネ（Sak Tahn Waax）」という署名が残されていたのだ。この人物は…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
       "title": "KOSHIN、1stAL『Myself』リリース決定",
       "url": "https://ototoy.jp/news/130912",
       "date": "2026-07-20T09:00:00.000Z",
@@ -574,24 +610,6 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
-    },
-    {
-      "title": "価格設定も営業時間もどうかしてる酒場「大塚大酒場」（傑作選）",
-      "url": "https://dailyportalz.jp/kiji/ohtsuka-daisakaba",
-      "date": "2026-07-20T09:00:00.000Z",
-      "summary": "先日ふらりと入った酒場が、あとから考えるにつれ、値段設定も営業時間もどうかしてたんです。あれって幻だったのかな？ もう一度確認しに行ってみよう。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "1200年前のマヤの遺跡からアメリカ大陸最古の科学者の名前を発見",
-      "url": "https://karapaia.com/archives/616459.html",
-      "date": "2026-07-20T09:00:00.000Z",
-      "summary": "今から約1200年前、空を見上げ、マヤ文明の時代に金星や火星の動きを数式に書き残した人物の名前が判明した。アメリカの研究チームがグアテマラのマヤ遺跡に残る壁画を解読したところ、天文学の数式の末尾に「白い胸のキツネ（Sak Tahn Waax）」という署名が残されていたのだ。この人物は…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
     },
     {
       "title": "敗北後のお風呂で痛感する自らのいたらなさ…このまま終わるわけにはいかない！『かませ犬の王冠』【#9】",
@@ -5560,24 +5578,6 @@
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
-    },
-    {
-      "title": "【意外と知らなかった!?】お肉が固くならない「冷しゃぶ」の茹でワザ",
-      "url": "https://news.cookpad.com/articles/64708",
-      "date": "2026-07-16T01:00:00.000Z",
-      "summary": "夏の定番おかずにあがる、冷しゃぶ。お悩みといえば、豚肉が硬くなってしまったり、パサついてしまうことではないでしょうか。今日は、そんなお悩みを解決する冷しゃぶの茹で方をご紹介します。1.豚肉に酒を...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "Beck、7年ぶりの新アルバム『Ride Lonesome』発売 新曲「In The Night」MVあり",
-      "url": "https://amass.jp/190704/",
-      "date": "2026-07-16T00:46:00.000Z",
-      "summary": "Beckは7年ぶりとなる全曲新録の新スタジオ・アルバム『Ride Lonesome』を9月18日発売。新曲「In The Night」のミュージックビデオあり https://amass.jp/190704/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
     }
   ]
 }
