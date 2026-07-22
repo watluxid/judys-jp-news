@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T14:30:02.177Z",
+  "generatedAt": "2026-07-22T19:48:46.921Z",
   "articleCount": 600,
   "feedStatus": [
     {
@@ -10,13 +10,6 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-      "errors": []
-    },
-    {
       "name": "NHKニュース（社会）",
       "category": "news",
       "ok": true,
@@ -24,24 +17,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（科学・文化）",
+      "name": "NHKニュース（国際）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-      "errors": []
-    },
-    {
-      "name": "つくおき",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://cookien.com/feed/",
-      "errors": []
-    },
-    {
-      "name": "クックパッドニュース",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
       "errors": []
     },
     {
@@ -52,10 +31,24 @@
       "errors": []
     },
     {
-      "name": "Mikiki（タワーレコード）",
-      "category": "music",
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
       "ok": true,
-      "usedUrl": "https://mikiki.tokyo.jp/list/feed/rss",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "errors": []
+    },
+    {
+      "name": "クックパッドニュース",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
+      "errors": []
+    },
+    {
+      "name": "つくおき",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://cookien.com/feed/",
       "errors": []
     },
     {
@@ -73,17 +66,10 @@
       "errors": []
     },
     {
-      "name": "リアルサウンド",
+      "name": "Mikiki（タワーレコード）",
       "category": "music",
       "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
-      "errors": []
-    },
-    {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://sorae.info/feed",
+      "usedUrl": "https://mikiki.tokyo.jp/list/feed/rss",
       "errors": []
     },
     {
@@ -94,24 +80,17 @@
       "errors": []
     },
     {
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://sorae.info/feed",
+      "errors": []
+    },
+    {
       "name": "インサイド（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "アニメ！アニメ！（乙女ゲーム関連）",
-      "category": "otome",
-      "ok": true,
-      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "ナゾロジー",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
       "errors": []
     },
     {
@@ -122,10 +101,17 @@
       "errors": []
     },
     {
-      "name": "OTOTOY",
+      "name": "アニメ！アニメ！（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "リアルサウンド",
       "category": "music",
       "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
+      "usedUrl": "https://realsound.jp/atom.xml",
       "errors": []
     },
     {
@@ -133,6 +119,27 @@
       "category": "culture",
       "ok": true,
       "usedUrl": "https://www.cinra.net/feed",
+      "errors": []
+    },
+    {
+      "name": "ナゾロジー",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "errors": []
+    },
+    {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
+      "errors": []
+    },
+    {
+      "name": "TOKION",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://tokion.jp/feed/",
       "errors": []
     },
     {
@@ -147,13 +154,6 @@
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://karapaia.com/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "TOKION",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
       "errors": []
     },
     {
@@ -179,6 +179,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "スティーヴ・クロッパーの遺作アルバムから「Tandoori Chicken」公開",
+      "url": "https://amass.jp/190827/",
+      "date": "2026-07-23T00:18:00.000Z",
+      "summary": "スティーヴ・クロッパーの遺作アルバム『Watching The Tide』から、新たに「Tandoori Chicken」が先行公開されています。 https://amass.jp/190827/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "アニメーション監督・今 敏を特集 『NHK映像ファイル あの人に会いたい』8月22日再放送",
       "url": "https://amass.jp/190826/",
@@ -241,6 +250,33 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "熊本 合志 公務執行妨害疑いの容疑者に警察官が発砲",
+      "url": "http://www3.nhk.or.jp/news/html/20260723/k10015183251000.html",
+      "date": "2026-07-22T19:44:36.000Z",
+      "summary": "22日、熊本県合志市のコンビニエンスストアで通報を受けて駆けつけた警察官に包丁を突きつけたとして、21歳の男の容疑者が公務執行妨害の疑いでその場で逮捕されました。その際、警察官が発砲した拳銃の弾が容疑者に当たり、病院に搬送されましたが、命に別状はないということです。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "秋田県知事が香港のスーパーで県産品の販路拡大向けPR",
+      "url": "http://www3.nhk.or.jp/news/html/20260723/k10015183201000.html",
+      "date": "2026-07-22T19:38:09.000Z",
+      "summary": "秋田県の鈴木知事が香港を訪問し、現地のスーパーマーケットで県産品の販路拡大に向けて魅力をPRしました。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "韓国政府 北朝鮮への国連制裁決議違反として貨物船を留め置き",
+      "url": "http://www3.nhk.or.jp/news/html/20260723/k10015183061000.html",
+      "date": "2026-07-22T19:34:58.000Z",
+      "summary": "韓国政府は北朝鮮に対する国連安全保障理事会の制裁決議に違反していることが確認されたとして、貨物船を韓国中部の港で留め置いていると明らかにしました。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
     },
     {
       "title": "aoen、MV撮影で練習生時代からの願いを叶える 琉楓＆優樹の仲良しエピソードにほっこり「やっとつけられた」",
@@ -351,19 +387,37 @@
       "category": "music"
     },
     {
-      "title": "茂木外相 パレスチナの国づくりへ支援の輪の広がりに期待",
-      "url": "http://www3.nhk.or.jp/news/html/20260722/k10015183151000.html",
-      "date": "2026-07-22T14:24:44.000Z",
-      "summary": "パレスチナへの支援策を東アジア各国が議論する国際会議がフィリピンで開かれ、共同議長を務めた茂木外務大臣は、中長期的な人材育成を通してパレスチナへの国づくりに貢献していく考えを強調したうえで、各国による支援の輪の一層の広がりに期待を示しました。",
+      "title": "米中の外相が会談 習近平国家主席の訪米に向けて調整",
+      "url": "http://www3.nhk.or.jp/news/html/20260722/k10015182871000.html",
+      "date": "2026-07-22T15:23:45.000Z",
+      "summary": "アメリカのルビオ国務長官と中国の王毅外相が訪問先のフィリピンで会談しました。会談後、ルビオ長官はことし9月に予定される中国の習近平国家主席のアメリカ訪問に向けて調整を進めたことを明らかにしました。",
       "source": "NHKニュース（国際）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
     {
-      "title": "米中の外相が会談 習近平国家主席の訪米に向け調整か",
-      "url": "http://www3.nhk.or.jp/news/html/20260722/k10015182871000.html",
-      "date": "2026-07-22T13:53:45.000Z",
-      "summary": "アメリカのルビオ国務長官と中国の王毅外相が、訪問先のフィリピンで会談しました。",
+      "title": "ウクライナで国防相に続き軍のトップも交代 異例の人事に",
+      "url": "http://www3.nhk.or.jp/news/html/20260722/k10015182271000.html",
+      "date": "2026-07-22T15:08:25.000Z",
+      "summary": "ウクライナでは前国防相の事実上の解任に続いて軍のトップも解任され、ロシアによる軍事侵攻が続く中、異例の事態となっています。両者は軍の改革をめぐって対立があったとされ、連日行われてきた前国防相を支持する大規模なデモが軍のトップの解任につながった形です。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "茂木外相 メコン5か国にエネルギーなど連携強化を呼びかけ",
+      "url": "http://www3.nhk.or.jp/news/html/20260723/k10015183181000.html",
+      "date": "2026-07-22T15:01:12.000Z",
+      "summary": "フィリピンを訪れている茂木外務大臣はメコン川流域の5か国との会議に出席し、中東情勢を踏まえた石油製品の安定供給や組織的な詐欺対策をめぐる連携の強化を呼びかけました。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "茂木外相 パレスチナの国づくりへ支援の輪の広がりに期待",
+      "url": "http://www3.nhk.or.jp/news/html/20260722/k10015183151000.html",
+      "date": "2026-07-22T14:24:44.000Z",
+      "summary": "パレスチナへの支援策を東アジア各国が議論する国際会議がフィリピンで開かれ、共同議長を務めた茂木外務大臣は、中長期的な人材育成を通してパレスチナへの国づくりに貢献していく考えを強調したうえで、各国による支援の輪の一層の広がりに期待を示しました。",
       "source": "NHKニュース（国際）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
@@ -5524,60 +5578,6 @@
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
-    },
-    {
-      "title": "ビリー・シーン、2027年にタラスの再結成ライヴを計画 ヴォーカルは故フィル・ナロの息子",
-      "url": "https://amass.jp/190754/",
-      "date": "2026-07-17T20:46:00.000Z",
-      "summary": "ビリー・シーンがMR.BIG以前に在籍していたことでも知られるバンド、タラス（Talas）。ビリーはタラスが2027年に再結成ライヴを行う計画があることを明かす。ヴォーカルは、ヴォーカリストだった故フィル・ナロの息子を起用 https://amass.jp/190754/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "「人気キャラのおもちゃ譲ります」 不審なSNS投稿に注意",
-      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015179621000.html",
-      "date": "2026-07-17T20:43:33.000Z",
-      "summary": "SNS上で「人気キャラクターのおもちゃを無料で譲る」などとして偽の大手運送会社のサイトに誘導し、電話番号や住所などの個人情報を入力させる不審な投稿が相次いでいます。安易に入力すると情報を取られて悪用されるおそれもあり、注意が必要です。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "ジャズ・ピアニスト／作曲家／編曲家の渋谷 毅が死去",
-      "url": "https://amass.jp/190753/",
-      "date": "2026-07-17T20:21:00.000Z",
-      "summary": "ジャズ・ピアニスト／作曲家／編曲家の渋谷 毅が死去。86歳でした。森山良子、浅川マキなどに楽曲を提供。日本アカデミー賞音楽賞を受賞した『嫌われ松子の一生』などの映画音楽でも知られ、また『おかあさんといっしょ』などの子供番組に多くの楽曲を提供した https://amass.jp/190753/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "THE BACK HORN、新曲「刹那と悪天」配信リリース ラジオオンエア、新アーティスト写真公開も",
-      "url": "https://realsound.jp/2026/07/post-2463990.html",
-      "date": "2026-07-17T20:00:56.000Z",
-      "summary": "THE BACK HORNが、新曲「刹那と悪天」を7月22日に配信リリース。また、あわせて新たなアーティスト写真も公開となった。 本楽曲は、バンドの根底にあるロックンロールの衝動を鳴らした一曲。THE BACK HO",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "kein、約3年ぶりのニューアルバム『Iustitia sine misericordia』リリース 全国7カ所まわるツアーも",
-      "url": "https://realsound.jp/2026/07/post-2464238.html",
-      "date": "2026-07-17T20:00:45.000Z",
-      "summary": "keinが、ニューアルバム『Iustitia sine misericordia』を10月7日にリリース。また、あわせて新たなアーティストビジュアルも公開となった。 本作は、約3年ぶりにリリースされる2ndアルバムで",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "栃木 足利市と佐野市 レベル4大雨危険警報 解除",
-      "url": "http://www3.nhk.or.jp/news/html/20260718/k10015180001000.html",
-      "date": "2026-07-17T18:33:43.000Z",
-      "summary": "宇都宮地方気象台は午前2時54分、栃木県の足利市と佐野市に発表していたレベル4大雨危険警報を解除しました。足利市と佐野市には引き続き、レベル4土砂災害危険警報が発表されています。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
     }
   ]
 }
