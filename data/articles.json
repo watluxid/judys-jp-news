@@ -1,14 +1,7 @@
 {
-  "generatedAt": "2026-07-23T14:37:17.118Z",
+  "generatedAt": "2026-07-23T19:50:19.010Z",
   "articleCount": 600,
   "feedStatus": [
-    {
-      "name": "NHKニュース（主要）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-      "errors": []
-    },
     {
       "name": "NHKニュース（社会）",
       "category": "news",
@@ -17,10 +10,10 @@
       "errors": []
     },
     {
-      "name": "つくおき",
-      "category": "cooking",
+      "name": "NHKニュース（主要）",
+      "category": "news",
       "ok": true,
-      "usedUrl": "https://cookien.com/feed/",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
       "errors": []
     },
     {
@@ -31,10 +24,10 @@
       "errors": []
     },
     {
-      "name": "クックパッドニュース",
+      "name": "樋口直哉（TravelingFoodLab.）",
       "category": "cooking",
       "ok": true,
-      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -45,10 +38,17 @@
       "errors": []
     },
     {
-      "name": "樋口直哉（TravelingFoodLab.）",
+      "name": "つくおき",
       "category": "cooking",
       "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "usedUrl": "https://cookien.com/feed/",
+      "errors": []
+    },
+    {
+      "name": "クックパッドニュース",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
       "errors": []
     },
     {
@@ -73,6 +73,13 @@
       "errors": []
     },
     {
+      "name": "4Gamer（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://www.4gamer.net/rss/index.xml",
+      "errors": []
+    },
+    {
       "name": "リアルサウンド",
       "category": "music",
       "ok": true,
@@ -87,13 +94,6 @@
       "errors": []
     },
     {
-      "name": "4Gamer（乙女ゲーム関連）",
-      "category": "otome",
-      "ok": true,
-      "usedUrl": "https://www.4gamer.net/rss/index.xml",
-      "errors": []
-    },
-    {
       "name": "インサイド（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
@@ -101,10 +101,24 @@
       "errors": []
     },
     {
+      "name": "デイリーポータルZ",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "errors": []
+    },
+    {
       "name": "アニメ！アニメ！（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://animeanime.jp/rss20/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "CINRA",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://www.cinra.net/feed",
       "errors": []
     },
     {
@@ -119,20 +133,6 @@
       "category": "music",
       "ok": true,
       "usedUrl": "https://ototoy.jp/rss",
-      "errors": []
-    },
-    {
-      "name": "CINRA",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://www.cinra.net/feed",
-      "errors": []
-    },
-    {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -164,21 +164,84 @@
       "errors": []
     },
     {
-      "name": "ほんのひきだし（本・出版）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://hon-hikidashi.jp/feed/",
-      "errors": []
-    },
-    {
       "name": "青い日記帳（美術展）",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
+    },
+    {
+      "name": "ほんのひきだし（本・出版）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://hon-hikidashi.jp/feed/",
+      "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "King & Prince 髙橋海人、初の個展『不思議なセロル展』開催 渋谷PARCOを皮切りに全国6カ所巡回",
+      "url": "https://realsound.jp/2026/07/post-2469698.html",
+      "date": "2026-07-24T04:00:41.000Z",
+      "summary": "King & Princeの髙橋海人による初の個展『不思議なセロル展 created by 髙橋海人』が、9月11日から28日まで渋谷PARCO 4F PARCO MUSEUM TOKYOにて開催される。 本",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ケイティ・ペリーの映画『Katy Perry：The Lifetimes Tour - Live from Paris』 世界中の映画館で公開決定",
+      "url": "https://amass.jp/190854/",
+      "date": "2026-07-24T00:49:00.000Z",
+      "summary": "ケイティ・ペリーのライブプロダクションを体験できる映画『Katy Perry：The Lifetimes Tour - Live from Paris』が世界中の映画館で公開決定。日本ではTOHOシネマズ日比谷ほかで9月2日から劇場公開。予告編映像あり https://amass.jp/190854/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "フォリナー 新ライヴ・アルバム『In The Eye Of The Storm』全曲公開",
+      "url": "https://amass.jp/190853/",
+      "date": "2026-07-24T00:34:00.000Z",
+      "summary": "フォリナーは新コンサート映画『Foreigner 50: In The Eye Of The Storm』のサウンドトラックである新アルバム『In The Eye Of The Storm』をリリース。ストリーミング配信開始。YouTube他で聴けます https://amass.jp/190853/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "モンゴルのメタル・バンドThe HU 新アルバム『Hun』全曲公開",
+      "url": "https://amass.jp/190852/",
+      "date": "2026-07-24T00:28:00.000Z",
+      "summary": "モンゴルのフォークメタル・バンド、The HUの新スタジオ・アルバム『Hun』がストリーミング配信開始。YouTubeほかで聴けます。 https://amass.jp/190852/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "デズモンド・チャイルド 唯一のソロ公演を収めたライヴ・アルバム全曲公開 キッス／エアロスミス／ボン・ジョヴィ提供曲ほか披露",
+      "url": "https://amass.jp/190851/",
+      "date": "2026-07-24T00:24:00.000Z",
+      "summary": "数々のヒット曲を手がけたソングライターとして知られるデズモンド・チャイルドは、2022年6月に開催した、唯一のソロ公演を収めたライヴアルバムをストリーミング配信開始。YouTubeほかで聴けます。キッス、エアロスミス、ボン・ジョヴィなどへの提供曲を演奏 https://amass.jp/190851/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "エマーソン、レイク＆パーマー『Works Live』 リマスター＆新アートワークの新装版 全曲公開",
+      "url": "https://amass.jp/190850/",
+      "date": "2026-07-24T00:17:00.000Z",
+      "summary": "エマーソン、レイク＆パーマーのオフィシャル・ライヴ・アルバム『Works Live』が新装版で再登場。今回のリリースでは、リマスター音源（2021年）を収録し、新しいアートワークを採用しています。ストリーミング配信開始。YouTubeほかで聴けます https://amass.jp/190850/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ザ・ストロークス 6年ぶりの新アルバム『Reality Awaits』全曲公開",
+      "url": "https://amass.jp/190849/",
+      "date": "2026-07-24T00:11:00.000Z",
+      "summary": "ザ・ストロークス（The Strokes）は6年ぶりの新スタジオ・アルバム『Reality Awaits』をリリース。ストリーミング配信開始。YouTubeほかで聴けます。 https://amass.jp/190849/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "JUBEE、今秋リリース予定の3rdアルバムツアー開催 新曲「REBIRTH OF NOISE」ライブ映像公開も",
       "url": "https://realsound.jp/2026/07/post-2469689.html",
@@ -270,6 +333,33 @@
       "category": "music"
     },
     {
+      "title": "来年度予算案の概算要求基準 新投資枠は予算要求に上限設けず",
+      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015184671000.html",
+      "date": "2026-07-23T19:35:08.000Z",
+      "summary": "財務省は、来年度予算案の編成に向けた「概算要求基準」で、社会保障費の伸びを4000億円程度とする一方、国内投資による経済成長の実現に向けた新たな投資枠では各省庁からの予算要求に上限を設けない方向で最終調整に入りました。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "NY原油 一時1バレル93ドル台に 約1か月半ぶりの高値水準",
+      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015184701000.html",
+      "date": "2026-07-23T19:31:16.000Z",
+      "summary": "23日のニューヨーク原油市場では、国際的な取り引きの指標となるWTIの先物価格が一時、1バレル＝93ドル台まで値上がりし、先月中旬以来、およそ1か月半ぶりの高値水準となりました。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "「日本赤軍」 岡本公三容疑者死亡 空港乱射事件で国際手配",
+      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015184681000.html",
+      "date": "2026-07-23T19:26:42.000Z",
+      "summary": "1972年、イスラエルの空港で銃を乱射し、殺人などの疑いで国際手配されていた「日本赤軍」のメンバー岡本公三容疑者が、亡命先のレバノンで死亡したと過激派組織、PFLP＝パレスチナ解放人民戦線が発表しました。78歳でした。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "ティム・バートンの創造世界を体感できる没入型展覧会『ティム・バートンのラビリンス』日本上陸",
       "url": "https://amass.jp/190843/",
       "date": "2026-07-23T19:06:00.000Z",
@@ -333,6 +423,15 @@
       "category": "music"
     },
     {
+      "title": "米ルビオ国務長官“日本を標的にしているよう”日中関係に懸念",
+      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015184661000.html",
+      "date": "2026-07-23T16:58:54.000Z",
+      "summary": "アメリカのルビオ国務長官はNHKの単独インタビューに対し、現在の日中関係をめぐり「中国の発言が非常に攻撃的で、特に日本を標的にしているように見える」と述べて懸念を示し、中国への抑止力を確保するためには日米関係の強化が重要だと強調しました。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "ソルスティスからヴォーカリストのジェス・ホランドが脱退へ",
       "url": "https://amass.jp/190839/",
       "date": "2026-07-23T16:48:00.000Z",
@@ -340,6 +439,33 @@
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
+    },
+    {
+      "title": "EUがグーグルに制裁金 検索サイトで公正な競争妨害として",
+      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015184651000.html",
+      "date": "2026-07-23T16:47:39.000Z",
+      "summary": "EU＝ヨーロッパ連合は、アメリカのIT大手グーグルが検索サイトで自社のサービスを優先して表示させて、デジタル市場での公正な競争を妨げたなどとして、日本円で1600億円余りの制裁金を科したと発表しました。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "ベネチア国際映画祭コンペに是枝裕和監督 塚本晋也監督の作品",
+      "url": "http://www3.nhk.or.jp/news/html/20260723/k10015184541000.html",
+      "date": "2026-07-23T15:28:05.000Z",
+      "summary": "9月にイタリアで開幕する世界3大映画祭の1つ、ベネチア国際映画祭で、最優秀賞の金獅子賞を競う部門に日本からは是枝裕和監督と塚本晋也監督の2作品が出品されることになりました。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "最低賃金 労働者側75円引き上げ求める 企業側「丁寧な議論を」",
+      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015184611000.html",
+      "date": "2026-07-23T15:16:54.000Z",
+      "summary": "今年度の最低賃金について話し合う厚生労働省の審議会が23日開かれ、労働者側は全国平均の時給で75円の大幅な引き上げを求めました。一方、企業側はここ数年の大幅な賃上げで負担が増しているなどとして丁寧な議論を求めました。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
     },
     {
       "title": "ロック界の大物たちの隠れ家「サンセット・マーキス・ホテル」のドキュメンタリー映画完成 予告編映像公開、ボス／スラッシュら出演",
@@ -382,7 +508,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260723/k10015183051000.html",
       "date": "2026-07-23T13:24:43.000Z",
       "summary": "二十四節気の「大暑」の23日、静岡県で41.1度を観測し、各地で統計を取り始めてから最も高い気温を更新するなど、記録的な暑さとなりました。24日も名古屋市や京都市などで40度に迫る暑さが予想されていて、熱中症に厳重な警戒が必要です。一方、関東甲信や東北南部では局地的に、雨雲が発達するおそれがあり、低い土地の浸水や川の増水などに十分注意が必要です。",
-      "source": "NHKニュース（主要）",
+      "source": "NHKニュース（社会）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -410,15 +536,6 @@
       "date": "2026-07-23T13:10:12.000Z",
       "summary": "茂木外務大臣はASEAN＝東南アジア諸国連合と日中韓3か国の外相会議に出席し、アジア通貨危機をきっかけに協力の枠組みが発足してから来年で30年となることを踏まえ、幅広い分野で未来志向の協力を深化させていきたいと訴えました。",
       "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "ベネチア国際映画祭コンペに是枝裕和監督 塚本晋也監督の作品",
-      "url": "http://www3.nhk.or.jp/news/html/20260723/k10015184541000.html",
-      "date": "2026-07-23T13:09:11.000Z",
-      "summary": "9月にイタリアで開幕する世界3大映画祭の1つ、ベネチア国際映画祭で、最優秀賞の金獅子賞を競う部門に日本からは是枝裕和監督と塚本晋也監督の2作品が出品されることになりました。",
-      "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -5461,123 +5578,6 @@
       "source": "カラパイア",
       "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
-    },
-    {
-      "title": "【随時更新】ロシア ウクライナに軍事侵攻（7月19日の動き）",
-      "url": "http://www3.nhk.or.jp/news/html/20260719/k10015141101000.html",
-      "date": "2026-07-19T08:34:41.000Z",
-      "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる19日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
-      "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "マンションから男性転落 23歳女性が巻き込まれ死亡 名古屋 栄",
-      "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180661000.html",
-      "date": "2026-07-19T08:32:28.000Z",
-      "summary": "19日未明、名古屋市中心部のマンションから男性が転落し、近くを歩いていた23歳の女性が巻き込まれて死亡しました。警察によりますと、転落した男性も意識不明の重体だということで、警察は当時の状況を詳しく調べています。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "いよいよダンジョン攻略へ！「油断すれば死にます」の一言で学生たちに緊張が走る…『異世界でテイムした最強の使い魔は、幼馴染の美少女でした』【#17】",
-      "url": "https://hon-hikidashi.jp/book-person/165716/",
-      "date": "2026-07-19T08:30:40.000Z",
-      "summary": "実業之日本社より、 『異世界でテイムした最強の使い魔は、幼馴染の美少女でした』第7巻 が7月16日（木）に発売されました。 本作は、クラスごと異世界へ召喚された高校生・筒井遥人が、命の危機に瀕した幼馴染・美衣奈を救うため、やむなく“テイム”したことから始まる異世界ファンタジーです。最強の使い魔となった幼馴染とともに、仲間たちとの冒険や絆、恋模様が描かれます。 今回は第1話～第3話の試し読みを配信します。気になった方はぜひお近くの書店でお",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "お客様に来てもらうにはホテルの魅力が足りない？雷に打たれてひらめいたのは…？『アポカリプスホテル ぷすぷす』【#3】",
-      "url": "https://hon-hikidashi.jp/book-person/170778/",
-      "date": "2026-07-19T08:30:19.000Z",
-      "summary": "ほんのひきだしでは、7月17日の漫画の日を記念して、出版社がおすすめする今夏に読んでほしい注目コミック作品の試し読み記事を配信します。 竹書房のおすすめコミックは、 『アポカリプスホテル ぷすぷす』 です。続編の 『アポカリプスホテル かりかり』 が発売中です。 次に読む漫画を探している方、夏休みの自分時間を充実させたい方は、ぜひこの機会におすすめコミック作品をお楽しみください。 (adsbygoogle = window.adsbyg",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "彼女も同じ気持ちだったことが嬉しい…今しっかり言葉にして思いを伝えたい！『フレンドガールフレンド』【#12】",
-      "url": "https://hon-hikidashi.jp/book-person/161184/",
-      "date": "2026-07-19T08:20:42.000Z",
-      "summary": "ほんのひきだしでは、7月17日の漫画の日を記念して、出版社がおすすめする今夏に読んでほしい注目コミック作品の試し読み記事を配信します。 白泉社のおすすめコミックは、 『フレンドガールフレンド』 です。 「恋心と友情って何が違うの？」をテーマに、正反対だけど幼馴染の2人♀がお付き合いをしてみる百合ラブコメです！ たくさんの読者の皆さまのおかげで、紙コミックス発売決定！ 8月20日（木）コミックス第1巻＆第2巻、同時発売です！ 「花とゆめ＋",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "「SUP」中に海に転落 20歳の大学生が死亡 横浜",
-      "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180781000.html",
-      "date": "2026-07-19T08:15:58.000Z",
-      "summary": "19日朝、横浜市の八景島近くの海で、ボードの上に立ってパドルをこぎながら水面を進む「SUP」をしていた20歳の男子大学生が海に転落して流され、死亡しました。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "「あなたのいう事なんでもききます！」正体を知られたと思い込み、まさかの土下座…『たぬきはたぬき』【#8】",
-      "url": "https://hon-hikidashi.jp/book-person/168276/",
-      "date": "2026-07-19T08:10:17.000Z",
-      "summary": "ほんのひきだしでは、7月17日の漫画の日を記念して、出版社がおすすめする今夏に読んでほしい注目コミック作品の試し読み記事を配信します。 徳間書店のおすすめコミックは、 『たぬきはたぬき』 です。 次に読む漫画を探している方、夏休みの自分時間を充実させたい方は、ぜひこの機会におすすめコミック作品をお楽しみください。 (adsbygoogle = window.adsbygoogle || []).push({}); 試し読み【#8】 〉〉",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "脳が「現実と想像」を区別する方法",
-      "url": "https://nazology.kusuguru.co.jp/archives/179112",
-      "date": "2026-07-19T08:00:40.000Z",
-      "summary": "チープなポリゴンもリアルに感じられるかもしれません。 イギリスのユニヴァーシティ・カレッジ・ロンドン（UCL）で行われた研究によると、脳では「想像による信号」と「知覚による信号」がある、これらの「信号の強さ」を一種の現実性メーターとして使用しているのだという。もしこのメーターがある値（閾値）を突破すると、脳はそれを「本物だ！」と判定するのです。 逆に言えば、『頭の中のリンゴ』と『目の前のリンゴ』を分けるものは信号の強さ（太さ）の違いに過",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "遊漁船火災 全員避難 けが人なし 神奈川 三浦",
-      "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180681000.html",
-      "date": "2026-07-19T08:00:23.000Z",
-      "summary": "19日午前、神奈川県三浦市の沖合で遊漁船が燃える火事があり、海上保安部によりますと、乗っていた人たちは全員避難し、けが人はいませんでした。船はその後、沈没し、海上保安部が火災の原因を調べています。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "1年活動した冒険者とは思えないレベルの低さ…一体、彼女に何が起きていたのか？『はじまりの町の育て屋さん～追放された万能育成師はポンコツ冒険者を覚醒させて最強スローライフを目指します～』【#15】",
-      "url": "https://hon-hikidashi.jp/book-person/161244/",
-      "date": "2026-07-19T08:00:04.000Z",
-      "summary": "ほんのひきだしでは、7月17日の漫画の日を記念して、出版社がおすすめする今夏に読んでほしい注目コミック作品の試し読み記事を配信します。 マイクロマガジン社のおすすめコミックは、 『はじまりの町の育て屋さん～追放された万能育成師はポンコツ冒険者を覚醒させて最強スローライフを目指します～』 です。 次に読む漫画を探している方、夏休みの自分時間を充実させたい方は、ぜひこの機会におすすめコミック作品をお楽しみください。 (adsbygoogle",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "一服してたらトンネルの奥から銃声が！後輩の警察官が発砲したのか？『リィンカーネーションの花弁』【#5】",
-      "url": "https://hon-hikidashi.jp/book-person/167709/",
-      "date": "2026-07-19T07:45:49.000Z",
-      "summary": "ほんのひきだしでは、7月17日の漫画の日を記念して、出版社がおすすめする今夏に読んでほしい注目コミック作品の試し読み記事を配信します。 マッグガーデンのおすすめコミックは、 『リィンカーネーションの花弁』 です。 次に読む漫画を探している方、夏休みの自分時間を充実させたい方は、ぜひこの機会におすすめコミック作品をお楽しみください。 (adsbygoogle = window.adsbygoogle || []).push({}); 試し",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "アルテミス合意の署名国が70か国に ボツワナ・セルビア・モーリシャスが署名",
-      "url": "https://sorae.info/space/20260719-artemis-accords-70.html",
-      "date": "2026-07-19T07:40:53.000Z",
-      "summary": "NASA（アメリカ航空宇宙局）は、新たにボツワナ、セルビア、モーリシャスが「アルテミス合意」に署名したことを発表しました。これにより、アルテミス合意の署名国は合計70か国に達しました。 アルテミス合意とは、アメリカ主導の…",
-      "source": "sorae（宇宙・天文）",
-      "sourceHomepage": "https://sorae.info/",
-      "category": "documentary"
-    },
-    {
-      "title": "競技かるたの高校日本一決める全国大会 高校生が熱い戦い 滋賀",
-      "url": "http://www3.nhk.or.jp/news/html/20260719/k10015180761000.html",
-      "date": "2026-07-19T07:23:43.000Z",
-      "summary": "「かるたの聖地」として知られる滋賀県大津市の近江神宮を中心に、競技かるたの高校日本一を決める全国大会が開かれ、高校生による熱い戦いが繰り広げられています。",
-      "source": "NHKニュース（科学・文化）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
     }
   ]
 }
