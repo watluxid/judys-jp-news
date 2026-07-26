@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T04:02:09.610Z",
+  "generatedAt": "2026-07-26T08:41:44.077Z",
   "articleCount": 600,
   "feedStatus": [
     {
@@ -7,13 +7,6 @@
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
       "errors": []
     },
     {
@@ -31,17 +24,10 @@
       "errors": []
     },
     {
-      "name": "クックパッドニュース",
-      "category": "cooking",
+      "name": "NHKニュース（国際）",
+      "category": "news",
       "ok": true,
-      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
-      "errors": []
-    },
-    {
-      "name": "つくおき",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://cookien.com/feed/",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
       "errors": []
     },
     {
@@ -52,17 +38,24 @@
       "errors": []
     },
     {
+      "name": "つくおき",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://cookien.com/feed/",
+      "errors": []
+    },
+    {
+      "name": "クックパッドニュース",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
+      "errors": []
+    },
+    {
       "name": "Mikiki（タワーレコード）",
       "category": "music",
       "ok": true,
       "usedUrl": "https://mikiki.tokyo.jp/list/feed/rss",
-      "errors": []
-    },
-    {
-      "name": "amass",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://amass.jp/rss/new",
       "errors": []
     },
     {
@@ -73,17 +66,17 @@
       "errors": []
     },
     {
+      "name": "amass",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://amass.jp/rss/new",
+      "errors": []
+    },
+    {
       "name": "4Gamer（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://www.4gamer.net/rss/index.xml",
-      "errors": []
-    },
-    {
-      "name": "リアルサウンド",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
       "errors": []
     },
     {
@@ -94,31 +87,10 @@
       "errors": []
     },
     {
-      "name": "インサイド（乙女ゲーム関連）",
-      "category": "otome",
+      "name": "リアルサウンド",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "アニメ！アニメ！（乙女ゲーム関連）",
-      "category": "otome",
-      "ok": true,
-      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "CINRA",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://www.cinra.net/feed",
-      "errors": []
-    },
-    {
-      "name": "ナゾロジー",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "usedUrl": "https://realsound.jp/atom.xml",
       "errors": []
     },
     {
@@ -129,10 +101,31 @@
       "errors": []
     },
     {
-      "name": "和樂web",
+      "name": "インサイド（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "CINRA",
       "category": "culture",
       "ok": true,
-      "usedUrl": "https://intojapanwaraku.com/feed",
+      "usedUrl": "https://www.cinra.net/feed",
+      "errors": []
+    },
+    {
+      "name": "アニメ！アニメ！（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "ナゾロジー",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
       "errors": []
     },
     {
@@ -143,10 +136,17 @@
       "errors": []
     },
     {
-      "name": "Art Annual online（美術）",
+      "name": "TOKION",
       "category": "culture",
       "ok": true,
-      "usedUrl": "https://www.art-annual.jp/feed",
+      "usedUrl": "https://tokion.jp/feed/",
+      "errors": []
+    },
+    {
+      "name": "和樂web",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://intojapanwaraku.com/feed",
       "errors": []
     },
     {
@@ -157,10 +157,10 @@
       "errors": []
     },
     {
-      "name": "TOKION",
+      "name": "Art Annual online（美術）",
       "category": "culture",
       "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
+      "usedUrl": "https://www.art-annual.jp/feed",
       "errors": []
     },
     {
@@ -179,6 +179,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "UNISON SQUARE GARDEN、唯一無二のバンドが“特別な日”に届けたいつも通り 活動休止前ラストライブを観て",
+      "url": "https://realsound.jp/2026/07/post-2471074.html",
+      "date": "2026-07-26T17:00:47.000Z",
+      "summary": "7月15日に開催されたUNISON SQUARE GARDEN 活動休止前ラストライブの模様をレポートする。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
     {
       "title": "汐れいら、アニメ『うちの弟どもがすみません』EDテーマ「Clover」CDリリース ジャケットも公開",
       "url": "https://realsound.jp/2026/07/post-2471486.html",
@@ -207,6 +216,15 @@
       "category": "music"
     },
     {
+      "title": "THE JET BOY BANGERZメンバー紹介第7回：TAKI 新たな表現に果敢に挑み、グループの熱量を引き上げる存在",
+      "url": "https://realsound.jp/2026/07/post-2469438.html",
+      "date": "2026-07-26T12:10:34.000Z",
+      "summary": "NEO EXILE世代のメンバー紹介第24弾はTHE JET BOY BANGERZよりTAKIをピックアップ。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
       "title": "Emi Meyer、土屋アンナと初のコラボ曲配信リリース 日本の夏をイメージしたダンスナンバーに",
       "url": "https://realsound.jp/2026/07/post-2471447.html",
       "date": "2026-07-26T11:53:19.000Z",
@@ -225,6 +243,222 @@
       "category": "music"
     },
     {
+      "title": "渇きにあらがえず、水薬を一気飲み！？死んだと思ったら、おじいちゃんに？『替霊～カエ・ダマ～』【#7】",
+      "url": "https://hon-hikidashi.jp/book-person/171863/",
+      "date": "2026-07-26T08:38:12.000Z",
+      "summary": "双葉社より、『 替霊～カエ・ダマ～ 』の 第1巻 が7月24日（金）に発売されました。 本作は、『不能犯』『シグナル100』の宮月新さん×新鋭・津上昌也さんが描く、入れ替わりサスペンスです。 第1巻の発売を記念して、第1話の試し読み記事を配信します。作品が気に入った方は、ぜひ書店でお求めください。 (adsbygoogle = window.adsbygoogle || []).push({}); 試し読み【#7】 〉〉最初から読む 〉",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "東海道新幹線 運転見合わせ 下り東京～静岡 上り名古屋～三島",
+      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186731000.html",
+      "date": "2026-07-26T08:34:15.000Z",
+      "summary": "JR東海によりますと、東海道新幹線は、大雨の影響で、東京駅と静岡駅の間の下り線と、名古屋駅と三島駅の間の上り線で、午後5時5分ごろから運転を見合わせています。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "転職してから6人の女性と！？友人も海外赴任に……！そして、ある日、部長から呼び出しが…『闇アプリ』【#5】",
+      "url": "https://hon-hikidashi.jp/book-person/171743/",
+      "date": "2026-07-26T08:25:17.000Z",
+      "summary": "双葉社より、『 闇アプリ 』の 第1巻 が7月24日（金）に発売されました。 ホワイト企業限定求人アプリ、不倫サポートアプリ、絶対見つかる人探しアプリ……。世の中には数多のアプリが存在しますが、中には人の生活や命を脅かす「闇アプリ」というものが存在します。本作は、闇アプリにまつわる、読めば背筋が凍る、オムニバス形式のホラーサスペンスです。 第1巻の発売を記念して、第1話の試し読み記事を配信します。作品が気に入った方は、ぜひ書店でお求めく",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "「子どもっていいな」次々と子どもを持つ友人たち…でも妻は出会った頃から何も変わらない『DINKsのトツキトオカ 「産まない女」はダメですか？』【#20】",
+      "url": "https://hon-hikidashi.jp/book-person/164871/",
+      "date": "2026-07-26T08:15:15.000Z",
+      "summary": "ほんのひきだしでは、7月17日の漫画の日を記念して、出版社がおすすめする今夏に読んでほしい注目コミック作品の試し読み記事を配信します。 ぶんか社のおすすめコミックは、 『DINKsのトツキトオカ 「産まない女」はダメですか？』 です。 次に読む漫画を探している方、夏休みの自分時間を充実させたい方は、ぜひこの機会におすすめコミック作品をお楽しみください。 (adsbygoogle = window.adsbygoogle || []).p",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "宮城 栗原市 若柳大袋地区の94世帯260人に避難指示",
+      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186651000.html",
+      "date": "2026-07-26T08:13:37.000Z",
+      "summary": "宮城県栗原市は、市内を流れる夏川が登米市の小谷地水位観測所で「避難判断水位」を超えたため、若柳大袋地区の94世帯260人に「避難指示」を出しました。5段階の警戒レベルのうちレベル4にあたる情報で、市は、若柳地区の若柳公民館に避難所を開設するなどして、危険な場所から全員避難するよう呼びかけています。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "JR新潟駅付近 国道が冠水",
+      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186631000.html",
+      "date": "2026-07-26T08:02:58.000Z",
+      "summary": "26日、午後1時半ごろ、新潟市中央区のJR新潟駅近くの国道で撮影された映像です。道路が冠水し、車がゆっくりと動くたびに水が波打つ様子が確認できます。撮影した男性は、「近くの飲食店にいたところ、店員から『店内のちゅう房や駐車場が冠水したので退店してほしい』と言われ、店を出ました。徐行運転していましたが、車が止まるかもしれないと不安でした」などと話していました。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "昨日と同じスーツを着る彼、後輩女子の勝ち誇ったような表情――まさか浮気じゃないよね？『あざとく、かわいく、したたかに～私のこと、かわいいだけだと思ってた？～』【#19】",
+      "url": "https://hon-hikidashi.jp/book-person/165560/",
+      "date": "2026-07-26T08:00:58.000Z",
+      "summary": "ほんのひきだしでは、7月17日の漫画の日を記念して、出版社がおすすめする今夏に読んでほしい注目コミック作品の試し読み記事を配信します。 ぶんか社のおすすめコミックは、 『あざとく、かわいく、したたかに～私のこと、かわいいだけだと思ってた？～』 です。 次に読む漫画を探している方、夏休みの自分時間を充実させたい方は、ぜひこの機会におすすめコミック作品をお楽しみください。 (adsbygoogle = window.adsbygoogle ",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "「動物たちのおしっこの法則(イグノーベル賞)」にセミだけ従っていなかった",
+      "url": "https://nazology.kusuguru.co.jp/archives/151387",
+      "date": "2026-07-26T08:00:09.000Z",
+      "summary": "子どもの頃、セミにおしっこをかけられた経験のある人がいるのではないでしょうか？ このセミがおしっこを遠くに飛ばせる、つまりおしっこを噴射できるということ、実はすごいことなのです。 2015年に「動物のおしっこに関する研究」がイグノーベル物理学賞を受賞し、その研究は「体が小さい動物（3kg未満）は、おしっこを噴射しない」と予想しています。 このイグノーベル賞の研究に端を発する、体の大きさとおしっこのスタイルの関係は「動物のおしっこの法則」",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "食事に箸をつけるのは立場順…俺は一番最後で赤ちゃんより下ってなんやねん『生贄家族』【#4】",
+      "url": "https://hon-hikidashi.jp/book-person/165892/",
+      "date": "2026-07-26T07:50:09.000Z",
+      "summary": "ほんのひきだしでは、7月17日の漫画の日を記念して、出版社がおすすめする今夏に読んでほしい注目コミック作品の試し読み記事を配信します。 日本文芸社のおすすめコミックは、 『生贄家族』 です。 次に読む漫画を探している方、夏休みの自分時間を充実させたい方は、ぜひこの機会におすすめコミック作品をお楽しみください。 (adsbygoogle = window.adsbygoogle || []).push({}); 試し読み【#4】 〉〉最初",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "訪問介護の帰りに会った、家から閉め出された少年…今日から私があなたのお母さんだよ『娘の命を奪ったヤツを殺すのは罪ですか？』【#19】",
+      "url": "https://hon-hikidashi.jp/book-person/170326/",
+      "date": "2026-07-26T07:45:49.000Z",
+      "summary": "ほんのひきだしでは、7月17日の漫画の日を記念して、出版社がおすすめする今夏に読んでほしい注目コミック作品の試し読み記事を配信します。 ぶんか社のおすすめコミックは、 『娘の命を奪ったヤツを殺すのは罪ですか？』 です。 次に読む漫画を探している方、夏休みの自分時間を充実させたい方は、ぜひこの機会におすすめコミック作品をお楽しみください。 (adsbygoogle = window.adsbygoogle || []).push({});",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "自民 小林政調会長 政府の日程踏まえ消費税減税の意見集約",
+      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186611000.html",
+      "date": "2026-07-26T07:25:20.000Z",
+      "summary": "食料品の消費税減税をめぐり、自民党の小林政務調査会長は、超党派の「国民会議」の議論や、政府が来月上旬までをめどに方針を決定するとしている日程を踏まえ、党内の意見集約を進める考えを示しました。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "【3000人絶賛】家にある食材と和えるだけ「絶品アボカドサラダ」3選",
+      "url": "https://news.cookpad.com/articles/65161",
+      "date": "2026-07-26T07:00:00.000Z",
+      "summary": "アボカド、どうやって食べることが多いですか？わさびじょうゆや刺身と合わせるのも定番ですが、実はサラダにするとぐっとおいしさが広がります。今回は、家にある食材と合わせるだけで完成する、アボカドサラ...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "アメリカのスパイダーマン、交差点で立ち往生する車椅子の男性を素早く助ける",
+      "url": "https://karapaia.com/archives/617977.html",
+      "date": "2026-07-26T07:00:00.000Z",
+      "summary": "人はスパイダーマンの衣装に身を包むと、困った人を放っておくことができなくなるようだ。アメリカ、アーカンソー州の交通量の多い交差点で、車椅子に乗った男性が、赤信号に変わる直前の横断歩道を渡り切れずに苦労していた。その時…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
+      "title": "北海道 根室の断水 3日ぶりに全面復旧",
+      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186591000.html",
+      "date": "2026-07-26T06:55:38.000Z",
+      "summary": "北海道根室市で今月23日に発生し、一時ほぼ全域に広がった断水は、26日正午、3日ぶりに全面復旧しました。水源の沼の水温が高くなって藻が繁殖し、ろ過装置に詰まったことが原因と考えられるということで、市は再発防止に向けた検証を行うことにしています。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "新潟や東北中心に大雨 関東も激しい雷雨に 西日本では39度超も",
+      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186311000.html",
+      "date": "2026-07-26T06:46:01.000Z",
+      "summary": "前線の影響で、新潟県や東北を中心に大雨となっていて、土砂災害や低い土地の浸水などに厳重な警戒が必要です。一方、26日も西日本と東日本を中心に気温が上がり、各地で38度を超える危険な暑さとなっていて、引き続き熱中症への対策を徹底してください。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "中国、長征3号乙でデータ中継衛星「天鏈2号06星」を打ち上げ",
+      "url": "https://sorae.info/ssn/20260726-long-march-3b-tianlian2-06.html",
+      "date": "2026-07-26T06:24:00.000Z",
+      "summary": "CASC（中国航天科技集団）は日本時間2026年7月23日、西昌衛星発射センターから「長征3号乙」ロケットを打ち上げ、データ中継衛星「天鏈2号06星（Tianlian-2 06）」を所定の軌道へ投入しました。 打ち上げに…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
+    },
+    {
+      "title": "新潟 江南区の一部に避難指示",
+      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186571000.html",
+      "date": "2026-07-26T06:19:54.000Z",
+      "summary": "新潟市は、大雨による土砂災害の危険が高まっているとして、午後2時50分、江南区松山の一部の7世帯21人に避難指示を出しました。避難指示は5段階の警戒レベルのうちレベル4にあたる情報で、危険な場所から避難するよう呼びかけています。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "落雷で電柱から火花 東京 世田谷",
+      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186551000.html",
+      "date": "2026-07-26T05:56:19.000Z",
+      "summary": "26日午後1時前に東京 世田谷区で撮影された映像です。マンションから住宅街を撮影した映像には、強い雨が降る中、突然、雷が落ちて大きな音とともに電柱から火花が飛び散る様子が収められています。撮影した50代の男性によりますと、雷が落ちてから10秒ほど停電したということです。男性は「大雨の様子を撮影していたところ、大きな音と共に雷が落ちたので非常に驚きました」と話していました。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "新潟 長岡 柏崎 刈羽村などにレベル4土砂災害危険警報",
+      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186381000.html",
+      "date": "2026-07-26T05:00:18.000Z",
+      "summary": "新潟地方気象台は午前8時15分、長岡市と柏崎市、刈羽村にレベル4土砂災害危険警報を発表しました。また、午後0時56分には新発田市と阿賀野市に、午後1時1分には新潟市に、午後1時35分には関川村に、レベル4土砂災害危険警報を発表しました。土砂災害の危険性が非常に高くなっているため、厳重な警戒が必要です。気象台は自治体からの避難の情報を確認し、崖の近くなど危険な場所にいる人は速やかに安全な場所に避難するよう呼びかけています。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "【年一度のうなぎはこう食べて】フライパンでふわふわに！「うなぎの温め方」の正解はコレ",
+      "url": "https://news.cookpad.com/articles/64679",
+      "date": "2026-07-26T05:00:00.000Z",
+      "summary": "土用の丑の日に食べるうなぎ。せっかくならおいしく味わいたいですね。そこで今回は、買ってきたうなぎをおいしく温め直す方法をご紹介します。1. 買ってきたうなぎを流水でしっかりと洗う2. 水けを拭き...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "東京 大田区 店舗と住宅が入る建物で火災 1人死亡 3人けが",
+      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186481000.html",
+      "date": "2026-07-26T04:59:36.000Z",
+      "summary": "26日午前、東京 大田区の店舗と住宅が入る建物で火事があり、1人が死亡し、3人がけがをしました。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "「飛鳥・藤原の宮都」世界文化遺産に登録決定 国内で27件に",
+      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186101000.html",
+      "date": "2026-07-26T04:48:27.000Z",
+      "summary": "奈良県内の飛鳥時代の遺跡群、「飛鳥・藤原の宮都」が世界文化遺産として登録されることが、韓国で開かれたユネスコの世界遺産委員会で決まりました。今回の決定で、日本国内の世界遺産は文化遺産と自然遺産をあわせて27件となります。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "Fridayy、エモーショナルな新曲「Haiku」リリース",
+      "url": "https://ototoy.jp/news/131019",
+      "date": "2026-07-26T04:30:00.000Z",
+      "summary": "Fridayyが2026年7月24日(金)にニューシングル「Haiku」をリリースした",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
+      "title": "相模原 障害者施設殺傷事件から10年 多くの人が献花し追悼",
+      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186241000.html",
+      "date": "2026-07-26T04:04:31.000Z",
+      "summary": "相模原市の知的障害者施設で19人が殺害された事件から、26日で10年です。現場に再建された施設には朝から多くの人が訪れ、花を手向けて犠牲になった人たちを追悼しています。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "【きょうもそうめんでいいか…はNG】なぜ土用の丑の日にうなぎを食べるのか？夏バテ対策に効果が期待できる食べ物を現役医師が解説！",
       "url": "https://news.cookpad.com/articles/65209",
       "date": "2026-07-26T04:00:00.000Z",
@@ -232,15 +466,6 @@
       "source": "クックパッドニュース",
       "sourceHomepage": "https://news.cookpad.com/",
       "category": "cooking"
-    },
-    {
-      "title": "西日本など危険な暑さ予想 熱中症対策を 新潟 北陸 東北は大雨",
-      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186311000.html",
-      "date": "2026-07-26T03:55:32.000Z",
-      "summary": "26日も東海と近畿、四国、九州では危険な暑さが予想され、引き続き熱中症への対策を徹底してください。一方、前線の影響で新潟県や北陸、東北では大雨となっていて、土砂災害や低い土地の浸水などに厳重な警戒が必要です。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
     },
     {
       "title": "ドジャース 山本由伸 日米通算100勝に到達",
@@ -279,15 +504,6 @@
       "category": "culture"
     },
     {
-      "title": "東京 大田区 店舗と住宅が入る建物で火災 4人けが",
-      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186481000.html",
-      "date": "2026-07-26T03:32:23.000Z",
-      "summary": "26日午前、東京 大田区の店舗と住宅が入る建物で火事があり、4人がけがをしました。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
       "title": "フランスとスペインの山火事拡大 スペインで1人死亡",
       "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186461000.html",
       "date": "2026-07-26T03:27:14.000Z",
@@ -301,7 +517,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186111000.html",
       "date": "2026-07-26T03:23:59.000Z",
       "summary": "アメリカとイランの間ではおよそ2週間にわたって攻撃の応酬が続きましたが、25日から26日朝にかけていずれも直接の攻撃は伝えられていません。アメリカのメディアは、トランプ大統領が中東に展開するアメリカ軍の部隊を防衛するための弾薬が尽きる懸念などから、イランへの攻撃の強化を保留したようだと伝えました。",
-      "source": "NHKニュース（主要）",
+      "source": "NHKニュース（国際）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -331,15 +547,6 @@
       "source": "ほんのひきだし（本・出版）",
       "sourceHomepage": "https://hon-hikidashi.jp/",
       "category": "culture"
-    },
-    {
-      "title": "「飛鳥・藤原の宮都」世界文化遺産に登録決定 国内で27件に",
-      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186101000.html",
-      "date": "2026-07-26T03:10:30.000Z",
-      "summary": "奈良県内の飛鳥時代の遺跡群、「飛鳥・藤原の宮都」が世界文化遺産として登録されることが、韓国で開かれたユネスコの世界遺産委員会で決まりました。今回の決定で、日本国内の世界遺産は文化遺産と自然遺産をあわせて27件となります。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
     },
     {
       "title": "Fujii Kaze（藤井 風）がフジロックで魅せた世界水準のライブ――驚きの登場から最新モードの演奏まで苗場より現地レポート - イベント&ライブ・レポート",
@@ -504,15 +711,6 @@
       "category": "news"
     },
     {
-      "title": "新潟 長岡市 柏崎市 刈羽村にレベル4土砂災害危険警報",
-      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186381000.html",
-      "date": "2026-07-25T23:32:36.000Z",
-      "summary": "新潟地方気象台は午前8時15分、長岡市と柏崎市、刈羽村にレベル4土砂災害危険警報を発表しました。土砂災害の危険性が非常に高くなっているため、厳重な警戒が必要です。気象台は自治体からの避難の情報を確認し、崖の近くなど危険な場所にいる人は速やかに安全な場所に避難するよう呼びかけています。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
       "title": "新潟 長岡市にレベル4大雨危険警報 浸水や氾濫に厳重な警戒を",
       "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186371000.html",
       "date": "2026-07-25T23:29:00.000Z",
@@ -626,15 +824,6 @@
       "date": "2026-07-25T20:47:57.000Z",
       "summary": "イランの支援を受けるイエメンの反政府勢力フーシ派は25日、隣国サウジアラビアの国営石油会社「サウジアラムコ」の関連施設を攻撃したと発表しました。イラン情勢が飛び火したかたちで、エネルギー市場へのさらなる影響が懸念されています。",
       "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "相模原 障害者施設殺傷事件からきょうで10年",
-      "url": "http://www3.nhk.or.jp/news/html/20260726/k10015186241000.html",
-      "date": "2026-07-25T20:35:08.000Z",
-      "summary": "相模原市の知的障害者施設で19人が殺害された事件から、26日で10年です。施設ではことしも一般の献花を受け付け、犠牲者を追悼することにしています。",
-      "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -5389,195 +5578,6 @@
       "source": "NHKニュース（科学・文化）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
-    },
-    {
-      "title": "IHIとKuva Space、ハイパースペクトル衛星コンステレーションの構築に向け協力",
-      "url": "https://sorae.info/biz/20260722-ihi-kuvaspace.html",
-      "date": "2026-07-22T08:16:43.000Z",
-      "summary": "株式会社IHIは2026年7月21日、フィンランドの宇宙企業Kuva Space（クバスペース）と、ハイパースペクトル衛星コンステレーションの構築に向けた覚書（MoU）を締結したと発表しました。締結式はこれに先立つ7月1…",
-      "source": "sorae（宇宙・天文）",
-      "sourceHomepage": "https://sorae.info/",
-      "category": "documentary"
-    },
-    {
-      "title": "改正皇室典範成立受け適切対応を 高市首相が宮内庁長官と会談",
-      "url": "http://www3.nhk.or.jp/news/html/20260722/k10015182741000.html",
-      "date": "2026-07-22T08:01:27.000Z",
-      "summary": "高市総理大臣は宮内庁の黒田長官と会談し、皇族数の確保に向けた改正皇室典範の成立を受けて、実務面で適切に対応するよう伝えました。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "なぜ死んだ虫はひっくり返るのか？",
-      "url": "https://nazology.kusuguru.co.jp/archives/197867",
-      "date": "2026-07-22T08:00:38.000Z",
-      "summary": "真夏日に道を歩いていると、よく虫の亡骸を目にします。 そんなときに、こう思ったことはないでしょうか。 「なんで死んだ虫は、あお向けにひっくり返っているんだろう？」 そう、セミでもカナブンでも、ほとんどの虫があお向けの状態で死んでいます。 その気になるギモンを科学的に解決してみましょう。",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "美浜原発3号機タービン蒸気漏れ 原子力規制委が関電の対策了承",
-      "url": "http://www3.nhk.or.jp/news/html/20260722/k10015182671000.html",
-      "date": "2026-07-22T07:48:29.000Z",
-      "summary": "ことし5月、福井県にある美浜原子力発電所3号機で、タービンから蒸気が漏れたトラブルについて、原子力規制委員会は、関西電力の再発防止策を了承しました。美浜原発3号機はトラブルのあと、運転を停止していて、関西電力は工程を精査したうえで、運転再開の時期を判断するとしています。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "評論家 山田五郎さん死去 67歳 西洋美術などユーモア交え解説",
-      "url": "http://www3.nhk.or.jp/news/html/20260722/k10015182541000.html",
-      "date": "2026-07-22T07:44:31.000Z",
-      "summary": "西洋美術からファッション、雑学まで幅広い知識とユーモアを交えた語り口で親しまれた、評論家の山田五郎さんが7月14日、亡くなりました。67歳でした。",
-      "source": "NHKニュース（科学・文化）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "「なんだこれは！」。『大長編 タローマン 万博大爆発』公開1周年を記念して8月22日から全国再上映",
-      "url": "https://www.cinra.net/article/202607-whn-taroman_edteam",
-      "date": "2026-07-22T07:43:00.000Z",
-      "summary": "藤井亮監督・脚本の映画『大長編 タローマン 万博大爆発』の公開1周年を記念して8月22日から全国で再上映される。",
-      "source": "CINRA",
-      "sourceHomepage": "https://www.cinra.net/",
-      "category": "culture"
-    },
-    {
-      "title": "JRが支払う整備新幹線「貸付料」増額可能性も 国交省が案示す",
-      "url": "http://www3.nhk.or.jp/news/html/20260722/k10015182621000.html",
-      "date": "2026-07-22T07:42:34.000Z",
-      "summary": "整備新幹線を運行するJR各社が支払う「貸付料」をめぐり、国土交通省の有識者会議は、開業から30年が経過したあともさらに30年程度の支払いを求めたうえで、物価が上昇した場合には増額できる仕組みなどを盛り込んだとりまとめの案を示しました。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "千葉 八街で住宅全焼 4人死亡 警察が確認進める",
-      "url": "http://www3.nhk.or.jp/news/html/20260722/k10015182281000.html",
-      "date": "2026-07-22T07:41:25.000Z",
-      "summary": "22日未明、千葉県八街市で住宅が全焼する火事があり焼け跡から4人が遺体で見つかりました。高齢の夫婦を含む家族4人が住んでいたとみられ、警察が確認を進めるとともに出火原因を調べています。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "Number_i『REBON / BUGS LIFE / DIGITAL GIRL』収録内容発表 3人のプロデュース曲も収めたアトランティック移籍第1弾CDシングル - ニュース",
-      "url": "https://mikiki.tokyo.jp/articles/-/45580",
-      "date": "2026-07-22T07:33:00.000Z",
-      "summary": "Number_i『REBON / BUGS LIFE / DIGITAL GIRL』収録内容発表 3人のプロデュース曲も収めたアトランティック移籍第1弾CDシングル",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "長野 松本 乗鞍高原で希少なチョウ捕獲したか 会社員を逮捕",
-      "url": "http://www3.nhk.or.jp/news/html/20260722/k10015182591000.html",
-      "date": "2026-07-22T07:31:32.000Z",
-      "summary": "長野県松本市の乗鞍高原で希少なチョウ「コヒョウモンモドキ」を捕獲したとして50代の会社員が逮捕されました。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "日米豪印外相 海洋の平和と安定の重要性強調する成果文書 発表",
-      "url": "http://www3.nhk.or.jp/news/html/20260722/k10015182701000.html",
-      "date": "2026-07-22T07:05:47.000Z",
-      "summary": "日米豪印4か国でつくるクアッドの外相会合がフィリピンで開かれ、中国の海洋進出を念頭に、東シナ海や南シナ海などの情勢について認識を共有したうえで、インド太平洋地域の海洋における平和と安定の重要性を強調する成果文書を発表しました。",
-      "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "牧場基準な釣り餌のコツ",
-      "url": "https://dailyportalz.jp/koresugo/tsuri-esa-ookisa",
-      "date": "2026-07-22T07:00:00.000Z",
-      "summary": "牧場のヤギ&ヒツジのふれあいコーナーの奥の道を進むと釣り堀の看板が出現。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "コンロキャンセル界隈、大歓迎！レンジだけで「ごちそう主菜」が完成するレシピ５選",
-      "url": "https://news.cookpad.com/articles/65163",
-      "date": "2026-07-22T07:00:00.000Z",
-      "summary": "最近じわじわ広がっている「コンロキャンセル界隈」。暑い季節はとくに、火を使わずに済むならそれに越したことはありません。でも「レンジ料理って副菜どまりじゃない？」と思っているなら、それは思い込みか...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "アメリカのエンパイア・ステートビルのてっぺんでプロポーズしたロシア人カップル",
-      "url": "https://karapaia.com/archives/616823.html",
-      "date": "2026-07-22T07:00:00.000Z",
-      "summary": "地上から約440m。高所恐怖症の人には永遠に理解できない場所で、プロポーズを行ったロシア人カップルがいる。2人はアメリカ・ニューヨーク市にあるエンパイア・ステートビルに無許可で登り、愛と平和を訴える横断幕を掲げるパフォーマンスを行った。そして男性がその場で跪き…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
-      "title": "「刀剣乱舞ONLINE」，新刀剣男士「桃太郎祐定」を発表。「刀剣乱舞ぱずぎり」事前登録記念連動キャンペーンで手に入る",
-      "url": "https://www.4gamer.net/games/274/G027460/20260722025/",
-      "date": "2026-07-22T06:29:36.000Z",
-      "summary": "EXNOAは本日，刀剣育成シミュレーション「刀剣乱舞ONLINE」の新たな刀剣男士「桃太郎祐定（ももたろうすけさだ）」の情報を公開した。実装時期は，現在実施している「刀剣乱舞ぱずぎり」事前登録記念連動キャンペーンの終了後を予定している。",
-      "source": "4Gamer（乙女ゲーム関連）",
-      "sourceHomepage": "https://www.4gamer.net/",
-      "category": "otome"
-    },
-    {
-      "title": "米オープンAI 高性能モデルが意図せず他社に攻撃と発表",
-      "url": "http://www3.nhk.or.jp/news/html/20260722/k10015182641000.html",
-      "date": "2026-07-22T06:19:59.000Z",
-      "summary": "生成AIの「ChatGPT」を手がけるアメリカの「オープンAI」は21日、開発中のAIモデルが、意図しない形で他社にサイバー攻撃をしかける事故が起きたと発表しました。会社は「前例のない事案だ」と危機感を強めていて、高性能化するAIへの対応が課題となっています。",
-      "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "4800人以上絶賛レシピも！夏を乗り切る冷たい麺でキンキンに",
-      "url": "https://news.cookpad.com/articles/64671",
-      "date": "2026-07-22T05:00:00.000Z",
-      "summary": "暑い日は冷たい麺で食欲アップを。簡単に作れて、野菜やたんぱく質もとれる麺料理は、暑い日にぴったりです。材料を混ぜるだけで簡単に作れる担担麺風。具材もアレンジしやすく、簡単でおいしいと好評です。に...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "HANA、『ADDICTION』新マットリップのアンバサダー就任 新ビジュアル＆スペシャルムービー公開も",
-      "url": "https://realsound.jp/2026/07/post-2466773.html",
-      "date": "2026-07-22T04:00:36.000Z",
-      "summary": "HANAが、メイクアップブランド『ADDICTION』の新マットリップ『アディクション コンフィデント マット リップ』のアンバサダーに就任。本日7月22日より新ビジュアルおよびスペシャルムービーが公開となった。 今",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "出口夏希＆蒔田彩珠W主演『ルックバック』かけがえのない日々を切り取った場面写真到着",
-      "url": "https://www.cinra.net/article/202607-whn-lb2_edteam",
-      "date": "2026-07-22T04:00:00.000Z",
-      "summary": "是枝裕和監督・脚本・編集、藤本タツキ原作の実写映画『ルックバック』の場面写真が到着した。",
-      "source": "CINRA",
-      "sourceHomepage": "https://www.cinra.net/",
-      "category": "culture"
-    },
-    {
-      "title": "【買い物キャンセルしてOK！】家にある材料3つで、ご飯すすむ「ケチャ味噌炒め」作ってみた",
-      "url": "https://news.cookpad.com/articles/64767",
-      "date": "2026-07-22T04:00:00.000Z",
-      "summary": "暑さが厳しくなってくると、買い物に行く気になれない日が増えてきますよね。それでも家族のご飯は用意しなくてはならないから、少ない材料でぱぱっと作れて、ご飯がすすむレパートリーを増やしておきたいもの...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "Finallyがタワレコのアイドル企画〈NO MUSIC, NO IDOL?〉に初登場! 熱い想いが詰まったポスター掲出&プレゼントも - ニュース",
-      "url": "https://mikiki.tokyo.jp/articles/-/45570",
-      "date": "2026-07-22T03:56:00.000Z",
-      "summary": "Finallyがタワレコのアイドル企画〈NO MUSIC, NO IDOL?〉に初登場! 熱い想いが詰まったポスター掲出&プレゼントも",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
     }
   ]
 }
