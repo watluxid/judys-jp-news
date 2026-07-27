@@ -1,26 +1,12 @@
 {
-  "generatedAt": "2026-07-27T15:18:16.474Z",
+  "generatedAt": "2026-07-27T20:00:00.525Z",
   "articleCount": 600,
   "feedStatus": [
-    {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-      "errors": []
-    },
     {
       "name": "NHKニュース（主要）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（科学・文化）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -31,13 +17,6 @@
       "errors": []
     },
     {
-      "name": "クックパッドニュース",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
-      "errors": []
-    },
-    {
       "name": "樋口直哉（TravelingFoodLab.）",
       "category": "cooking",
       "ok": true,
@@ -45,10 +24,31 @@
       "errors": []
     },
     {
-      "name": "Mikiki（タワーレコード）",
-      "category": "music",
+      "name": "NHKニュース（国際）",
+      "category": "news",
       "ok": true,
-      "usedUrl": "https://mikiki.tokyo.jp/list/feed/rss",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "errors": []
+    },
+    {
+      "name": "クックパッドニュース",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
+      "errors": []
+    },
+    {
+      "name": "つくおき",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://cookien.com/feed/",
       "errors": []
     },
     {
@@ -59,6 +59,13 @@
       "errors": []
     },
     {
+      "name": "Mikiki（タワーレコード）",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://mikiki.tokyo.jp/list/feed/rss",
+      "errors": []
+    },
+    {
       "name": "amass",
       "category": "music",
       "ok": true,
@@ -66,17 +73,17 @@
       "errors": []
     },
     {
-      "name": "リアルサウンド",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
-      "errors": []
-    },
-    {
       "name": "4Gamer（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://www.4gamer.net/rss/index.xml",
+      "errors": []
+    },
+    {
+      "name": "リアルサウンド",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://realsound.jp/atom.xml",
       "errors": []
     },
     {
@@ -94,31 +101,17 @@
       "errors": []
     },
     {
-      "name": "アニメ！アニメ！（乙女ゲーム関連）",
-      "category": "otome",
-      "ok": true,
-      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
-      "errors": []
-    },
-    {
-      "name": "ナゾロジー",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
-      "errors": []
-    },
-    {
       "name": "デイリーポータルZ",
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "errors": []
+    },
+    {
+      "name": "アニメ！アニメ！（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
       "errors": []
     },
     {
@@ -129,17 +122,10 @@
       "errors": []
     },
     {
-      "name": "カラパイア",
+      "name": "ナゾロジー",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "TOKION",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
+      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
       "errors": []
     },
     {
@@ -150,10 +136,10 @@
       "errors": []
     },
     {
-      "name": "Art Annual online（美術）",
+      "name": "TOKION",
       "category": "culture",
       "ok": true,
-      "usedUrl": "https://www.art-annual.jp/feed",
+      "usedUrl": "https://tokion.jp/feed/",
       "errors": []
     },
     {
@@ -164,10 +150,17 @@
       "errors": []
     },
     {
-      "name": "つくおき",
-      "category": "cooking",
+      "name": "カラパイア",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://cookien.com/feed/",
+      "usedUrl": "https://karapaia.com/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "Art Annual online（美術）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://www.art-annual.jp/feed",
       "errors": []
     },
     {
@@ -176,9 +169,43 @@
       "ok": true,
       "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
+    },
+    {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
+      "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "『ちいさな展覧会シリーズ 絵のなかの美しい庭』",
+      "url": "https://bluediary2.jugem.jp/?eid=8142",
+      "date": "2026-07-28T12:03:00.000Z",
+      "summary": "パイ インターナショナルから刊行された『ちいさな展覧会シリーズ 絵のなかの美しい庭』は、まるで手元で展覧会を眺めるように楽しめる《ちいさな展覧会》シリーズの第1弾です。 『ちいさな展覧会シリーズ 絵のなかの美しい庭』 鮫島 圭代 (解説), デザイナー：原条...",
+      "source": "青い日記帳（美術展）",
+      "sourceHomepage": "https://bluediary2.jugem.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "Travis Japan 松田元太、関電不動産開発新CM出演 赤ちゃんとのふれあいで笑顔が広がるシーンを描く",
+      "url": "https://realsound.jp/2026/07/post-2472011.html",
+      "date": "2026-07-28T04:00:45.000Z",
+      "summary": "Travis Japanの松田元太が、本日7月28日より公開の関電不動産開発の新CM『未来へ歌う』篇に出演する。 本CMは、街の中のバス停を舞台に、松田と赤ちゃんのふれあいをきっかけに、周囲へ笑顔が広がっていく日常の",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "カーリー・サイモン、パーキンソン病を公表",
+      "url": "https://amass.jp/190914/",
+      "date": "2026-07-28T00:57:00.000Z",
+      "summary": "カーリー・サイモンは、自身がパーキンソン病を患っていることを公表。また皮膚がんの手術から回復中であることも明かしています。ファンに向けた新たな長文のメッセージを発表しています https://amass.jp/190914/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "ニール・ヤングのトリビュート盤『Heart of Gold: The Songs of Neil Young』の続編2枚発売",
       "url": "https://amass.jp/190913/",
@@ -250,6 +277,15 @@
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
+    },
+    {
+      "title": "埼玉 八潮の道路陥没から1年半 16市町で“期限内の対策困難”",
+      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015187581000.html",
+      "date": "2026-07-27T19:28:58.000Z",
+      "summary": "去年1月、埼玉県八潮市で起きた大規模な道路の陥没事故では、下水道管の腐食が原因とされ、国は遅くとも来年2月末までに緊急度が高い場所の補修工事などを行うよう自治体に求めています。事故から28日で1年半となる中、埼玉県内の対象自治体のうち、76％に上る16の市と町が対策を期限内に終えるのは難しいとしていて、下水が流れる中で作業を進める難しさなどが浮き彫りになっています。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
     },
     {
       "title": "欧州で山火事拡大 “地獄の炎の神”アーサー・ブラウンが火災の危険性を警告「バーベキューの火を点けるな」「吸い殻をポイ捨てするな」「燃えちまうぞ」",
@@ -643,7 +679,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260727/k10015187361000.html",
       "date": "2026-07-27T11:04:01.000Z",
       "summary": "フランスで発生した山火事は、6日目に入ってもおさまらず、ワインの名産地として知られるボルドーでは市街地からおよそ15キロの所まで火が迫り消火活動が続いています。",
-      "source": "NHKニュース（国際）",
+      "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -891,6 +927,15 @@
       "category": "music"
     },
     {
+      "title": "真実はここにあった！LEGOから「X-ファイル」キットが販売予定。オフィスとUFOを再現",
+      "url": "https://karapaia.com/archives/618088.html",
+      "date": "2026-07-27T09:00:00.000Z",
+      "summary": "「モルダー、あなた疲れてるのよ」ごっこができてしまう、往年のファンが待ち望んでいたレゴブロックのキットがついに販売される。私が不思議と謎を追い求め続けているのも、1990年代に世界中でヒットしたSFドラマ『X-ファイル』が大好きだったからに他ならない。今回の商品化は…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
       "title": "odol、新AL『slow blink』レコード発売決定",
       "url": "https://ototoy.jp/news/131047",
       "date": "2026-07-27T09:00:00.000Z",
@@ -907,15 +952,6 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
-    },
-    {
-      "title": "真実はここにあった！LEGOから「X-ファイル」キットが販売予定。オフィスとUFOを再現",
-      "url": "https://karapaia.com/archives/618088.html",
-      "date": "2026-07-27T09:00:00.000Z",
-      "summary": "「モルダー、あなた疲れてるのよ」ごっこができてしまう、往年のファンが待ち望んでいたレゴブロックのキットがついに販売される。私が不思議と謎を追い求め続けているのも、1990年代に世界中でヒットしたSFドラマ『X-ファイル』が大好きだったからに他ならない。今回の商品化は…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
     },
     {
       "title": "東京 豊島区 救助袋を使った避難訓練 北区の小学校火事を受け",
@@ -5542,42 +5578,6 @@
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
-    },
-    {
-      "title": "山形 JR仙山線の普通列車が落石と衝突 乗客47人にけがなし",
-      "url": "http://www3.nhk.or.jp/news/html/20260723/k10015184271000.html",
-      "date": "2026-07-23T11:26:50.000Z",
-      "summary": "23日夕方、仙台と山形を結ぶJR仙山線の普通列車が山形市内を走行中に落石と衝突しました。乗客47人にけがはないということです。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "静岡 浜松 生後9か月の園児が給食のリンゴ詰まらせ意識不明",
-      "url": "http://www3.nhk.or.jp/news/html/20260723/k10015184311000.html",
-      "date": "2026-07-23T11:15:49.000Z",
-      "summary": "静岡県浜松市の認定こども園で去年、生後9か月の園児が給食で出されたリンゴをのどに詰まらせて意識不明になる事故が起きていたことがわかり、市は再発防止の徹底を図るとしています。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "フィル・コリンズ 完成している新曲が「数曲ある」 16年ぶりの新曲が間もなく登場するかも？",
-      "url": "https://amass.jp/190833/",
-      "date": "2026-07-23T11:11:00.000Z",
-      "summary": "フィル・コリンズは2010年のアルバム『Going Back』を最後に新曲を発表していませんが、新曲が間もなく登場するかもしれません。新しいインタビューの中で、完成している新曲が「数曲ある」と発言しています。 https://amass.jp/190833/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "「誰かいるのか？」王宮の温室で毒草の勉強をしていたら声をかけられた！いったい誰？『転生第八王子の幸せ家族計画』【#6】",
-      "url": "https://hon-hikidashi.jp/book-person/164825/",
-      "date": "2026-07-23T11:00:51.000Z",
-      "summary": "ほんのひきだしでは、7月17日の漫画の日を記念して、出版社がおすすめする今夏に読んでほしい注目コミック作品の試し読み記事を配信します。 SBクリエイティブのおすすめコミックは、 『転生第八王子の幸せ家族計画』 です。 次に読む漫画を探している方、夏休みの自分時間を充実させたい方は、ぜひこの機会におすすめコミック作品をお楽しみください。 (adsbygoogle = window.adsbygoogle || []).push({}); ",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
     }
   ]
 }
