@@ -1,33 +1,19 @@
 {
-  "generatedAt": "2026-07-28T14:44:13.585Z",
+  "generatedAt": "2026-07-28T19:56:10.288Z",
   "articleCount": 600,
   "feedStatus": [
+    {
+      "name": "NHKニュース（社会）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "errors": []
+    },
     {
       "name": "NHKニュース（主要）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-      "errors": []
-    },
-    {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-      "errors": []
-    },
-    {
-      "name": "つくおき",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://cookien.com/feed/",
       "errors": []
     },
     {
@@ -38,10 +24,17 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（社会）",
+      "name": "NHKニュース（国際）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+      "errors": []
+    },
+    {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -49,6 +42,13 @@
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://news.cookpad.com/feeds/news.rss",
+      "errors": []
+    },
+    {
+      "name": "つくおき",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://cookien.com/feed/",
       "errors": []
     },
     {
@@ -80,13 +80,6 @@
       "errors": []
     },
     {
-      "name": "リアルサウンド",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
-      "errors": []
-    },
-    {
       "name": "sorae（宇宙・天文）",
       "category": "documentary",
       "ok": true,
@@ -101,20 +94,6 @@
       "errors": []
     },
     {
-      "name": "アニメ！アニメ！（乙女ゲーム関連）",
-      "category": "otome",
-      "ok": true,
-      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "ナゾロジー",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
-      "errors": []
-    },
-    {
       "name": "デイリーポータルZ",
       "category": "documentary",
       "ok": true,
@@ -122,10 +101,17 @@
       "errors": []
     },
     {
-      "name": "CINRA",
-      "category": "culture",
+      "name": "リアルサウンド",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://www.cinra.net/feed",
+      "usedUrl": "https://realsound.jp/atom.xml",
+      "errors": []
+    },
+    {
+      "name": "アニメ！アニメ！（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
       "errors": []
     },
     {
@@ -136,10 +122,17 @@
       "errors": []
     },
     {
-      "name": "カラパイア",
+      "name": "CINRA",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://www.cinra.net/feed",
+      "errors": []
+    },
+    {
+      "name": "ナゾロジー",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
+      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
       "errors": []
     },
     {
@@ -157,17 +150,17 @@
       "errors": []
     },
     {
+      "name": "カラパイア",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://karapaia.com/index.rdf",
+      "errors": []
+    },
+    {
       "name": "ほんのひきだし（本・出版）",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://hon-hikidashi.jp/feed/",
-      "errors": []
-    },
-    {
-      "name": "Art Annual online（美術）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://www.art-annual.jp/feed",
       "errors": []
     },
     {
@@ -176,9 +169,52 @@
       "ok": true,
       "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
+    },
+    {
+      "name": "Art Annual online（美術）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://www.art-annual.jp/feed",
+      "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "山田涼介、『オバジ（Obagi）』新TVCM出演 優しく語りかけるように“Myオバジレシピ”を提案",
+      "url": "https://realsound.jp/2026/07/post-2473842.html",
+      "date": "2026-07-29T04:00:25.000Z",
+      "summary": "山田涼介が、本日7月29日より放送のロート製薬のスキンケアブランド『オバジ（Obagi）』の新TVCM『Myオバジレシピ』篇に出演する。 本CMでは、ブランドの幅広さ、高機能性／効果への追求をわかりやすく伝えるため、",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "「京都・真如堂の名宝」",
+      "url": "https://bluediary2.jugem.jp/?eid=8140",
+      "date": "2026-07-29T01:53:00.000Z",
+      "summary": "三井記念美術館で開催中の 特別展「京都・真如堂の名宝」へ行って来ました。 https://www.mitsui-museum.jp/ 京都には数え切れないほどの寺院がありますが、何度も京都を訪れていてもまだ足を運んだことのない寺は少なくありません。自分にとって、洛東・神楽岡...",
+      "source": "青い日記帳（美術展）",
+      "sourceHomepage": "https://bluediary2.jugem.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "アシッド・フォークの女王リンダ・パーハクスが行方不明と報道",
+      "url": "https://amass.jp/190938/",
+      "date": "2026-07-29T01:05:00.000Z",
+      "summary": "カルト的人気を誇るアシッド・フォークの名盤『Parallelograms』で知られる、サイケデリック・フォークの伝説的なシンガーソングライター、リンダ・パーハクス（Linda Perhacs／82歳）が行方不明となっていると報じられています https://amass.jp/190938/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ビートルズの公式サイトで謎のカウントダウンがスタート 『Rubber Soul』アニヴァーサリーボックスセット発売か？",
+      "url": "https://amass.jp/190937/",
+      "date": "2026-07-29T00:34:00.000Z",
+      "summary": "ビートルズの公式サイトで謎のカウントダウンがスタート。英国時間7月29日14時（日本時間同日22時）にゼロに。ファンの一部は、サイトに掲載されている文章から『Rubber Soul』のアニヴァーサリーボックスセットの発売が発表されるのでは？と推測 https://amass.jp/190937/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "なにわ男子、ドームライブまでの道のりとその先を描くドキュメンタリー番組をPrime Videoで独占配信",
       "url": "https://realsound.jp/2026/07/post-2473784.html",
@@ -252,6 +288,15 @@
       "category": "music"
     },
     {
+      "title": "熊本で震度7 政府 救命・救助に全力対応 プッシュ型支援も",
+      "url": "http://www3.nhk.or.jp/news/html/20260729/k10015189211000.html",
+      "date": "2026-07-28T19:32:22.000Z",
+      "summary": "28日夕方に熊本県で震度7の揺れを観測した今回の地震を受けて、政府は、大規模な被害が確認されているとして、救命・救助活動を急ぐとともに、自治体の要請を待たずに届ける「プッシュ型支援」で避難生活の支援にあたる方針です。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "70年ワイト島フェス、ズボンが裂けるハプニングのためにジミ・ヘンドリックスの代役としてリードギターを約2分間務めたロードマネージャー 著書で回想",
       "url": "https://amass.jp/190931/",
       "date": "2026-07-28T19:32:00.000Z",
@@ -261,6 +306,24 @@
       "category": "music"
     },
     {
+      "title": "交通機関への影響（鉄道 高速道路 航空など）",
+      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188621000.html",
+      "date": "2026-07-28T19:19:46.000Z",
+      "summary": "今回の地震による交通機関への影響です。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "熊本で震度7 地震活動活発 同程度の地震に1週間ほど注意を",
+      "url": "http://www3.nhk.or.jp/news/html/20260729/k10015189251000.html",
+      "date": "2026-07-28T19:09:29.000Z",
+      "summary": "28日、熊本県熊本地方でマグニチュード7.1の大地震が発生して熊本県の宇城市と氷川町で震度7の揺れを観測し、熊本県では大きな被害が出ています。その後も震度5弱を観測する地震が3回発生するなど地震活動が活発になっていて、気象庁は、今後1週間ほどは最大震度7程度の地震に注意するよう呼びかけています。熊本県では、29日厳しい暑さが予想されていて、復旧作業などの際は熱中症対策も心がけてください。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "f5ve、BACARDIとの再タッグで見せた“自然体”な姿 詩羽とのコラボ、「Tropical Paradise (3am girls)」制作背景を聞く",
       "url": "https://realsound.jp/2026/07/post-2472722.html",
       "date": "2026-07-28T19:00:42.000Z",
@@ -268,6 +331,33 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "熊本県知事「予断許さない状況 国と緊密に連携し迅速に対応」",
+      "url": "http://www3.nhk.or.jp/news/html/20260729/k10015189241000.html",
+      "date": "2026-07-28T18:54:37.000Z",
+      "summary": "震度7の揺れを観測した地震を受けて、熊本県は29日午前0時から、2回目の災害対策本部の会議を開き、これまで確認されている被害の状況などについて共有しました。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "【震度7～6の地域】警察署ごとの被害まとめ",
+      "url": "http://www3.nhk.or.jp/news/html/20260729/k10015189221000.html",
+      "date": "2026-07-28T18:53:46.000Z",
+      "summary": "今回の地震で震度7と6強、それに6弱を観測した自治体を管轄する警察署に、28日午後11時までの被害状況を確認しました。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "ライフラインへの影響（電気 ガス 水道など）",
+      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188841000.html",
+      "date": "2026-07-28T18:30:02.000Z",
+      "summary": "今回の地震によるライフラインへの影響です。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
     },
     {
       "title": "A.B.C-Z「マジマジック」MVは“最も大胆で、最も美しいカオス” 独自の真骨頂、真面目なトンチキを本気で解説",
@@ -297,6 +387,15 @@
       "category": "music"
     },
     {
+      "title": "熊本城 石垣の崩落 28か所で確認",
+      "url": "http://www3.nhk.or.jp/news/html/20260729/k10015189231000.html",
+      "date": "2026-07-28T17:43:39.000Z",
+      "summary": "熊本城総合事務所によりますと、震度5強の揺れを観測した熊本市中央区にある熊本城では、石垣の崩落が28か所で確認されたということです。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "BALLISTIK BOYZ、フジテレビWebtoonプロジェクト応援ソング「SAKU -朔-」配信リリース",
       "url": "https://realsound.jp/2026/07/post-2473086.html",
       "date": "2026-07-28T17:28:56.000Z",
@@ -324,6 +423,15 @@
       "category": "music"
     },
     {
+      "title": "熊本県内の各病院にけが人多数搬送 停電で機能停止の病院も",
+      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188851000.html",
+      "date": "2026-07-28T16:56:18.000Z",
+      "summary": "今回の地震で、熊本県内の各医療機関にはけがをした人が大勢搬送されるなどしていて、中には停電などの影響で病院としての機能が停止しているところもあります。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "ポイズンのブレット・マイケルズ、閉塞性腎結石の激しい痛みを根性で耐えながら公演を行うが直後に緊急手術を受ける 術後3～4週間は公演禁止に",
       "url": "https://amass.jp/190928/",
       "date": "2026-07-28T16:43:00.000Z",
@@ -331,6 +439,15 @@
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
+    },
+    {
+      "title": "イスラエルがガザ地区への国際部隊展開を承認か 現地報道",
+      "url": "http://www3.nhk.or.jp/news/html/20260729/k10015189001000.html",
+      "date": "2026-07-28T16:38:46.000Z",
+      "summary": "アメリカのトランプ大統領が主導する和平計画に基づき、パレスチナのガザ地区の治安維持などを担う「国際安定化部隊」の展開を、イスラエル政府が承認したと現地メディアが伝えました。ハマスは、武装解除に応じない姿勢で、和平計画の具体的な進展につながるかは依然、不透明です。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
     },
     {
       "title": "プライマス 「The Ol’ Grizz」のミュージックビデオ公開",
@@ -342,6 +459,15 @@
       "category": "music"
     },
     {
+      "title": "熊本 宇城市や氷川町 避難所開設できず車中泊に駐車場など開放",
+      "url": "http://www3.nhk.or.jp/news/html/20260729/k10015189161000.html",
+      "date": "2026-07-28T16:04:46.000Z",
+      "summary": "震度7の揺れを観測した熊本県宇城市によりますと、市の指定避難所になっている豊野防災拠点センターが利用できない状態になっていて、センターの駐車場を車中泊をする人向けに開放しているということです。また、同じく震度7の揺れを観測した氷川町によりますと、建物の安全が確認できていないことから、町内のすべての屋内の指定避難所を開設していないということです。町は、建物の安全確認を進めるとともに、町内の小中学校のグラウンドを車中泊をする人向けに開放して",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "Eテレ『昔話法廷』 5年ぶりの新作『「天女の羽衣」裁判』編 8月22日放送",
       "url": "https://amass.jp/190926/",
       "date": "2026-07-28T16:01:00.000Z",
@@ -349,6 +475,24 @@
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
+    },
+    {
+      "title": "イオンモール熊本「ガスが漏れていたと報告」 10人安否不明",
+      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188721000.html",
+      "date": "2026-07-28T15:58:04.000Z",
+      "summary": "熊本県によりますと地震のあと爆発があり、2階部分が崩落した、嘉島町のショッピングセンター「イオンモール熊本」では、これまでに現場から4人が救助され、いずれも命に別状はないということです。一方、10人の安否が分かっていないということです。政権幹部の1人は、28日夜記者団に対し、爆発があった「イオンモール熊本」について、「爆発の原因かどうかは分からないが、ガスが漏れていたとの報告があった。ガスの元栓を閉めた上で、警察や消防、自衛隊が救助活動",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "熊本 八代 日本製紙の工場 2人が心肺停止 9人が安否不明",
+      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188691000.html",
+      "date": "2026-07-28T15:48:30.000Z",
+      "summary": "総務省消防庁によりますと、震度6強の揺れを観測し、煙突が崩落するなどの被害が出た熊本県八代市の日本製紙の八代工場では、午後10時までに、地元の消防から「救助が必要な人が9人いる」という報告が寄せられたということです。熊本県によりますと、この地震で、煙突が崩落するなどの被害が出た熊本県八代市の日本製紙の八代工場では、2人が心肺停止の状態で見つかったということです。県によりますと、ほかに安否がわからない人が9人いるということです。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
     },
     {
       "title": "森友学園めぐる文書 自殺した職員の妻が新たに開示求め提訴",
@@ -360,29 +504,11 @@
       "category": "news"
     },
     {
-      "title": "【速報】ドラレコにイオンモール熊本 爆発の瞬間 複数安否不明",
-      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188721000.html",
-      "date": "2026-07-28T14:31:27.000Z",
-      "summary": "熊本県嘉島町のイオンモール熊本で爆発が起きた時、現場付近を走っていた車のドライブレコーダーが爆発の瞬間を捉えていました。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
       "title": "震度7 熊本 宇城の住宅倒壊 1人が巻き込まれ救助活動",
       "url": "http://www3.nhk.or.jp/news/html/20260728/k10015189011000.html",
       "date": "2026-07-28T14:19:41.000Z",
       "summary": "震度7の揺れを観測した熊本県宇城市を管轄する宇城警察署によりますと、市内で住宅が倒壊し、高齢の男性1人が巻き込まれ、救助活動をしていますが、呼びかけに反応がないということです。当初この住宅には4人が住んでいて、連絡が取れなくなっているという情報がありましたが、確認したところ2人は別の場所に住んでいて、もう1人については外出していて無事だったということです。",
       "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "地震によるライフラインの影響（停電 通信 ガス供給停止など）",
-      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188841000.html",
-      "date": "2026-07-28T14:07:38.000Z",
-      "summary": "熊本県熊本地方を震源とする地震で熊本県の宇城市と氷川町で震度7の揺れを観測しました。ライフラインへの影響の情報をこちらでお伝えします。",
-      "source": "NHKニュース（社会）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -448,15 +574,6 @@
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
-    },
-    {
-      "title": "熊本 八代 日本製紙の工場 “要救助が9人いる”総務省消防庁",
-      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188691000.html",
-      "date": "2026-07-28T13:11:41.000Z",
-      "summary": "総務省消防庁によりますと、震度6強の揺れを観測し、煙突が崩落するなどの被害が出た熊本県八代市の日本製紙の八代工場では、午後10時までに地元の消防から「救助が必要な人が9人いる」という報告が寄せられたということです。救助された人もいるという情報があるということですが、容体など詳細は確認中だということです。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
     },
     {
       "title": "米ウクライナ首脳会談へ 迎撃ミサイルのライセンス生産協議か",
@@ -601,15 +718,6 @@
       "source": "つくおき",
       "sourceHomepage": "https://cookien.com/",
       "category": "cooking"
-    },
-    {
-      "title": "熊本市の病院に搬送 少なくとも1人意識なし 50人以上のけが人",
-      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188851000.html",
-      "date": "2026-07-28T11:41:09.000Z",
-      "summary": "震度6強を観測した熊本市南区にある済生会熊本病院によりますと、午後7時半の時点で50人以上のけが人が搬送されていて、このうち少なくとも1人は意識がない状態だということです。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
     },
     {
       "title": "約8億年前の小惑星同士の衝突が、地球・月・火星に影響を及ぼしていた可能性",
@@ -5470,114 +5578,6 @@
       "source": "NHKニュース（国際）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
-    },
-    {
-      "title": "映画監督 榊英雄被告 性的暴行の罪で2審も懲役8年の判決",
-      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015185481000.html",
-      "date": "2026-07-24T10:22:12.000Z",
-      "summary": "映画監督の榊英雄被告が、俳優の女性2人に対して性的暴行をした罪に問われた裁判で、2審の東京高等裁判所は無罪の主張を退け、1審に続いて懲役8年を言い渡しました。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "世界遺産登録の審議始まる 「飛鳥・藤原の宮都」は26日か",
-      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015185361000.html",
-      "date": "2026-07-24T10:16:30.000Z",
-      "summary": "韓国で開かれているユネスコ＝国連教育科学文化機関の世界遺産委員会で、各国が推薦する候補を新たに登録するかを決める審議が24日から始まりました。日本が推薦している奈良県内の飛鳥時代の遺跡群「飛鳥・藤原の宮都」は26日にも世界遺産への登録が決まる見通しです。",
-      "source": "NHKニュース（科学・文化）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "トランプ政権 新追加関税を発動 日本は既存税率あわせ12.5％",
-      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015184731000.html",
-      "date": "2026-07-24T10:00:16.000Z",
-      "summary": "アメリカのトランプ政権は、日本を含む主要な60の貿易相手の国や地域を対象に、日本時間の24日午後1時すぎ、新たな追加関税を発動しました。日本からの輸入品には、既存の関税率とあわせて12.5％の関税を課すとしています。",
-      "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "斜陽な時代だからこそ、変化を受け入れて前に進む——SYAYOSを『フジロック』出演前に紐解く",
-      "url": "https://www.cinra.net/article/202607-upcomingartist14_syayos_imgwyk",
-      "date": "2026-07-24T10:00:01.000Z",
-      "summary": "長野県伊那市を拠点に活動。FUJI ROCK FESTIVAL ’26「ROOKIE A GO-GO」3日目の深夜に出演",
-      "source": "CINRA",
-      "sourceHomepage": "https://www.cinra.net/",
-      "category": "culture"
-    },
-    {
-      "title": "【悪魔的アレンジ】900人絶賛レシピも！市販の唐揚げの「驚きの使い方」",
-      "url": "https://news.cookpad.com/articles/65519",
-      "date": "2026-07-24T10:00:00.000Z",
-      "summary": "買ってきたり、作りすぎてしまった唐揚げ、そのまま食べるのに飽きたら味変してみませんか？今回は、家にある調味料で簡単に作れる唐揚げのアレンジレシピを4つご紹介します。甘酢あんや南蛮ダレなど、味の変...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "ビーチ・ボーイズ、予定されていた約30公演を突如として中止／延期 マイク・ラヴが健康上の問題を抱えていると関係者語る",
-      "url": "https://amass.jp/190856/",
-      "date": "2026-07-24T09:48:00.000Z",
-      "summary": "マイク・ラヴ擁するビーチ・ボーイズは、予定されていた約30公演を突如として中止または延期しました。声明では「リフレッシュのための短い休憩を取る」とだけ説明していますが、長年のコラボレーターはマイク・ラヴが健康上の問題を抱えていることを明かす https://amass.jp/190856/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "小惑星「1998 SH2」は彗星だった “地球防衛”にも関係してくる「ダークコメット」の存在",
-      "url": "https://sorae.info/astronomy/20260724-1998-sh2.html",
-      "date": "2026-07-24T09:45:24.000Z",
-      "summary": "NASA/JPL（アメリカ航空宇宙局ジェット推進研究所）のDavide Farnocchia氏を筆頭とする研究チームは、これまで小惑星として分類されてきた天体「1998 SH2」が、実際には彗星だったことを突き止めたとす…",
-      "source": "sorae（宇宙・天文）",
-      "sourceHomepage": "https://sorae.info/",
-      "category": "documentary"
-    },
-    {
-      "title": "物価高続き「恐怖の夏休み」の声も 6月の消費者物価指数は",
-      "url": "http://www3.nhk.or.jp/news/html/20260724/k10015184761000.html",
-      "date": "2026-07-24T09:22:29.000Z",
-      "summary": "先月、6月の全国の消費者物価指数は、天候による変動が大きい生鮮食品を除いた指数が2025年の同じ月より1.6％上昇しました。上昇率は5月から0.2ポイント拡大しました。物価高の影響で生活の苦しさが増す中、経済的に困窮している子育て世帯を対象に夏休みの影響をNPO法人が調査したところ、食事やエアコンの費用が家計の大きな負担となっている実態が浮かびました。「恐怖の夏休み」という声も寄せられたということです。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "シャカタク（Shakatak）のサウンドが〈美・G・M〉と呼ばれた時代――「男女7人夏物語」から40年、日本との深い結びつきを紐解く - コラム",
-      "url": "https://mikiki.tokyo.jp/articles/-/45564",
-      "date": "2026-07-24T09:01:00.000Z",
-      "summary": "シャカタク（Shakatak）のサウンドが〈美・G・M〉と呼ばれた時代――「男女7人夏物語」から40年、日本との深い結びつきを紐解く",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "マッコウクジラが「垂直姿勢」で眠れるしくみを解明",
-      "url": "https://nazology.kusuguru.co.jp/archives/197949",
-      "date": "2026-07-24T09:00:40.000Z",
-      "summary": "海の中で、頭を上に向け、巨大な柱のように静止するマッコウクジラの奇妙な姿。 これは事故でも病気でもなく、マッコウクジラ特有の休息姿勢です。 マッコウクジラは、垂直姿勢で休むことが知られている唯一のクジラです。 海面直下にとどまれば波の影響を避けつつ、呼吸が必要になったときには短時間で浮上できます。 しかしながら、水中で垂直になって眠るという芸当は、なぜ可能なのでしょうか？ 私たちに例えると、まっすぐ立ったまま寝るようなものです。 そんな",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "ナツ・サマーによるノンストップミックスCD『ENDLESS NATSU SUMMER』第4弾がタワレコ限定発売 クニモンド瀧口プロデュースの最新曲も収録 - ニュース",
-      "url": "https://mikiki.tokyo.jp/articles/-/45604",
-      "date": "2026-07-24T09:00:00.000Z",
-      "summary": "ナツ・サマーによるノンストップミックスCD『ENDLESS NATSU SUMMER』第4弾がタワレコ限定発売 クニモンド瀧口プロデュースの最新曲も収録",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "実はあんまり分かってないマッケンチーズをきちんと作って食べよう（傑作選）",
-      "url": "https://dailyportalz.jp/kiji/How-to-cook-mac_and_cheese",
-      "date": "2026-07-24T09:00:00.000Z",
-      "summary": "アメリカのおふくろの味といってもよいらしい、マッケンチーズ（マカロニ＆チーズ）。茹でたマカロニにチーズを絡めただけだろう。そこにママ直伝みたいな工夫が入る要素ってあるのか？",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
     }
   ]
 }
