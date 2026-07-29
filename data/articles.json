@@ -1,19 +1,21 @@
 {
-  "generatedAt": "2026-07-29T14:34:33.473Z",
+  "generatedAt": "2026-07-29T19:49:00.815Z",
   "articleCount": 600,
   "feedStatus": [
+    {
+      "name": "メシ通（ホットペッパーグルメ）",
+      "category": "cooking",
+      "ok": false,
+      "usedUrl": null,
+      "errors": [
+        "https://www.hotpepper.jp/mesitsu/feed → HTTP 503"
+      ]
+    },
     {
       "name": "NHKニュース（主要）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（社会）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
       "errors": []
     },
     {
@@ -24,6 +26,13 @@
       "errors": []
     },
     {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "errors": []
+    },
+    {
       "name": "NHKニュース（科学・文化）",
       "category": "news",
       "ok": true,
@@ -31,17 +40,10 @@
       "errors": []
     },
     {
-      "name": "つくおき",
-      "category": "cooking",
+      "name": "NHKニュース（社会）",
+      "category": "news",
       "ok": true,
-      "usedUrl": "https://cookien.com/feed/",
-      "errors": []
-    },
-    {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
       "errors": []
     },
     {
@@ -52,24 +54,17 @@
       "errors": []
     },
     {
+      "name": "つくおき",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://cookien.com/feed/",
+      "errors": []
+    },
+    {
       "name": "Mikiki（タワーレコード）",
       "category": "music",
       "ok": true,
       "usedUrl": "https://mikiki.tokyo.jp/list/feed/rss",
-      "errors": []
-    },
-    {
-      "name": "メシ通（ホットペッパーグルメ）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
-      "errors": []
-    },
-    {
-      "name": "4Gamer（乙女ゲーム関連）",
-      "category": "otome",
-      "ok": true,
-      "usedUrl": "https://www.4gamer.net/rss/index.xml",
       "errors": []
     },
     {
@@ -80,10 +75,10 @@
       "errors": []
     },
     {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
+      "name": "4Gamer（乙女ゲーム関連）",
+      "category": "otome",
       "ok": true,
-      "usedUrl": "https://sorae.info/feed",
+      "usedUrl": "https://www.4gamer.net/rss/index.xml",
       "errors": []
     },
     {
@@ -94,10 +89,24 @@
       "errors": []
     },
     {
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://sorae.info/feed",
+      "errors": []
+    },
+    {
       "name": "インサイド（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "アニメ！アニメ！（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
       "errors": []
     },
     {
@@ -115,38 +124,10 @@
       "errors": []
     },
     {
-      "name": "アニメ！アニメ！（乙女ゲーム関連）",
-      "category": "otome",
-      "ok": true,
-      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
       "name": "ナゾロジー",
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://nazology.kusuguru.co.jp/feed",
-      "errors": []
-    },
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
-      "errors": []
-    },
-    {
-      "name": "TOKION",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
-      "errors": []
-    },
-    {
-      "name": "カラパイア",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
       "errors": []
     },
     {
@@ -157,10 +138,24 @@
       "errors": []
     },
     {
+      "name": "カラパイア",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://karapaia.com/index.rdf",
+      "errors": []
+    },
+    {
       "name": "ほんのひきだし（本・出版）",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://hon-hikidashi.jp/feed/",
+      "errors": []
+    },
+    {
+      "name": "TOKION",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://tokion.jp/feed/",
       "errors": []
     },
     {
@@ -176,9 +171,52 @@
       "ok": true,
       "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
+    },
+    {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
+      "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "キャメロット 新曲「Godlike Alchemy」のリリックビデオ公開",
+      "url": "https://amass.jp/190963/",
+      "date": "2026-07-30T00:47:00.000Z",
+      "summary": "キャメロット（Kamelot）は新曲「Godlike Alchemy」をリリース。リリックビデオが公開されています。この曲は8月発売の新アルバム『Dark Asylum』に収録 https://amass.jp/190963/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ダイナソーJr. 新曲「Blowin' Up」公開",
+      "url": "https://amass.jp/190962/",
+      "date": "2026-07-30T00:40:00.000Z",
+      "summary": "ダイナソーJr.は5年ぶりとなる新スタジオ・アルバム『There Near』から新曲「Blowin' Up」公開。ルー・バーロウが作詞・作曲・歌唱を担当したアルバム収録曲2曲のうちの1曲です https://amass.jp/190962/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ブラック・サバスのトニー・アイオミ、21年ぶりの新ソロ・アルバム『From The Dark』発売 新曲MVあり",
+      "url": "https://amass.jp/190961/",
+      "date": "2026-07-30T00:34:00.000Z",
+      "summary": "ブラック・サバスのギタリスト、トニー・アイオミは、21年ぶりとなる新ソロ・アルバム『From The Dark』を海外で10月23日発売。8曲の新曲＋既発2曲。ヴォーカルはヨルン・ランデ。新曲「World Alone」のMVあり https://amass.jp/190961/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ザ・ビートルズ『Rubber Soul』拡張版スペシャル・エディション発売",
+      "url": "https://amass.jp/190960/",
+      "date": "2026-07-29T23:56:00.000Z",
+      "summary": "ザ・ビートルズ『Rubber Soul』の拡張版スペシャル・エディションが10月2日発売。このエディションから「Michelle (Take 1)」が先行公開されています。またこのエディションのトレーラー映像も公開されています https://amass.jp/190960/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "『ONCE ダブリンの街角で』主演 スウェル・シーズン／ザ・フレイムスのグレン・ハンサード死去",
       "url": "https://amass.jp/190959/",
@@ -259,6 +297,15 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "【地震速報】熊本県益城町で震度3 津波の心配なし",
+      "url": "http://www3.nhk.or.jp/news/html/20260730/k10015190341000.html",
+      "date": "2026-07-29T19:18:11.000Z",
+      "summary": "３０日午前３時５９分ごろ地震がありました。この地震による津波の心配はありません。震源地は熊本県熊本地方で震源の深さは１０キロ、地震の規模を示すマグニチュードは３．３と推定されます。各市町村の震度は以下のとおりです。▼震度３が、熊本県益城町。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
     },
     {
       "title": "J-POPの“再定義”、大きな世界で鳴るべき音楽の誕生 シーンの新星・redrawが「Karma」で描き切った人間の姿",
@@ -360,7 +407,61 @@
       "category": "music"
     },
     {
-      "title": "【29日】熊本で震度7 同程度地震に1週間ほど注意 熱中症対策を",
+      "title": "政府の地震調査委員会 “日奈久断層帯 約30キロずれ動いたか”",
+      "url": "http://www3.nhk.or.jp/news/html/20260730/k10015190241000.html",
+      "date": "2026-07-29T15:39:27.000Z",
+      "summary": "熊本県で最大震度7の揺れを観測した大地震を受け、政府の地震調査委員会は臨時の会合を開き、「日奈久断層帯」の一部がずれ動いたとする評価をまとめました。地震活動は依然活発で、活断層帯にはまだ破壊されていない区間があるとして、強い揺れへの備えを続けるよう呼びかけています。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "【ライブ】地震活動活発に 熊本県内各地の様子",
+      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188251000.html",
+      "date": "2026-07-29T15:25:56.000Z",
+      "summary": "7月28日に熊本県熊本地方でマグニチュード7.1の大地震が発生して熊本県の宇城市と氷川町で震度7の揺れを観測し、大きな被害が出ています。29日午後10時19分ごろにも震度5弱の揺れを観測する地震が発生するなど地震活動が活発な状態が続いていて、気象庁は今後、1週間ほどは最大震度7程度の地震に注意するよう呼びかけています。熊本県内の各地の映像をライブでお伝えします。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "【熊本被害情報】12人死亡 6人心肺停止 少なくとも4人安否不明",
+      "url": "http://www3.nhk.or.jp/news/html/20260729/k10015189221000.html",
+      "date": "2026-07-29T15:18:47.000Z",
+      "summary": "熊本県によりますと、29日午後7時の時点で、今回の地震による死者が12人、心肺停止の状態が6人で、けが人は64人にのぼっています。また、安否不明となっている人が少なくとも4人いるということです。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "政府 ナミビアでのレアアース鉱山開発会社に最大50億円出資へ",
+      "url": "http://www3.nhk.or.jp/news/html/20260730/k10015190131000.html",
+      "date": "2026-07-29T15:00:20.000Z",
+      "summary": "ハイテク産業に欠かせないレアアースの安定的な確保が課題となる中、政府が、大手商社が立ち上げた、南西アフリカのナミビアでのレアアースの鉱山開発を目的とした会社に、最大50億円程度の出資を決めたことがわかりました。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "ライフラインへの影響（電気 ガス 水道など）【7月29日】",
+      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188841000.html",
+      "date": "2026-07-29T14:59:41.000Z",
+      "summary": "今回の地震によるライフラインへの影響です。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "九州にある大手メーカーの工場 操業に影響",
+      "url": "http://www3.nhk.or.jp/news/html/20260729/k10015189681000.html",
+      "date": "2026-07-29T14:56:59.000Z",
+      "summary": "今回の地震の影響で、熊本県など九州にある大手メーカーの工場では操業に影響が出ています。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "熊本で震度7 同程度地震に1週間ほど注意 熱中症対策を",
       "url": "http://www3.nhk.or.jp/news/html/20260729/k10015189251000.html",
       "date": "2026-07-29T14:24:37.000Z",
       "summary": "28日、熊本県熊本地方でマグニチュード7.1の大地震が発生して熊本県の宇城市と氷川町で震度7の揺れを観測し、大きな被害が出ています。29日午後10時19分ごろにも震度5弱の揺れを観測する地震が発生するなど地震活動が活発な状態が続いていて、気象庁は今後、1週間ほどは最大震度7程度の地震に注意するよう呼びかけています。熊本県では断水や停電が続く地域がありますが、30日以降も猛烈な暑さが予想されていて、復旧作業などの際は熱中症を防ぐためにでき",
@@ -369,11 +470,11 @@
       "category": "news"
     },
     {
-      "title": "【地震速報】熊本県熊本地方で震度4 津波の心配なし（23:02）",
+      "title": "【地震情報】熊本県熊本地方で震度4 津波の心配なし（23:02）",
       "url": "http://www3.nhk.or.jp/news/html/20260729/k10015190201000.html",
       "date": "2026-07-29T14:08:10.000Z",
       "summary": "２９日午後１１時２分ごろ地震がありました。この地震による津波の心配はありません。震源地は熊本県熊本地方で震源の深さは１０キロ、地震の規模を示すマグニチュードは４．３と推定されます。各市町村の震度は以下のとおりです。▼震度４が、熊本県八代市。▼震度３が、熊本県人吉市、熊本県宇土市、熊本県上天草市、熊本県宇城市、熊本県氷川町、熊本県芦北町。",
-      "source": "NHKニュース（主要）",
+      "source": "NHKニュース（社会）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -382,7 +483,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260729/k10015190171000.html",
       "date": "2026-07-29T14:04:22.000Z",
       "summary": "29日午後10時19分ごろ、熊本県の天草・芦北地方を震源とする地震があり震度5弱の揺れを観測しました。この地震による津波の心配はありません。",
-      "source": "NHKニュース（主要）",
+      "source": "NHKニュース（社会）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -400,15 +501,6 @@
       "url": "http://www3.nhk.or.jp/news/html/20260729/k10015190181000.html",
       "date": "2026-07-29T13:52:30.000Z",
       "summary": "原子力規制庁によりますと、鹿児島県薩摩川内市にある九州電力の川内原子力発電所は1号機と2号機が運転中で、地震による異常は確認されていないということです。佐賀県玄海町にある九州電力の玄海原発は3号機が定期検査で停止中、4号機が運転中で、地震による異常は確認されていないということです。いずれの原発も周辺の放射線量を測定するモニタリングポストの値に変化はないということです。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "【熊本被害情報】12人死亡 6人心肺停止 少なくとも4人安否不明",
-      "url": "http://www3.nhk.or.jp/news/html/20260729/k10015189221000.html",
-      "date": "2026-07-29T13:51:07.000Z",
-      "summary": "熊本県によりますと、29日午後7時の時点で、今回の地震による死者が12人、心肺停止の状態が6人で、けが人は64人にのぼっています。また、安否不明となっている人が少なくとも4人いるということです。",
       "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
@@ -459,29 +551,11 @@
       "category": "news"
     },
     {
-      "title": "九州にある大手メーカーの工場 操業に影響",
-      "url": "http://www3.nhk.or.jp/news/html/20260729/k10015189681000.html",
-      "date": "2026-07-29T12:45:02.000Z",
-      "summary": "今回の地震の影響で、熊本県など九州にある大手メーカーの工場では操業に影響が出ています。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
       "title": "日本製紙 八代工場で5人死亡 2人けが 4人が安否不明",
       "url": "http://www3.nhk.or.jp/news/html/20260729/k10015189721000.html",
       "date": "2026-07-29T12:21:19.000Z",
       "summary": "熊本県によりますと、今回の地震で煙突が倒壊するなどの被害が出た八代市の日本製紙の八代工場では、29日午後2時の時点で11人が閉じ込められ、7人が救助されました。救助された7人のうち5人が死亡し、2人がけがをしたということです。また、4人の安否が分かっていないということです。",
       "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "ライフラインへの影響（電気 ガス 水道など）【7月29日】",
-      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188841000.html",
-      "date": "2026-07-29T12:11:51.000Z",
-      "summary": "今回の地震によるライフラインへの影響です。",
-      "source": "NHKニュース（社会）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -801,6 +875,15 @@
       "category": "documentary"
     },
     {
+      "title": "NASAの最先端技術を駆使したAIドローンで海中の不発弾を次々発見",
+      "url": "https://karapaia.com/archives/614904.html",
+      "date": "2026-07-29T09:00:00.000Z",
+      "summary": "世界の浅瀬には、争いの爪痕として今も不発弾が眠っている。長年の間に砂に埋もれて藻にも覆われ、海の風景に溶け込んだ不発弾を見つけ出すのは至難の業だ。この恐ろしい遺産について、アメリカのマイアミ大学の研究チームが、新たな”不発弾探し”に挑んだ…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
       "title": "°pbdb(梅井美咲、北村蕗)の1st EP「qpep°1」がリリース ビルボード公演も開催決定",
       "url": "https://ototoy.jp/news/131093",
       "date": "2026-07-29T09:00:00.000Z",
@@ -826,15 +909,6 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
-    },
-    {
-      "title": "NASAの最先端技術を駆使したAIドローンで海中の不発弾を次々発見",
-      "url": "https://karapaia.com/archives/614904.html",
-      "date": "2026-07-29T09:00:00.000Z",
-      "summary": "世界の浅瀬には、争いの爪痕として今も不発弾が眠っている。長年の間に砂に埋もれて藻にも覆われ、海の風景に溶け込んだ不発弾を見つけ出すのは至難の業だ。この恐ろしい遺産について、アメリカのマイアミ大学の研究チームが、新たな”不発弾探し”に挑んだ…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
     },
     {
       "title": "Spangle call Lilli line、新曲リリース",
@@ -5506,78 +5580,6 @@
       "source": "ナゾロジー",
       "sourceHomepage": "https://nazology.kusuguru.co.jp/",
       "category": "documentary"
-    },
-    {
-      "title": "Barry Can't Swim、フレンチな新曲リリース",
-      "url": "https://ototoy.jp/news/131018",
-      "date": "2026-07-25T13:00:00.000Z",
-      "summary": "Barry Can't Swimが2026年7月24日(金)にニューシングル「Dance Dance Dance!」をリリースした",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "Gryffin、BUNT.とInézを迎えた新曲リリース",
-      "url": "https://ototoy.jp/news/131017",
-      "date": "2026-07-25T13:00:00.000Z",
-      "summary": "Gryffinが2026年7月24日(金)にニューシングル「World Away」をリリースした",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "DJ HAZIME、環ROYを迎えた新曲リリース",
-      "url": "https://ototoy.jp/news/131016",
-      "date": "2026-07-25T13:00:00.000Z",
-      "summary": "DJ HAZIMEが2026年7月23日(木)にニューシングル「深町パーク (feat. 環ROY)」をリリースした",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "山梨で猛烈な雨 新潟や東北でも大雨のおそれ",
-      "url": "http://www3.nhk.or.jp/news/html/20260725/k10015186061000.html",
-      "date": "2026-07-25T12:58:26.000Z",
-      "summary": "前線に向かって暖かく湿った空気が流れ込んでいる影響で、関東甲信などで局地的に雨雲が発達し、山梨県では25日夕方に猛烈な雨が降ったとみられます。新潟県でも、26日にかけて非常に激しい雨が降るおそれがあり、土砂災害に厳重な警戒が必要です。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "韓国大統領府 “米韓企業が155兆円規模のAI半導体協力”",
-      "url": "http://www3.nhk.or.jp/news/html/20260725/k10015186141000.html",
-      "date": "2026-07-25T12:33:03.000Z",
-      "summary": "韓国のイ・ジェミョン（李在明）大統領は訪問先のアメリカで、エヌビディアやオープンAIなどAI関連の大手企業のCEOを前に演説し、投資を呼びかけました。このあと韓国大統領府は、半導体の生産や供給などの分野で米韓両国の企業が5年間で日本円にして155兆円規模の事業協力で合意したと発表しました。",
-      "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "MISS MERCY、メジャー1stシングルタイトル＆新ビジュアル公開 デビューワンマンライブ開催も",
-      "url": "https://realsound.jp/2026/07/post-2470354.html",
-      "date": "2026-07-25T12:30:55.000Z",
-      "summary": "MISS MERCYが、10月4日にリリースするメジャー1stシングルのタイトルが『Be The One』に決定。また、ジャケット写真および新ビジュアルも公開となった。 本作の表題曲は、“唯一無二の存在になる”という",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "新潟 新発田の1890世帯 4543人に避難指示",
-      "url": "http://www3.nhk.or.jp/news/html/20260725/k10015186181000.html",
-      "date": "2026-07-25T12:02:51.000Z",
-      "summary": "新潟県新発田市は大雨による土砂災害の危険が高まっているとして、午後5時35分、山沿いの菅谷地区と加治地区、それに加治川地区のあわせて1890世帯、4543人に避難指示を出しました。避難指示は5段階の警戒レベルのうちレベル4にあたる情報で、危険な場所から避難するよう呼びかけています。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "荒居誠が初めて曝け出した自己 King Gnuでのクリエイティブ、個展で対峙した自分自身のための表現",
-      "url": "https://realsound.jp/2026/07/post-2469873.html",
-      "date": "2026-07-25T12:00:55.000Z",
-      "summary": "荒居誠が、初個展『SUPER PRIVATE ― 事実無言 ―』を7月28日まで開催中。荒居がアートをはじめたきっかけから今回の個展の制作エピソード、クライアントワークと私的な表現の違いなどを聞いた。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
     }
   ]
 }
