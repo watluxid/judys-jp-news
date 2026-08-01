@@ -1,21 +1,12 @@
 {
-  "generatedAt": "2026-08-01T08:36:43.577Z",
+  "generatedAt": "2026-08-01T14:01:12.830Z",
   "articleCount": 600,
   "feedStatus": [
     {
-      "name": "ほんのひきだし（本・出版）",
-      "category": "culture",
-      "ok": false,
-      "usedUrl": null,
-      "errors": [
-        "https://hon-hikidashi.jp/feed/ → HTTP 503"
-      ]
-    },
-    {
-      "name": "NHKニュース（科学・文化）",
+      "name": "NHKニュース（主要）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
       "errors": []
     },
     {
@@ -26,17 +17,17 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（主要）",
+      "name": "NHKニュース（社会）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
       "errors": []
     },
     {
-      "name": "つくおき",
-      "category": "cooking",
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
       "ok": true,
-      "usedUrl": "https://cookien.com/feed/",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -47,17 +38,17 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（社会）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
-      "errors": []
-    },
-    {
       "name": "クックパッドニュース",
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://news.cookpad.com/feeds/news.rss",
+      "errors": []
+    },
+    {
+      "name": "つくおき",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://cookien.com/feed/",
       "errors": []
     },
     {
@@ -68,13 +59,6 @@
       "errors": []
     },
     {
-      "name": "メシ通（ホットペッパーグルメ）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
-      "errors": []
-    },
-    {
       "name": "amass",
       "category": "music",
       "ok": true,
@@ -82,10 +66,10 @@
       "errors": []
     },
     {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
+      "name": "メシ通（ホットペッパーグルメ）",
+      "category": "cooking",
       "ok": true,
-      "usedUrl": "https://sorae.info/feed",
+      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
       "errors": []
     },
     {
@@ -96,17 +80,10 @@
       "errors": []
     },
     {
-      "name": "リアルサウンド",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
-      "errors": []
-    },
-    {
-      "name": "デイリーポータルZ",
+      "name": "sorae（宇宙・天文）",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -117,10 +94,10 @@
       "errors": []
     },
     {
-      "name": "CINRA",
-      "category": "culture",
+      "name": "デイリーポータルZ",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://www.cinra.net/feed",
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -138,10 +115,17 @@
       "errors": []
     },
     {
-      "name": "TOKION",
+      "name": "CINRA",
       "category": "culture",
       "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
+      "usedUrl": "https://www.cinra.net/feed",
+      "errors": []
+    },
+    {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
       "errors": []
     },
     {
@@ -159,6 +143,20 @@
       "errors": []
     },
     {
+      "name": "TOKION",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://tokion.jp/feed/",
+      "errors": []
+    },
+    {
+      "name": "ほんのひきだし（本・出版）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://hon-hikidashi.jp/feed/",
+      "errors": []
+    },
+    {
       "name": "Art Annual online（美術）",
       "category": "culture",
       "ok": true,
@@ -173,14 +171,113 @@
       "errors": []
     },
     {
-      "name": "OTOTOY",
+      "name": "リアルサウンド",
       "category": "music",
       "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
+      "usedUrl": "https://realsound.jp/atom.xml",
       "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "元ベルセバのイザベル・キャンベル KEXPセッションのパフォーマンス映像30分公開",
+      "url": "https://amass.jp/191027/",
+      "date": "2026-08-01T21:45:00.000Z",
+      "summary": "元ベル・アンド・セバスチャンのイザベル・キャンベルはオフィシャル・パフォーマンス映像約30分公開。米ラジオ局KEXPのスタジオで行ったパフォーマンスの映像で、「Is It Wicked Not To Care?」ほか計6曲を披露しています https://amass.jp/191027/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "PIG 新曲「An American Ideal of Beauty」のミュージックビデオ公開",
+      "url": "https://amass.jp/191026/",
+      "date": "2026-08-01T21:39:00.000Z",
+      "summary": "BUCK-TICKメンバーと組んだSCHWEINや、KMFDMでも活躍したレイモンド・ワッツによるインダストリアルロック・プロジェクトPIG。新曲「An American Ideal of Beauty」のミュージックビデオ公開。9月発売の新EPに収録 https://amass.jp/191026/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "マイケル・スウィート＋ジョエル・ホークストラ＋マルコ・メンドーサ＋トミー・アルドリッジらのバンドIconic 「Heart Of Stone」のMV公開",
+      "url": "https://amass.jp/191025/",
+      "date": "2026-08-01T21:35:00.000Z",
+      "summary": "ストライパーのマイケル・スウィート、ホワイトスネイクのジョエル・ホークストラ、ブルー・マーダーのマルコ・メンドーサ、オジーのトミー・アルドリッジらを擁するバンド、アイコニック。「Heart Of Stone」のミュージックビデオ公開。 https://amass.jp/191025/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "アメリカン・ヘッド・チャージの元フロントマン キャメロン・ヒーコック、ホームレス状態を脱したと報告",
+      "url": "https://amass.jp/191024/",
+      "date": "2026-08-01T21:30:00.000Z",
+      "summary": "リック・ルービンとも仕事をし、スリップノット等とのツアーも経験した、アメリカン・ヘッド・チャージ。フロントマンだったキャメロン・ヒーコックは、少なくとも5年以上、ロサンゼルスで路上生活を送っていましたが、ようやくホームレス状態を脱したと関係者が明かす https://amass.jp/191024/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "Bimi、サマーチューン3曲を連続配信 自主企画ライブのインスパイアソング「Bubbly」リリース",
+      "url": "https://realsound.jp/2026/08/post-2478594.html",
+      "date": "2026-08-01T21:00:59.000Z",
+      "summary": "Bimiが、サマーチューン3曲を隔週金曜日に連続リリース。第1弾楽曲「Bubbly」を8月7日に配信リリースする。 本楽曲は、9月13日に開催される自主企画ライブ『Bimi Live Galley #11 -Bubb",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "『トイ・ストーリー』『モアナと伝説の海』のレア商品も 『ディズニー・ミュージック・エンポーリアム』初POP UP STOREを訪問",
+      "url": "https://realsound.jp/2026/08/post-2478477.html",
+      "date": "2026-08-01T21:00:34.000Z",
+      "summary": "限定オープンした『ディズニー・ミュージック・エンポーリアム POP UP STORE』の模様をレポート。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ビースティ・ボーイズ『To the 5 Boroughs』のサンプリング元ネタ特集動画公開",
+      "url": "https://amass.jp/191023/",
+      "date": "2026-08-01T20:59:00.000Z",
+      "summary": "ビースティ・ボーイズの2004年アルバム『To the 5 Boroughs』のサンプリング元ネタを特集した動画（約11分）が公開。ビースティ・ボーイズの楽曲と、その曲を作るためにサンプリングされた楽曲や音源を紹介しています https://amass.jp/191023/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "クイーンのドキュメンタリー『The Story of Queen: Mercury Rising』 YouTubeでフル公開中",
+      "url": "https://amass.jp/191022/",
+      "date": "2026-08-01T20:53:00.000Z",
+      "summary": "クイーンの結成から成功、そしてフレディの悲劇的な逝去に至るまでの軌跡を、貴重なアーカイブ映像や関係者へのインタビューを通じて巡るドキュメンタリー『The Story of Queen: Mercury Rising』がYouTubeでフル公開中 https://amass.jp/191022/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ホラーエンタメプロジェクト『ホラーいえるかな？みえるかな？』始動 紹介映像＆キービジュアル公開",
+      "url": "https://realsound.jp/2026/08/post-2478637.html",
+      "date": "2026-08-01T20:00:37.000Z",
+      "summary": "新感覚ホラーエンターテインメントプロジェクト『ホラーいえるかな？みえるかな？』が始動。あわせて、YouTube、X（旧Twitter）、TikTokの公式アカウントが開設され、プロジェクトの世界観を紹介するオリエンテー",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "6人組クリエイティブコレクティブ ENBASE、her0ismと共作した3部作をデジタルリリース",
+      "url": "https://realsound.jp/2026/08/post-2478660.html",
+      "date": "2026-08-01T19:34:00.000Z",
+      "summary": "6人組クリエイティブコレクティブ ENBASEが、her0ismと共作した3部作をデジタルリリースした。 本作は、2026年7月17日にリリースされた「I Want More」を皮切りに、7月31日に「MORE」「W",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "つばさ男子プロダクション、初のベストアルバムリリース 現メンバー＆TAKAによる「Samenaide」新録も",
+      "url": "https://realsound.jp/2026/08/post-2478563.html",
+      "date": "2026-08-01T19:00:50.000Z",
+      "summary": "つばさ男子プロダクションが、初のベストアルバム『つば男ベスト』と『つば男インストベスト』を8月6日にデジタルリリースする。 本作は、CUBERS、THE SUPER FRUIT、世が世なら!!!、SHY、POCKET",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
     {
       "title": "ドキュメンタリー映画『ベイ・シティ・ローラーズ ウッディ・ウッドが語る真実』の特報映像公開",
       "url": "https://amass.jp/191018/",
@@ -245,6 +342,204 @@
       "category": "music"
     },
     {
+      "title": "FIFAが子会社設立計画を撤回 UEFAなどの反発受け",
+      "url": "http://www3.nhk.or.jp/news/html/20260801/k10015193461000.html",
+      "date": "2026-08-01T13:55:39.000Z",
+      "summary": "FIFA＝国際サッカー連盟が示した商業活動と大会の運営事業を担う子会社の設立計画について、インファンティーノ会長は「分断を生み出していることが明らかになった」などとして計画の撤回を発表しました。計画をめぐってはUEFA＝ヨーロッパサッカー連盟などが、撤回されないかぎり、ワールドカップなどFIFAの主催大会に参加しないとする声明を出すなど波紋が広がっていました。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "熊本震度7 同程度の地震注意 猛暑予想 熱中症対策を",
+      "url": "http://www3.nhk.or.jp/news/html/20260801/k10015193161000.html",
+      "date": "2026-08-01T13:52:06.000Z",
+      "summary": "1日夜、熊本県熊本地方を震源とする地震があり、宇城市で震度5弱の強い揺れを観測しました。熊本県では先月28日の大地震のあと地震が相次いでいて、気象庁は引き続き最大震度7程度の揺れに注意するよう呼びかけています。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "40度に迫る暑さ 2日は大分で酷暑日予想 熱中症対策の徹底を",
+      "url": "http://www3.nhk.or.jp/news/html/20260801/k10015193191000.html",
+      "date": "2026-08-01T13:47:05.000Z",
+      "summary": "1日も広い範囲で気温が上がり、東海や九州では40度に迫る危険な暑さとなりました。2日は暑さがさらに厳しく、大分県日田市では40度と「酷暑日」が予想されるほか、熊本県の地震の被災地でも猛暑が続く見込みで、引き続き熱中症への対策を徹底してください。一方、低気圧の影響で東北では激しい雨が降っていて、大雨と土砂災害の「レベル4危険警報」が発表されている地域があり、土砂災害に厳重な警戒が必要です。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "台風13号 非常に強い勢力で西へ 小笠原は3日ごろから影響か",
+      "url": "http://www3.nhk.or.jp/news/html/20260801/k10015193351000.html",
+      "date": "2026-08-01T13:42:51.000Z",
+      "summary": "気象庁の観測によりますと、非常に強い台風13号は1日午後9時には、南鳥島近海を1時間に25キロとやや速度を上げて西北西へ進んでいます。中心の気圧は940ヘクトパスカル、中心付近の最大風速は45メートル、最大瞬間風速は65メートルです。台風は暴風域を伴ったまま今後も西寄りに進む見込みで、予想される進路の中心付近を進んだ場合、東京の小笠原諸島では3日ごろから次第に風が強まり、海上は大しけとなるおそれがあります。翌4日には、「非常に強い」勢力",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "【地震速報】熊本 宇城市で震度5弱 津波の心配なし",
+      "url": "http://www3.nhk.or.jp/news/html/20260801/k10015193851000.html",
+      "date": "2026-08-01T13:25:45.000Z",
+      "summary": "1日午後9時47分ごろ熊本県で震度5弱の揺れを観測する地震がありました。この地震による津波の心配はありません。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "【地震情報】川内原発 地震による異常確認されず 原子力規制庁",
+      "url": "http://www3.nhk.or.jp/news/html/20260801/k10015193861000.html",
+      "date": "2026-08-01T13:16:37.000Z",
+      "summary": "原子力規制庁によりますと、鹿児島県薩摩川内市にある九州電力の川内原子力発電所は1号機と2号機が運転中で、地震による異常は確認されていないということです。佐賀県玄海町にある九州電力の玄海原発は、3号機が定期検査で停止中、4号機が運転中で、地震による異常は確認されていないということです。いずれの原発も周辺の放射線量を測定するモニタリングポストの値に変化はないということです。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "イオンモール熊本での捜索活動が終了 7人が死亡 5人がけが",
+      "url": "http://www3.nhk.or.jp/news/html/20260801/k10015193651000.html",
+      "date": "2026-08-01T13:07:10.000Z",
+      "summary": "7人が死亡した熊本県嘉島町のショッピングセンター「イオンモール熊本」での警察や消防による捜索活動は、1日正午に終了しました。警察によりますと、現場を複数回、目視で確認するなどした結果、取り残されている人はいないと判断したということです。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "岡山 矢掛町 2歳の男の子が行方不明 祖母の家に帰省中",
+      "url": "http://www3.nhk.or.jp/news/html/20260801/k10015193811000.html",
+      "date": "2026-08-01T13:05:44.000Z",
+      "summary": "1日午前、岡山県矢掛町で祖母の家に帰省していた2歳の男の子の行方が分からなくなり、警察と消防が周辺を捜索しています。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "フィリピン スカボロー礁海図を国連に 中国は反発し軍事演習も",
+      "url": "http://www3.nhk.or.jp/news/html/20260801/k10015193821000.html",
+      "date": "2026-08-01T13:04:42.000Z",
+      "summary": "フィリピン政府は中国と領有権を争う南シナ海のスカボロー礁と周辺の海域に関して領海を設定するための基準となる線などを示した海図を国連に寄託したと発表しました。中国政府はこれに反発し中国軍がスカボロー礁周辺で軍事演習を行いました。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "「藝大式 美術の“ミカタ”」",
+      "url": "https://bluediary2.jugem.jp/?eid=8145",
+      "date": "2026-08-01T13:03:00.000Z",
+      "summary": "東京藝術大学大学美術館にて開催中の 「藝大式 美術の \"ミカタ\" ―この夏、藝大生になる―」展へ行って来ました。 https://geidai-art-mikata.jp/ 東京藝術大学では、いったいどのような授業が行われているのでしょうか。 「藝大式 美術の“ミカタ”―この夏、藝大...",
+      "source": "青い日記帳（美術展）",
+      "sourceHomepage": "https://bluediary2.jugem.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "熊本県内 給水所の設置状況【8月1日】",
+      "url": "http://www3.nhk.or.jp/news/html/20260801/k10015193281000.html",
+      "date": "2026-08-01T13:02:44.000Z",
+      "summary": "熊本県内では地震の影響によって各地で断水が発生しています。給水所の情報を動画でお伝えします↓↓（データ放送ではご覧いただけません）",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "早漏は亀頭の大きさと関連していた",
+      "url": "https://nazology.kusuguru.co.jp/archives/150492",
+      "date": "2026-08-01T13:00:33.000Z",
+      "summary": "大きいことはいいこと…ではないようです。 トルコのアイディン・アドナン・メンデレス大学（ADU）で行われた研究では、亀頭の体積の大きさは先天的な早漏「生涯の早漏（LLPE）」と関連しており、より大きな亀頭は早漏を起こしやすい可能性があるのだという。 この研究は、陰茎亀頭の体積が大きい人に生涯の早漏がより一般的であることを示した最初の研究です。 研究内容の詳細は2024年5月に『The Journal of Sexual Medicine",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "金星では地溝帯の一部が現在も拡大し続けている？ 将来の金星探査ミッションに期待",
+      "url": "https://sorae.info/astronomy/20260801-venus-active.html",
+      "date": "2026-08-01T12:58:51.000Z",
+      "summary": "スイス連邦工科大学チューリッヒ校（ETH Zürich）のXi Yang氏（修士課程当時）、同校のTaras V. Gerya教授、フライブルク大学のAnna J. P. Gülcher氏は、最新の数値シミュレーションの…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
+    },
+    {
+      "title": "ライフラインへの影響(水道 ガス 通信など)【8月1日】",
+      "url": "http://www3.nhk.or.jp/news/html/20260801/k10015193061000.html",
+      "date": "2026-08-01T12:40:13.000Z",
+      "summary": "今回の地震による熊本県内のライフラインへの影響です。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "熊本地震 関連調査中含め36人死亡 住宅被害3400超 県発表",
+      "url": "http://www3.nhk.or.jp/news/html/20260801/k10015193131000.html",
+      "date": "2026-08-01T12:36:07.000Z",
+      "summary": "熊本県は今回の地震で県内では災害との関連を調査している2人を含めて36人が死亡し、3400を超える住宅に被害があったと発表しました。建物の調査が進んでいない地域もあるため今後被害が大きく増えるおそれがあるとしています。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "愛知 豊田 矢作川で川遊びの中学2年の男子生徒が流され死亡",
+      "url": "http://www3.nhk.or.jp/news/html/20260801/k10015193641000.html",
+      "date": "2026-08-01T12:34:40.000Z",
+      "summary": "1日午後、愛知県豊田市の矢作川で、川遊びをしていた中学2年生の男子生徒が流され、死亡しました。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "「ネットで性的画像」を蔓延させているのは意外にも所得格差だった",
+      "url": "https://nazology.kusuguru.co.jp/archives/168511",
+      "date": "2026-08-01T12:00:37.000Z",
+      "summary": "「戦略としての性」の実態に迫ります。 近年SNS上で性的な画像が急増する背景には、近年深刻化している所得不平等（格差社会）が大きく影響している可能性が指摘されています。 オーストラリアのニューサウスウェールズ大学（UNSW）のBlakeらの画期的な研究によって、地域や国家の所得格差が拡大すればするほど女性が自発的に“セクシュアルな画像”を投稿する割合が高まることが示唆され、これまでの「ジェンダー不平等＝女性抑圧」という図式では説明しきれ",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "愛知 弥富 木曽川で60～70代とみられる男性が溺れ死亡",
+      "url": "http://www3.nhk.or.jp/news/html/20260801/k10015193791000.html",
+      "date": "2026-08-01T11:58:43.000Z",
+      "summary": "1日午後、愛知県弥富市の木曽川で60代から70代とみられる男性が溺れて死亡しました。警察が当時の状況を詳しく調べています。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "“灯台パルサー”周辺の磁場構造を詳細に分析 NASAのX線偏光観測衛星「IXPE」が観測",
+      "url": "https://sorae.info/astronomy/20260801-lighthouse-pulsar.html",
+      "date": "2026-08-01T11:37:27.000Z",
+      "summary": "スタンフォード大学の大学院生Jack T. Dinsmore氏を筆頭とする研究チームは、パルサー「PSR J1101-6101」の磁場を直接測定することに初めて成功したとする研究成果を発表しました。研究チームの成果をまと…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
+    },
+    {
+      "title": "「こんな場所、日本にあるか？」夢じゃないなら、俺は異世界に来てしまったのだろうか『異世界転移したら愛犬が最強になりました ～シルバーフェンリルと俺が異世界暮らしを始めたら～ THE COMIC』【#8】",
+      "url": "https://hon-hikidashi.jp/book-person/173282/",
+      "date": "2026-08-01T11:30:23.000Z",
+      "summary": "マイクロマガジン社より、 『異世界転移したら愛犬が最強になりました ～シルバーフェンリルと俺が異世界暮らしを始めたら～ THE COMIC』 が好評発売中です。 ブラックな職場で残業に明け暮れるサラリーマン・タクミは、愛犬のマルチーズ・レオと暮らしていました。ある日、自宅で意識を失ったタクミは森の中で目を覚まします。そこには巨大な狼に変身したレオがいました。 今回は、第1話～第3話の試し読みを配信します。作品が気になった方はぜひ、店頭で",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "2億4500万年前の海洋爬虫類の化石に肝臓や胃腸がしっかりと残されていた",
+      "url": "https://karapaia.com/archives/619173.html",
+      "date": "2026-08-01T11:30:00.000Z",
+      "summary": "恐竜が繁栄する少し前の時代、三畳紀の海には、様々な種類の海洋爬虫類が生息していた。中国の雲南省で、2億4500万年前の暖かい海を泳いでいた首の長い主竜形類の爬虫類、アウストロナガ・ミヌタの化石が見つかった。中国科学院などの国際研究チームが詳しく調べたところ、化石には胃も腸も…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
+      "title": "【証言】爆発のイオンモール熊本 地震発生から爆発まで何が",
+      "url": "http://www3.nhk.or.jp/news/html/20260801/k10015193311000.html",
+      "date": "2026-08-01T11:23:03.000Z",
+      "summary": "地震後に大規模な爆発が起き、7人が死亡、5人がけがをした熊本県嘉島町のショッピングセンター「イオンモール熊本」。熊本県によりますと、警察や消防による捜索活動は1日正午に終了しました。地震の発生から爆発まで、いったい何がおきていたのか。テナントで働いていた複数の従業員の証言から避難の経緯や施設内の状況が明らかになってきました。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "KI_EN、サマーラブソング「君と花束」リリース FM802など3局のヘビーローテーションに決定",
       "url": "https://realsound.jp/2026/08/post-2477908.html",
       "date": "2026-08-01T11:15:32.000Z",
@@ -254,28 +549,100 @@
       "category": "music"
     },
     {
+      "title": "台湾で熊本支援の動き広がる",
+      "url": "http://www3.nhk.or.jp/news/html/20260801/k10015193681000.html",
+      "date": "2026-08-01T10:22:40.000Z",
+      "summary": "半導体企業が進出するなど、熊本県とつながりがある台湾では、当局や企業が相次いで寄付を表明するなど、支援の動きが広がっています。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "人気VTuberに抱きつかれてドア越しの先輩に返事できません！彼女はいったい？『人気配信者たちのマネージャーになったら、全員元カノだった』【#8】",
+      "url": "https://hon-hikidashi.jp/book-person/172847/",
+      "date": "2026-08-01T10:05:37.000Z",
+      "summary": "マイクロマガジン社の「Ride Comics」より、 『人気配信者たちのマネージャーになったら、全員元カノだった THE COMIC』第1巻 が7月31日（金）に発売されました。 本作は、過去の恋の続きを欲しがる男女の歪んだラブストーリーです。ネット配信者のマネジメント会社に新人マネージャーとして入社した橘恵は、3人の人気配信者の担当を引き継ぐことに。引継ぎの挨拶のため、上司とともに配信者の自宅を訪れた際、配信者たちが3人とも元カノであ",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "必要なのは男手なのに、手違いで面接を受けに来た女性…熱心さに負け、施設内を案内することに『さくらと介護とオニオカメ！』【#3】",
+      "url": "https://hon-hikidashi.jp/book-person/158655/",
+      "date": "2026-08-01T09:55:19.000Z",
+      "summary": "マイクロマガジン社より、 『さくらと介護とオニオカメ！』 が好評発売中です。 介護未経験、知識ゼロで認知症棟に飛び込んだ新米介護士・鬼岡明は、教育係になった熊本から厳しい指導を受けつつ、真剣に利用者と向き合います。 今回は、第1話～第6話の試し読みを配信します。作品が気になった方はぜひ、店頭でお買い求めください。 (adsbygoogle = window.adsbygoogle || []).push({}); 試し読み【#3】 〉〉",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "森で出会った美人すぎる女性と薬草を探す…俺が地面に手をつくと、そこから薬草が生えてきた！？『異世界転移したら愛犬が最強になりました ～シルバーフェンリルと俺が異世界暮らしを始めたら～ THE COMIC』【#7】",
+      "url": "https://hon-hikidashi.jp/book-person/173281/",
+      "date": "2026-08-01T09:30:23.000Z",
+      "summary": "マイクロマガジン社より、 『異世界転移したら愛犬が最強になりました ～シルバーフェンリルと俺が異世界暮らしを始めたら～ THE COMIC』 が好評発売中です。 ブラックな職場で残業に明け暮れるサラリーマン・タクミは、愛犬のマルチーズ・レオと暮らしていました。ある日、自宅で意識を失ったタクミは森の中で目を覚まします。そこには巨大な狼に変身したレオがいました。 今回は、第1話～第3話の試し読みを配信します。作品が気になった方はぜひ、店頭で",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "【随時更新】ロシア ウクライナに軍事侵攻（8月1日の動き）",
+      "url": "http://www3.nhk.or.jp/news/html/20260801/k10015192401000.html",
+      "date": "2026-08-01T09:07:37.000Z",
+      "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる8月1日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "人気VTuberに会えることに大興奮の先輩！でも俺が担当に指名されたのはなぜ？『人気配信者たちのマネージャーになったら、全員元カノだった THE COMIC』【#7】",
+      "url": "https://hon-hikidashi.jp/book-person/172846/",
+      "date": "2026-08-01T09:05:58.000Z",
+      "summary": "マイクロマガジン社の「Ride Comics」より、 『人気配信者たちのマネージャーになったら、全員元カノだった THE COMIC』第1巻 が7月31日（金）に発売されました。 本作は、過去の恋の続きを欲しがる男女の歪んだラブストーリーです。ネット配信者のマネジメント会社に新人マネージャーとして入社した橘恵は、3人の人気配信者の担当を引き継ぐことに。引継ぎの挨拶のため、上司とともに配信者の自宅を訪れた際、配信者たちが3人とも元カノであ",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "【もう市販のペットボトル買わない】1L作りおき！無糖派も甘党も大満足な「アイスコーヒー＆ティー」4選",
+      "url": "https://news.cookpad.com/articles/65567",
+      "date": "2026-08-01T09:00:00.000Z",
+      "summary": "暑い日にうれしい、たっぷり1Lも作りおきできるアイスコーヒーとアイスティーのレシピを集めました。無糖派向けと加糖派向けに分けて4品ご紹介します。 インスタントコーヒーをお湯で溶かして、ペットボ...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "カシューナッツの果実、カシューアップルは甘渋かった（傑作選）",
+      "url": "https://dailyportalz.jp/kiji/cashew-apple",
+      "date": "2026-08-01T09:00:00.000Z",
+      "summary": "インド旅行中に立ち寄ったゴアの市場で、カシューナッツの果実、カシューアップルが売られていた。カシューナッツの果実は、予想外の味でした。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "筒を押すと寿司が出てくる！ニューヨークで人気の「プッシュポップ」寿司",
+      "url": "https://karapaia.com/archives/619298.html",
+      "date": "2026-08-01T09:00:00.000Z",
+      "summary": "寿司はもはや日本人の手から離れ、世界中で様々な亜種が発生している。具材のバリエーションも豊かになったが、食べ方も「その発想はなかったわ…」なんてアイデアが誕生している。アメリカ・ニューヨークの寿司店が販売している「プッシュポップ」寿司は…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
+      "title": "「出口はどこ？」認知症棟で真夜中に車いすに乗る利用者…彼女を連れ、少しだけ外出することに『さくらと介護とオニオカメ！』【#2】",
+      "url": "https://hon-hikidashi.jp/book-person/158654/",
+      "date": "2026-08-01T08:55:13.000Z",
+      "summary": "マイクロマガジン社より、 『さくらと介護とオニオカメ！』 が好評発売中です。 介護未経験、知識ゼロで認知症棟に飛び込んだ新米介護士・鬼岡明は、教育係になった熊本から厳しい指導を受けつつ、真剣に利用者と向き合います。 今回は、第1話～第6話の試し読みを配信します。作品が気になった方はぜひ、店頭でお買い求めください。 (adsbygoogle = window.adsbygoogle || []).push({}); 試し読み【#2】 〉〉",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
       "title": "北九州 市民からの物資受け付け 熊本地震の被災地支援へ",
       "url": "http://www3.nhk.or.jp/news/html/20260801/k10015193611000.html",
       "date": "2026-08-01T08:27:16.000Z",
       "summary": "福岡県北九州市では、熊本地震の被災地を支援するため水や体を拭くシートなどの物資を市民から受け付けていて、市役所には物資が持ち込まれています。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "台風13号 非常に強い勢力で西へ 小笠原は3日ごろから影響か",
-      "url": "http://www3.nhk.or.jp/news/html/20260801/k10015193351000.html",
-      "date": "2026-08-01T08:26:31.000Z",
-      "summary": "気象庁の観測によりますと、非常に強い台風13号は、1日午後3時には南鳥島近海を1時間に20キロの速さで北西へ進んでいます。中心の気圧は935ヘクトパスカル、中心付近の最大風速は50メートル、最大瞬間風速は70メートルです。台風は暴風域を伴ったまま今後も西寄りに進む見込みで、予想される進路の中心付近を進んだ場合、東京の小笠原諸島では3日ごろから次第に風が強まり、海上は大しけとなるおそれがあります。翌4日には、「非常に強い」勢力を維持したま",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "熊本県内 給水所の設置状況【8月1日】",
-      "url": "http://www3.nhk.or.jp/news/html/20260801/k10015193281000.html",
-      "date": "2026-08-01T08:10:34.000Z",
-      "summary": "熊本県内では地震の影響によって各地で断水が発生しています。給水所の情報を動画でお伝えします↓↓（データ放送ではご覧いただけません）",
       "source": "NHKニュース（社会）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
@@ -317,28 +684,10 @@
       "category": "news"
     },
     {
-      "title": "熊本地震 関連調査中含め36人死亡 9000人余避難",
-      "url": "http://www3.nhk.or.jp/news/html/20260801/k10015193131000.html",
-      "date": "2026-08-01T07:23:20.000Z",
-      "summary": "熊本県は、1日午後4時から開いた災害対策本部会議で県内では災害との関連を調査している2人を含めて36人が死亡したと発表しました。31日からは変わっていません。また、今回の地震で開設している避難所は県内で218か所あり、9068人が避難しているということです。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
       "title": "熊本市 支援物資を避難所へ 物資集積センターの運用開始",
       "url": "http://www3.nhk.or.jp/news/html/20260801/k10015193551000.html",
       "date": "2026-08-01T07:12:22.000Z",
       "summary": "熊本市では、各地からの支援物資を避難所ごとのニーズに応じて届けるための物資集積センターが開設され、8月1日から受け入れが始まりました。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "40度迫る危険な暑さ 地震の被災地も猛暑に 熱中症対策を",
-      "url": "http://www3.nhk.or.jp/news/html/20260801/k10015193191000.html",
-      "date": "2026-08-01T07:11:51.000Z",
-      "summary": "1日も西日本と東日本を中心に気温が上がり、東海や九州などでは40度に迫る危険な暑さとなっています。熊本県の地震の被災地でも連日の猛暑となっていて、引き続き熱中症への対策を徹底してください。一方、前線の影響で東北では雨が強まって「レベル4土砂災害危険警報」が発表されている地域があり、土砂災害に厳重な警戒が必要です。",
       "source": "NHKニュース（社会）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
@@ -353,15 +702,6 @@
       "category": "cooking"
     },
     {
-      "title": "非常口の可能性があるタイヤ",
-      "url": "https://dailyportalz.jp/koresugo/hijou-guchi-tires",
-      "date": "2026-08-01T07:00:00.000Z",
-      "summary": "神田駅から少し離れたところを歩いていたら、「非常口にて関係者以外立ち入り禁止」の表示がありました。でもその直下にあるのはどう見てもタイヤ。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
       "title": "青森駅前にはビーチがある",
       "url": "https://dailyportalz.jp/koresugo/aomori-beach",
       "date": "2026-08-01T07:00:00.000Z",
@@ -371,10 +711,19 @@
       "category": "documentary"
     },
     {
+      "title": "非常口の可能性があるタイヤ",
+      "url": "https://dailyportalz.jp/koresugo/hijou-guchi-tires",
+      "date": "2026-08-01T07:00:00.000Z",
+      "summary": "神田駅から少し離れたところを歩いていたら、「非常口にて関係者以外立ち入り禁止」の表示がありました。でもその直下にあるのはどう見てもタイヤ。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
+    },
+    {
       "title": "3つのAIが自動販売機運営実験。Claude Opus5が冷酷な嘘と裏切りで最高利益を出す",
       "url": "https://karapaia.com/archives/619268.html",
       "date": "2026-08-01T07:00:00.000Z",
-      "summary": "3つのAIに自動販売機の店を1年間運営させ、誰が一番稼ぐかを競わせるシミュレーション実験が行われた。AIの安全性を調査する専門企業アンドン・ラボ（Andon Labs）は、Claude Opus 5、GPT-5.6 Sol、Kimi K3という2026年7月時点で最高水準の3モデルそれぞれに1台ずつ自動販売機を担当させ…",
+      "summary": "3つのAIに自動販売機の店を1年間運営させ、誰が一番稼ぐかを競わせるシミュレーション実験が行われた。AIの安全性を調査する専門企業アンドン・ラボが行ったもので、コンピューターの中で1年分の月日を進め、最後に手元へ残った金額で勝負を決めるというものだ。Claude Opus 5、GPT-5.6 Sol…",
       "source": "カラパイア",
       "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
@@ -461,15 +810,6 @@
       "category": "culture"
     },
     {
-      "title": "ライフラインへの影響（水道 電気 ガス）【8月1日】",
-      "url": "http://www3.nhk.or.jp/news/html/20260801/k10015193061000.html",
-      "date": "2026-08-01T03:22:53.000Z",
-      "summary": "今回の地震によるライフラインへの影響です。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
       "title": "長寿地域「ブルーゾーン」に共通する5つの長生き習慣とは",
       "url": "https://nazology.kusuguru.co.jp/archives/198200",
       "date": "2026-08-01T03:00:25.000Z",
@@ -495,15 +835,6 @@
       "source": "クックパッドニュース",
       "sourceHomepage": "https://news.cookpad.com/",
       "category": "cooking"
-    },
-    {
-      "title": "ヤギが山火事で大活躍！消防隊を安全に導き、可燃物を取り除く",
-      "url": "https://karapaia.com/archives/618185.html",
-      "date": "2026-08-01T03:00:00.000Z",
-      "summary": "アメリカのコロラド州で発生した山火事の現場に向かうコロラドスプリングス消防局の部隊の前にふらりと現れ、後をついてきたのは1頭の飼いヤギだ。ヤギは消防隊員らと合流すると、安全なルートを見つけ出して彼らを先導した。さらには、燃えやすい乾燥した草を食べて延焼を防ぐ手伝いをしたのだ…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
     },
     {
       "title": "【ライブレポ】TIF2026開幕！乃木坂46・井上和の号令で始まった、アイドルたちの祭典──〈TOKYO IDOL FESTIVAL 2026〉DAY1",
@@ -560,13 +891,13 @@
       "category": "music"
     },
     {
-      "title": "熊本で震度7 活発な地震活動続く 猛暑予想 熱中症対策を",
-      "url": "http://www3.nhk.or.jp/news/html/20260801/k10015193161000.html",
-      "date": "2026-08-01T02:58:09.000Z",
-      "summary": "先月28日、最大震度7の非常に激しい揺れを観測した熊本県ではその後も地震活動が続いていて、気象庁は引き続き最大震度7程度の揺れに注意するよう呼びかけています。熊本県では日中、猛烈な暑さが続き、3日以降は体温を上回る危険な暑さが予想されていて、熱中症を防ぐためにできるかぎりの対策をとってください。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
+      "title": "ヤギが山火事で大活躍！消防隊を安全に導き、可燃物を取り除く",
+      "url": "https://karapaia.com/archives/618185.html",
+      "date": "2026-08-01T03:00:00.000Z",
+      "summary": "アメリカのコロラド州で発生した山火事の現場に向かうコロラドスプリングス消防局の部隊の前にふらりと現れ、後をついてきたのは1頭の飼いヤギだ。ヤギは消防隊員らと合流すると、安全なルートを見つけ出して彼らを先導した。さらには、燃えやすい乾燥した草を食べて延焼を防ぐ手伝いをしたのだ…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
     },
     {
       "title": "「今週末にもイランへの攻撃計画か」米の複数メディアが報道",
@@ -1505,15 +1836,6 @@
       "category": "documentary"
     },
     {
-      "title": "【お店で食べたら1800円級!?】いつもの冷たい麺が名店の味に化ける！のせるだけの「究極のさっぱり麺」",
-      "url": "https://news.cookpad.com/articles/65562",
-      "date": "2026-07-31T09:00:00.000Z",
-      "summary": "暑い日が続くと恋しくなる、さっぱりした冷たいそば。なかでもこの季節に食べるすだちそばは別格の美味しさですよね。ただ、名店のすだちそばは1,800円以上することもあり、気軽に食べるにはハードルを感...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
       "title": "Grave to the Hopeが『LIVING IN DESPAIR』に刻んだ魂の叫び――Ken & Keijaが5年半ぶりの新作の壮絶な物語を明かす - インタビュー",
       "url": "https://mikiki.tokyo.jp/articles/-/45662",
       "date": "2026-07-31T09:00:00.000Z",
@@ -1530,6 +1852,15 @@
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
+    },
+    {
+      "title": "【お店で食べたら1800円級!?】いつもの冷たい麺が名店の味に化ける！のせるだけの「究極のさっぱり麺」",
+      "url": "https://news.cookpad.com/articles/65562",
+      "date": "2026-07-31T09:00:00.000Z",
+      "summary": "暑い日が続くと恋しくなる、さっぱりした冷たいそば。なかでもこの季節に食べるすだちそばは別格の美味しさですよね。ただ、名店のすだちそばは1,800円以上することもあり、気軽に食べるにはハードルを感...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
     },
     {
       "title": "アジアで唯一の「悪魔祓い専門機関」がフィリピンで稼働開始",
@@ -1667,19 +1998,19 @@
       "category": "music"
     },
     {
-      "title": "パンダウナギのイラストが嘘すぎる",
-      "url": "https://dailyportalz.jp/koresugo/panda-unagi",
+      "title": "笑っちゃうぐらいデカい歯ブラシ",
+      "url": "https://dailyportalz.jp/koresugo/dekai-haburashi",
       "date": "2026-07-31T07:00:00.000Z",
-      "summary": "福岡県北九州市にある水環境館という水族館的な施設にて展示されていた、突然変異のニホンウナギです。",
+      "summary": "ヘッドがあまりにも大きすぎる歯ブラシを見つけて、思わず笑ってしまいました。",
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
     },
     {
-      "title": "笑っちゃうぐらいデカい歯ブラシ",
-      "url": "https://dailyportalz.jp/koresugo/dekai-haburashi",
+      "title": "パンダウナギのイラストが嘘すぎる",
+      "url": "https://dailyportalz.jp/koresugo/panda-unagi",
       "date": "2026-07-31T07:00:00.000Z",
-      "summary": "ヘッドがあまりにも大きすぎる歯ブラシを見つけて、思わず笑ってしまいました。",
+      "summary": "福岡県北九州市にある水環境館という水族館的な施設にて展示されていた、突然変異のニホンウナギです。",
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
@@ -5247,339 +5578,6 @@
       "source": "NHKニュース（社会）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
-    },
-    {
-      "title": "70年ワイト島フェス、ズボンが裂けるハプニングのためにジミ・ヘンドリックスの代役としてリードギターを約2分間務めたロードマネージャー 著書で回想",
-      "url": "https://amass.jp/190931/",
-      "date": "2026-07-28T19:32:00.000Z",
-      "summary": "ジミ・ヘンドリックスが亡くなる3週間前の70年8月31日に行われたワイト島フェス。このステージでは、彼のズボンが裂けるハプニングのため、代役としてリードギターを約2分間務めた人物がいたという。それは彼のロードマネージャーで新しい著書で回想 https://amass.jp/190931/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "f5ve、BACARDIとの再タッグで見せた“自然体”な姿 詩羽とのコラボ、「Tropical Paradise (3am girls)」制作背景を聞く",
-      "url": "https://realsound.jp/2026/07/post-2472722.html",
-      "date": "2026-07-28T19:00:42.000Z",
-      "summary": "f5veとBACARDIの2度目のタッグとなる「Tropical Paradise (3am girls)」。本曲の制作背景から、BloodPop®とのスタジオワーク、詩羽の歌声によって変化したサウンド、RUIによる歌詞とボーカルディレクション、そして自然体の5人を捉えたミュージックビデオまで話を聞いた。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "熊本県知事「予断許さない状況 国と緊密に連携し迅速に対応」",
-      "url": "http://www3.nhk.or.jp/news/html/20260729/k10015189241000.html",
-      "date": "2026-07-28T18:54:37.000Z",
-      "summary": "震度7の揺れを観測した地震を受けて、熊本県は29日午前0時から、2回目の災害対策本部の会議を開き、これまで確認されている被害の状況などについて共有しました。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "A.B.C-Z「マジマジック」MVは“最も大胆で、最も美しいカオス” 独自の真骨頂、真面目なトンチキを本気で解説",
-      "url": "https://realsound.jp/2026/07/post-2470082.html",
-      "date": "2026-07-28T18:00:37.000Z",
-      "summary": "A.B.C-Z「マジマジック」のMVが、グループ史上最速で100万回再生を達成した。近年、“トンチキ”加減で独自路線を確立してきたA.B.C-ZのMVだが、この「マジマジック」は、トンチキを超えたあまりの神々しさにSNSやコメント欄で「ご利益がある」と呟かれ、ファン以外への広がりを見せている。本校では、この広がりとその理由を紐解いていきたい。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "いきものがかり、『tiny desk concerts JAPAN』特別アレンジの裏側 「さよならララ」で目指した“広くて強い曲”の意図も語る",
-      "url": "https://realsound.jp/2026/07/post-2472294.html",
-      "date": "2026-07-28T18:00:30.000Z",
-      "summary": "いきものがかりが『tiny desk concerts JAPAN』に初登場。そのライブパフォーマンスのレポートと、終演後に行った最新曲「さよならララ」についてのインタビューをお届けする。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "黒夢、LUNA SEA、DIR EN GREY……“セルフカバー”で向き合い、塗り替える過去の自分たち",
-      "url": "https://realsound.jp/2026/07/post-2471724.html",
-      "date": "2026-07-28T18:00:10.000Z",
-      "summary": "黒夢、LUNA SEA、DIR EN GREYの“セルフカバー”を紹介する。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "熊本城 石垣の崩落 28か所で確認",
-      "url": "http://www3.nhk.or.jp/news/html/20260729/k10015189231000.html",
-      "date": "2026-07-28T17:43:39.000Z",
-      "summary": "熊本城総合事務所によりますと、震度5強の揺れを観測した熊本市中央区にある熊本城では、石垣の崩落が28か所で確認されたということです。",
-      "source": "NHKニュース（科学・文化）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "BALLISTIK BOYZ、フジテレビWebtoonプロジェクト応援ソング「SAKU -朔-」配信リリース",
-      "url": "https://realsound.jp/2026/07/post-2473086.html",
-      "date": "2026-07-28T17:28:56.000Z",
-      "summary": "BALLISTIK BOYZが、新曲「SAKU -朔-」を7月31日にリリースする。 本楽曲は、フジテレビWebtoonプロジェクトの新レーベル『TOON8』の第1弾作品『報復の暗殺人形（アサシンドール）』と第2弾作",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "ヴァンゲリスが所有していたとされるヤマハ『CS-80』が約8740万円で出品中 77年アルバム『Spiral』で使用",
-      "url": "https://amass.jp/190929/",
-      "date": "2026-07-28T17:28:00.000Z",
-      "summary": "ヴァンゲリスが所有していたとされる、伝説的なポリフォニック・アナログ・シンセサイザー、ヤマハ『CS-80』が出品されています。価格は約8740万円。出品者によるとヴァンゲリスが最初に所有したCS-80で77年アルバム『Spiral』で使用。完全に動作可 https://amass.jp/190929/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "甲斐田晴、ローレン・イロアス、3SKM、MECHATU-A……記念すべき1stライブに挑むにじさんじライバーたち",
-      "url": "https://realsound.jp/2026/07/post-2463365.html",
-      "date": "2026-07-28T17:00:31.000Z",
-      "summary": "ANYCOLORが運営するVTuber／バーチャルライバーグループ・にじさんじ。本稿では、この夏から秋にかけてリアルライブの初舞台を踏むにじさんじ所属ライバーならびにユニットをピックアップ。注目すべき点や話題を集めたポイントとあわせて、音楽シーンにおける彼らの華々しい第一歩となる公演に注目したい。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "熊本県内の各病院にけが人多数搬送 停電で機能停止の病院も",
-      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188851000.html",
-      "date": "2026-07-28T16:56:18.000Z",
-      "summary": "今回の地震で、熊本県内の各医療機関にはけがをした人が大勢搬送されるなどしていて、中には停電などの影響で病院としての機能が停止しているところもあります。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "ポイズンのブレット・マイケルズ、閉塞性腎結石の激しい痛みを根性で耐えながら公演を行うが直後に緊急手術を受ける 術後3～4週間は公演禁止に",
-      "url": "https://amass.jp/190928/",
-      "date": "2026-07-28T16:43:00.000Z",
-      "summary": "ポイズンのフロントマン、ブレット・マイケルズは7月19日、閉塞性腎結石の激しい痛みを根性で耐えながらソロ公演を行うが公演後、痛みが耐え難いものとなったため、病院へ搬送されて緊急手術を受ける。医師からは術後3～4週間は公演を控えるよう指示される https://amass.jp/190928/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "イスラエルがガザ地区への国際部隊展開を承認か 現地報道",
-      "url": "http://www3.nhk.or.jp/news/html/20260729/k10015189001000.html",
-      "date": "2026-07-28T16:38:46.000Z",
-      "summary": "アメリカのトランプ大統領が主導する和平計画に基づき、パレスチナのガザ地区の治安維持などを担う「国際安定化部隊」の展開を、イスラエル政府が承認したと現地メディアが伝えました。ハマスは、武装解除に応じない姿勢で、和平計画の具体的な進展につながるかは依然、不透明です。",
-      "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "プライマス 「The Ol’ Grizz」のミュージックビデオ公開",
-      "url": "https://amass.jp/190927/",
-      "date": "2026-07-28T16:12:00.000Z",
-      "summary": "レス・クレイプール率いるプライマス（Primus）は「The Ol’ Grizz」のミュージックビデオ公開。この曲は最新EP『A Handful of Nuggs』に収録 https://amass.jp/190927/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "熊本 宇城市や氷川町 避難所開設できず車中泊に駐車場など開放",
-      "url": "http://www3.nhk.or.jp/news/html/20260729/k10015189161000.html",
-      "date": "2026-07-28T16:04:46.000Z",
-      "summary": "震度7の揺れを観測した熊本県宇城市によりますと、市の指定避難所になっている豊野防災拠点センターが利用できない状態になっていて、センターの駐車場を車中泊をする人向けに開放しているということです。また、同じく震度7の揺れを観測した氷川町によりますと、建物の安全が確認できていないことから、町内のすべての屋内の指定避難所を開設していないということです。町は、建物の安全確認を進めるとともに、町内の小中学校のグラウンドを車中泊をする人向けに開放して",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "Eテレ『昔話法廷』 5年ぶりの新作『「天女の羽衣」裁判』編 8月22日放送",
-      "url": "https://amass.jp/190926/",
-      "date": "2026-07-28T16:01:00.000Z",
-      "summary": "「もし昔話の登場人物が訴えられたら…？」という設定のもと描かれる、Eテレの法廷ドラマ『昔話法廷』。5年ぶりの新作『滋賀・「天女の羽衣」裁判』編が8月22日に放送決定。脚本は森下佳子。登場人物を貫地谷しほり、桐谷健太、小林薫らが演じる。過去作の放送も https://amass.jp/190926/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "イオンモール熊本「ガスが漏れていたと報告」 10人安否不明",
-      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188721000.html",
-      "date": "2026-07-28T15:58:04.000Z",
-      "summary": "熊本県によりますと地震のあと爆発があり、2階部分が崩落した、嘉島町のショッピングセンター「イオンモール熊本」では、これまでに現場から4人が救助され、いずれも命に別状はないということです。一方、10人の安否が分かっていないということです。政権幹部の1人は、28日夜記者団に対し、爆発があった「イオンモール熊本」について、「爆発の原因かどうかは分からないが、ガスが漏れていたとの報告があった。ガスの元栓を閉めた上で、警察や消防、自衛隊が救助活動",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "森友学園めぐる文書 自殺した職員の妻が新たに開示求め提訴",
-      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015189091000.html",
-      "date": "2026-07-28T14:40:25.000Z",
-      "summary": "森友学園に関する財務省の決裁文書の改ざんに関与させられ自殺した近畿財務局の職員の妻に対して、財務省が開示した文書やデータをめぐり、妻は一部が開示の対象から除外されたのは不当だとして新たな訴えを起こしました。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "震度7 熊本 宇城の住宅倒壊 1人が巻き込まれ救助活動",
-      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015189011000.html",
-      "date": "2026-07-28T14:19:41.000Z",
-      "summary": "震度7の揺れを観測した熊本県宇城市を管轄する宇城警察署によりますと、市内で住宅が倒壊し、高齢の男性1人が巻き込まれ、救助活動をしていますが、呼びかけに反応がないということです。当初この住宅には4人が住んでいて、連絡が取れなくなっているという情報がありましたが、確認したところ2人は別の場所に住んでいて、もう1人については外出していて無事だったということです。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "長崎 島原 眉山の山肌が一部崩れる 林野庁が現地調査へ",
-      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188531000.html",
-      "date": "2026-07-28T14:03:29.000Z",
-      "summary": "消防によりますと、長崎県島原市の「眉山」が崩れていると、通行人から通報があったということです。その後、眉山の山肌が一部崩れたことが確認されていて、管理する林野庁が29日、現地調査を行うことにしています。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "熊本 氷川町の八代北部地域医療センターで約80人が手当て",
-      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188641000.html",
-      "date": "2026-07-28T14:01:05.000Z",
-      "summary": "震度7の揺れを観測した熊本県氷川町にある八代北部地域医療センターによりますと、28日午後9時半の時点で、地震の影響でけがをしたおよそ80人が病院で手当てを受けているということです。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "熊本で震度7 複数の安否不明者 被害の全容つかめず",
-      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188221000.html",
-      "date": "2026-07-28T13:58:35.000Z",
-      "summary": "28日午後4時27分ごろ、熊本県熊本地方を震源とする大地震があり、熊本県の宇城市と氷川町で震度7の揺れを観測しました。その後も震度5弱を観測する地震が3回発生するなど地震活動が活発になっています。熊本県嘉島町にあるショッピングセンター「イオンモール熊本」で爆発があり、警察関係者によりますと連絡が取れていない従業員が20人から30人いるという情報があるということです。安否不明者の中に客が含まれているかなど詳しい状況はわかっていないというこ",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "トヨタ 福岡の3工場で稼働停止 ホンダも熊本の工場で稼働停止",
-      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188891000.html",
-      "date": "2026-07-28T13:56:39.000Z",
-      "summary": "トヨタ自動車は、今回の地震の影響で福岡県にある3つの工場で稼働を停止したと明らかにしました。従業員の安全確保や設備の安全点検を行うためだとしていて、取引先の部品メーカーの被害状況などについても確認を進めているということです。現時点では29日は稼働を再開する予定だとしていますが、会社では「最新の状況を確認しながら関係者の安全を最優先に対応していく」とコメントしています。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "最低賃金 平均55円引き上げ 厚生労働省審議会が目安示す",
-      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188991000.html",
-      "date": "2026-07-28T13:56:05.000Z",
-      "summary": "今年度の最低賃金を議論する厚生労働省の審議会は28日、全国平均の時給で55円引き上げるとする目安を示しました。引き上げ幅は、過去2番目の大きさで、目安どおりに引き上げられれば、全国平均の時給は1176円になります。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "【動画】Pickup NEWS（7月28日）",
-      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015187471000.html",
-      "date": "2026-07-28T13:51:04.000Z",
-      "summary": "これまでに入っているニュースを、まとめて1分の動画でお伝えします。（データ放送では動画をご覧いただけません）",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "カルチャー・クラブのボーイ・ジョージ、親イスラエルの新曲「We Will Dance Again」公開",
-      "url": "https://amass.jp/190925/",
-      "date": "2026-07-28T13:33:00.000Z",
-      "summary": "カルチャー・クラブのボーイ・ジョージは、親イスラエルの新曲「עוד נרקוד（英訳：We Will Dance Again）」を公開 https://amass.jp/190925/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "米ウクライナ首脳会談へ 迎撃ミサイルのライセンス生産協議か",
-      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188951000.html",
-      "date": "2026-07-28T13:06:16.000Z",
-      "summary": "ウクライナのゼレンスキー大統領は28日、アメリカのトランプ大統領と会談し、アメリカ製の迎撃ミサイルのライセンス生産について協議するものとみられます。",
-      "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "白色矮星が関わる超新星爆発の一部は「原始ブラックホール」の通過が引き金になっている？",
-      "url": "https://sorae.info/astronomy/20260728-pbh-ia-supernova.html",
-      "date": "2026-07-28T13:01:08.000Z",
-      "summary": "ニューヨーク州立大学ポリテクニック・インスティチュートのShing-Chi Leung氏を筆頭とする研究チームは、一部の超新星爆発が「原始ブラックホール」を引き金として発生する可能性を示した新たな研究成果を発表しました。…",
-      "source": "sorae（宇宙・天文）",
-      "sourceHomepage": "https://sorae.info/",
-      "category": "documentary"
-    },
-    {
-      "title": "臓器移植法違反事件 帰国後の男性 受診拒否で医療機関を転々",
-      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188961000.html",
-      "date": "2026-07-28T12:59:25.000Z",
-      "summary": "カンボジアでの臓器移植手術を千葉県の男性にあっせんし、その対価を受け取ったとしてNPO法人の元理事が再逮捕された事件で、男性が帰国後、受診を拒否されるなどして医療機関を転々とし、手術後に必要な処置を受けるまでに2か月以上かかっていたことが分かりました。警視庁は元理事が帰国後の受け入れ体制を整えないまま、あっせんを行っていたとみて調べています。",
-      "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "熊本で震度7「2016年の熊本地震と似ている」気象庁",
-      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188481000.html",
-      "date": "2026-07-28T12:57:00.000Z",
-      "summary": "28日午後4時半ごろ熊本県で震度7の揺れを観測した地震について、気象庁は午後8時半から2回目の会見を開きました。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "the BL00M、『RO JACK for COUNTDOWN JAPAN 25/26』優勝特典楽曲の「散って」リリース＆MV公開",
-      "url": "https://realsound.jp/2026/07/post-2472745.html",
-      "date": "2026-07-28T12:34:37.000Z",
-      "summary": "the BL00M（ザ ブルーム）が、新曲「散って」を本日7月28日に配信リリースした。 本楽曲は、ロッキング・オン主催のオーディションプロジェクト『RO JACK for COUNTDOWN JAPAN 25/26",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "オジー・オズボーンのポスターを全国のタワレコで掲出 メタルの魅力を総力特化で紹介する新企画始動",
-      "url": "https://amass.jp/190924/",
-      "date": "2026-07-28T12:31:00.000Z",
-      "summary": "タワーレコードは時代を超えて受け継がれるハードロック／ヘヴィメタルの魅力を総力特化で紹介する新企画『TOWER AND THE GLORY』キャンペーン始動。第1弾はオジー・オズボーンの一周忌追悼企画として開催。オジーのポスターを全国のタワレコで掲出 https://amass.jp/190924/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "アソビシステム、吉田凜音の芸能活動における業務提携を開始 VOLVE CREATIVEとの提携に伴い",
-      "url": "https://realsound.jp/2026/07/post-2472580.html",
-      "date": "2026-07-28T12:24:14.000Z",
-      "summary": "アソビシステムが、VOLVE CREATIVEとの業務提携に伴い、吉田凜音の芸能活動における業務提携を開始した。 吉田凜音は、2013年より本格的にソロアーティストとして活動を開始し、2016年には期間限定で結成され",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "茂木外相 イラン外相と電話会談 覚書に沿い米国と協議継続を",
-      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188921000.html",
-      "date": "2026-07-28T12:24:01.000Z",
-      "summary": "茂木外務大臣はイランのアラグチ外相と電話で会談し、アメリカとの協議を継続し、覚書に沿って課題を解決すべきだという考えを伝え、日本としても協議を支えていく方針を示しました。",
-      "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "ラオス当局「日本人5人を拘束」 特殊詐欺に関与か",
-      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188211000.html",
-      "date": "2026-07-28T12:13:54.000Z",
-      "summary": "東南アジアで特殊詐欺の拠点の摘発が相次ぐなか、ラオスの警察当局は、特殊詐欺に関わった疑いがあるとして新たに日本人の男女5人を含む51人を拘束したと発表しました。",
-      "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "ME:I TSUZUMI、“決意の歌”として響く「どこまでも ～How Far I'll Go～」 『モアナと伝説の海』に重なる思いから生まれる説得力",
-      "url": "https://realsound.jp/2026/07/post-2472550.html",
-      "date": "2026-07-28T12:10:48.000Z",
-      "summary": "話題のバイラルヒット曲を毎週収録するSpotifyによる日本向けエディトリアルプレイリスト「Viral Hits Japan」。同プレイリストより、本記事ではTSUZUMI（ME:I）の「どこまでも 〜How Far I'll Go〜」をピックアップする。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "『ちいさな展覧会シリーズ 絵のなかの美しい庭』",
-      "url": "https://bluediary2.jugem.jp/?eid=8142",
-      "date": "2026-07-28T12:03:00.000Z",
-      "summary": "パイ インターナショナルから刊行された『ちいさな展覧会シリーズ 絵のなかの美しい庭』は、まるで手元で展覧会を眺めるように楽しめる《ちいさな展覧会》シリーズの第1弾です。 『ちいさな展覧会シリーズ 絵のなかの美しい庭』 鮫島 圭代 (解説), デザイナー：原条...",
-      "source": "青い日記帳（美術展）",
-      "sourceHomepage": "https://bluediary2.jugem.jp/",
-      "category": "culture"
     }
   ]
 }
