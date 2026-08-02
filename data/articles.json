@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-02T14:03:00.107Z",
+  "generatedAt": "2026-08-02T19:39:06.084Z",
   "articleCount": 600,
   "feedStatus": [
-    {
-      "name": "NHKニュース（科学・文化）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-      "errors": []
-    },
     {
       "name": "NHKニュース（主要）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -59,13 +59,6 @@
       "errors": []
     },
     {
-      "name": "amass",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://amass.jp/rss/new",
-      "errors": []
-    },
-    {
       "name": "メシ通（ホットペッパーグルメ）",
       "category": "cooking",
       "ok": true,
@@ -80,6 +73,13 @@
       "errors": []
     },
     {
+      "name": "amass",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://amass.jp/rss/new",
+      "errors": []
+    },
+    {
       "name": "sorae（宇宙・天文）",
       "category": "documentary",
       "ok": true,
@@ -87,10 +87,10 @@
       "errors": []
     },
     {
-      "name": "リアルサウンド",
-      "category": "music",
+      "name": "インサイド（乙女ゲーム関連）",
+      "category": "otome",
       "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
+      "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
       "errors": []
     },
     {
@@ -101,10 +101,10 @@
       "errors": []
     },
     {
-      "name": "インサイド（乙女ゲーム関連）",
-      "category": "otome",
+      "name": "リアルサウンド",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
+      "usedUrl": "https://realsound.jp/atom.xml",
       "errors": []
     },
     {
@@ -136,17 +136,17 @@
       "errors": []
     },
     {
-      "name": "和樂web",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://intojapanwaraku.com/feed",
-      "errors": []
-    },
-    {
       "name": "TOKION",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://tokion.jp/feed/",
+      "errors": []
+    },
+    {
+      "name": "和樂web",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://intojapanwaraku.com/feed",
       "errors": []
     },
     {
@@ -179,6 +179,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "マッシヴ・アタック シンガポール公演中にパレスチナ旗を掲げたことについて声明発表",
+      "url": "https://amass.jp/191033/",
+      "date": "2026-08-03T01:17:00.000Z",
+      "summary": "マッシヴ・アタックはシンガポール公演中にパレスチナ旗を掲げ、うち1人が「パレスチナに自由を」と叫んだことを受けてシンガポールへの再入国を禁止されました。マッシヴ・アタックは新たにこの件に関して声明を発表しています https://amass.jp/191033/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "上北健、新曲「どこかでいなくなる君へ」MV公開 ライブツアー『鏡海 -KYOKAI-』最終公演の感謝の言葉も",
+      "url": "https://realsound.jp/2026/08/post-2479055.html",
+      "date": "2026-08-03T00:05:26.000Z",
+      "summary": "シンガーソングライターの上北健が、新曲「どこかでいなくなる君へ」のMVを公開した。 上北健 - どこかでいなくなる君へ (Official Video) 上北健は、8月2日にライブツアー『鏡海 -KYOKAI-』の最",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
     {
       "title": "カイリー・ミノーグ、ニック・ケイヴ＆ザ・バッド・シーズの最新ライヴにゲスト参加 「Where the Wild Roses Grow」披露",
       "url": "https://amass.jp/191032/",
@@ -279,12 +297,30 @@
       "category": "music"
     },
     {
+      "title": "【地震速報】北海道で震度3 津波の心配なし",
+      "url": "http://www3.nhk.or.jp/news/html/20260802/k10015194521000.html",
+      "date": "2026-08-02T15:06:57.000Z",
+      "summary": "2日午後11時49分ごろ、北海道で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "小柳ゆき、10月よりビルボードライブ3都市まわるツアー開催 大阪公演は2デイズ開催に",
       "url": "https://realsound.jp/2026/08/post-2478810.html",
       "date": "2026-08-02T15:00:46.000Z",
       "summary": "小柳ゆきが、10月よりビルボードライブ3都市をまわるツアーを開催する。 本ツアーは、10月31日の東京公演を皮切りに、11月5日、6日に大阪、11月10日に横浜にて開催。圧巻のボーカルと楽曲に宿る感情を届ける表現力を",
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "【ライブレポ】乃木坂46が4年ぶりTIFで大トリ！多彩なアイドルたちが彩った最高の夏──〈TOKYO IDOL FESTIVAL 2026〉DAY3",
+      "url": "https://ototoy.jp/news/131163",
+      "date": "2026-08-02T15:00:00.000Z",
+      "summary": "2026年8月2日、お台場・青海周辺エリアにて世界最大級のアイドルフェス〈TOKYO IDOL FESTIVAL 2026〉（TIF2026）の最終日・DAY3が開催された",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
     },
     {
@@ -454,7 +490,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260802/k10015194081000.html",
       "date": "2026-08-02T11:20:26.000Z",
       "summary": "熊本県内の被災地で広がる支援の動きをまとめました。",
-      "source": "NHKニュース（主要）",
+      "source": "NHKニュース（社会）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -5540,42 +5576,6 @@
       "date": "2026-07-29T10:42:21.000Z",
       "summary": "27日、中国とロシアの艦艇あわせて4隻が北海道とサハリンの間の宗谷海峡を西に向けて航行したのが確認されました。4隻は東シナ海から太平洋に進出して以降、日本を半周する形で航行していて、防衛省が警戒と監視を続けています。",
       "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "熊本地震 台湾“要請あれば4時間以内に救助隊出発可能”",
-      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188781000.html",
-      "date": "2026-07-29T10:36:23.000Z",
-      "summary": "熊本県の地震を受けて、台湾の消防を管轄する内政部トップの劉世芳部長は、救助隊の派遣に向けた準備を整えていることを29日明らかにしました。そのうえで「要請があれば、4時間以内に出発できる」と述べ、日本側から要請があれば熊本県に台湾の救助隊を派遣する考えを示しました。",
-      "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "ジミ・ヘンドリックスはなぜ、ステージ上でギターを破壊したのか？ 元ローディーはジミにその理由を尋ねたことを回想",
-      "url": "https://amass.jp/190942/",
-      "date": "2026-07-29T10:33:00.000Z",
-      "summary": "ジミ・ヘンドリックスはなぜ、ステージ上でギターを破壊したのか？元ローディーはジミにその理由を尋ねた。「あのギターからはもうこれ以上、引き出せるものはなかった。あのギターが俺に与えてくれる全ての音も全ての音符を絞り尽くした。もう何も残っていなかったんだ」 https://amass.jp/190942/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "セミの命はなぜ「七日」と思われてきたのか――日本文化と近代教育から読み解く",
-      "url": "https://nazology.kusuguru.co.jp/archives/198118",
-      "date": "2026-07-29T10:30:31.000Z",
-      "summary": "夏の夕方、ヒグラシの声を聞くと、まだ空に明るさが残っていても、一日がすでに終わりへ向かっているような気がします。 アブラゼミの濃い声や、クマゼミの乾いた声とは違い、ヒグラシの声には、時間そのものが傾いていくような響きがあります。 日本人は、セミをただの昆虫として見てきたわけではありません。 夏の盛りに現れ、強く鳴き、やがて声を消し、木の幹には薄い抜け殻だけを残す。 その姿は、いつのまにか命の短さを映すものとして受け取られてきました。 よ",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "イオン 3人死亡1人心肺停止明らかに 「夏休みで約3000人来店」",
-      "url": "http://www3.nhk.or.jp/news/html/20260729/k10015189531000.html",
-      "date": "2026-07-29T10:26:53.000Z",
-      "summary": "「イオンモール熊本」で起きた地震のあとの爆発について、イオンの吉田昭夫社長らが29日午後、熊本市内で会見し、爆発によっていずれもテナントの従業員の3人が死亡、1人が心肺停止、3人が安否不明になっていると明らかにしました。",
-      "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     }
