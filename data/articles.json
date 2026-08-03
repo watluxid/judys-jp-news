@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T15:21:15.714Z",
+  "generatedAt": "2026-08-03T20:02:34.737Z",
   "articleCount": 600,
   "feedStatus": [
     {
@@ -10,17 +10,17 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-      "errors": []
-    },
-    {
       "name": "NHKニュース（科学・文化）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（国際）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
       "errors": []
     },
     {
@@ -38,6 +38,13 @@
       "errors": []
     },
     {
+      "name": "つくおき",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://cookien.com/feed/",
+      "errors": []
+    },
+    {
       "name": "樋口直哉（TravelingFoodLab.）",
       "category": "cooking",
       "ok": true,
@@ -52,10 +59,10 @@
       "errors": []
     },
     {
-      "name": "つくおき",
-      "category": "cooking",
+      "name": "amass",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://cookien.com/feed/",
+      "usedUrl": "https://amass.jp/rss/new",
       "errors": []
     },
     {
@@ -63,13 +70,6 @@
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
-      "errors": []
-    },
-    {
-      "name": "amass",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://amass.jp/rss/new",
       "errors": []
     },
     {
@@ -87,6 +87,13 @@
       "errors": []
     },
     {
+      "name": "リアルサウンド",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://realsound.jp/atom.xml",
+      "errors": []
+    },
+    {
       "name": "インサイド（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
@@ -94,10 +101,10 @@
       "errors": []
     },
     {
-      "name": "リアルサウンド",
-      "category": "music",
+      "name": "デイリーポータルZ",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -108,10 +115,10 @@
       "errors": []
     },
     {
-      "name": "OTOTOY",
-      "category": "music",
+      "name": "ナゾロジー",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
+      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
       "errors": []
     },
     {
@@ -122,10 +129,17 @@
       "errors": []
     },
     {
-      "name": "ナゾロジー",
+      "name": "カラパイア",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "usedUrl": "https://karapaia.com/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "TOKION",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://tokion.jp/feed/",
       "errors": []
     },
     {
@@ -150,20 +164,6 @@
       "errors": []
     },
     {
-      "name": "カラパイア",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "TOKION",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
-      "errors": []
-    },
-    {
       "name": "青い日記帳（美術展）",
       "category": "culture",
       "ok": true,
@@ -171,10 +171,10 @@
       "errors": []
     },
     {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
+      "name": "OTOTOY",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "usedUrl": "https://ototoy.jp/rss",
       "errors": []
     }
   ],
@@ -369,6 +369,24 @@
       "category": "music"
     },
     {
+      "title": "【随時更新】ロシア ウクライナに軍事侵攻（8月3日の動き）",
+      "url": "http://www3.nhk.or.jp/news/html/20260804/k10015192421000.html",
+      "date": "2026-08-03T15:38:42.000Z",
+      "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる3日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "【熊本地震 企業影響 3日】工場で操業停止続く 生産一部再開も",
+      "url": "http://www3.nhk.or.jp/news/html/20260803/k10015194851000.html",
+      "date": "2026-08-03T15:22:43.000Z",
+      "summary": "7月28日に最大震度7の非常に激しい揺れを観測した熊本県。今回の地震の影響で、九州にある大手メーカーの工場などでは操業に影響が出ています。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "地震の死亡38人 医療機関や学校の被害も（8月3日時点）",
       "url": "http://www3.nhk.or.jp/news/html/20260803/k10015194741000.html",
       "date": "2026-08-03T14:34:24.000Z",
@@ -517,15 +535,6 @@
       "url": "http://www3.nhk.or.jp/news/html/20260803/k10015195271000.html",
       "date": "2026-08-03T12:29:16.000Z",
       "summary": "今回の熊本地震が発生した直後の先月28日の夜に、政治資金パーティーを開催し、その後「やってよかった」などと発言した、福岡県議会の最大会派、自民党県議団の松尾統章会長は「私の発言で多くの方に不快な思いをさせた」などと述べ、会長の職を辞任する意向を明らかにしました。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "【熊本地震 企業影響 3日】工場で操業停止続く 生産一部再開も",
-      "url": "http://www3.nhk.or.jp/news/html/20260803/k10015194851000.html",
-      "date": "2026-08-03T12:13:31.000Z",
-      "summary": "7月28日に最大震度7の非常に激しい揺れを観測した熊本県。今回の地震の影響で、九州にある大手メーカーの工場などでは操業に影響が出ています。",
       "source": "NHKニュース（社会）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
@@ -792,6 +801,15 @@
       "category": "cooking"
     },
     {
+      "title": "細川たかしマストバイ！ハローキティと高級時計フランク ミュラーが初コラボ。4モデルを発表",
+      "url": "https://karapaia.com/archives/619680.html",
+      "date": "2026-08-03T09:00:00.000Z",
+      "summary": "芸能界きってのキティマニア、演歌歌手の細川たかし先生なら全種コンプリートするであろう、腕もとで常にキティが見守ってくれる腕時計が誕生した。2026年4月にスイスで開催された新作時計発表会で、日本を代表する人気キャラクターのハローキティと、スイスの高級機械式時計メーカー…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
       "title": "田川寿美、スーパーヒーロー夏祭りで「仮面ライダー音頭」初披露",
       "url": "https://ototoy.jp/news/131178",
       "date": "2026-08-03T09:00:00.000Z",
@@ -817,15 +835,6 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
-    },
-    {
-      "title": "細川たかしマストバイ！ハローキティと高級時計フランク ミュラーが初コラボ。4モデルを発表",
-      "url": "https://karapaia.com/archives/619680.html",
-      "date": "2026-08-03T09:00:00.000Z",
-      "summary": "芸能界きってのキティマニア、演歌歌手の細川たかし先生なら全種コンプリートするであろう、腕もとで常にキティが見守ってくれる腕時計が誕生した。2026年4月にスイスで開催された新作時計発表会で、日本を代表する人気キャラクターのハローキティと、スイスの高級機械式時計メーカー…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
     },
     {
       "title": "有元キイチ、9/9に1stフルALリリース決定",
@@ -927,15 +936,6 @@
       "category": "cooking"
     },
     {
-      "title": "再生数稼ぎが目的？3人の花嫁が同じ男性と結婚式を挙げる（インド）",
-      "url": "https://karapaia.com/archives/618638.html",
-      "date": "2026-08-03T07:00:00.000Z",
-      "summary": "インド北部のウッタル・プラデシュ州アムロハで、1人の男性が3人の女性と同時に結婚したと報道され、大きな騒ぎになった。女性たちはずっと一緒に育ち、結婚で離れ離れになるのが嫌だったため、同じ男性を夫に選んだと説明。男性も3人の気持ちを尊重して同意したのだという。ところが…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
       "title": "取り残された木",
       "url": "https://dailyportalz.jp/koresugo/torinokosareta-ki",
       "date": "2026-08-03T07:00:00.000Z",
@@ -951,6 +951,15 @@
       "summary": "宮城県にある個人商店の店先に、コスモスの縦型自販機が設置されていました。",
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "再生数稼ぎが目的？3人の花嫁が同じ男性と結婚式を挙げる（インド）",
+      "url": "https://karapaia.com/archives/618638.html",
+      "date": "2026-08-03T07:00:00.000Z",
+      "summary": "インド北部のウッタル・プラデシュ州アムロハで、1人の男性が3人の女性と同時に結婚したと報道され、大きな騒ぎになった。女性たちはずっと一緒に育ち、結婚で離れ離れになるのが嫌だったため、同じ男性を夫に選んだと説明。男性も3人の気持ちを尊重して同意したのだという。ところが…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
     },
     {
@@ -5569,15 +5578,6 @@
       "source": "ほんのひきだし（本・出版）",
       "sourceHomepage": "https://hon-hikidashi.jp/",
       "category": "culture"
-    },
-    {
-      "title": "ダイエット中でも朝食を抜くのはNG！\"朝\"に食べると代謝が上がる食材って？管理栄養士おすすめ朝のメニューもご紹介",
-      "url": "https://news.cookpad.com/articles/65525",
-      "date": "2026-07-30T09:00:00.000Z",
-      "summary": "ダイエット中、食事量を減らした方がいいからと朝食を簡単に済ませていませんか？実は朝にしっかり食べると代謝が上がる食材があるんです。むしろ食べた方がいい、ダイエット中におすすめの朝食メニューを管理...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
     }
   ]
 }
