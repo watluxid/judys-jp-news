@@ -1,33 +1,12 @@
 {
-  "generatedAt": "2026-08-03T10:09:39.281Z",
+  "generatedAt": "2026-08-03T15:21:15.714Z",
   "articleCount": 600,
   "feedStatus": [
-    {
-      "name": "NHKニュース（科学・文化）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-      "errors": []
-    },
     {
       "name": "NHKニュース（主要）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（社会）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
-      "errors": []
-    },
-    {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -38,6 +17,20 @@
       "errors": []
     },
     {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（社会）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "errors": []
+    },
+    {
       "name": "クックパッドニュース",
       "category": "cooking",
       "ok": true,
@@ -45,10 +38,10 @@
       "errors": []
     },
     {
-      "name": "つくおき",
+      "name": "樋口直哉（TravelingFoodLab.）",
       "category": "cooking",
       "ok": true,
-      "usedUrl": "https://cookien.com/feed/",
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -56,6 +49,13 @@
       "category": "music",
       "ok": true,
       "usedUrl": "https://mikiki.tokyo.jp/list/feed/rss",
+      "errors": []
+    },
+    {
+      "name": "つくおき",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://cookien.com/feed/",
       "errors": []
     },
     {
@@ -73,17 +73,17 @@
       "errors": []
     },
     {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://sorae.info/feed",
-      "errors": []
-    },
-    {
       "name": "4Gamer（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://www.4gamer.net/rss/index.xml",
+      "errors": []
+    },
+    {
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -108,6 +108,13 @@
       "errors": []
     },
     {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
+      "errors": []
+    },
+    {
       "name": "CINRA",
       "category": "culture",
       "ok": true,
@@ -122,31 +129,10 @@
       "errors": []
     },
     {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
-      "errors": []
-    },
-    {
       "name": "和樂web",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://intojapanwaraku.com/feed",
-      "errors": []
-    },
-    {
-      "name": "TOKION",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
-      "errors": []
-    },
-    {
-      "name": "カラパイア",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
       "errors": []
     },
     {
@@ -164,6 +150,20 @@
       "errors": []
     },
     {
+      "name": "カラパイア",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://karapaia.com/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "TOKION",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://tokion.jp/feed/",
+      "errors": []
+    },
+    {
       "name": "青い日記帳（美術展）",
       "category": "culture",
       "ok": true,
@@ -171,14 +171,113 @@
       "errors": []
     },
     {
-      "name": "OTOTOY",
-      "category": "music",
+      "name": "デイリーポータルZ",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "JAY’ED、東阪ビルボードライブ公演開催 スペシャルゲストにTEE、P-CHO（OMW）迎える",
+      "url": "https://realsound.jp/2026/08/post-2479851.html",
+      "date": "2026-08-03T21:29:54.000Z",
+      "summary": "JAY’EDが、10月に東京、大阪のビルボードライブをまわるツアーを開催する。 本ツアーは、10月10日にビルボードライブ大阪、10月16日にビルボードライブ東京にて開催。スペシャルゲストにTEEとOMWからP-CH",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "kiOra、1stシングル「Coco」リリース翌日にMV公開 『CENTRAL』クアラルンプール公演にて初披露",
+      "url": "https://realsound.jp/2026/08/post-2479377.html",
+      "date": "2026-08-03T21:27:40.000Z",
+      "summary": "kiOraが、8月8日に全世界配信リリースする1stシングル「Coco」のMVをリリースの翌日となる8月9日に公開する。 本楽曲のタイトルは、英語の「in my core」と、日本語の「今、ここ（ima coco）」",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "フィルター リチャード・パトリックのサイドプロジェクトA PLACE TO KILL 「What Feels Right」のMV公開",
+      "url": "https://amass.jp/191050/",
+      "date": "2026-08-03T21:26:00.000Z",
+      "summary": "フィルターのリチャード・パトリックと、THERE IS NO USのジム・ルヴォーからなるヘヴィ・インダストリアル・プロジェクト、A PLACE TO KILL。デビューEPから「What Feels Right」のミュージックビデオ公開 https://amass.jp/191050/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "HYBE新ガールズグループ TUIDE、EP『TUNE & PLAY』で正式デビュー メンバーのビジュアルも明らかに",
+      "url": "https://realsound.jp/2026/08/post-2479932.html",
+      "date": "2026-08-03T21:14:09.000Z",
+      "summary": "TUIDEが、8月24日に1st EP『TUNE & PLAY』をリリースし、正式にデビューする。また、あわせてメンバーであるSEOHEE、SEOYEON、ELENA、JIA、SAKI、SEAH、YI HANI",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "モントローズ 75年米TV番組『The Midnight Special』から「Space Station #5」のライヴ映像公開",
+      "url": "https://amass.jp/191049/",
+      "date": "2026-08-03T21:12:00.000Z",
+      "summary": "モントローズ（Montrose）が1975年1月3日に米国の音楽番組『The Midnight Special』で披露したパフォーマンスのオフィシャル・ライヴ映像が公開。曲は「Space Station #5」 https://amass.jp/191049/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "86年放送のNHK特集『手塚治虫 創作の秘密』 NHK総合で8月9日深夜再放送",
+      "url": "https://amass.jp/191048/",
+      "date": "2026-08-03T21:08:00.000Z",
+      "summary": "86年放送のNHK特集『手塚治虫 創作の秘密』がアンコール放送決定。8月9日深夜放送。マンガの神様・手塚治虫の秘密の仕事場にリモートカメラを入れ取材した超貴重映像を紹介。 https://amass.jp/191048/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "小林私、大阪＆東京で単独公演『飛ぶための荷物』開催 約2年ぶりのワンマン形式での開催に",
+      "url": "https://realsound.jp/2026/08/post-2479846.html",
+      "date": "2026-08-03T21:00:38.000Z",
+      "summary": "小林私が、単独公演『飛ぶための荷物』を10月25日に大阪 Music Club JANUS、11月8日に東京 I'M A SHOWで開催する。 過去のワンマンライブではゲストを迎えて開催されることが多かったが、本公演",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "映秀。 新曲「虹色エール」配信リリース 新代田FEVERにて年明け恒例のワンマンライブ開催も",
+      "url": "https://realsound.jp/2026/08/post-2480115.html",
+      "date": "2026-08-03T20:59:54.000Z",
+      "summary": "映秀。が、新曲「虹色エール」を8月28日に配信リリースする。 本楽曲は、映秀。が今年2月に人生で初めて挑戦した大阪マラソンを完走した経験をきっかけに生まれた一曲。何度も立ち止まりそうになるなか、沿道から届いた見ず知ら",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "フィル・コリンズによる「自身の人生を彩った10曲」 自身の「忘れられた曲」も挙げる",
+      "url": "https://amass.jp/191047/",
+      "date": "2026-08-03T20:58:00.000Z",
+      "summary": "フィル・コリンズは「自身の人生を彩った10曲」を選ぶ。ビートルズ、ビーチ・ボーイズ、ザ・フー等に加え、自身の「忘れられた曲」だというビートルズ「Tomorrow Never Knows」のカヴァーも挙げる。とても気に入っているが「誰も聴かない曲」と語る https://amass.jp/191047/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "リタ・フォード、14年ぶりの新オリジナル・アルバムを「9月リリースを目指している」",
+      "url": "https://amass.jp/191046/",
+      "date": "2026-08-03T20:13:00.000Z",
+      "summary": "リタ・フォードは、新しく書いた新曲で構成されたスタジオ・アルバムとして14年ぶりとなる新アルバムを「9月リリースを目指している」と発言。新作はすでに完成済。「今はレコード会社との間で書類のやり取りを何度も重ねているところ。うまくいけば9月には出るかも」 https://amass.jp/191046/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ジョン・ボン・ジョヴィが声帯の問題に直面していた際、すでに同じ手術を受けていたシャナイア・トゥエインが送ったアドバイスとは？",
+      "url": "https://amass.jp/191045/",
+      "date": "2026-08-03T19:44:00.000Z",
+      "summary": "ジョン・ボン・ジョヴィが声帯の問題に直面していた際、彼にとって頼りになる存在だったのが、すでに同じ手術を受けていたカントリーポップ・シンガーのシャナイア・トゥエインでした。彼女はジョンにどのようなアドバイスを送ったのか振り返っています https://amass.jp/191045/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "Liella! リレーインタビュー Vol.8：ペイトン尚未「すみれは私のヒロイン」 作品への愛、ステージに立つ者としての責任感",
       "url": "https://realsound.jp/2026/08/post-2460921.html",
@@ -270,6 +369,69 @@
       "category": "music"
     },
     {
+      "title": "地震の死亡38人 医療機関や学校の被害も（8月3日時点）",
+      "url": "http://www3.nhk.or.jp/news/html/20260803/k10015194741000.html",
+      "date": "2026-08-03T14:34:24.000Z",
+      "summary": "熊本県内では今回の地震で、3日午後6時の時点で災害関連死の疑いがある人などを含めて38人が死亡し、避難所には8200人余りが避難しています。住宅被害は1万2000棟余りで確認されています。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "九州で40度の酷暑日 熱帯夜も 関東は最高気温が大幅に低下",
+      "url": "http://www3.nhk.or.jp/news/html/20260803/k10015194781000.html",
+      "date": "2026-08-03T14:23:45.000Z",
+      "summary": "3日も西日本を中心に気温が上がり、九州と四国で40度を超える酷暑日が相次ぐなど、各地で記録的な暑さとなりました。4日も九州では危険な暑さが続く見込みで、熱中症への対策を徹底してください。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "東京 多摩動物公園 ライオン3頭が相次ぎ死ぬ 熱中症か",
+      "url": "http://www3.nhk.or.jp/news/html/20260803/k10015195441000.html",
+      "date": "2026-08-03T13:50:43.000Z",
+      "summary": "東京 日野市の多摩動物公園では2日までに飼育していたライオン3頭が相次いで死んだと発表しました。動物園は熱中症の疑いがあるとみていて、今後詳しい調査を行うことにしています。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "《真珠の耳飾りの少女》から生まれた、ミキモトのパールピアス",
+      "url": "https://bluediary2.jugem.jp/?eid=8147",
+      "date": "2026-08-03T13:47:00.000Z",
+      "summary": "2026年8月21日から大阪中之島美術館で開催される「フェルメール《真珠の耳飾りの少女》展 17世紀オランダ絵画の名品、奇跡の再来日」 https://vermeer2026.exhibit.jp/ 本展では、フェルメール最初期の作品《ディアナとニンフたち》をはじめ、マウリッツハイス美...",
+      "source": "青い日記帳（美術展）",
+      "sourceHomepage": "https://bluediary2.jugem.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "7月31日介入は4兆円超える規模か 民間仲介会社の分析",
+      "url": "http://www3.nhk.or.jp/news/html/20260803/k10015195391000.html",
+      "date": "2026-08-03T13:42:20.000Z",
+      "summary": "アメリカ東部時間の先月31日に行われた日米の協調介入について、民間の金融仲介会社は、政府・日銀による介入は推計で4兆円を超える規模だった可能性があると分析しています。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "イスラエル軍攻撃で18人死亡の報道 ガザ地区和平へ影響懸念",
+      "url": "http://www3.nhk.or.jp/news/html/20260803/k10015195301000.html",
+      "date": "2026-08-03T13:30:34.000Z",
+      "summary": "パレスチナのガザ地区でイスラエル軍による攻撃が相次ぎ、18人が死亡したと現地メディアが伝えました。イスラム組織ハマスはイスラエルを非難していて、アメリカが主導する和平計画への影響が懸念されます。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "災害医療の3学会“高齢者の熱中症患者相次ぐ 対策徹底を”",
+      "url": "http://www3.nhk.or.jp/news/html/20260803/k10015195411000.html",
+      "date": "2026-08-03T13:29:15.000Z",
+      "summary": "今回の熊本地震を受けて災害医療などに関する3つの学会が3日、緊急で会見を開き、被災地で高齢者の熱中症患者が相次いでいる現状を報告したうえで、軽症の段階から体を冷やすなどの対策を徹底してほしいと呼びかけました。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "カナダの病院 深刻な健康上の問題を抱える患者の「ライヴを観たい」という夢を叶えるためヘヴィメタル・コンサートを開催",
       "url": "https://amass.jp/191039/",
       "date": "2026-08-03T13:20:00.000Z",
@@ -277,6 +439,42 @@
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
+    },
+    {
+      "title": "グランプリの岬えまの妖艶さ！ミスヤングチャンピオンに3人が決定！授賞式は8月8日に開催",
+      "url": "https://hon-hikidashi.jp/news/178414/",
+      "date": "2026-08-03T13:12:06.000Z",
+      "summary": "秋田書店が発行する青年向けコミック雑誌『ヤングチャンピオン』が主催するグラビアコンテスト「ミスヤングチャンピオン2026」のグランプリおよび準グランプリが決定しました。 8月8日（土）には、グランプリ並びに準グランプリのお披露目、授賞式が開催されます。 ミスヤングチャンピオン2026グランプリ 岬えま （みさき・えま） @Ema__imagicf 誕生日：5月14日 サイズ：T157/B88/W67/H91 血液型：A 出身：三重 三雲",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "Vienna Vienna、エモーショナルで儚い新曲リリース",
+      "url": "https://ototoy.jp/news/131176",
+      "date": "2026-08-03T13:00:00.000Z",
+      "summary": "Vienna Viennaが2026年7月31日(金)にニューシングル「Angel Wings」をリリースした",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
+      "title": "パキスタンで爆発 16人死亡 イスラム過激派組織が犯行声明",
+      "url": "http://www3.nhk.or.jp/news/html/20260803/k10015195311000.html",
+      "date": "2026-08-03T12:56:29.000Z",
+      "summary": "パキスタン北西部の警察署の前で爆発があり、警察官と市民合わせて16人が死亡しました。この地域を拠点にするイスラム過激派組織が犯行声明を出し、警察が自爆テロとして捜査を進めています。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "【ライブ終了】令和8年熊本地震 県内各地の様子",
+      "url": "http://www3.nhk.or.jp/news/html/20260728/k10015188251000.html",
+      "date": "2026-08-03T12:49:26.000Z",
+      "summary": "ライブ配信は終了しました。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
     },
     {
       "title": "デュラン・デュランの解散の危機を救ったミック・ジャガーの助言 ニック・ローズ語る",
@@ -288,12 +486,75 @@
       "category": "music"
     },
     {
+      "title": "巨大なブラックホールの“風”は銀河のはるか外まで到達 エネルギーは想定の100倍以上",
+      "url": "https://sorae.info/astronomy/20260803-black-hole-wind.html",
+      "date": "2026-08-03T12:41:43.000Z",
+      "summary": "多くの銀河の中心には、質量が太陽の100万倍を超えるような超大質量ブラックホール（超巨大ブラックホール）が存在するとされています。これらは周囲の物質を吸い込む一方で、その一部を高速のガスとして噴き出す「風」を放つことが知…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
+    },
+    {
+      "title": "豊臣秀吉の妻ゆかりの京都 高台寺の敷地内で火事 ほぼ消し止め",
+      "url": "http://www3.nhk.or.jp/news/html/20260803/k10015195201000.html",
+      "date": "2026-08-03T12:41:30.000Z",
+      "summary": "3日夜、京都市東山区にある豊臣秀吉の妻、ねねゆかりの高台寺の敷地内で火事があり、通報からおよそ40分後にほぼ消し止められましたが、敷地内の建物が燃えました。警察と消防が被害の状況などを調べています。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "小学館 漫画家起用問題で第三者委“人権侵害 助長または加担”",
+      "url": "http://www3.nhk.or.jp/news/html/20260803/k10015195291000.html",
+      "date": "2026-08-03T12:29:59.000Z",
+      "summary": "小学館の漫画アプリの編集部が、性加害事件を起こして連載が中止となった漫画家を別のペンネームで原作者として再び起用していた問題で、小学館が設置した第三者委員会は、被害女性への「人権侵害への助長または加担と評価されてもやむをえない対応」だったなどとする調査結果をまとめました。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "福岡 自民党県議団会長 パーティーめぐる発言で会長辞任の意向",
+      "url": "http://www3.nhk.or.jp/news/html/20260803/k10015195271000.html",
+      "date": "2026-08-03T12:29:16.000Z",
+      "summary": "今回の熊本地震が発生した直後の先月28日の夜に、政治資金パーティーを開催し、その後「やってよかった」などと発言した、福岡県議会の最大会派、自民党県議団の松尾統章会長は「私の発言で多くの方に不快な思いをさせた」などと述べ、会長の職を辞任する意向を明らかにしました。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "【熊本地震 企業影響 3日】工場で操業停止続く 生産一部再開も",
+      "url": "http://www3.nhk.or.jp/news/html/20260803/k10015194851000.html",
+      "date": "2026-08-03T12:13:31.000Z",
+      "summary": "7月28日に最大震度7の非常に激しい揺れを観測した熊本県。今回の地震の影響で、九州にある大手メーカーの工場などでは操業に影響が出ています。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "イラン 米との協議を否定 海峡めぐりオマーンと詰めの協議",
+      "url": "http://www3.nhk.or.jp/news/html/20260803/k10015195241000.html",
+      "date": "2026-08-03T12:00:37.000Z",
+      "summary": "アメリカのトランプ大統領が、イランとの協議は3日に始まると主張したのに対し、イラン外務省の報道官は、アメリカとの直接協議を否定し、数日以内に交渉団を派遣する予定はないという認識を示しました。双方の発言が食い違う一方、イランはホルムズ海峡の沿岸国のオマーンと新たな臨時の航路について詰めの協議を進めるとしています。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "浜田麻里、ニューアルバムリード曲「Rhapsodiaris」先行配信 『BURRN!』9月号の表紙＆巻頭に登場",
       "url": "https://realsound.jp/2026/08/post-2478874.html",
       "date": "2026-08-03T12:00:04.000Z",
       "summary": "浜田麻里が9月9日にリリースするニューアルバム『INCLINATION Ⅳ』より、リード曲「Rhapsodiaris」を8月5日に先行配信。また、同日にMVもプレミア公開される。 同アルバムは、1994年に第1作が発",
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "小林私、2年ぶり単独公演〈飛ぶための荷物〉大阪＆東京で開催",
+      "url": "https://ototoy.jp/news/131177",
+      "date": "2026-08-03T12:00:00.000Z",
+      "summary": "小林私が、2026年10月25日に大阪・Music Club JANUS、11月8日に東京・I'M A SHOWで単独公演〈飛ぶための荷物〉を開催することが決定した",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
     },
     {
@@ -306,6 +567,15 @@
       "category": "music"
     },
     {
+      "title": "日米で協調介入 片山財務相 “さらなる実施もちゅうちょせず”",
+      "url": "http://www3.nhk.or.jp/news/html/20260803/k10015194421000.html",
+      "date": "2026-08-03T11:40:27.000Z",
+      "summary": "片山財務大臣は歴史的な円安の是正に向けてアメリカとの協調介入を実施したことを明らかにしたうえで、今後も協調介入の実施をちゅうちょしないという考えを示しました。日本の通貨当局からは「日米通貨同盟の完成形」との受け止めも出ていて、今後、日米が連携して円安に歯止めをかけることができるかが焦点です。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "ボーイ・ジョージの物議を醸している親イスラエル・ソング 彼自身のレーベルがリリース拒否 レーベル・マネージャーと決別",
       "url": "https://amass.jp/191036/",
       "date": "2026-08-03T11:38:00.000Z",
@@ -315,6 +585,15 @@
       "category": "music"
     },
     {
+      "title": "スペインの洞窟で1900年前の不可解な碑文を多数発見、女神崇拝と関係性",
+      "url": "https://karapaia.com/archives/619447.html",
+      "date": "2026-08-03T11:30:00.000Z",
+      "summary": "スペイン東部の洞窟の奥深くで、壁と天井にびっしりと文字が刻まれた部屋が見つかった。調査にあたったスペインのアリカンテ大学とサラゴサ大学の研究チームは、120点ものラテン語の碑文を発見しており、1900年前のローマ時代の人々が、暗闇をたどってここまで来て刻んだものだ。中には…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
       "title": "オジー・オズボーンの妻、『オズフェスト』復活／オジー最終公演の映像作品／オジー伝記映画／オジーAIアバターの最新情報語る",
       "url": "https://amass.jp/191035/",
       "date": "2026-08-03T11:13:00.000Z",
@@ -322,6 +601,42 @@
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
+    },
+    {
+      "title": "Red Velvet、2年ぶり新作は夏がテーマのミニAL",
+      "url": "https://ototoy.jp/news/131179",
+      "date": "2026-08-03T11:00:00.000Z",
+      "summary": "Red Velvetがサマー・ミニアルバム『Velvet Summer』をリリースした",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
+      "title": "ミャンマー民主化指導者スー・チー氏が赤十字関係者と面会発表",
+      "url": "http://www3.nhk.or.jp/news/html/20260803/k10015195111000.html",
+      "date": "2026-08-03T10:44:01.000Z",
+      "summary": "ミャンマーで拘束が続いている民主化運動の指導者、アウン・サン・スー・チー氏が3日、ICRC＝赤十字国際委員会の現地代表と面会したと、軍の影響力が強い政権が発表しました。5年前の軍によるクーデターで拘束されたスー・チー氏の動静が公表されるのは異例で、政権側は早期の解放を求める国際社会に柔軟な姿勢を示すねらいがあるとみられます。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "熊本市などで初の酷暑日 被災地であすも危険な暑さ続く見込み",
+      "url": "http://www3.nhk.or.jp/news/html/20260803/k10015194581000.html",
+      "date": "2026-08-03T10:31:26.000Z",
+      "summary": "7月28日に最大震度7の非常に激しい揺れを観測した熊本県では、地震活動が活発になっているほか、熊本市などで日中の最高気温が40度を超える初の酷暑日になり、4日も危険な暑さが続く見込みです。気象庁は引き続き最大震度7程度の揺れに注意するとともに、できる限りの熱中症対策をするよう呼びかけています。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "「My Merry May with be」HDリマスター版，Steamで配信開始。シリーズ2作品と追加シナリオ3編を収録",
+      "url": "https://www.4gamer.net/games/029/G102981/20260803033/",
+      "date": "2026-08-03T10:09:23.000Z",
+      "summary": "MAGES.は本日，SF恋愛アドベンチャーゲーム「MyMerryMaywithbe」のHDリマスター版をSteamで配信開始した。2005年に発売されたシリーズ集大成版をHDリマスターした作品であり，「MyMerryMay」と「MyMerryMaybe」の2作品に加え，追加シナリオ3編を収録している。",
+      "source": "4Gamer（乙女ゲーム関連）",
+      "sourceHomepage": "https://www.4gamer.net/",
+      "category": "otome"
     },
     {
       "title": "女子陸上選手の画像 生成AIで性的画像に加工か 逮捕の会社員",
@@ -340,15 +655,6 @@
       "source": "クックパッドニュース",
       "sourceHomepage": "https://news.cookpad.com/",
       "category": "cooking"
-    },
-    {
-      "title": "熊本市などで初の酷暑日 被災地であすも危険な暑さ続く見込み",
-      "url": "http://www3.nhk.or.jp/news/html/20260803/k10015194581000.html",
-      "date": "2026-08-03T09:59:07.000Z",
-      "summary": "7月28日に最大震度7の非常に激しい揺れを観測した熊本県では、地震活動が活発になっているほか、熊本市などで日中の最高気温が40度を超える初の酷暑日になり、4日も危険な暑さが続く見込みです。気象庁は引き続き最大震度7程度の揺れに注意するとともに、できる限りの熱中症対策をするよう呼びかけています。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
     },
     {
       "title": "「ご家族ともめてるよ！」新人介護士は、利用者につらい態度で当たる家族を非難した『さくらと介護とオニオカメ！』【#9】",
@@ -382,7 +688,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260803/k10015194591000.html",
       "date": "2026-08-03T09:49:14.000Z",
       "summary": "大型で非常に強い台風13号は小笠原近海を西寄りに進んでいて4日に小笠原諸島に最も近づく見込みです。気象庁は高波と暴風に厳重に警戒するとともに不要不急の外出を控えるよう呼びかけています。その後、5日から週末にかけては沖縄・奄美と九州南部で大荒れの天気になるおそれがあり最新の情報に注意が必要です。",
-      "source": "NHKニュース（社会）",
+      "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -392,15 +698,6 @@
       "date": "2026-08-03T09:48:29.000Z",
       "summary": "今回の熊本地震について、高市総理大臣は、国が復旧にかかる費用を支援する「激甚災害」に指定する方針を明らかにしました。また、高市総理大臣は災害復旧などの対応をいっそう強化するため、4日、200億円を超える規模の今年度予算の予備費の使用を閣議決定し、必要な予算を確保する考えを示しました。高市総理大臣は、被災者の支援を行うための船が4日、八代港に到着し、入浴や宿泊、食事に加え、船内の一部で医療提供を行うことになったと明らかにしました。",
       "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "九州で40度の酷暑日 熱帯夜も 関東は最高気温が大幅に低下",
-      "url": "http://www3.nhk.or.jp/news/html/20260803/k10015194781000.html",
-      "date": "2026-08-03T09:47:54.000Z",
-      "summary": "3日も西日本を中心に気温が上がり、九州と四国で40度を超える酷暑日が相次ぐなど、各地で記録的な暑さとなりました。4日も九州では危険な暑さが続く見込みで、熱中症への対策を徹底してください。",
-      "source": "NHKニュース（社会）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -450,15 +747,6 @@
       "category": "news"
     },
     {
-      "title": "日米で協調介入 片山財務相 “さらなる実施もちゅうちょせず”",
-      "url": "http://www3.nhk.or.jp/news/html/20260803/k10015194421000.html",
-      "date": "2026-08-03T09:20:28.000Z",
-      "summary": "片山財務大臣は歴史的な円安の是正に向けてアメリカとの協調介入を実施したことを明らかにしたうえで、今後も協調介入の実施をちゅうちょしないという考えを示しました。日本の通貨当局からは「日米通貨同盟の完成形」との受け止めも出ていて、今後、日米が連携して円安に歯止めをかけることができるかが焦点です。",
-      "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
       "title": "落ち込むいちかのもとに届いた“キャラクター総選挙・ラブ☆スタ”開催の知らせ！1位になれば全社をあげて売り出されるが…？『カワイイは金なり』【#3】",
       "url": "https://hon-hikidashi.jp/book-person/178142/",
       "date": "2026-08-03T09:20:02.000Z",
@@ -466,15 +754,6 @@
       "source": "ほんのひきだし（本・出版）",
       "sourceHomepage": "https://hon-hikidashi.jp/",
       "category": "culture"
-    },
-    {
-      "title": "地震の死亡38人 医療機関や学校の被害も（8月3日時点）",
-      "url": "http://www3.nhk.or.jp/news/html/20260803/k10015194741000.html",
-      "date": "2026-08-03T09:19:47.000Z",
-      "summary": "熊本県は3日午後4時から開いた災害対策本部会議で、県内では災害関連死の疑いがある人などを含めて38人が死亡したと発表しました。死者数は2日の発表から変わっていません。地震の直接の被害で亡くなった「直接死」かどうか調査中としていた2人のうち、氷川町の10代の女性が「直接死」と確認されたということです。もう1人は調査中としています。また、死者数には災害関連死の疑いがある1人が含まれています。開設している避難所は県内で162か所あり、8383",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
     },
     {
       "title": "近藤聡乃の15年ぶり新作アニメを初公開。展覧会『近藤聡乃 夢のタイトル』太田市美術館・図書館で開催",
@@ -513,15 +792,6 @@
       "category": "cooking"
     },
     {
-      "title": "細川たかしマストバイ！ハローキティと高級時計フランク ミュラーが初コラボ。4モデルを発表",
-      "url": "https://karapaia.com/archives/619680.html",
-      "date": "2026-08-03T09:00:00.000Z",
-      "summary": "芸能界きってのキティマニア、演歌歌手の細川たかし先生なら全種コンプリートするであろう、腕もとで常にキティが見守ってくれる腕時計が誕生した。2026年4月にスイスで開催された新作時計発表会で、日本を代表する人気キャラクターのハローキティと、スイスの高級機械式時計メーカー…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
       "title": "田川寿美、スーパーヒーロー夏祭りで「仮面ライダー音頭」初披露",
       "url": "https://ototoy.jp/news/131178",
       "date": "2026-08-03T09:00:00.000Z",
@@ -547,6 +817,15 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
+    },
+    {
+      "title": "細川たかしマストバイ！ハローキティと高級時計フランク ミュラーが初コラボ。4モデルを発表",
+      "url": "https://karapaia.com/archives/619680.html",
+      "date": "2026-08-03T09:00:00.000Z",
+      "summary": "芸能界きってのキティマニア、演歌歌手の細川たかし先生なら全種コンプリートするであろう、腕もとで常にキティが見守ってくれる腕時計が誕生した。2026年4月にスイスで開催された新作時計発表会で、日本を代表する人気キャラクターのハローキティと、スイスの高級機械式時計メーカー…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
     },
     {
       "title": "有元キイチ、9/9に1stフルALリリース決定",
@@ -581,15 +860,6 @@
       "date": "2026-08-03T08:43:56.000Z",
       "summary": "今月7日、鹿児島県の種子島宇宙センターからH3ロケットで打ち上げられる予定だった、日本版GPS衛星「みちびき」の7号機について、JAXA＝宇宙航空研究開発機構は、台風13号の影響で天候の悪化が予想されるとして、打ち上げを延期すると発表しました。",
       "source": "NHKニュース（科学・文化）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "ミャンマー民主化指導者スー・チー氏が赤十字関係者と面会発表",
-      "url": "http://www3.nhk.or.jp/news/html/20260803/k10015195111000.html",
-      "date": "2026-08-03T08:41:28.000Z",
-      "summary": "ミャンマーで拘束が続いている民主化運動の指導者、アウン・サン・スー・チー氏が3日、ICRC＝赤十字国際委員会の現地代表と面会したと、軍の影響力が強い政権が発表しました。5年前の軍によるクーデターで拘束されたスー・チー氏の動静が公表されるのは異例で、政権側は早期の解放を求める国際社会に柔軟な姿勢を示すねらいがあるとみられます。",
-      "source": "NHKニュース（国際）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -657,6 +927,15 @@
       "category": "cooking"
     },
     {
+      "title": "再生数稼ぎが目的？3人の花嫁が同じ男性と結婚式を挙げる（インド）",
+      "url": "https://karapaia.com/archives/618638.html",
+      "date": "2026-08-03T07:00:00.000Z",
+      "summary": "インド北部のウッタル・プラデシュ州アムロハで、1人の男性が3人の女性と同時に結婚したと報道され、大きな騒ぎになった。女性たちはずっと一緒に育ち、結婚で離れ離れになるのが嫌だったため、同じ男性を夫に選んだと説明。男性も3人の気持ちを尊重して同意したのだという。ところが…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
       "title": "取り残された木",
       "url": "https://dailyportalz.jp/koresugo/torinokosareta-ki",
       "date": "2026-08-03T07:00:00.000Z",
@@ -672,15 +951,6 @@
       "summary": "宮城県にある個人商店の店先に、コスモスの縦型自販機が設置されていました。",
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "再生数稼ぎが目的？3人の花嫁が同じ男性と結婚式を挙げる（インド）",
-      "url": "https://karapaia.com/archives/618638.html",
-      "date": "2026-08-03T07:00:00.000Z",
-      "summary": "インド北部のウッタル・プラデシュ州アムロハで、1人の男性が3人の女性と同時に結婚したと報道され、大きな騒ぎになった。女性たちはずっと一緒に育ち、結婚で離れ離れになるのが嫌だったため、同じ男性を夫に選んだと説明。男性も3人の気持ちを尊重して同意したのだという。ところが…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
     },
     {
@@ -5308,276 +5578,6 @@
       "source": "クックパッドニュース",
       "sourceHomepage": "https://news.cookpad.com/",
       "category": "cooking"
-    },
-    {
-      "title": "バターバーガーを食べる（傑作選）",
-      "url": "https://dailyportalz.jp/kiji/eat-butterburger",
-      "date": "2026-07-30T09:00:00.000Z",
-      "summary": "40gのバターを大胆に挟むハンバーガーを出す店がある。溶けたバターが輝くその姿は、バターファンでなくても息を呑む。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "スルスル体を這い上がり10秒で着られる、ソフトロボット服が開発される",
-      "url": "https://karapaia.com/archives/618531.html",
-      "date": "2026-07-30T09:00:00.000Z",
-      "summary": "ソフトロボット化で着衣の手間がグンと減る。韓国科学技術院（KAIST）とアメリカのスタンフォード大学の研究チームが、空気の力で植物のツタのように体を這い上がり、わずか10秒で着られる服型ソフトロボットを発表した。服のほうから動き出し、自ら着せにかかってくるため…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
-      "title": "2026年夏BLドラマを紹介!（前編） 奥智哉 × 杢代和人、古川雄輝 × 長野凌大、小川史記 × 瀬戸利樹、深田竜生 × 浮所飛貴など7作 - コラム",
-      "url": "https://mikiki.tokyo.jp/articles/-/45649",
-      "date": "2026-07-30T09:00:00.000Z",
-      "summary": "2026年夏BLドラマを紹介!（前編） 奥智哉 × 杢代和人、古川雄輝 × 長野凌大、小川史記 × 瀬戸利樹、深田竜生 × 浮所飛貴など7作",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "メリー、新作『Urbanstyle Circus』＆過去カタログ配信開始",
-      "url": "https://ototoy.jp/news/131114",
-      "date": "2026-07-30T09:00:00.000Z",
-      "summary": "ヴィジュアル系シーンを代表するバンド、メリーの最新アルバム『Urbanstyle Circus』がOTOTOYで配信スタート",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "熊本県内のモニタリングポストが復旧",
-      "url": "http://www3.nhk.or.jp/news/html/20260730/k10015190991000.html",
-      "date": "2026-07-30T08:58:38.000Z",
-      "summary": "地震による被害が出ている熊本県では28日の夜遅くから放射線量を測定するモニタリングポストのデータが送れなくなっていましたが、30日午前、復旧しました。地震による停電が原因とみられ、原子力規制委員会が調べることにしています。",
-      "source": "NHKニュース（科学・文化）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "すぐさま泥棒発見、犯人は子ども！？助けようとした孤児が速攻で逃げ出した…「その甘い考えは大嫌いだよ！？」『異郷の爪塗り見習い』第4話～第6話【#11】",
-      "url": "https://hon-hikidashi.jp/book-person/169569/",
-      "date": "2026-07-30T08:55:46.000Z",
-      "summary": "ほんのひきだしでは、7月17日の漫画の日を記念して、出版社がおすすめする今夏に読んでほしい注目のコミック作品の試し読み記事を配信します。 本書は、成り行きで爪塗り見習いになった サーラが 、癖の強い最強魔法使い・ロッコはじめ、魔法使いの弟子・ホオ、爪塗りの師匠・リドたちとの毎日ずっと、爪塗りとして異世界を歩く、お仕事ファンタジーです。 今回は第4話～第6話および番外編4話の試し読みを期間限定で配信します。 次に読む漫画を探している方、キ",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "シンデレラのトム・キーファー 公演中止を発表 「重度の声帯筋の筋肉疲労／損傷」により歌声を完全に失う",
-      "url": "https://amass.jp/190965/",
-      "date": "2026-07-30T08:55:00.000Z",
-      "summary": "シンデレラのフロントマン、トム・キーファーは、「重度の声帯筋の筋肉疲労／損傷」により、歌声を完全に失ったことを受け、2026年のソロツアーの残り3公演を中止しました https://amass.jp/190965/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "2026年7月期雑誌グラビア人気ランキング第9位！「かわいい番長のピンク水着がキュート！小森香乃が表紙＆巻頭グラビアを飾る『週刊少年チャンピオン』」",
-      "url": "https://hon-hikidashi.jp/news/176780/",
-      "date": "2026-07-30T08:52:00.000Z",
-      "summary": "2026年7月期に「ほんのひきだし」で読者に読まれた「雑誌グラビア」（デジタル・映像含む）に関する記事の人気ランキングベスト15を発表します。 第9位 は、「 かわいい番長のピンク水着がキュート！小森香乃が表紙＆巻頭グラビアを飾る『週刊少年チャンピオン』 」の記事です。ぜひ、記事の一部をご堪能ください。 【記事概要】 映画、舞台などで女優として活躍する17歳の小森香乃さんが表紙＆巻頭グラビアを飾る 『週刊少年チャンピオン』31号 が発売",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "異世界で課長に再会！？怪物と戦うこの世界では、職業とパーティが生死に関わるらしい『世界最強の後衛～迷宮国の新人探索者～』【#3】",
-      "url": "https://hon-hikidashi.jp/book-person/168447/",
-      "date": "2026-07-30T08:50:32.000Z",
-      "summary": "ほんのひきだしでは、7月17日の漫画の日を記念して、出版社がおすすめする今夏に読んでほしい注目コミック作品の試し読み記事を配信します。 KADOKAWAのおすすめコミックは、 『世界最強の後衛～迷宮国の新人探索者～』 です。 次に読む漫画を探している方、夏休みの自分時間を充実させたい方は、ぜひこの機会におすすめコミック作品をお楽しみください。 (adsbygoogle = window.adsbygoogle || []).push({",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "「変身術」の授業で先生が魔法を披露！腕が翼になったかと思うと…『ビットとラチェの魔法学校』【#2】",
-      "url": "https://hon-hikidashi.jp/book-person/169088/",
-      "date": "2026-07-30T08:40:16.000Z",
-      "summary": "ほんのひきだしでは、7月17日の漫画の日を記念して、出版社がおすすめする今夏に読んでほしい注目コミック作品の試し読み記事を配信します。 Gakkenのおすすめコミックは、 『ビットとラチェの魔法学校』 です。 次に読む漫画を探している方、夏休みの自分時間を充実させたい方は、ぜひこの機会におすすめコミック作品をお楽しみください。 (adsbygoogle = window.adsbygoogle || []).push({}); 試し読み",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "グレン・ハンサードの訃報を受け、U2のボノが長文の追悼文を発表、ブルース・スプリングスティーンも追悼のメッセージを寄せる",
-      "url": "https://amass.jp/190964/",
-      "date": "2026-07-30T08:35:00.000Z",
-      "summary": "映画『ONCE ダブリンの街角で』の主演を務め、スウェル・シーズンやザ・フレイムスでも活躍した、アイルランド人ミュージシャンのグレン・ハンサードの訃報を受け、U2のボノが長文の追悼文を発表。ブルース・スプリングスティーンも追悼のメッセージを寄せています https://amass.jp/190964/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "八王子スーパー強盗殺人事件31年 警視庁が情報提供呼びかけ",
-      "url": "http://www3.nhk.or.jp/news/html/20260730/k10015190611000.html",
-      "date": "2026-07-30T08:31:41.000Z",
-      "summary": "1995年、東京 八王子市にあったスーパーの事務所でアルバイトの女子高校生2人とパート従業員の女性の合わせて3人が拳銃で撃たれて殺害された事件は、未解決のまま30日で31年となります。警視庁はJR八王子駅でチラシを配り、あらためて情報の提供を呼びかけました。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "横浜市長が重大なパワハラ行為 外部調査委員が認定",
-      "url": "http://www3.nhk.or.jp/news/html/20260730/k10015190641000.html",
-      "date": "2026-07-30T08:30:33.000Z",
-      "summary": "横浜市の山中市長がパワハラが疑われる言動を繰り返したとする幹部職員の訴えを受け、事実関係を調査していた外部の調査委員は、30日に報告書を公表し、不適切な言動を日常的に行う看過できない重大なパワハラ行為があったと認定しました。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "沖縄 辺野古沖転覆事故 亡くなった女子生徒の遺族が会見",
-      "url": "http://www3.nhk.or.jp/news/html/20260730/k10015190931000.html",
-      "date": "2026-07-30T08:29:00.000Z",
-      "summary": "沖縄県名護市辺野古の沖合で船が転覆し研修旅行中の高校生など2人が死亡した事故で、亡くなった生徒の遺族が事故のあと初めて会見を開き、船長1人の責任で終わらせないために学校の校長などの告訴に踏み切ったことを明らかにしました。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "熊本にゆかりの歌手や俳優ら 地震の被災地へメッセージ",
-      "url": "http://www3.nhk.or.jp/news/html/20260730/k10015190891000.html",
-      "date": "2026-07-30T08:27:10.000Z",
-      "summary": "28日の地震を受けて、熊本県にゆかりのある歌手や俳優からは、被災地に向けたメッセージが次々と寄せられています。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "【被災地支援】飲料水発送 入浴など支援可能な船舶派遣へ",
-      "url": "http://www3.nhk.or.jp/news/html/20260730/k10015190731000.html",
-      "date": "2026-07-30T08:22:58.000Z",
-      "summary": "今回の地震で大きな被害を受けている熊本県内への国や各地からの支援の30日の動きをまとめました。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "熊本県で震度7 同程度の地震に注意 猛暑で熱中症対策を",
-      "url": "http://www3.nhk.or.jp/news/html/20260730/k10015190291000.html",
-      "date": "2026-07-30T08:12:16.000Z",
-      "summary": "28日に最大震度7の揺れを観測し、大きな被害が出ている熊本県では29日夜も震度5弱の揺れを観測するなど地震活動が活発な状態が続いています。気象庁は1週間ほどは最大震度7程度の地震に注意するよう呼びかけています。熊本県では30日も気温が上がり猛烈な暑さとなっていて、復旧作業などの際は熱中症を防ぐためにできるかぎりの対策を行ってください。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "目標達成の鍵は「モチベーション」より「規律」",
-      "url": "https://nazology.kusuguru.co.jp/archives/198115",
-      "date": "2026-07-30T08:00:55.000Z",
-      "summary": "何かを始めようとするとき、私たちはつい「モチベーションを高めなければ」と考えます。 しかし、ウクライナ出身で、現役最強のボクサーの一人であるオレクサンドル・ウシク氏（39）は、成功の理由を尋ねられた際に、こう答えました。 「私にモチベーションはありません。あるのは規律です」 ウシク氏によると、モチベーションは今日あっても、明日には消えてしまう一時的なものだといいます。 目標を達成するうえで本当に頼りになるのは、気分に関係なく行動を続ける",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "山田涼介、東京ドームで示した”アイドル”としての誇り 事務所初の功績、歩みが結実した至高のステージに",
-      "url": "https://realsound.jp/2026/07/post-2473209.html",
-      "date": "2026-07-30T08:00:25.000Z",
-      "summary": "山田涼介が、6月から7月にかけて事務所初となるソロでのドームツアー『Ryosuke Yamada DOME TOUR 2026 Are You Red.Y?』を開催した。本稿では、その7月25日公演の模様を囲み会見のレポートと合わせて紹介する。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "「餃子」に合うおかずって何？みんなが悩んでいる問題をクックパッドの超人気ユーザーが解決！",
-      "url": "https://news.cookpad.com/articles/65722",
-      "date": "2026-07-30T08:00:00.000Z",
-      "summary": "餃子を作るとき、献立に悩む人は多いですよね。クックパッドでも「餃子に合うおかず」という検索は非常に多いのですが、実は答えを探し出すのが難しいテーマ。今回はその悩みを解決するレシピを5品ご紹介しま...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "泣き⾍、遊び心溢れる新曲「百鬼夜行。」リリース",
-      "url": "https://ototoy.jp/news/131110",
-      "date": "2026-07-30T08:00:00.000Z",
-      "summary": "泣き⾍が2026年7月29日(水)にニューシングル「百鬼夜行",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "レモン汁は飲み物",
-      "url": "https://dailyportalz.jp/koresugo/lemon-shiru",
-      "date": "2026-07-30T07:00:00.000Z",
-      "summary": "唐揚げに大活躍の調味料、卓上レモン。裏を見るとなんと飲料でした。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "やっぱり北の方に行けば行くほど自販機の「あったか～い」率は上がるの？ ～月刊デイリーポータルＺ新人賞 2026年７月号",
-      "url": "https://dailyportalz.jp/kiji/gekkan-shinjinsyo-202607",
-      "date": "2026-07-30T07:00:00.000Z",
-      "summary": "ライター登竜門、月刊新人賞！みなさまからいただいた投稿原稿のうち、優秀作をご紹介します。投稿は随時募集中です！",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "リサイクル専用のゴミ箱が大きい",
-      "url": "https://dailyportalz.jp/koresugo/gomibako-ookii",
-      "date": "2026-07-30T07:00:00.000Z",
-      "summary": "スイス・チューリッヒ市内で見かけたリサイクル専用のゴミ箱です。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "女子刑務所をホテルと間違えた観光客、うっかり予約の連絡を入れてしまう",
-      "url": "https://karapaia.com/archives/618635.html",
-      "date": "2026-07-30T07:00:00.000Z",
-      "summary": "フィリピン北部・ルソン島の山岳地帯にある街バギオは、冷涼な気候から避暑地としても人気のある観光地だ。週末をこの街で過ごそうと、宿泊先を探していたある女性が、ネットで見つけた宿泊施設に問い合わせてみた。だがなんと、そこはホテルではなく女子刑務所だったのだ…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
-      "title": "もう剥がれない！ピーマンの肉詰め。正解は粉をつけることではなかった。",
-      "url": "https://news.cookpad.com/articles/65174",
-      "date": "2026-07-30T07:00:00.000Z",
-      "summary": "YouTubeとクックパッドで話題の料理系クリエイター・こじまぽん助さん。分子調理学をベースに「なぜおいしくなるのか」を徹底的に解明した、失敗しないレシピが人気を集めています。毎回ひとつの料理を深掘りしながら、作り方の「理由」から教えてもらいます。",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "【イベントレポート】CANDY TUNE・村川緋杏、初写真集は「100点満点中1億点」──「人の評価ではなく、自分の『かわいい』を信じてほしい」",
-      "url": "https://ototoy.jp/news/131115",
-      "date": "2026-07-30T06:45:00.000Z",
-      "summary": "アイドルグループ・CANDY TUNEの村川緋杏が7月30日、東京・SHIBUYA TSUTAYAで開催された初ソロ写真集『the Bibian』のお渡し会イベント前に報道陣の囲み取材に応じ、初の写真集への思いや、アイドル人生を振り返る心境、今後の夢などを語った",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "【揚げちゃっていいんですか！？】驚くほど美味！「納豆の天ぷら」を作ってみた",
-      "url": "https://news.cookpad.com/articles/64989",
-      "date": "2026-07-30T06:00:00.000Z",
-      "summary": "【クックパッド♪♪maron♪♪10分で本格味のやみつきうちごはん vol.3】「５分」「１０分」でできるスピード副菜、クックパッドアンバサダー・♪♪maron♪♪さんのレシピを紹介します。",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "〈EIGHT-JAM〉8/2は「アーティストが制作した提供曲」",
-      "url": "https://ototoy.jp/news/131109",
-      "date": "2026-07-30T06:00:00.000Z",
-      "summary": "8月2日放送の〈EIGHT-JAM〉テーマは「アーティストが別のアーティストへ提供した名曲」と題し、楽曲提供の苦労や制作のポイントなど裏側を深掘りする",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "柳楽優弥、松村北斗らが再集結、Netflix『九条の大罪』映画化。2027年1月8日公開",
-      "url": "https://www.cinra.net/article/202607-whn-sinsofkujo_edteam",
-      "date": "2026-07-30T05:57:00.000Z",
-      "summary": "『映画 九条の大罪』が2027年1月8日から全国東宝系で公開。",
-      "source": "CINRA",
-      "sourceHomepage": "https://www.cinra.net/",
-      "category": "culture"
     }
   ]
 }
