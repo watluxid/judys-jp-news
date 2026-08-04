@@ -1,19 +1,12 @@
 {
-  "generatedAt": "2026-08-04T14:44:36.758Z",
+  "generatedAt": "2026-08-04T20:01:52.809Z",
   "articleCount": 600,
   "feedStatus": [
     {
-      "name": "NHKニュース（主要）",
+      "name": "NHKニュース（国際）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（科学・文化）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
       "errors": []
     },
     {
@@ -24,10 +17,24 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（国際）",
+      "name": "NHKニュース（主要）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+      "errors": []
+    },
+    {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -42,13 +49,6 @@
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://cookien.com/feed/",
-      "errors": []
-    },
-    {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -101,24 +101,10 @@
       "errors": []
     },
     {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
-      "errors": []
-    },
-    {
       "name": "アニメ！アニメ！（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://animeanime.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "ナゾロジー",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
       "errors": []
     },
     {
@@ -129,10 +115,24 @@
       "errors": []
     },
     {
-      "name": "カラパイア",
+      "name": "ナゾロジー",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
+      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "errors": []
+    },
+    {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
+      "errors": []
+    },
+    {
+      "name": "デイリーポータルZ",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -147,6 +147,13 @@
       "category": "culture",
       "ok": true,
       "usedUrl": "https://tokion.jp/feed/",
+      "errors": []
+    },
+    {
+      "name": "カラパイア",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://karapaia.com/index.rdf",
       "errors": []
     },
     {
@@ -169,16 +176,54 @@
       "ok": true,
       "usedUrl": "https://www.art-annual.jp/feed",
       "errors": []
-    },
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
-      "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "トラッシュキャン・シナトラズのジョン・ダグラス死去",
+      "url": "https://amass.jp/191076/",
+      "date": "2026-08-05T02:34:00.000Z",
+      "summary": "トラッシュキャン・シナトラズ（Trashcan Sinatras）のギタリスト／ヴォーカリスト、ジョン・ダグラス（ohn Douglas）が死去。63歳でした。 https://amass.jp/191076/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "バングルスのスザンナ・ホフス 14年ぶりの新オリジナル・アルバム『The List』発売 1曲試聴可",
+      "url": "https://amass.jp/191075/",
+      "date": "2026-08-05T01:14:00.000Z",
+      "summary": "バングルスのスザンナ・ホフスは、全曲新曲のオリジナル・スタジオ・アルバムとして14年ぶりとなる新アルバム『The List』を海外で9月18日発売。新曲「Casablanca」試聴可 https://amass.jp/191075/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "エルヴィス・コステロ『My Aim Is True』 5CDボックスセット発売 全104曲中52曲が未発表音源",
+      "url": "https://amass.jp/191074/",
+      "date": "2026-08-05T00:56:00.000Z",
+      "summary": "エルヴィス・コステロ『My Aim Is True』。49周年記念エディションがリリース決定。全104曲が収録され、そのうち52曲は未発表音源だというCD5枚組のボックスセットが10月発売。リマスター＋デモ＋アウトテイク＋ライヴ音源他。4曲試聴可 https://amass.jp/191074/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "80'sキング・クリムゾンを演奏するBEAT 全米ツアー発表 ダニー・ケアリーの代役としてテリー・ボジオ参加",
+      "url": "https://amass.jp/191073/",
+      "date": "2026-08-05T00:22:00.000Z",
+      "summary": "エイドリアン・ブリュー、トニー・レヴィン、スティーヴ・ヴァイ、ダニー・ケアリーが80年代のキング・クリムゾンを演奏する新バンド、BEAT。新しい全米ツアー発表。トゥールでの活動のために参加できなくなったケアリーの代役としてテリー・ボジオが新たに参加 https://amass.jp/191073/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "DJ KRUTCH、新曲「A.S.A.P」リリース おかもとえみ、Aile The Shota迎えた“ナイトウォークソング”に",
+      "url": "https://realsound.jp/2026/08/post-2473721.html",
+      "date": "2026-08-05T00:00:30.000Z",
+      "summary": "DJ KRUTCHが、おかもとえみ、Aile The Shotaを迎えた新曲「A.S.A.P」を本日8月5日に配信リリースした。 本楽曲は、失恋の痛みを抱えながら、夜の街で新しい始まりを探す“ナイトウォークソング”。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
     {
       "title": "伝説的ホラーコメディ『バタリアン』 BS-TBSで8月16日放送",
       "url": "https://amass.jp/191072/",
@@ -252,6 +297,15 @@
       "category": "music"
     },
     {
+      "title": "NYダウ 一時1000ドル超上昇 中東情勢 緊張緩和への期待感で",
+      "url": "http://www3.nhk.or.jp/news/html/20260805/k10015196761000.html",
+      "date": "2026-08-04T18:48:10.000Z",
+      "summary": "4日のニューヨーク株式市場は、中東情勢をめぐる緊張が緩和することへの期待感などから取り引き開始直後から買い注文が広がり、ダウ平均株価は前日の終値から一時、1000ドルを超える大幅な値上がりとなり、取引時間中の最高値を更新しました。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "Rain Tree、試練と不安を乗り越えて“全員”で掴んだ夢 Zepp DiverCity(TOKYO)公演で見せた本領発揮の瞬間",
       "url": "https://realsound.jp/2026/08/post-2476250.html",
       "date": "2026-08-04T18:30:52.000Z",
@@ -277,6 +331,24 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "大阪 河内長野 警察官が容疑者に拳銃発砲し逮捕 容疑者は死亡",
+      "url": "http://www3.nhk.or.jp/news/html/20260804/k10015196461000.html",
+      "date": "2026-08-04T18:16:06.000Z",
+      "summary": "4日夜、大阪 河内長野市で刃物のようなものを持って向かってきた男の容疑者に警察官が拳銃を発砲し、公務執行妨害などの疑いでその場で逮捕しました。弾が命中した容疑者は搬送先の病院で死亡し、警察が詳しいいきさつを調べています。拳銃の使用について大阪府警察本部は「報告を聞くかぎり、発砲の要件を満たしていると判断されるが、詳細は調査中だ」としています。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "米 ベッセント財務長官 “協調介入は象徴的な意味合い”",
+      "url": "http://www3.nhk.or.jp/news/html/20260804/k10015196511000.html",
+      "date": "2026-08-04T18:15:30.000Z",
+      "summary": "アメリカのベッセント財務長官がNHKの単独インタビューに応じました。日米の通貨当局が歴史的な円安を阻止するために先週、実施した円買いの協調介入について、日米連携の象徴的な意味合いだったと述べたうえで、円安の本格的な是正に向けては、日本が打ち出す政策が着実に実施されていくことを確認する必要があるとの認識を示しました。",
+      "source": "NHKニュース（国際）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
     },
     {
       "title": "ALAN SHIRAHAMA、ポップスとダンスミュージックの架け橋へ 移籍第1弾「Not Enough (feat. Olivia Marsh)」で踏み出す新境地",
@@ -342,13 +414,22 @@
       "category": "music"
     },
     {
-      "title": "米 ベッセント財務長官 “協調介入は象徴的な意味合い”",
-      "url": "http://www3.nhk.or.jp/news/html/20260804/k10015196511000.html",
-      "date": "2026-08-04T14:40:30.000Z",
-      "summary": "アメリカのベッセント財務長官が4日、NHKの単独インタビューに応じ、日米の通貨当局が歴史的な円安を阻止するために先週実施した円買いの協調介入について、「われわれが協調介入を行った理由は、象徴的な意味合いがあったからだ。アメリカは偉大な同盟国である日本と連携し、高市政権の政策こそが長期的に円を強くする正しい政策だと考えていること、そして、為替相場の過度な変動がアジア地域、ひいては世界経済全体に悪影響を及ぼしかねないことを示したのだ」と述べ",
-      "source": "NHKニュース（主要）",
+      "title": "防衛白書「新しい戦い方」に対応 防衛関係の産業基盤を強化",
+      "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195621000.html",
+      "date": "2026-08-04T15:19:26.000Z",
+      "summary": "ことしの防衛白書はAIやドローンを活用した「新しい戦い方」に対応するため、防衛関係の生産・技術基盤を強化する重要性を強調しています。また、中国については、軍事力の質と量を急速に強化しており、日本と国際社会の深刻な懸念事項だと指摘しています。",
+      "source": "NHKニュース（社会）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
+    },
+    {
+      "title": "NO JOBs、80sへのオマージュを込めた新曲リリース",
+      "url": "https://ototoy.jp/news/131196",
+      "date": "2026-08-04T15:00:00.000Z",
+      "summary": "NO JOBsが2026年8月5日(水)にニューシングル「Time after time」をリリースした",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
     },
     {
       "title": "【地震速報】宮城 石巻で震度3 津波の心配なし",
@@ -373,7 +454,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260804/k10015196471000.html",
       "date": "2026-08-04T14:02:04.000Z",
       "summary": "今回の熊本地震について、政府は今週7日にも「激甚災害」への指定を閣議決定する方向で調整を進めています。「激甚災害」への指定で国が復旧にかかる費用を支援することになり、政府は、被災地の迅速な復旧につなげたい考えです。",
-      "source": "NHKニュース（主要）",
+      "source": "NHKニュース（社会）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -382,7 +463,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260804/k10015196451000.html",
       "date": "2026-08-04T13:59:08.000Z",
       "summary": "今回の熊本地震で多くの医療機関が被災していることから、内閣府は、八代港に停泊している船内で5日から医療チームが診療や健康相談などを始めると発表しました。コロナ禍などを受けて船舶を活用した医療提供に関する法律が制定されてから初めての活用となります。",
-      "source": "NHKニュース（主要）",
+      "source": "NHKニュース（社会）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -391,7 +472,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195361000.html",
       "date": "2026-08-04T13:51:51.000Z",
       "summary": "大型で非常に強い台風13号は小笠原諸島の南西の海上を進んでいて、小笠原諸島は暴風域を抜けましたが、5日にかけて猛烈なしけが続く見込みで厳重に警戒してください。その後、台風は西へ進み、沖縄・奄美では5日から9日の日曜日ごろにかけて、高波や暴風に厳重な警戒が必要です。最新の情報を確認して、早めの備えを進めてください。",
-      "source": "NHKニュース（主要）",
+      "source": "NHKニュース（社会）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -403,15 +484,6 @@
       "source": "青い日記帳（美術展）",
       "sourceHomepage": "https://bluediary2.jugem.jp/",
       "category": "culture"
-    },
-    {
-      "title": "大阪 河内長野 不審者に警察官が発砲 命中し病院搬送",
-      "url": "http://www3.nhk.or.jp/news/html/20260804/k10015196461000.html",
-      "date": "2026-08-04T13:14:28.000Z",
-      "summary": "捜査関係者によりますと4日夜、大阪 河内長野市で刃物のようなものを突きつけてきた不審者に警察官が拳銃を発砲したということです。弾が命中したとみられ、不審者は医療機関に搬送されましたが、容体などは分かっていないということです。警察が詳しい状況を調べています。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
     },
     {
       "title": "熊本地震1週間 被災地は NW9広内キャスターが現地取材",
@@ -855,6 +927,15 @@
       "category": "music"
     },
     {
+      "title": "Niko Rubio、幻想的な新曲「tokyo」リリース",
+      "url": "https://ototoy.jp/news/131195",
+      "date": "2026-08-04T09:00:00.000Z",
+      "summary": "Niko Rubioが2026年7月31日(金)にニューシングル「tokyo」をリリースした",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
       "title": "大きな唐揚げが乗ったチャーハン～チャーハン部活動報告（傑作選）",
       "url": "https://dailyportalz.jp/kiji/chahan-bu-china-hanten",
       "date": "2026-08-04T09:00:00.000Z",
@@ -871,24 +952,6 @@
       "source": "カラパイア",
       "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
-    },
-    {
-      "title": "Niko Rubio、幻想的な新曲「tokyo」リリース",
-      "url": "https://ototoy.jp/news/131195",
-      "date": "2026-08-04T09:00:00.000Z",
-      "summary": "Niko Rubioが2026年7月31日(金)にニューシングル「tokyo」をリリースした",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "防衛白書「新しい戦い方」に対応 防衛関係の産業基盤を強化",
-      "url": "http://www3.nhk.or.jp/news/html/20260804/k10015195621000.html",
-      "date": "2026-08-04T08:56:00.000Z",
-      "summary": "ことしの防衛白書はAIやドローンを活用した「新しい戦い方」に対応するため、防衛関係の生産・技術基盤を強化する重要性を強調しています。また、中国については、軍事力の質と量を急速に強化しており、日本と国際社会の深刻な懸念事項だと指摘しています。",
-      "source": "NHKニュース（社会）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
     },
     {
       "title": "新人介護士、初めての夜勤！職員から、利用者への対応について不満の声が上がる『さくらと介護とオニオカメ！』【#11】",
@@ -5515,69 +5578,6 @@
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
-    },
-    {
-      "title": "ふるさと納税 寄付総額1兆3300億円余で過去最高",
-      "url": "http://www3.nhk.or.jp/news/html/20260731/k10015192151000.html",
-      "date": "2026-07-31T08:34:59.000Z",
-      "summary": "ふるさと納税で昨年度、全国の自治体に寄付された総額は1兆3300億円余りで、6年連続で過去最高を更新しました。また、去年1年間にふるさと納税を利用して今年度の住民税の控除を受ける人は、およそ1151万人で最も多くなりました。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "北朝鮮 経済成長率が3年連続3％超え ロシアとの協力が要因か",
-      "url": "http://www3.nhk.or.jp/news/html/20260731/k10015192231000.html",
-      "date": "2026-07-31T08:29:16.000Z",
-      "summary": "韓国の中央銀行は31日、北朝鮮経済の去年の成長率が推計で3.5％だったと発表しました。",
-      "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "南太平洋の島国「ナウル」 国名を「ナオエロ」に変更",
-      "url": "http://www3.nhk.or.jp/news/html/20260731/k10015192171000.html",
-      "date": "2026-07-31T08:27:48.000Z",
-      "summary": "南太平洋の島国ナウルは、国名をもともと使われていた現地の呼び方「ナオエロ」に変更したと発表しました。",
-      "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "熊本で震度7 同程度の地震に注意 熱中症対策を",
-      "url": "http://www3.nhk.or.jp/news/html/20260731/k10015191461000.html",
-      "date": "2026-07-31T08:24:48.000Z",
-      "summary": "7月28日、最大震度7の揺れを観測し、大きな被害が出ている熊本県では30日も揺れを感じる地震が54回観測されるなど、地震活動が活発な状態が続いています。気象庁は1週間ほどは最大震度7程度の地震に注意するよう呼びかけています。熊本県では31日も気温が上がり猛烈な暑さが予想されていて、復旧作業などの際は熱中症を防ぐためにできるかぎりの対策を行ってください。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "スペースX、アメリカ国家偵察局「NROL-95」ミッションの打ち上げを実施",
-      "url": "https://sorae.info/ssn/20260731-nrol-95.html",
-      "date": "2026-07-31T08:12:27.000Z",
-      "summary": "SpaceX（スペースX）は日本時間2026年7月30日、ケープカナベラル宇宙軍基地から「Falcon 9（ファルコン9）」ロケットを打ち上げました。搭載されていたのはNRO（アメリカ国家偵察局）の人工衛星で、打ち上げに…",
-      "source": "sorae（宇宙・天文）",
-      "sourceHomepage": "https://sorae.info/",
-      "category": "documentary"
-    },
-    {
-      "title": "ストーンヘンジの6トン「祭壇石」を氷河が運んだという新説が浮上",
-      "url": "https://nazology.kusuguru.co.jp/archives/198196",
-      "date": "2026-07-31T08:00:25.000Z",
-      "summary": "イギリス南部に立つストーンヘンジには、約700キロ離れたスコットランドから来た重さ6トンの「祭壇石」があります。 大型機械も整備された道路もない時代、人々はこれほど巨大な石をどうやって運んだのでしょうか。 オーストラリア、カーティン大学（Curtin University）などの国際研究チームは、祭壇石と同じ産地候補の岩石が氷河によって北海のドッガーバンクまで運ばれ得ることを示し、祭壇石も同じ経路をたどった可能性を提示しました。 研究成",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "動画）海外ドラマでみた「詩の朗読会」をやる",
-      "url": "https://dailyportalz.jp/dpq/movie-shi-no-roudokukai",
-      "date": "2026-07-31T08:00:00.000Z",
-      "summary": "文園うどんさんが書いた「詩の朗読会をやりたい」という記事で紹介しきれなかった朗読のようすを動画でお伝えします。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
     }
   ]
 }
