@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T14:39:31.513Z",
+  "generatedAt": "2026-08-05T19:59:01.090Z",
   "articleCount": 600,
   "feedStatus": [
     {
@@ -10,10 +10,17 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（科学・文化）",
+      "name": "NHKニュース（社会）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "errors": []
+    },
+    {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -24,10 +31,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（社会）",
+      "name": "NHKニュース（科学・文化）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -42,13 +49,6 @@
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://cookien.com/feed/",
-      "errors": []
-    },
-    {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -94,6 +94,13 @@
       "errors": []
     },
     {
+      "name": "アニメ！アニメ！（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
+      "errors": []
+    },
+    {
       "name": "インサイド（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
@@ -101,10 +108,10 @@
       "errors": []
     },
     {
-      "name": "アニメ！アニメ！（乙女ゲーム関連）",
-      "category": "otome",
+      "name": "CINRA",
+      "category": "culture",
       "ok": true,
-      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
+      "usedUrl": "https://www.cinra.net/feed",
       "errors": []
     },
     {
@@ -122,13 +129,6 @@
       "errors": []
     },
     {
-      "name": "CINRA",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://www.cinra.net/feed",
-      "errors": []
-    },
-    {
       "name": "デイリーポータルZ",
       "category": "documentary",
       "ok": true,
@@ -136,17 +136,17 @@
       "errors": []
     },
     {
-      "name": "TOKION",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
-      "errors": []
-    },
-    {
       "name": "和樂web",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://intojapanwaraku.com/feed",
+      "errors": []
+    },
+    {
+      "name": "TOKION",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://tokion.jp/feed/",
       "errors": []
     },
     {
@@ -164,21 +164,39 @@
       "errors": []
     },
     {
-      "name": "Art Annual online（美術）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://www.art-annual.jp/feed",
-      "errors": []
-    },
-    {
       "name": "青い日記帳（美術展）",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
+    },
+    {
+      "name": "Art Annual online（美術）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://www.art-annual.jp/feed",
+      "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "アクセプト結成50周年記念作からトビアス・フォージ／レイ・ルジアー／フランク・ベロ参加の「Save Us」公開",
+      "url": "https://amass.jp/191100/",
+      "date": "2026-08-06T00:25:00.000Z",
+      "summary": "アクセプトの結成50周年記念アルバム『Teutonic Titans 1976-2026』から、GHOSTのトビアス・フォージ、KoRnのレイ・ルジアー、アンスラックスのフランク・ベロが参加した「Save Us」公開 https://amass.jp/191100/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ウィーザーの来日公演決定 新曲「C.E.O.」のミュージックビデオも公開",
+      "url": "https://amass.jp/191099/",
+      "date": "2026-08-06T00:11:00.000Z",
+      "summary": "ウィーザーの来日公演が決定。2027年2月に東京・京都・大阪・名古屋で行われます。また新アルバム『Weezer（The Gold Album）』から新曲「C.E.O.」をリリース。ミュージックビデオが公開 https://amass.jp/191099/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "『No No Girls』出身ASHA＆KOKONA、新ユニット「TAKARA」結成 ちゃんみな主宰レーベル第2弾アーティストとしてデビュー",
       "url": "https://realsound.jp/2026/08/post-2482849.html",
@@ -223,6 +241,15 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "広島 原爆投下から81年 核兵器の廃絶を国内外に訴え",
+      "url": "http://www3.nhk.or.jp/news/html/20260806/k10015197471000.html",
+      "date": "2026-08-05T19:52:24.000Z",
+      "summary": "広島に原爆が投下されて6日で81年です。世界で核による脅しや核抑止力を強化しようとする動きがみられる中、被爆地・広島は、犠牲者を追悼するとともに、核兵器の廃絶を改めて国内外に訴えます。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
     },
     {
       "title": "ガービッジのシャーリー・マンソン、ホワイト・ストライプスやザ・ストロークスらが登場したとき「もう私たちの時代は終わったんだ」と思ったと回想",
@@ -295,6 +322,15 @@
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
+    },
+    {
+      "title": "沖縄 北大東村 全域に避難指示 台風13号の接近で",
+      "url": "http://www3.nhk.or.jp/news/html/20260806/k10015197671000.html",
+      "date": "2026-08-05T17:47:48.000Z",
+      "summary": "沖縄県の北大東村は、台風13号の接近に伴って5日午後7時、村内全域に避難指示を出しました。危険な場所から全員避難するよう呼びかけるとともに、不安を感じる人も避難所へ向かってほしいとしています。",
+      "source": "NHKニュース（社会）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
     },
     {
       "title": "ブラインド・チャンネルの来日公演決定",
@@ -382,7 +418,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260805/k10015197651000.html",
       "date": "2026-08-05T14:33:07.000Z",
       "summary": "イギリスの研究機関はアメリカ企業のAIモデルの性能テストを実施していたところ、偽のアカウントを作ったり、実在する人を標的にメッセージを送ったりして不正アクセスを行おうとしたと明らかにし「自律的に人をだますリスクがこれほど明確になった事例は初めてだ」と指摘しています。",
-      "source": "NHKニュース（国際）",
+      "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -409,7 +445,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260804/k10015196511000.html",
       "date": "2026-08-05T13:05:21.000Z",
       "summary": "アメリカのベッセント財務長官がNHKの単独インタビューに応じました。日米の通貨当局が歴史的な円安を阻止するために先週、実施した円買いの協調介入について、日米連携の象徴的な意味合いだったと述べたうえで、円安の本格的な是正に向けては、日本が打ち出す政策が着実に実施されていくことを確認する必要があるとの認識を示しました。",
-      "source": "NHKニュース（主要）",
+      "source": "NHKニュース（国際）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -5542,42 +5578,6 @@
       "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
-    },
-    {
-      "title": "KI_EN、サマーラブソング「君と花束」リリース FM802など3局のヘビーローテーションに決定",
-      "url": "https://realsound.jp/2026/08/post-2477908.html",
-      "date": "2026-08-01T11:15:32.000Z",
-      "summary": "KI_ENが、7thシングルとなる新曲「君と花束」を8月10日に配信リリースする。 本楽曲は、冷たい現実に打ちひしがれていた主人公が、かけがえのない“君”との出会いによって未来へ歩み出す姿を描いた、疾走感のあるサマー",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "人気VTuberに抱きつかれてドア越しの先輩に返事できません！彼女はいったい？『人気配信者たちのマネージャーになったら、全員元カノだった』【#8】",
-      "url": "https://hon-hikidashi.jp/book-person/172847/",
-      "date": "2026-08-01T10:05:37.000Z",
-      "summary": "マイクロマガジン社の「Ride Comics」より、 『人気配信者たちのマネージャーになったら、全員元カノだった THE COMIC』第1巻 が7月31日（金）に発売されました。 本作は、過去の恋の続きを欲しがる男女の歪んだラブストーリーです。ネット配信者のマネジメント会社に新人マネージャーとして入社した橘恵は、3人の人気配信者の担当を引き継ぐことに。引継ぎの挨拶のため、上司とともに配信者の自宅を訪れた際、配信者たちが3人とも元カノであ",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "必要なのは男手なのに、手違いで面接を受けに来た女性…熱心さに負け、施設内を案内することに『さくらと介護とオニオカメ！』【#3】",
-      "url": "https://hon-hikidashi.jp/book-person/158655/",
-      "date": "2026-08-01T09:55:19.000Z",
-      "summary": "マイクロマガジン社より、 『さくらと介護とオニオカメ！』 が好評発売中です。 介護未経験、知識ゼロで認知症棟に飛び込んだ新米介護士・鬼岡明は、教育係になった熊本から厳しい指導を受けつつ、真剣に利用者と向き合います。 今回は、第1話～第6話の試し読みを配信します。作品が気になった方はぜひ、店頭でお買い求めください。 (adsbygoogle = window.adsbygoogle || []).push({}); 試し読み【#3】 〉〉",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "森で出会った美人すぎる女性と薬草を探す…俺が地面に手をつくと、そこから薬草が生えてきた！？『異世界転移したら愛犬が最強になりました ～シルバーフェンリルと俺が異世界暮らしを始めたら～ THE COMIC』【#7】",
-      "url": "https://hon-hikidashi.jp/book-person/173281/",
-      "date": "2026-08-01T09:30:23.000Z",
-      "summary": "マイクロマガジン社より、 『異世界転移したら愛犬が最強になりました ～シルバーフェンリルと俺が異世界暮らしを始めたら～ THE COMIC』 が好評発売中です。 ブラックな職場で残業に明け暮れるサラリーマン・タクミは、愛犬のマルチーズ・レオと暮らしていました。ある日、自宅で意識を失ったタクミは森の中で目を覚まします。そこには巨大な狼に変身したレオがいました。 今回は、第1話～第3話の試し読みを配信します。作品が気になった方はぜひ、店頭で",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
     }
   ]
 }
