@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T13:16:36.633Z",
+  "generatedAt": "2026-08-08T19:03:32.808Z",
   "articleCount": 600,
   "feedStatus": [
     {
@@ -10,13 +10,6 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（科学・文化）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-      "errors": []
-    },
-    {
       "name": "NHKニュース（国際）",
       "category": "news",
       "ok": true,
@@ -24,17 +17,24 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（社会）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
-      "errors": []
-    },
-    {
       "name": "樋口直哉（TravelingFoodLab.）",
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（社会）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
       "errors": []
     },
     {
@@ -73,13 +73,6 @@
       "errors": []
     },
     {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://sorae.info/feed",
-      "errors": []
-    },
-    {
       "name": "4Gamer（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
@@ -87,10 +80,10 @@
       "errors": []
     },
     {
-      "name": "インサイド（乙女ゲーム関連）",
-      "category": "otome",
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
+      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -101,6 +94,13 @@
       "errors": []
     },
     {
+      "name": "デイリーポータルZ",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "errors": []
+    },
+    {
       "name": "アニメ！アニメ！（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
@@ -108,17 +108,10 @@
       "errors": []
     },
     {
-      "name": "ナゾロジー",
-      "category": "documentary",
+      "name": "インサイド（乙女ゲーム関連）",
+      "category": "otome",
       "ok": true,
-      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
-      "errors": []
-    },
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
+      "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
       "errors": []
     },
     {
@@ -136,10 +129,17 @@
       "errors": []
     },
     {
-      "name": "デイリーポータルZ",
+      "name": "ナゾロジー",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "errors": []
+    },
+    {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
       "errors": []
     },
     {
@@ -150,17 +150,17 @@
       "errors": []
     },
     {
-      "name": "ほんのひきだし（本・出版）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://hon-hikidashi.jp/feed/",
-      "errors": []
-    },
-    {
       "name": "和樂web",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://intojapanwaraku.com/feed",
+      "errors": []
+    },
+    {
+      "name": "ほんのひきだし（本・出版）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://hon-hikidashi.jp/feed/",
       "errors": []
     },
     {
@@ -179,6 +179,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "マドンナ、ウィリアム・オービットを追悼 「いろいろな意味で、あなたは私にとって“一筋の光（Ray of Light）”だった」",
+      "url": "https://amass.jp/191150/",
+      "date": "2026-08-09T00:56:00.000Z",
+      "summary": "マドンナは、アルバム『Ray of Light』をプロデュースしたウィリアム・オービットの訃報を受け、長文の追悼文を発表。「いろいろな意味で、あなたは私にとって“一筋の光（Ray of Light）”だった」「この世のものとは思えない、唯一無二の存在」 https://amass.jp/191150/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "キッス ポール・スタンレー息子＆ジーン・シモンズ息子の新ユニット 新曲「Lilith」のMV公開",
       "url": "https://amass.jp/191149/",
@@ -306,6 +315,24 @@
       "category": "music"
     },
     {
+      "title": "北日本と東日本中心 9日も大気の状態が非常に不安定の見込み",
+      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
+      "date": "2026-08-08T14:17:32.000Z",
+      "summary": "8日は北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、「記録的短時間大雨」の気象防災速報があわせて7回発表されるなど局地的な大雨となりました。9日も大気の状態が非常に不安定になる見込みで、低い土地の浸水や急な川の増水などに十分注意が必要です。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
+      "title": "愛知県内で水難事故相次ぐ 2人死亡",
+      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html",
+      "date": "2026-08-08T14:06:51.000Z",
+      "summary": "8日、愛知県内の海と川で水難事故が相次ぎ、2人が死亡しました。",
+      "source": "NHKニュース（主要）",
+      "sourceHomepage": "https://www3.nhk.or.jp/news/",
+      "category": "news"
+    },
+    {
       "title": "fav me、2ndシングルCD表題曲「にゃんてずるいの！」MV公開 猫のように自由気ままに過ごす姿を描く",
       "url": "https://realsound.jp/2026/08/post-2486179.html",
       "date": "2026-08-08T13:52:14.000Z",
@@ -324,6 +351,15 @@
       "category": "music"
     },
     {
+      "title": "「マリー・アントワネット・スタイル」",
+      "url": "https://bluediary2.jugem.jp/?eid=8152",
+      "date": "2026-08-08T13:36:00.000Z",
+      "summary": "横浜美術館で開催中の 「マリー・アントワネット・スタイル」展へ行って来ました。 https://www.marie2026.jp ロンドンのヴィクトリア＆アルバート博物館（V&A）が企画し2026年3月まで同館で開催された展覧会の国際巡回展。その最初の開催地が横浜で、日本国内で...",
+      "source": "青い日記帳（美術展）",
+      "sourceHomepage": "https://bluediary2.jugem.jp/",
+      "category": "culture"
+    },
+    {
       "title": "友達いなさすぎて「独り言を喋り続けるイルカ」が見つかる",
       "url": "https://nazology.kusuguru.co.jp/archives/166068",
       "date": "2026-08-08T13:00:04.000Z",
@@ -337,15 +373,6 @@
       "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
       "date": "2026-08-08T12:54:30.000Z",
       "summary": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいます。沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "大気不安定 新潟 岩手 青森 富山に記録的短時間大雨 厳重警戒",
-      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
-      "date": "2026-08-08T12:12:41.000Z",
-      "summary": "北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、局地的に雨雲が発達しています。富山県では1時間に100ミリ以上の猛烈な雨が降り、「記録的短時間大雨」の気象防災速報が発表されました。土砂災害や川の増水・氾濫などに厳重な警戒が必要です。",
       "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
@@ -486,7 +513,7 @@
       "category": "culture"
     },
     {
-      "title": "熊本 各地であすも厳しい暑さに 局地的な雨も土砂災害注意",
+      "title": "熊本 各地で9日も厳しい暑さに 局地的な雨も土砂災害注意",
       "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199781000.html",
       "date": "2026-08-08T10:07:13.000Z",
       "summary": "最大震度7の地震で大きな被害のあった熊本県では8日も猛烈な暑さとなりました。夜も気温が下がらず熱帯夜になると見込まれるほか、9日も厳しい暑さが続く見込みでできるかぎりの熱中症対策を続けてください。",
@@ -549,15 +576,6 @@
       "category": "news"
     },
     {
-      "title": "柄の部分が息子スティック。1600年前の爪そうじ具をイギリスの道路工事現場で発見",
-      "url": "https://karapaia.com/archives/620378.html",
-      "date": "2026-08-08T09:00:00.000Z",
-      "summary": "イギリスの高速道路の工事現場で、小さな銅製の棒のようなものが掘り出された。よく見ると柄の部分が男性器の形を模しており、反対側の先端は2つに分かれている。考古学者らによると、これは約1600年前ローマ帝国がイギリスを支配していた当時のもので…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
       "title": "半年前に駅前で見かけた食堂がどうしても気になるのでまた行った（傑作選）",
       "url": "https://dailyportalz.jp/kiji/ekimae-2ken-shokudo",
       "date": "2026-08-08T09:00:00.000Z",
@@ -567,10 +585,19 @@
       "category": "documentary"
     },
     {
-      "title": "愛知県内で水難事故相次ぐ 1人死亡 1人意識不明",
-      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html",
-      "date": "2026-08-08T08:56:28.000Z",
-      "summary": "8日、愛知県内の海と川で水難事故が相次ぎ、警察や消防によりますと1人が死亡し、1人が意識不明の重体となっています。",
+      "title": "柄の部分が息子スティック。1600年前の爪そうじ具をイギリスの道路工事現場で発見",
+      "url": "https://karapaia.com/archives/620378.html",
+      "date": "2026-08-08T09:00:00.000Z",
+      "summary": "イギリスの高速道路の工事現場で、小さな銅製の棒のようなものが掘り出された。よく見ると柄の部分が男性器の形を模しており、反対側の先端は2つに分かれている。考古学者らによると、これは約1600年前ローマ帝国がイギリスを支配していた当時のもので…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
+      "title": "熊本県内 避難情報 124か所 6591人が避難【8月8日】",
+      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200061000.html",
+      "date": "2026-08-08T08:52:08.000Z",
+      "summary": "熊本県の災害対策本部は、8日午前7時半時点の県内の被害状況を発表しました。それによりますと、今回の地震の直接の被害で亡くなった「直接死」かどうか調査している人が、7日から1人増えて2人になったということです。これで、地震による県内の死者は、災害関連死の疑いがある1人を含めて39人となりました。大けがをした人は23人となっています。また、県内で開設されている避難所は124か所あり、6591人が避難しているということです。住宅の被害は、全壊",
       "source": "NHKニュース（社会）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
@@ -603,7 +630,7 @@
       "category": "news"
     },
     {
-      "title": "【随時更新】ロシア ウクライナに軍事侵攻（8月8日の動き）",
+      "title": "【詳細】ロシア ウクライナに軍事侵攻（8月8日の動き）",
       "url": "http://www3.nhk.or.jp/news/html/20260808/k10015192491000.html",
       "date": "2026-08-08T07:25:42.000Z",
       "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる8日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
@@ -639,15 +666,6 @@
       "category": "news"
     },
     {
-      "title": "ポルターガイストなのか？きかんしゃトーマスのオモチャが勝手に動き回る",
-      "url": "https://karapaia.com/archives/620322.html",
-      "date": "2026-08-08T07:00:00.000Z",
-      "summary": "超常現象というと、霊が姿を見せたり、オーブが飛んだり、怪音が鳴り響いたりと、様々なパターンがある。なかでも勝手に物体を動くという現象は、かなりの頻度で発生していたりする。モノが勝手に動く、という点では、ポルターガイストの一種なのかもしれない。最近インターネット上で…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
       "title": "飛び出し注意（鴨）",
       "url": "https://dailyportalz.jp/koresugo/tobidashi-tyuui-kamo",
       "date": "2026-08-08T07:00:00.000Z",
@@ -663,6 +681,15 @@
       "summary": "駅で電車を待っている時に、この看板を発見しました。",
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "ポルターガイストなのか？きかんしゃトーマスのオモチャが勝手に動き回る",
+      "url": "https://karapaia.com/archives/620322.html",
+      "date": "2026-08-08T07:00:00.000Z",
+      "summary": "超常現象というと、霊が姿を見せたり、オーブが飛んだり、怪音が鳴り響いたりと、様々なパターンがある。なかでも勝手に物体を動くという現象は、かなりの頻度で発生していたりする。モノが勝手に動く、という点では、ポルターガイストの一種なのかもしれない。最近インターネット上で…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
     },
     {
@@ -990,15 +1017,6 @@
       "category": "cooking"
     },
     {
-      "title": "fav me、「にゃんてずるいの！」MV公開",
-      "url": "https://ototoy.jp/news/131267",
-      "date": "2026-08-08T01:00:00.000Z",
-      "summary": "fav meが9月2日（水）発売の2ndシングルCDより現在先行配信中の表題曲「にゃんてずるいの！」ミュージックビデオを公開した",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
       "title": "外から見たほうが面白い（2026.8.8 朝エッセイと更新情報）",
       "url": "https://dailyportalz.jp/dpq/midokoro-20260808",
       "date": "2026-08-08T01:00:00.000Z",
@@ -1006,6 +1024,15 @@
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
+    },
+    {
+      "title": "fav me、「にゃんてずるいの！」MV公開",
+      "url": "https://ototoy.jp/news/131267",
+      "date": "2026-08-08T01:00:00.000Z",
+      "summary": "fav meが9月2日（水）発売の2ndシングルCDより現在先行配信中の表題曲「にゃんてずるいの！」ミュージックビデオを公開した",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
     },
     {
       "title": "クイーンのブライアン・メイ＋ザ・ダークネス＋ダニエル・ペンバートン コラボ曲「The Legend of Eternia」公開",
@@ -5551,33 +5578,6 @@
       "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
-    },
-    {
-      "title": "Rain Tree、試練と不安を乗り越えて“全員”で掴んだ夢 Zepp DiverCity(TOKYO)公演で見せた本領発揮の瞬間",
-      "url": "https://realsound.jp/2026/08/post-2476250.html",
-      "date": "2026-08-04T18:30:52.000Z",
-      "summary": "2023年にスタートした秋元康総合プロデュースの『IDOL 3.0 PROJECT オーディション』にて、約1万人の応募者のなかから最終審査に残った候補者より、11人が同年12月に「WHITE SCORPION」としてデビュー。その最終審査で惜しくも選ばれなかったメンバーで構成されたRain Treeによる初のZepp DiverCity(TOKYO)公演を西廣智一がレポートする。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "特集「全米ヒット・アルバムで振り返る90年代ロック」 ソニー・ロリンズ＆アブドゥラー・イブラヒムの追悼特集も 『レコード・コレクターズ 9月号』発売",
-      "url": "https://amass.jp/191067/",
-      "date": "2026-08-04T18:29:00.000Z",
-      "summary": "『レコード・コレクターズ 9月号』の特集「全米ヒット・アルバムで振り返る90年代ロック」。この時代のイメージを作ったともいえるアルバムの数々をまとめて紹介。さらに「追悼 ソニー・ロリンズ」「追悼 アブドゥラー・イブラヒム」の特集も掲載。8月12日発売 https://amass.jp/191067/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "FRUITS ZIPPER、東武鉄道とのコラボ企画開催 コラボ曲使用の発車メロディや特別トレイン運行も",
-      "url": "https://realsound.jp/2026/08/post-2480807.html",
-      "date": "2026-08-04T18:25:29.000Z",
-      "summary": "FRUITS ZIPPERが、新曲「1,2,3,FOOOOUR」を8月6日に配信リリース。また、あわせて東武鉄道とのコラボ企画『TOBU KAWAII PROJECT』の実施も発表された。 本楽曲は、GRe4N BO",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
     }
   ]
 }
