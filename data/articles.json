@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-08-08T19:03:32.808Z",
+  "generatedAt": "2026-08-09T02:32:08.622Z",
   "articleCount": 600,
   "feedStatus": [
+    {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "errors": []
+    },
     {
       "name": "NHKニュース（主要）",
       "category": "news",
@@ -17,31 +24,10 @@
       "errors": []
     },
     {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（科学・文化）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-      "errors": []
-    },
-    {
       "name": "NHKニュース（社会）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
-      "errors": []
-    },
-    {
-      "name": "クックパッドニュース",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
       "errors": []
     },
     {
@@ -52,6 +38,13 @@
       "errors": []
     },
     {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "errors": []
+    },
+    {
       "name": "Mikiki（タワーレコード）",
       "category": "music",
       "ok": true,
@@ -59,10 +52,10 @@
       "errors": []
     },
     {
-      "name": "amass",
-      "category": "music",
+      "name": "クックパッドニュース",
+      "category": "cooking",
       "ok": true,
-      "usedUrl": "https://amass.jp/rss/new",
+      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
       "errors": []
     },
     {
@@ -73,10 +66,10 @@
       "errors": []
     },
     {
-      "name": "4Gamer（乙女ゲーム関連）",
-      "category": "otome",
+      "name": "amass",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://www.4gamer.net/rss/index.xml",
+      "usedUrl": "https://amass.jp/rss/new",
       "errors": []
     },
     {
@@ -94,10 +87,10 @@
       "errors": []
     },
     {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
+      "name": "4Gamer（乙女ゲーム関連）",
+      "category": "otome",
       "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "usedUrl": "https://www.4gamer.net/rss/index.xml",
       "errors": []
     },
     {
@@ -108,24 +101,17 @@
       "errors": []
     },
     {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
+      "errors": []
+    },
+    {
       "name": "インサイド（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "CINRA",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://www.cinra.net/feed",
-      "errors": []
-    },
-    {
-      "name": "カラパイア",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
       "errors": []
     },
     {
@@ -136,10 +122,17 @@
       "errors": []
     },
     {
-      "name": "OTOTOY",
-      "category": "music",
+      "name": "CINRA",
+      "category": "culture",
       "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
+      "usedUrl": "https://www.cinra.net/feed",
+      "errors": []
+    },
+    {
+      "name": "デイリーポータルZ",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -150,17 +143,17 @@
       "errors": []
     },
     {
+      "name": "カラパイア",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://karapaia.com/index.rdf",
+      "errors": []
+    },
+    {
       "name": "和樂web",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://intojapanwaraku.com/feed",
-      "errors": []
-    },
-    {
-      "name": "ほんのひきだし（本・出版）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://hon-hikidashi.jp/feed/",
       "errors": []
     },
     {
@@ -176,9 +169,79 @@
       "ok": true,
       "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
+    },
+    {
+      "name": "ほんのひきだし（本・出版）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://hon-hikidashi.jp/feed/",
+      "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "工藤静香、堀ちえみ、相川七瀬、西野カナ……結婚や出産、変化を経てもなおステージで放つ輝き",
+      "url": "https://realsound.jp/2026/08/post-2482469.html",
+      "date": "2026-08-09T05:50:32.000Z",
+      "summary": "今週末、工藤静香が大分、堀ちえみが大阪、相川七瀬は仙台、西野カナは香川で、それぞれライブを開催する。4人の共通点は、結婚・出産・子育てを経て音楽シーンにカムバックし、現在も精力的な活動を行っているということ。本稿では、さまざまなライフイベントを経て、並行して音楽活動を行う彼女たちの現在を紹介していきたい。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "武者小路千家のお盆と精進料理（後編）【料理家 千麻子の「千歳一食」】",
+      "url": "https://intojapanwaraku.com/culture/311671/",
+      "date": "2026-08-09T02:00:20.000Z",
+      "summary": "前編はこちら 武者小路千家のお盆と精進料理（前編）【料理家 千麻子の「千歳一食」】 お盆の食卓に並ぶ、精進料理の食材 千麻子（以下 麻子）：後編では主にお盆の時期に欠かせない食材についてお尋ねしたいと思っています。 千和 […]",
+      "source": "和樂web",
+      "sourceHomepage": "https://intojapanwaraku.com/",
+      "category": "culture"
+    },
+    {
+      "title": "【マリネだけど酸っぱくない！】カレー風味がやみつきになる「夏野菜のマリネ」",
+      "url": "https://news.cookpad.com/articles/65719",
+      "date": "2026-08-09T02:00:00.000Z",
+      "summary": "【野菜を健康的に食べる。ひと皿のマリネ vol.5】少ないマリネ液でおいしく仕上がる調理法だから調味料も控えめでヘルシー！野菜を健康的にたくさん食べられる、マユミリオンさんのレシピを紹介します。",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "汗を止める、缶チューハイの裏側、入力中…・8/1～7 のデイリーポータルZダイジェスト",
+      "url": "https://dailyportalz.jp/dpq/matome-20260809",
+      "date": "2026-08-09T02:00:00.000Z",
+      "summary": "1週間のデイリーポータルZから面白いところだけをより抜いたダイジェスト。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "【G17-38】スペースXがスターリンク衛星24機を軌道投入 1段目は16回目の飛行",
+      "url": "https://sorae.info/ssn/20260809-starlink-g17-38.html",
+      "date": "2026-08-09T01:14:26.000Z",
+      "summary": "SpaceX（スペースX）は日本時間2026年8月9日、ヴァンデンバーグ宇宙軍基地から「Falcon 9（ファルコン9）」ロケットを打ち上げ、Starlink（スターリンク）衛星24機を所定の軌道へ投入しました。 スター…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
+    },
+    {
+      "title": "「パッピンス」の季節がきた！家で作れる韓国かき氷レシピ",
+      "url": "https://news.cookpad.com/articles/65027",
+      "date": "2026-08-09T01:00:00.000Z",
+      "summary": "今話題の「韓国スイーツ」。じつは家でも作れるのをご存じですか？ 今回は、韓国語で「パッ」＝あずき、「ピンス」＝氷水という意味を持つ伝統的なかき氷「パッピンス」の作り方をご紹介します。バナナ、スイ...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "あこがれの地鎮祭（2026.8.9 朝エッセイと更新情報）",
+      "url": "https://dailyportalz.jp/dpq/midokoro-20260809",
+      "date": "2026-08-09T01:00:00.000Z",
+      "summary": "通勤途中で地鎮祭が行われようとしていました。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
+    },
     {
       "title": "マドンナ、ウィリアム・オービットを追悼 「いろいろな意味で、あなたは私にとって“一筋の光（Ray of Light）”だった」",
       "url": "https://amass.jp/191150/",
@@ -187,6 +250,51 @@
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
+    },
+    {
+      "title": "ストレスフルな仕事終わりはスーパーで買い物…2番レジの山田さんの笑顔だけが癒し『スーパーの裏でヤニ吸うふたり』【#1】",
+      "url": "https://hon-hikidashi.jp/book-person/164667/",
+      "date": "2026-08-09T00:00:30.000Z",
+      "summary": "ほんのひきだしでは、7月17日の漫画の日を記念して、出版社がおすすめする今夏に読んでほしい注目コミック作品の試し読み記事を配信します。 スクウェア・エニックスのおすすめコミックは、 『スーパーの裏でヤニ吸うふたり』 です。 次に読む漫画を探している方、夏休みの自分時間を充実させたい方は、ぜひこの機会におすすめコミック作品をお楽しみください。 (adsbygoogle = window.adsbygoogle || []).push({}",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "あっという間に6等分！無駄なくきれいな「桃」の皮のむき方",
+      "url": "https://news.cookpad.com/articles/65108",
+      "date": "2026-08-08T23:00:00.000Z",
+      "summary": "桃をきれいにむくのってコツがいりますよね。今回は、完熟している桃の皮をきれいにむく裏ワザをご紹介します。あっという間に6等分できるので、これならぐじゅぐじゅにせずおいしく食べられます。1.桃に6...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "白亜紀の3段階の食物連鎖が如実にわかる化石を発見",
+      "url": "https://karapaia.com/archives/620893.html",
+      "date": "2026-08-08T23:00:00.000Z",
+      "summary": "自然界の生物では、食べる・食べられるの関係が鎖のようにつながっている。白亜紀初期の先史時代の食物連鎖が如実にわかる化石がオーストラリアで発見された。1億年前の魚竜の化石には、翼竜を食べたことを示す胃の中身と、巨大な海洋爬虫類に噛み砕かれた跡が、どちらも残っていたのだ。これは…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
+      "title": "ヒトのエネルギー消費量は「20代から50代の間で変化しない」",
+      "url": "https://nazology.kusuguru.co.jp/archives/94683",
+      "date": "2026-08-08T22:00:46.000Z",
+      "summary": "人の「代謝」は、歳を重ねるごとに変化します。 代謝率の低下は、便秘や肥満の原因とされ、いわゆる「中年太り」などもその結果とされてきました。 一方で、代謝率が年齢ごとにどう増減するかは、かつてはあまりわかっていませんでした。 この点について、明確な報告をしたのが、2021年の米・デューク大学（Duke University）らの研究です。 その報告によると、驚くことに代謝率は20代〜50代でほぼ変わっていなかったというのです。 歳をとって",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "ハラスメント撲滅で“ぬるい組織”へ？ウェルビーイングの誤解『職場の憂鬱』【総合4.0】",
+      "url": "https://hon-hikidashi.jp/book-person/179849/",
+      "date": "2026-08-08T22:00:04.000Z",
+      "summary": "職場の憂鬱 「無気力な毎日」には理由がある 著者：前野隆司 発売日：2026年06月 発行所：ＳＢクリエイティブ 価格：1,100円（税込） ISBNコード：9784815641733 『職場の憂鬱』の要点 1．幸せに働くためには、不幸せの解消と幸せの創出の両方が必要だ。 2．働く幸せは、成長実感や他者との良好な関係、自分らしく働ける環境などによって高まる。一方、不幸せは理不尽な扱いや過重労働、孤立感などによって生まれる。 3．自分の幸",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
     },
     {
       "title": "キッス ポール・スタンレー息子＆ジーン・シモンズ息子の新ユニット 新曲「Lilith」のMV公開",
@@ -855,15 +963,6 @@
       "category": "documentary"
     },
     {
-      "title": "ダイエット中に食べるべき麻辣湯のトッピングは？——行列の絶えない専門店「七宝麻辣湯」創業者・石神秀幸さん監修レシピ",
-      "url": "https://news.cookpad.com/articles/65542",
-      "date": "2026-08-08T03:00:00.000Z",
-      "summary": "ダイエット中も、しっかりおいしいものが食べたい。そんな人に注目されているのが、話題のシビ辛薬膳スープ「麻辣湯」です。行列の絶えない専門店「七宝麻辣湯」創業者・石神秀幸さん監修の『おうちで麻辣湯レシピ』は、ダイエットや美容の悩みに合わせた具材選びまで解説した一冊。家にある具材3〜4種類、煮込み5分前後でできる著者公認の「基本の麻辣湯」レシピもご紹介します。",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
       "title": "カピバラがブラジル州議事堂に乱入！政治に物申したかったのか？",
       "url": "https://karapaia.com/archives/620767.html",
       "date": "2026-08-08T03:00:00.000Z",
@@ -871,6 +970,15 @@
       "source": "カラパイア",
       "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
+    },
+    {
+      "title": "ダイエット中に食べるべき麻辣湯のトッピングは？——行列の絶えない専門店「七宝麻辣湯」創業者・石神秀幸さん監修レシピ",
+      "url": "https://news.cookpad.com/articles/65542",
+      "date": "2026-08-08T03:00:00.000Z",
+      "summary": "ダイエット中も、しっかりおいしいものが食べたい。そんな人に注目されているのが、話題のシビ辛薬膳スープ「麻辣湯」です。行列の絶えない専門店「七宝麻辣湯」創業者・石神秀幸さん監修の『おうちで麻辣湯レシピ』は、ダイエットや美容の悩みに合わせた具材選びまで解説した一冊。家にある具材3〜4種類、煮込み5分前後でできる著者公認の「基本の麻辣湯」レシピもご紹介します。",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
     },
     {
       "title": "スピッツ、ドラマ主題歌「見知らぬ糸」配信開始",
@@ -909,15 +1017,6 @@
       "category": "news"
     },
     {
-      "title": "おやつ代を賢く節約！スリコ＆ニトリの「アイスキャンディーメーカー」を使い比べ",
-      "url": "https://news.cookpad.com/articles/65724",
-      "date": "2026-08-08T02:00:00.000Z",
-      "summary": "長い夏休み、子どもたちの毎日のおやつには、冷たいアイスクリームが欠かせません。とはいえ、市販品は物価高の影響で値段が上がっていますし、甘いものや脂肪分の摂り過ぎもすこし気になるところです。そこで...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
       "title": "お茶屋さんのソフトクリームを食べる",
       "url": "https://dailyportalz.jp/kiji/otya-ya-soft-cream",
       "date": "2026-08-08T02:00:00.000Z",
@@ -934,6 +1033,15 @@
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
+    },
+    {
+      "title": "おやつ代を賢く節約！スリコ＆ニトリの「アイスキャンディーメーカー」を使い比べ",
+      "url": "https://news.cookpad.com/articles/65724",
+      "date": "2026-08-08T02:00:00.000Z",
+      "summary": "長い夏休み、子どもたちの毎日のおやつには、冷たいアイスクリームが欠かせません。とはいえ、市販品は物価高の影響で値段が上がっていますし、甘いものや脂肪分の摂り過ぎもすこし気になるところです。そこで...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
     },
     {
       "title": "舐達麻のG PLANTS、ソロデビューシングル「Ryuchijo」リリース 留置所で綴ったリリックを楽曲化",
@@ -1008,13 +1116,13 @@
       "category": "documentary"
     },
     {
-      "title": "【もう火を使わない！】お盆のおもてなし料理にも使えるトマトの簡単湯むき「裏ワザ」",
-      "url": "https://news.cookpad.com/articles/65039",
+      "title": "fav me、「にゃんてずるいの！」MV公開",
+      "url": "https://ototoy.jp/news/131267",
       "date": "2026-08-08T01:00:00.000Z",
-      "summary": "湯むきしたトマトはおいしいけれど、忙しいときに皮をむくのは面倒だし、暑い夏に火を使うのもヘビー。今回は簡単にできて、しかも洗い物も少なくてすむ神テクをご紹介します。お尻のところに十字の切り込みを...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
+      "summary": "fav meが9月2日（水）発売の2ndシングルCDより現在先行配信中の表題曲「にゃんてずるいの！」ミュージックビデオを公開した",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
     },
     {
       "title": "外から見たほうが面白い（2026.8.8 朝エッセイと更新情報）",
@@ -1026,13 +1134,13 @@
       "category": "documentary"
     },
     {
-      "title": "fav me、「にゃんてずるいの！」MV公開",
-      "url": "https://ototoy.jp/news/131267",
+      "title": "【もう火を使わない！】お盆のおもてなし料理にも使えるトマトの簡単湯むき「裏ワザ」",
+      "url": "https://news.cookpad.com/articles/65039",
       "date": "2026-08-08T01:00:00.000Z",
-      "summary": "fav meが9月2日（水）発売の2ndシングルCDより現在先行配信中の表題曲「にゃんてずるいの！」ミュージックビデオを公開した",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
+      "summary": "湯むきしたトマトはおいしいけれど、忙しいときに皮をむくのは面倒だし、暑い夏に火を使うのもヘビー。今回は簡単にできて、しかも洗い物も少なくてすむ神テクをご紹介します。お尻のところに十字の切り込みを...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
     },
     {
       "title": "クイーンのブライアン・メイ＋ザ・ダークネス＋ダニエル・ペンバートン コラボ曲「The Legend of Eternia」公開",
@@ -5470,114 +5578,6 @@
       "source": "ナゾロジー",
       "sourceHomepage": "https://nazology.kusuguru.co.jp/",
       "category": "documentary"
-    },
-    {
-      "title": "伝説的ホラーコメディ『バタリアン』 BS-TBSで8月16日放送",
-      "url": "https://amass.jp/191072/",
-      "date": "2026-08-04T21:34:00.000Z",
-      "summary": "オバンバ、タールマン、ハーゲンタフ。1980年代後半、一世を風靡したホラーコメディ＆ゾンビ・スプラッターの傑作『バタリアン』がBS-TBSで8月16日放送 https://amass.jp/191072/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "相手を許せない人、自覚しにくい「ナルシシズム」が関係している可能性",
-      "url": "https://nazology.kusuguru.co.jp/archives/198328",
-      "date": "2026-08-04T21:30:46.000Z",
-      "summary": "相手に仕返しをしなければ、その人を許したことになるのでしょうか。 実際には、復讐するつもりはなくても、相手を避け、心を閉ざしたままになることがあります。 ドイツのロストック大学医療センター（University Medical Center Rostock）の研究チームは、女性患者102人を対象に、自覚しにくい「敵対性の強いナルシシズム」と許しに関連があることを報告しました。 研究成果は2026年3月12日付で学術誌『Journal o",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "2026年8月5日：本日発売のコミック新刊",
-      "url": "https://hon-hikidashi.jp/news/175479/",
-      "date": "2026-08-04T21:00:01.000Z",
-      "summary": "2026年8月5日（水）発売のコミック単行本をお知らせします。 〉 過去の日付のコミック新刊はこちら (adsbygoogle = window.adsbygoogle || []).push({}); イースト・プレス ・ 佐橋くんのあやかし日和（3） （三卜二三） KADOKAWA FLOS COMIC ・ 病弱な悪役令嬢ですが、婚約者が過保護すぎて逃げ出したい（私たち犬猿の仲でしたよね！？・6） （小箱ハコ、沢野いずみ） ・ 怪物",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "ダニエル・ラノワはレコード店で何を選ぶ？Amoeba Music「What's In My Bag?」出演映像公開",
-      "url": "https://amass.jp/191071/",
-      "date": "2026-08-04T20:27:00.000Z",
-      "summary": "U2などのプロデューサーとしても知られるカナダの音楽家ダニエル・ラノワは米Amoeba Musicの名物企画「What's in My Bag」に出演。ミュージシャンがレコード店を訪れ、自分の好きなアルバムなどを自ら選んで紹介する企画。映像あり https://amass.jp/191071/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "モーターヘッド『Ace of Spades』のジャケットカヴァーに登場するレミーの姿を再現した新しいフィギュア発売決定",
-      "url": "https://amass.jp/191070/",
-      "date": "2026-08-04T20:21:00.000Z",
-      "summary": "モーターヘッド『Ace of Spades』のジャケット・カヴァーに登場するレミーの姿を再現した新しいフィギュアが米KnuckleBonz社から発売決定。3000体のみ。オフィシャル・ライセンス商品。2027年初頭に発送予定 https://amass.jp/191070/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "先月死去の東野圭吾さん 最新作発売 歴代編集者が魅力語る",
-      "url": "http://www3.nhk.or.jp/news/html/20260805/k10015196601000.html",
-      "date": "2026-08-04T20:18:33.000Z",
-      "summary": "先月亡くなった作家の東野圭吾さんの人気作品、「ガリレオ」シリーズの最新作が5日発売されました。これに合わせて、都内の書店では4日夜、シリーズの歴代の編集者たちが集まり、作品の魅力を語るイベントが開かれました。",
-      "source": "NHKニュース（科学・文化）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "大橋ちっぽけ、閉じ込めた感情の解放、向き合った“真の自分” ワンマンツアー『aritei』に見た覚悟",
-      "url": "https://realsound.jp/2026/08/post-2480311.html",
-      "date": "2026-08-04T20:00:03.000Z",
-      "summary": "大橋ちっぽけがワンマンツアー『大橋ちっぽけワンマンツアー2026「aritei」』を開催。同名アルバム『aritei』を携えて行われた同ツアーより、ファイナルとなる7月19日SHIBUYA PLEASURE PLEASURE公演の模様をレポートする。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "エディ・ヴァン・ヘイレンが吸ったタバコの吸い殻が今も弦の下に挟まったままのクレイマー・ギター2本がオークションへ",
-      "url": "https://amass.jp/191069/",
-      "date": "2026-08-04T19:54:00.000Z",
-      "summary": "エディ・ヴァン・ヘイレンがスタジオで使用していたクレイマー・ギターで、ヘッドストックにはエディが吸ったとされるタバコの吸い殻が今も弦の下に挟まったままとなっている2本がオークションに出品されています。2本とも最低入札額は約790万円から https://amass.jp/191069/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "YOASOBI、『Lollapalooza 2026』オフショ ライブの熱狂とギャップある姿に「かわいすぎかよ」「日本の誇り」",
-      "url": "https://realsound.jp/2026/08/post-2481444.html",
-      "date": "2026-08-04T19:50:09.000Z",
-      "summary": "YOASOBIが、8月2日にアメリカ・シカゴのグラントパークで開催された音楽フェス『Lollapalooza 2026』に出演した。メンバーのAyase、ikuraがそれぞれのInstagramからオフショットを公開している。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "96年のザ・ストーン・ローゼズ、脱退したジョン・スクワイアの後任を務めたアジズ・イブラヒムが当時を回想",
-      "url": "https://amass.jp/191068/",
-      "date": "2026-08-04T19:23:00.000Z",
-      "summary": "96年4月、ザ・ストーン・ローゼズからジョン・スクワイアが脱退した際、後任としてツアーでギター担当したのはアジズ・イブラヒムでした。96年10月の解散までの約半年という短い参加期間をイブラヒムは回想。夢が叶ったような体験だったが、ほろ苦い経験でもあった https://amass.jp/191068/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "『s**t kingz FES 2026』DAY1：三浦大知、GENERATIONS、こっちのけんと、MyMら大集結！ 音楽とダンスと絆の祭典",
-      "url": "https://realsound.jp/2026/08/post-2480557.html",
-      "date": "2026-08-04T19:00:15.000Z",
-      "summary": "shoji、kazuki、NOPPO、Oguriの4人によるs**t kingz主催のフェス『s**t kingz FES 2026 「会社」』が、7月25日、26日に神奈川県・ぴあアリーナMMにて開催。同フェスよりDAY1の模様をレポートする。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "NYダウ 一時1000ドル超上昇 中東情勢 緊張緩和への期待感で",
-      "url": "http://www3.nhk.or.jp/news/html/20260805/k10015196761000.html",
-      "date": "2026-08-04T18:48:10.000Z",
-      "summary": "4日のニューヨーク株式市場は、中東情勢をめぐる緊張が緩和することへの期待感などから取り引き開始直後から買い注文が広がり、ダウ平均株価は前日の終値から一時、1000ドルを超える大幅な値上がりとなり、取引時間中の最高値を更新しました。",
-      "source": "NHKニュース（主要）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
     }
   ]
 }
