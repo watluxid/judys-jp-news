@@ -1,26 +1,19 @@
 {
-  "generatedAt": "2026-08-12T13:52:29.289Z",
+  "generatedAt": "2026-08-12T19:31:18.928Z",
   "articleCount": 600,
   "feedStatus": [
-    {
-      "name": "NHKニュース（科学・文化）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（社会）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
-      "errors": []
-    },
     {
       "name": "NHKニュース（主要）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -31,10 +24,24 @@
       "errors": []
     },
     {
+      "name": "NHKニュース（社会）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "errors": []
+    },
+    {
       "name": "クックパッドニュース",
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://news.cookpad.com/feeds/news.rss",
+      "errors": []
+    },
+    {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -49,13 +56,6 @@
       "category": "music",
       "ok": true,
       "usedUrl": "https://mikiki.tokyo.jp/list/feed/rss",
-      "errors": []
-    },
-    {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -87,6 +87,13 @@
       "errors": []
     },
     {
+      "name": "アニメ！アニメ！（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
+      "errors": []
+    },
+    {
       "name": "インサイド（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
@@ -101,17 +108,10 @@
       "errors": []
     },
     {
-      "name": "アニメ！アニメ！（乙女ゲーム関連）",
-      "category": "otome",
-      "ok": true,
-      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "sorae（宇宙・天文）",
+      "name": "ナゾロジー",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://sorae.info/feed",
+      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
       "errors": []
     },
     {
@@ -129,10 +129,17 @@
       "errors": []
     },
     {
-      "name": "ナゾロジー",
+      "name": "sorae（宇宙・天文）",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "usedUrl": "https://sorae.info/feed",
+      "errors": []
+    },
+    {
+      "name": "TOKION",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://tokion.jp/feed/",
       "errors": []
     },
     {
@@ -164,13 +171,6 @@
       "errors": []
     },
     {
-      "name": "TOKION",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
-      "errors": []
-    },
-    {
       "name": "青い日記帳（美術展）",
       "category": "culture",
       "ok": true,
@@ -179,6 +179,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "MAZZEL、LUX新TVCM出演＆タイアップ楽曲決定 『BMSG FES'26』リハーサル観覧が当たるキャンペーンも",
+      "url": "https://realsound.jp/2026/08/post-2489831.html",
+      "date": "2026-08-13T00:00:31.000Z",
+      "summary": "MAZZELが、8月31日より放送されるLUXの新TVCM『僕らはもっと輝ける。』に出演する。 本CMでは、“あなたの傷みを、輝きに。”というテーマのもと、MAZZELが4月に発売した2ndアルバム『Banquet』",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
     {
       "title": "元スレイヤーのデイヴ・ロンバード、ルストモードとの新プロジェクト始動 アルバム発売決定 新曲公開",
       "url": "https://amass.jp/191205/",
@@ -198,7 +207,7 @@
       "category": "music"
     },
     {
-      "title": "エイジア 12年ぶりの新アルバムから新曲「Echo Of You」公開",
+      "title": "エイジア 12年ぶりの新アルバムから新曲「Echo Of You」のMV公開",
       "url": "https://amass.jp/191203/",
       "date": "2026-08-12T20:11:00.000Z",
       "summary": "新たなラインナップで再始動したエイジア（Asia）は12年ぶりとなる新スタジオ・アルバム『Indigo』から新曲「Echo Of You」公開 https://amass.jp/191203/",
@@ -3424,7 +3433,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
       "date": "2026-08-08T14:17:32.000Z",
       "summary": "8日は北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、「記録的短時間大雨」の気象防災速報があわせて7回発表されるなど局地的な大雨となりました。9日も大気の状態が非常に不安定になる見込みで、低い土地の浸水や急な川の増水などに十分注意が必要です。",
-      "source": "NHKニュース（社会）",
+      "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -3433,7 +3442,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html",
       "date": "2026-08-08T14:06:51.000Z",
       "summary": "8日、愛知県内の海と川で水難事故が相次ぎ、2人が死亡しました。",
-      "source": "NHKニュース（社会）",
+      "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -3478,7 +3487,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
       "date": "2026-08-08T12:54:30.000Z",
       "summary": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいます。沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。",
-      "source": "NHKニュース（社会）",
+      "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -3523,7 +3532,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200121000.html",
       "date": "2026-08-08T11:53:49.000Z",
       "summary": "7月28日に発生した最大震度7の地震は、「日奈久断層帯」のうち、10年前の熊本地震の際に活動した場所と隣り合う領域がずれ動き、発生したとみられることが専門家の分析で分かりました。断層帯には割れ残っているところがあるとして、専門家は「いつかは分からないが、今後、地震を引き起こす可能性もあるため、注意が必要だ」と指摘しています。",
-      "source": "NHKニュース（社会）",
+      "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -5569,15 +5578,6 @@
       "source": "NHKニュース（社会）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
-    },
-    {
-      "title": "『ハロウィン』等のジョン・カーペンター ヘヴィメタルアルバム『Cathedral』全曲公開",
-      "url": "https://amass.jp/191118/",
-      "date": "2026-08-07T00:29:00.000Z",
-      "summary": "『ハロウィン』『遊星からの物体X』等で知られる映画監督で、自作映画の音楽も数多く担当する音楽家でもあるジョン・カーペンター。グラフィックノベルと、そのサントラでもあるヘヴィメタルアルバムをリリース。ストリーミング配信開始。YouTube他で聴けます https://amass.jp/191118/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
     }
   ]
 }
