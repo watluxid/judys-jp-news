@@ -1,35 +1,12 @@
 {
-  "generatedAt": "2026-08-14T13:48:45.459Z",
+  "generatedAt": "2026-08-14T19:18:07.300Z",
   "articleCount": 600,
   "feedStatus": [
-    {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
-      "ok": false,
-      "usedUrl": null,
-      "errors": [
-        "https://sorae.info/feed → HTTP 415"
-      ]
-    },
-    {
-      "name": "NHKニュース（社会）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
-      "errors": []
-    },
     {
       "name": "NHKニュース（主要）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
       "errors": []
     },
     {
@@ -40,10 +17,24 @@
       "errors": []
     },
     {
+      "name": "NHKニュース（国際）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+      "errors": []
+    },
+    {
       "name": "NHKニュース（科学・文化）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（社会）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
       "errors": []
     },
     {
@@ -68,17 +59,17 @@
       "errors": []
     },
     {
-      "name": "amass",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://amass.jp/rss/new",
-      "errors": []
-    },
-    {
       "name": "メシ通（ホットペッパーグルメ）",
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
+      "errors": []
+    },
+    {
+      "name": "amass",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://amass.jp/rss/new",
       "errors": []
     },
     {
@@ -103,17 +94,17 @@
       "errors": []
     },
     {
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://sorae.info/feed",
+      "errors": []
+    },
+    {
       "name": "アニメ！アニメ！（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://animeanime.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "ナゾロジー",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
       "errors": []
     },
     {
@@ -124,31 +115,24 @@
       "errors": []
     },
     {
+      "name": "ナゾロジー",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "errors": []
+    },
+    {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
+      "errors": []
+    },
+    {
       "name": "デイリーポータルZ",
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://dailyportalz.jp/feed/headline",
-      "errors": []
-    },
-    {
-      "name": "カラパイア",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "和樂web",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://intojapanwaraku.com/feed",
-      "errors": []
-    },
-    {
-      "name": "ほんのひきだし（本・出版）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://hon-hikidashi.jp/feed/",
       "errors": []
     },
     {
@@ -159,10 +143,24 @@
       "errors": []
     },
     {
-      "name": "Art Annual online（美術）",
+      "name": "和樂web",
       "category": "culture",
       "ok": true,
-      "usedUrl": "https://www.art-annual.jp/feed",
+      "usedUrl": "https://intojapanwaraku.com/feed",
+      "errors": []
+    },
+    {
+      "name": "カラパイア",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://karapaia.com/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "ほんのひきだし（本・出版）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://hon-hikidashi.jp/feed/",
       "errors": []
     },
     {
@@ -173,14 +171,41 @@
       "errors": []
     },
     {
-      "name": "OTOTOY",
-      "category": "music",
+      "name": "Art Annual online（美術）",
+      "category": "culture",
       "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
+      "usedUrl": "https://www.art-annual.jp/feed",
       "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "マリリン・マンソン 「Unalive」のミュージックビデオ公開",
+      "url": "https://amass.jp/191260/",
+      "date": "2026-08-15T00:58:00.000Z",
+      "summary": "マリリン・マンソン（Marilyn Manson）は「Unalive」のミュージックビデオ公開。この曲は最新アルバム『One Assassination Under God - Chapter 2』に収録 https://amass.jp/191260/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "フィル・コリンズ、ビートルズ「Tomorrow Never Knows」のカヴァーの未発表アウトテイク公開",
+      "url": "https://amass.jp/191259/",
+      "date": "2026-08-15T00:55:00.000Z",
+      "summary": "フィル・コリンズ『Face Value』発売45周年を記念して、ビートルズ「Tomorrow Never Knows」のカヴァーの未発表アウトテイク公開。このアウトテイク版は、9月発売のデラックス・ヴァイナル・ボックスセットに収録されます。 https://amass.jp/191259/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "「Unbelievable」 EMFの創設メンバーでキーボード奏者のデリー・ブラウンソン死去",
+      "url": "https://amass.jp/191258/",
+      "date": "2026-08-15T00:46:00.000Z",
+      "summary": "「Unbelievable」などのヒットでも知られるEMFの創設メンバーでキーボード奏者のデリー・ブラウンソン（Derry Brownson）が死去。55歳でした https://amass.jp/191258/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "永瀬廉×西畑大吾、山田涼介×菊池風磨、宮田俊哉×佐久間大介……“仲良しコンビ”が築くそれぞれの関係性",
       "url": "https://realsound.jp/2026/08/post-2491472.html",
@@ -335,6 +360,15 @@
       "category": "music"
     },
     {
+      "title": "最低賃金で働くということ、働かされるということ",
+      "url": "https://nazology.kusuguru.co.jp/archives/198716",
+      "date": "2026-08-14T14:00:23.000Z",
+      "summary": "求人サイトを開くと、決まり文句のように同じ一行に出会う。 「未経験歓迎。誰にでもできる簡単なお仕事です」。 同時に時給の欄には最低賃金が表示されている。 この文面は二つのことを同時に言っている。 あなたを歓迎する、ということ。そして、あなたでなくてもよい、ということ。 歓迎と交換可能性が同居するこの一行から、最低賃金で働くとはどういうことか、そして最低賃金で働かされるとはどういうことかを読み解いていく。",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
       "title": "ダズビー、新曲「おやすみルーシー」リリース 弌誠が作曲を手がけたオルタナティブポップに",
       "url": "https://realsound.jp/2026/08/post-2491468.html",
       "date": "2026-08-14T13:58:33.000Z",
@@ -441,6 +475,15 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "輝線星雲「タランチュラ星雲」の多波長画像 ハッブル・ウェッブ・チャンドラが観測",
+      "url": "https://sorae.info/astronomy/20260814-tarantula-nebula.html",
+      "date": "2026-08-14T11:38:13.000Z",
+      "summary": "こちらは、かじき座の方向、地球から約16万光年先にある輝線星雲「タランチュラ星雲（Tarantula Nebula）」（かじき座30、30 Doradus）です。ハッブル宇宙望遠鏡、ジェームズ・ウェッブ宇宙望遠鏡、それに…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
     },
     {
       "title": "FRUITS ZIPPER 仲川瑠夏、オリヴィア・ディーンの大ヒット曲「Man I Need」のカバー歌唱映像公開",
@@ -5235,7 +5278,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200211000.html",
       "date": "2026-08-08T14:17:32.000Z",
       "summary": "8日は北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、「記録的短時間大雨」の気象防災速報があわせて7回発表されるなど局地的な大雨となりました。9日も大気の状態が非常に不安定になる見込みで、低い土地の浸水や急な川の増水などに十分注意が必要です。",
-      "source": "NHKニュース（社会）",
+      "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -5244,7 +5287,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200261000.html",
       "date": "2026-08-08T14:06:51.000Z",
       "summary": "8日、愛知県内の海と川で水難事故が相次ぎ、2人が死亡しました。",
-      "source": "NHKニュース（社会）",
+      "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -5289,7 +5332,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260808/k10015199841000.html",
       "date": "2026-08-08T12:54:30.000Z",
       "summary": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいます。沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。",
-      "source": "NHKニュース（社会）",
+      "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -5334,7 +5377,7 @@
       "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200121000.html",
       "date": "2026-08-08T11:53:49.000Z",
       "summary": "7月28日に発生した最大震度7の地震は、「日奈久断層帯」のうち、10年前の熊本地震の際に活動した場所と隣り合う領域がずれ動き、発生したとみられることが専門家の分析で分かりました。断層帯には割れ残っているところがあるとして、専門家は「いつかは分からないが、今後、地震を引き起こす可能性もあるため、注意が必要だ」と指摘しています。",
-      "source": "NHKニュース（社会）",
+      "source": "NHKニュース（主要）",
       "sourceHomepage": "https://www3.nhk.or.jp/news/",
       "category": "news"
     },
@@ -5535,51 +5578,6 @@
       "source": "クックパッドニュース",
       "sourceHomepage": "https://news.cookpad.com/",
       "category": "cooking"
-    },
-    {
-      "title": "「みちびき」打ち上げは11日に再延期 気象条件が整わず JAXA",
-      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200241000.html",
-      "date": "2026-08-08T07:37:08.000Z",
-      "summary": "10日、鹿児島県の種子島宇宙センターから打ち上げる予定だった、日本版GPS衛星「みちびき」の7号機について、JAXA＝宇宙航空研究開発機構は、気象条件が整わないことから、8月11日に延期すると発表しました。打ち上げの延期は、8月に入って2度目です。",
-      "source": "NHKニュース（科学・文化）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "【詳細】ロシア ウクライナに軍事侵攻（8月8日の動き）",
-      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015192491000.html",
-      "date": "2026-08-08T07:25:42.000Z",
-      "summary": "ロシアによるウクライナに対する軍事侵攻が続いています。ウクライナの各地でロシア軍とウクライナ軍が戦闘を続けていて、大勢の市民が国外へ避難しています。戦闘の状況や関係各国の外交など、ウクライナ情勢をめぐる8日（日本時間）の動きを随時更新でお伝えします。（日本とウクライナ、およびロシアのモスクワとは6時間の時差があります）",
-      "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
-    },
-    {
-      "title": "應治のアトリエで図録を発見！そこには“推しキャラ”のジャムジャムもいて…『カワイイは金なり』【#24】",
-      "url": "https://hon-hikidashi.jp/book-person/181162/",
-      "date": "2026-08-08T07:20:12.000Z",
-      "summary": "ぶんか社より、 『カワイイは金なり』第3巻 が、6月17日（水）に発売されました。 本作は、キャラクター企業の底辺デザイナー・一ノ瀬いちかが、伝説の敏腕営業マン・叢雲百矢とタッグを組み、「売れるカワイイ」を追い求めるお仕事ラブコメです。 今回は第1話～第4話の試し読みを配信します。作品が気になった方は、ぜひお買い求めください。 (adsbygoogle = window.adsbygoogle || []).push({}); 試し読み",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "「伝えていれば今回のような結果にならなかったはず」素性を隠し続ける中年冒険者…その胸の内は？『仲間を強くするため支援に徹していた中年冒険者、追放され自分だけの最強ギルドを作る』【#5】",
-      "url": "https://hon-hikidashi.jp/book-person/177867/",
-      "date": "2026-08-08T07:10:53.000Z",
-      "summary": "キルタイムコミュニケーションより、 『仲間を強くするため支援に徹していた中年冒険者、追放され自分だけの最強ギルドを作る ～【シェアリング】スキルでステータスは思いのまま！ 恩恵に気づいたってもう遅い！～』第1巻 が8月7日(金)に発売されました。 本作は、若い冒険者たちを支えるサポート役として活動していた中年冒険者・ライカが、「もう必要ないんだよ」と誤解され理不尽に追放されることから始まる追放ファンタジーです。実はライカは、かつて世界を",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "ロシアの攻撃でキーウ州3人死亡 ウクライナは物流インフラ攻撃",
-      "url": "http://www3.nhk.or.jp/news/html/20260808/k10015200231000.html",
-      "date": "2026-08-08T07:10:48.000Z",
-      "summary": "ウクライナのキーウ州では、ロシアによる攻撃が相次ぎ3人が死亡しました。一方、ウクライナは、ロシア内陸部の物流インフラをねらった攻撃を続けています。",
-      "source": "NHKニュース（国際）",
-      "sourceHomepage": "https://www3.nhk.or.jp/news/",
-      "category": "news"
     }
   ]
 }
