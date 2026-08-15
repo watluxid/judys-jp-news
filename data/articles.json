@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T13:02:19.531Z",
+  "generatedAt": "2026-08-15T18:50:32.576Z",
   "articleCount": 600,
   "feedStatus": [
     {
@@ -19,13 +19,6 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-      "errors": []
-    },
-    {
       "name": "NHKニュース（科学・文化）",
       "category": "news",
       "ok": true,
@@ -40,10 +33,10 @@
       "errors": []
     },
     {
-      "name": "クックパッドニュース",
-      "category": "cooking",
+      "name": "NHKニュース（国際）",
+      "category": "news",
       "ok": true,
-      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
       "errors": []
     },
     {
@@ -51,6 +44,13 @@
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "errors": []
+    },
+    {
+      "name": "クックパッドニュース",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
       "errors": []
     },
     {
@@ -68,17 +68,17 @@
       "errors": []
     },
     {
-      "name": "amass",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://amass.jp/rss/new",
-      "errors": []
-    },
-    {
       "name": "メシ通（ホットペッパーグルメ）",
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
+      "errors": []
+    },
+    {
+      "name": "amass",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://amass.jp/rss/new",
       "errors": []
     },
     {
@@ -103,24 +103,17 @@
       "errors": []
     },
     {
-      "name": "アニメ！アニメ！（乙女ゲーム関連）",
-      "category": "otome",
-      "ok": true,
-      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
-      "errors": []
-    },
-    {
       "name": "デイリーポータルZ",
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "errors": []
+    },
+    {
+      "name": "アニメ！アニメ！（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
       "errors": []
     },
     {
@@ -138,17 +131,17 @@
       "errors": []
     },
     {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
+      "errors": []
+    },
+    {
       "name": "カラパイア",
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://karapaia.com/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "和樂web",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://intojapanwaraku.com/feed",
       "errors": []
     },
     {
@@ -157,6 +150,15 @@
       "ok": true,
       "usedUrl": "https://tokion.jp/feed/",
       "errors": []
+    },
+    {
+      "name": "和樂web",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://intojapanwaraku.com/feed/",
+      "errors": [
+        "https://intojapanwaraku.com/feed → HTTP 503"
+      ]
     },
     {
       "name": "ほんのひきだし（本・出版）",
@@ -181,6 +183,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Perfume あ～ちゃん「7月は5回海外行ってた」 スペイン旅行のプライベート姿に「元気すぎて凄い」「妖精みたいでかわいい」",
+      "url": "https://realsound.jp/2026/08/post-2492462.html",
+      "date": "2026-08-15T22:00:28.000Z",
+      "summary": "Perfumeのあ〜ちゃんが、スペイン旅行の様子を自身のInstagramに公開している。 行き先は、バルセロナのグエル公園。バルセロナの街が一望できる世界遺産にも登録されている公園だ。あ〜ちゃんはアントニ・ガウディ",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
     {
       "title": "サンタナ、ベッキー・Gとコラボした最新シングル「Mi Gran Amor」のミュージックビデオ公開",
       "url": "https://amass.jp/191265/",
@@ -5571,15 +5582,6 @@
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
-    },
-    {
-      "title": "ストレスフルな仕事終わりはスーパーで買い物…2番レジの山田さんの笑顔だけが癒し『スーパーの裏でヤニ吸うふたり』【#1】",
-      "url": "https://hon-hikidashi.jp/book-person/164667/",
-      "date": "2026-08-09T00:00:30.000Z",
-      "summary": "ほんのひきだしでは、7月17日の漫画の日を記念して、出版社がおすすめする今夏に読んでほしい注目コミック作品の試し読み記事を配信します。 スクウェア・エニックスのおすすめコミックは、 『スーパーの裏でヤニ吸うふたり』 です。 次に読む漫画を探している方、夏休みの自分時間を充実させたい方は、ぜひこの機会におすすめコミック作品をお楽しみください。 (adsbygoogle = window.adsbygoogle || []).push({}",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
     }
   ]
 }
