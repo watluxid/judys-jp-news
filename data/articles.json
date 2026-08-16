@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T13:04:31.206Z",
+  "generatedAt": "2026-08-16T18:49:57.733Z",
   "articleCount": 600,
   "feedStatus": [
     {
@@ -10,6 +10,13 @@
       "errors": [
         "https://sorae.info/feed → HTTP 403"
       ]
+    },
+    {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "errors": []
     },
     {
       "name": "NHKニュース（主要）",
@@ -30,13 +37,6 @@
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（科学・文化）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -61,6 +61,13 @@
       "errors": []
     },
     {
+      "name": "Mikiki（タワーレコード）",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://mikiki.tokyo.jp/list/feed/rss",
+      "errors": []
+    },
+    {
       "name": "メシ通（ホットペッパーグルメ）",
       "category": "cooking",
       "ok": true,
@@ -68,10 +75,10 @@
       "errors": []
     },
     {
-      "name": "Mikiki（タワーレコード）",
-      "category": "music",
+      "name": "4Gamer（乙女ゲーム関連）",
+      "category": "otome",
       "ok": true,
-      "usedUrl": "https://mikiki.tokyo.jp/list/feed/rss",
+      "usedUrl": "https://www.4gamer.net/rss/index.xml",
       "errors": []
     },
     {
@@ -82,10 +89,10 @@
       "errors": []
     },
     {
-      "name": "4Gamer（乙女ゲーム関連）",
+      "name": "インサイド（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
-      "usedUrl": "https://www.4gamer.net/rss/index.xml",
+      "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
       "errors": []
     },
     {
@@ -103,13 +110,6 @@
       "errors": []
     },
     {
-      "name": "インサイド（乙女ゲーム関連）",
-      "category": "otome",
-      "ok": true,
-      "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
       "name": "アニメ！アニメ！（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
@@ -117,10 +117,10 @@
       "errors": []
     },
     {
-      "name": "OTOTOY",
-      "category": "music",
+      "name": "CINRA",
+      "category": "culture",
       "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
+      "usedUrl": "https://www.cinra.net/feed",
       "errors": []
     },
     {
@@ -131,10 +131,10 @@
       "errors": []
     },
     {
-      "name": "CINRA",
-      "category": "culture",
+      "name": "OTOTOY",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://www.cinra.net/feed",
+      "usedUrl": "https://ototoy.jp/rss",
       "errors": []
     },
     {
@@ -181,6 +181,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "ウリ・ジョン・ロート ＜Rock Hard Festival 2026＞から「All Along The Watchtower」のライヴ映像公開",
+      "url": "https://amass.jp/191271/",
+      "date": "2026-08-17T00:27:00.000Z",
+      "summary": "ウリ・ジョン・ロートのオフィシャルライヴ映像公開。2026年夏にドイツで開催された＜Rock Hard Festival 2026＞の映像で、曲は「All Along The Watchtower」 https://amass.jp/191271/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "シェリル・クロウ 新アルバム『Pick You Up』の詳細発表 「Freedom Bus (feat. Jesse Welles)」のMVも公開",
       "url": "https://amass.jp/191270/",
@@ -272,15 +281,6 @@
       "category": "music"
     },
     {
-      "title": "忘れらんねえよ、全国9ヶ所を回るツアー＆東名阪ツアー開催",
-      "url": "https://ototoy.jp/news/131383",
-      "date": "2026-08-16T12:00:00.000Z",
-      "summary": "忘れらんねえよが、東京・名古屋・大阪を回る東名阪ツレ伝〈武道館、どうだった？〉及び、全国 9 ヶ所を回る全国各地ワンマンツアー〈俺と武道館へ行かないか〉を開催することを発表した",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
       "title": "地球上の生命起源は二度起こっていた可能性",
       "url": "https://nazology.kusuguru.co.jp/archives/198694",
       "date": "2026-08-16T12:00:00.000Z",
@@ -288,6 +288,15 @@
       "source": "ナゾロジー",
       "sourceHomepage": "https://nazology.kusuguru.co.jp/",
       "category": "documentary"
+    },
+    {
+      "title": "忘れらんねえよ、全国9ヶ所を回るツアー＆東名阪ツアー開催",
+      "url": "https://ototoy.jp/news/131383",
+      "date": "2026-08-16T12:00:00.000Z",
+      "summary": "忘れらんねえよが、東京・名古屋・大阪を回る東名阪ツレ伝〈武道館、どうだった？〉及び、全国 9 ヶ所を回る全国各地ワンマンツアー〈俺と武道館へ行かないか〉を開催することを発表した",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
     },
     {
       "title": "仮説の天体「ブラックホール星」を初めて単独で観測。巨大な水素ガスが包み込んでいた",
@@ -5571,15 +5580,6 @@
       "source": "ナゾロジー",
       "sourceHomepage": "https://nazology.kusuguru.co.jp/",
       "category": "documentary"
-    },
-    {
-      "title": "Tohji、音楽活動最後のライブとなる東京ドーム公演開催を発表",
-      "url": "https://ototoy.jp/news/131281",
-      "date": "2026-08-09T12:30:00.000Z",
-      "summary": "Tohjiが、2026年11月17日(火)東京ドームで単独公演〈Tohji Last Live “TOKYO MALL”〉を開催することを発表した",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
     }
   ]
 }
