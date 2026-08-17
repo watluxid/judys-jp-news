@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T13:10:16.146Z",
+  "generatedAt": "2026-08-17T19:01:59.181Z",
   "articleCount": 600,
   "feedStatus": [
     {
@@ -17,13 +17,6 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-      "errors": []
-    },
-    {
       "name": "NHKニュース（科学・文化）",
       "category": "news",
       "ok": true,
@@ -31,10 +24,10 @@
       "errors": []
     },
     {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
+      "name": "NHKニュース（国際）",
+      "category": "news",
       "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
       "errors": []
     },
     {
@@ -42,6 +35,13 @@
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://news.cookpad.com/feeds/news.rss",
+      "errors": []
+    },
+    {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -80,6 +80,20 @@
       "errors": []
     },
     {
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://sorae.info/feed",
+      "errors": []
+    },
+    {
+      "name": "リアルサウンド",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://realsound.jp/atom.xml",
+      "errors": []
+    },
+    {
       "name": "インサイド（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
@@ -94,17 +108,17 @@
       "errors": []
     },
     {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://sorae.info/feed",
-      "errors": []
-    },
-    {
       "name": "OTOTOY",
       "category": "music",
       "ok": true,
       "usedUrl": "https://ototoy.jp/rss",
+      "errors": []
+    },
+    {
+      "name": "デイリーポータルZ",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -122,10 +136,10 @@
       "errors": []
     },
     {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
+      "name": "和樂web",
+      "category": "culture",
       "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "usedUrl": "https://intojapanwaraku.com/feed",
       "errors": []
     },
     {
@@ -136,10 +150,10 @@
       "errors": []
     },
     {
-      "name": "和樂web",
+      "name": "TOKION",
       "category": "culture",
       "ok": true,
-      "usedUrl": "https://intojapanwaraku.com/feed",
+      "usedUrl": "https://tokion.jp/feed/",
       "errors": []
     },
     {
@@ -150,17 +164,10 @@
       "errors": []
     },
     {
-      "name": "リアルサウンド",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
-      "errors": []
-    },
-    {
-      "name": "TOKION",
+      "name": "青い日記帳（美術展）",
       "category": "culture",
       "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
+      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
     },
     {
@@ -168,13 +175,6 @@
       "category": "culture",
       "ok": true,
       "usedUrl": "https://www.art-annual.jp/feed",
-      "errors": []
-    },
-    {
-      "name": "青い日記帳（美術展）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
     }
   ],
@@ -285,6 +285,15 @@
       "summary": "ジョルジャ・スミスが、ニューシングル「I Lied, You Lied」をリリース。あわせて本楽曲のMVを公開した。 Jorja Smith - I Lied, You Lied 「I Lied, You Lied」",
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "関取 花、西松屋テレビCM曲リリース決定",
+      "url": "https://ototoy.jp/news/131395",
+      "date": "2026-08-17T14:00:00.000Z",
+      "summary": "関取 花が2026年8月26日(水)にニューシングル「わたしの手のひらで」をリリースすることが決定した",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
     },
     {
@@ -5569,15 +5578,6 @@
       "source": "アニメ！アニメ！（乙女ゲーム関連）",
       "sourceHomepage": "https://animeanime.jp/",
       "category": "otome"
-    },
-    {
-      "title": "Kis-My-Ft2、デビュー15周年記念日に「FIRE BEAT」＆「祈り」新録バージョン配信リリース",
-      "url": "https://realsound.jp/2026/08/post-2487253.html",
-      "date": "2026-08-10T14:09:57.000Z",
-      "summary": "Kis-My-Ft2が、デビュー15周年を迎えた本日8月10日に楽曲「FIRE BEAT (15th ver.)」と「祈り (15th ver.)」を配信リリースした。 両曲は、2010年7月5日にdwango.jp",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
     }
   ]
 }
