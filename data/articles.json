@@ -1,26 +1,21 @@
 {
-  "generatedAt": "2026-08-20T13:16:03.648Z",
+  "generatedAt": "2026-08-20T19:05:29.484Z",
   "articleCount": 600,
   "feedStatus": [
+    {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": false,
+      "usedUrl": null,
+      "errors": [
+        "https://ototoy.jp/rss → feed parsed but has no items"
+      ]
+    },
     {
       "name": "NHKニュース（主要）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（社会）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
       "errors": []
     },
     {
@@ -31,10 +26,17 @@
       "errors": []
     },
     {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
+      "name": "NHKニュース（社会）",
+      "category": "news",
       "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（国際）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
       "errors": []
     },
     {
@@ -42,6 +44,13 @@
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://news.cookpad.com/feeds/news.rss",
+      "errors": []
+    },
+    {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -59,13 +68,6 @@
       "errors": []
     },
     {
-      "name": "amass",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://amass.jp/rss/new",
-      "errors": []
-    },
-    {
       "name": "メシ通（ホットペッパーグルメ）",
       "category": "cooking",
       "ok": true,
@@ -73,10 +75,10 @@
       "errors": []
     },
     {
-      "name": "4Gamer（乙女ゲーム関連）",
-      "category": "otome",
+      "name": "amass",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://www.4gamer.net/rss/index.xml",
+      "usedUrl": "https://amass.jp/rss/new",
       "errors": []
     },
     {
@@ -84,6 +86,13 @@
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://sorae.info/feed",
+      "errors": []
+    },
+    {
+      "name": "4Gamer（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://www.4gamer.net/rss/index.xml",
       "errors": []
     },
     {
@@ -108,13 +117,6 @@
       "errors": []
     },
     {
-      "name": "CINRA",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://www.cinra.net/feed",
-      "errors": []
-    },
-    {
       "name": "アニメ！アニメ！（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
@@ -122,24 +124,17 @@
       "errors": []
     },
     {
+      "name": "CINRA",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://www.cinra.net/feed",
+      "errors": []
+    },
+    {
       "name": "ナゾロジー",
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://nazology.kusuguru.co.jp/feed",
-      "errors": []
-    },
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
-      "errors": []
-    },
-    {
-      "name": "カラパイア",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
       "errors": []
     },
     {
@@ -164,6 +159,13 @@
       "errors": []
     },
     {
+      "name": "カラパイア",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://karapaia.com/index.rdf",
+      "errors": []
+    },
+    {
       "name": "Art Annual online（美術）",
       "category": "culture",
       "ok": true,
@@ -179,6 +181,69 @@
     }
   ],
   "articles": [
+    {
+      "title": "『新！浮世絵展 幕末明治の天才絵師たち』",
+      "url": "https://bluediary2.jugem.jp/?eid=8165",
+      "date": "2026-08-21T13:12:00.000Z",
+      "summary": "幕末から明治へ。日本が大きく姿を変えた時代、浮世絵もまた猛烈な勢いで変化していました。 歌川国芳、月岡芳年、落合芳幾、河鍋暁斎、三代歌川広重、楊洲周延― https://www.toppan-vr.jp/shin-ukiyo-e/ 「新！浮世絵展 幕末明治の天才絵師たち」は、幕末から...",
+      "source": "青い日記帳（美術展）",
+      "sourceHomepage": "https://bluediary2.jugem.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "俳優アンソニー・ホプキンスにとって「最初の夢」は音楽、ついに初アルバム発表 全曲公開",
+      "url": "https://amass.jp/191357/",
+      "date": "2026-08-21T00:47:00.000Z",
+      "summary": "『羊たちの沈黙』『ザ・ファーザー』でアカデミー主演を受賞した俳優アンソニー・ホプキンスにとって「最初の夢」は音楽。幼少期から作曲を続けてきた。ついに初アルバムを発表。ストリーミング配信開始。YouTubeほかで聴けます。演奏はフィルハーモニア管弦楽団 https://amass.jp/191357/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ハッピー・マンデーズ『Pills 'n' Thrills and Bellyaches』スーパー・デラックス・エディション全曲公開",
+      "url": "https://amass.jp/191356/",
+      "date": "2026-08-21T00:41:00.000Z",
+      "summary": "ハッピー・マンデーズが1990年にリリースしたスタジオ・アルバム『Pills 'n' Thrills and Bellyaches』。スーパー・デラックス・エディションがストリーミング配信開始。全40曲がYouTubeほかで聴けます https://amass.jp/191356/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "チャカ・カーン、7年ぶりの新アルバムから「Curious Subject」公開",
+      "url": "https://amass.jp/191355/",
+      "date": "2026-08-21T00:36:00.000Z",
+      "summary": "チャカ・カーン（Chaka Khan）は、7年ぶりとなる新スタジオ・アルバム『Chakzilla』から「Curious Subject」を先行公開しています。 https://amass.jp/191355/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "キッス 76年8月20日アナハイム・スタジアム公演の公式ライヴ・アルバム全曲公開",
+      "url": "https://amass.jp/191354/",
+      "date": "2026-08-21T00:30:00.000Z",
+      "summary": "キッスが76年8月20日にアナハイム・スタジアムで行ったコンサート。公演50周年記念して、これまでブートレグとして出回っていたこの公演の音源がオフィシャル・リリース。ストリーミング配信開始。YouTubeほかで聴けます https://amass.jp/191354/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "元ホワイトスネイクのバーニー・マースデン ライヴ・アルバム『Stage』全曲公開",
+      "url": "https://amass.jp/191353/",
+      "date": "2026-08-21T00:25:00.000Z",
+      "summary": "ホワイトスネイクでの活躍でも知られるギタリストのバーニー・マースデン。1996年、2008年、2019年、2020年の4公演から厳選されたオフィシャル・ライヴ・アルバム『Stage』がストリーミング配信開始。YouTubeほかで聴けます https://amass.jp/191353/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ザ・クランプスの77年の未発表音源発掘 アルバム全曲公開",
+      "url": "https://amass.jp/191352/",
+      "date": "2026-08-21T00:21:00.000Z",
+      "summary": "サイコビリーのパイオニア、ザ・クランプス（The Cramps）の未発表音源発掘。ビッグ・スターのアレックス・チルトンと共に77年に録音した未発表音源を集めたアルバム『Gravest Gravy』がストリーミング配信開始。YouTubeほかで聴けます https://amass.jp/191352/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "『ele-king vol.37 ボーズ・オブ・カナダ大研究／サイケ＆ドリーミー特集』発売",
       "url": "https://amass.jp/191350/",
@@ -594,6 +659,15 @@
       "category": "documentary"
     },
     {
+      "title": "着るキノコ。生きた菌糸で作られた自己修復するドレス",
+      "url": "https://karapaia.com/archives/622572.html",
+      "date": "2026-08-20T09:00:00.000Z",
+      "summary": "キノコの一部を文字通り”そのまま生かす”新たな布が開発された。そのキノコはサナギタケという冬虫夏草の仲間で、日本の雑木林にも生息する。中国の研究チームが開発した新素材は、サナギタケの菌糸でできている。栄養液を与えると菌糸が伸びて表面が再生し…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
       "title": "Kucci、新曲「くらいべいびー」リリース&MV公開",
       "url": "https://ototoy.jp/news/131447",
       "date": "2026-08-20T09:00:00.000Z",
@@ -610,15 +684,6 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
-    },
-    {
-      "title": "着るキノコ。生きた菌糸で作られた自己修復するドレス",
-      "url": "https://karapaia.com/archives/622572.html",
-      "date": "2026-08-20T09:00:00.000Z",
-      "summary": "キノコの一部を文字通り”そのまま生かす”新たな布が開発された。そのキノコはサナギタケという冬虫夏草の仲間で、日本の雑木林にも生息する。中国の研究チームが開発した新素材は、サナギタケの菌糸でできている。栄養液を与えると菌糸が伸びて表面が再生し…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
     },
     {
       "title": "デフ・レパードのヴィヴィアン・キャンベル、がんが「再発」したと明かす",
@@ -5515,69 +5580,6 @@
       "source": "クックパッドニュース",
       "sourceHomepage": "https://news.cookpad.com/",
       "category": "cooking"
-    },
-    {
-      "title": "スーツケースに遺体発見？殺人事件と思いきや実はラブなドールだった件（オーストラリア）",
-      "url": "https://karapaia.com/archives/621796.html",
-      "date": "2026-08-14T07:00:00.000Z",
-      "summary": "オーストラリアの田舎道で、道路脇に放置されたスーツケースから女性の遺体らしきものが発見された。警察は現場を封鎖し、法科学担当者を投入。殺人や遺体遺棄事件の可能性を視野に、本格的な捜査が始まった。ところが翌日、法医学研究所で「遺体」を詳しく調べたところ…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
-      "title": "【秒で作れるスカッと炭酸4選】身近な材料で「のどごし抜群」極上ドリンク",
-      "url": "https://news.cookpad.com/articles/65794",
-      "date": "2026-08-14T06:00:00.000Z",
-      "summary": "暑い日が続くと、キンと冷えた炭酸ドリンクでスカッと気分をリフレッシュしたくなりますよね。今回は、レモンや甘酒、梅干しなど身近な材料で作れる、夏にうれしい炭酸ドリンクを4つご紹介します。どれも少な...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "のん主演〈幸せカナコの殺し屋生活２〉9/17配信開始",
-      "url": "https://ototoy.jp/news/131371",
-      "date": "2026-08-14T06:00:00.000Z",
-      "summary": "のんが主演をつとめる4コママンガ〈幸せカナコの殺し屋生活〉の実写ドラマ続編〈幸せカナコの殺し屋生活２〉が9月17日（木）よりDMM TVにて独占配信されることが決定した",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "材料はオクラだけ！トースターでパパッと一品「カリッとオクラ」",
-      "url": "https://news.cookpad.com/articles/65114",
-      "date": "2026-08-14T05:00:00.000Z",
-      "summary": "オクラが旬ですね。あえ物などに使うことの多いオクラですが、今回は、下ゆでなし＆オーブントースターで焼くだけで作れるオクラのおかずをご紹介します。オクラにカレー粉をまぶしてオーブントースターで焼く...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "ピューマが交通事故から人間を守ってくれていた。鹿の群れを道路から遠ざける",
-      "url": "https://karapaia.com/archives/621472.html",
-      "date": "2026-08-14T04:57:26.000Z",
-      "summary": "アメリカやカナダでは野生の鹿が道路に侵入することが多く、あちこちで交通事故が起きている。アメリカ太平洋岸北西部で行われた最新の調査で、ピューマが鹿と人間による交通事故を防ぐ役割を果たしていることが判明した。研究チームがワシントン州で調査を行ったところ…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
-      "title": "史上初、サメに装着したカメラで「ホオジロザメ」の撮影に成功",
-      "url": "https://nazology.kusuguru.co.jp/archives/198693",
-      "date": "2026-08-14T03:00:09.000Z",
-      "summary": "海の中を泳ぐサメは、普段どんな景色を見ているのでしょうか。 その「サメ目線」の映像に、思いがけない大物が映り込みました。 米フロリダ・アトランティック大学（FAU）の研究チームが、コモリザメ（nurse shark）の背びれに取り付けたカメラから、ホオジロザメが人工リーフの周囲を泳ぐ姿を撮影することに成功しました。 チームによると、別のサメに装着したカメラが水中でホオジロザメを捉えた映像としては史上初とのことです。",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "チェット・フェイカー（Chet Faker）が考える最高のライブとは? 9月の来日公演を前にフジロックの思い出などを語る - インタビュー",
-      "url": "https://mikiki.tokyo.jp/articles/-/45778",
-      "date": "2026-08-14T03:00:00.000Z",
-      "summary": "チェット・フェイカー（Chet Faker）が考える最高のライブとは? 9月の来日公演を前にフジロックの思い出などを語る",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
     }
   ]
 }
