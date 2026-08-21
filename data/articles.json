@@ -1,21 +1,26 @@
 {
-  "generatedAt": "2026-08-20T19:05:29.484Z",
+  "generatedAt": "2026-08-21T02:00:58.913Z",
   "articleCount": 600,
   "feedStatus": [
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": false,
-      "usedUrl": null,
-      "errors": [
-        "https://ototoy.jp/rss → feed parsed but has no items"
-      ]
-    },
     {
       "name": "NHKニュース（主要）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（国際）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+      "errors": []
+    },
+    {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -33,24 +38,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-      "errors": []
-    },
-    {
       "name": "クックパッドニュース",
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://news.cookpad.com/feeds/news.rss",
-      "errors": []
-    },
-    {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -96,24 +87,10 @@
       "errors": []
     },
     {
-      "name": "リアルサウンド",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
-      "errors": []
-    },
-    {
       "name": "インサイド（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -124,6 +101,20 @@
       "errors": []
     },
     {
+      "name": "ナゾロジー",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "errors": []
+    },
+    {
+      "name": "カラパイア",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://karapaia.com/index.rdf",
+      "errors": []
+    },
+    {
       "name": "CINRA",
       "category": "culture",
       "ok": true,
@@ -131,10 +122,24 @@
       "errors": []
     },
     {
-      "name": "ナゾロジー",
+      "name": "リアルサウンド",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://realsound.jp/atom.xml",
+      "errors": []
+    },
+    {
+      "name": "デイリーポータルZ",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "errors": []
+    },
+    {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
       "errors": []
     },
     {
@@ -156,13 +161,6 @@
       "category": "culture",
       "ok": true,
       "usedUrl": "https://hon-hikidashi.jp/feed/",
-      "errors": []
-    },
-    {
-      "name": "カラパイア",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
       "errors": []
     },
     {
@@ -189,6 +187,132 @@
       "source": "青い日記帳（美術展）",
       "sourceHomepage": "https://bluediary2.jugem.jp/",
       "category": "culture"
+    },
+    {
+      "title": "MILLI、アジアツアーで東京公演開催 スペシャルゲストにAI、オープニングアクトにSARUKANI出演",
+      "url": "https://realsound.jp/2026/08/post-2497452.html",
+      "date": "2026-08-21T10:56:56.000Z",
+      "summary": "MILLIが、自身初のアジアツアー『MILLI JAA EHH! ASIA TOUR 2026』の東京公演を8月30日に渋谷 Spotify O-WESTで開催する。 MILLI · JAA EHH! ASIA TOU",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "フー・ファイターズ、AC/DCの公演でオープニングアクトを務めると発表 デイヴ・グロール「まさに夢が叶った瞬間」 80年の「運命的な夜」を語る",
+      "url": "https://amass.jp/191361/",
+      "date": "2026-08-21T10:18:00.000Z",
+      "summary": "フー・ファイターズが、AC/DCの公演でオープニングアクトを務めることが発表されています。デイヴ・グロールは長文の声明を発表し、憧れのバンドと同じステージに立つことに「まさに夢が叶った瞬間」と述べ、80年の「運命的な夜」を語っています https://amass.jp/191361/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ポリスのスチュワート・コープランドがメタル・ファンに、またラッシュの新ドラマー アニカ・ニルスとアンジーヌ・ド・ポワトリーヌを絶賛",
+      "url": "https://amass.jp/191360/",
+      "date": "2026-08-21T09:20:00.000Z",
+      "summary": "ポリスのスチュワート・コープランドがメタルファンに。現在印象に残っているドラマーとしてメタル・ドラマー2人を挙げ、「メタルを聴くとその日が最高になる」とメタル愛を語る。またラッシュの新ドラマー、アニカ・ニルスと、アンジーヌ・ド・ポワトリーヌについて絶賛 https://amass.jp/191360/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "デイヴィッド・リー・ロス『Eat 'Em and Smile』40周年 ビリー・シーンは同作の未発表曲を新録して発売する計画を発表",
+      "url": "https://amass.jp/191359/",
+      "date": "2026-08-21T08:33:00.000Z",
+      "summary": "デイヴィッド・リー・ロス『Eat 'Em and Smile』のレコーディングに参加したビリー・シーンは、発売40周年を祝して、同作の未発表曲を新たにレコーディングしてリリースする計画を発表。未発表曲は4、5曲ほどあったという。同作収録曲の新録も行う https://amass.jp/191359/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "超特急、8号車と作り上げた“最高傑作”の時間 夢の東京ドーム公演前最後のツアー『ESCORT』で見せた成熟",
+      "url": "https://realsound.jp/2026/08/post-2497252.html",
+      "date": "2026-08-21T08:00:13.000Z",
+      "summary": "超特急がアリーナツアー『BULLET TRAIN ARENA TOUR 2026「ESCORT」』のファイナル公演を8月9日に神奈川・Kアリーナ横浜にて開催。11月に控える東京ドーム公演前ラストとなるツアーの模様を振り返る。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ホリーズ活動終了 クラシック・ラインナップの最後2人が引退を発表",
+      "url": "https://amass.jp/191358/",
+      "date": "2026-08-21T07:59:00.000Z",
+      "summary": "ホリーズ（The Hollies）が活動終了を発表。60年代から在籍している最後の2人、リード・ギタリストのトニー・ヒックスとドラマーのボビー・エリオットがツアー活動からの引退を正式に発表。これにより、バンドの活動は60年以上を経て幕を閉じました https://amass.jp/191358/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "板野友美、娘＆妹と「ピクサーの世界展」を満喫 充実の家族時間に「ベビちんすくすく成長してる」「美人姉妹だね」",
+      "url": "https://realsound.jp/2026/08/post-2496887.html",
+      "date": "2026-08-21T05:50:46.000Z",
+      "summary": "板野友美が自身のYouTubeを更新。娘、妹とともに「ピクサーの世界展」を訪れた様子を公開した。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "Snow Man 宮舘涼太＆佐久間大介、ユニット曲「地球してるぜ」が広げる新たな入口 『LOVE IT! ROCK』出演の意義",
+      "url": "https://realsound.jp/2026/08/post-2495961.html",
+      "date": "2026-08-21T05:50:34.000Z",
+      "summary": "8月22日、東京・国立代々木競技場 第一体育館にて『LOVE IT! ROCK 2026』が開催される。同イベントには火曜の隔週レギュラーを務めるSnow Man 宮舘涼太と佐久間大介が出演し、ユニット曲「地球してるぜ」をパフォーマンスする。本稿では、イベント出演の意義や同曲の可能性を紐解いていきたい。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "歌舞伎の女方で演じる、スーパー歌舞伎『もののけ姫』モロの君。歌舞伎俳優の市川笑三郎が語る、あの時あの舞台の“こしらえ”",
+      "url": "https://intojapanwaraku.com/fashion-kimono/313073/",
+      "date": "2026-08-21T02:00:32.000Z",
+      "summary": "三代目 市川笑三郎（いちかわ・えみさぶろう） 屋号は澤瀉屋（おもだかや）。1970年、岐阜県中津川市に生まれる。日本舞踊を習っていたことをきっかけに、地元でさかんな地歌舞伎にふれ歌舞伎の世界へ。1986年、三代目市川猿之 […]",
+      "source": "和樂web",
+      "sourceHomepage": "https://intojapanwaraku.com/",
+      "category": "culture"
+    },
+    {
+      "title": "我が星！ 初山別村で星に自分の名前をつける",
+      "url": "https://dailyportalz.jp/kiji/hoshi-ni-namae-wo",
+      "date": "2026-08-21T02:00:00.000Z",
+      "summary": "夜空で輝き、宇宙に存在する星に自分の好きな名前をつけることができる。そんなサービスを北海道の初山別村にある「しょさんべつ天文台」が行っていた。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "エブリデイ “生胡椒の塩漬け” ライフ",
+      "url": "https://dailyportalz.jp/kiji/namakosyo-shioduke",
+      "date": "2026-08-21T02:00:00.000Z",
+      "summary": "「生胡椒の塩漬け」を毎日食べている。本当においしいので、この生胡椒の塩漬けライフを紹介させてください！",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "JAXAが火星衛星探査機「MMX」を搭載する「H3」ロケット10号機の打ち上げ予定日を発表",
+      "url": "https://sorae.info/space/20260821-mmx.html",
+      "date": "2026-08-21T01:13:42.000Z",
+      "summary": "JAXA（宇宙航空研究開発機構）は2026年8月20日、火星衛星探査計画「MMX（Martian Moons eXploration）」の探査機を搭載する「H3」ロケット10号機の打ち上げ予定日を発表しました。 「H3-…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
+    },
+    {
+      "title": "【火を使わずとろとろ】レンジで簡単！やみつき「とろ旨なす」",
+      "url": "https://news.cookpad.com/articles/65058",
+      "date": "2026-08-21T01:00:00.000Z",
+      "summary": "今日ご紹介するのは、暑い日でも火を使わずに作れる、嬉しいレンジ調理のなすおかずです。ごま油とにんにくの風味が豊かなたれが、ジューシーななすにしっかり絡んで、ご飯が進みますよ。なすをまるごとレンジ...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "ドイツのしわしわネーム（2026.8.21 朝エッセイと更新情報）",
+      "url": "https://dailyportalz.jp/dpq/midokoro-20260821",
+      "date": "2026-08-21T01:00:00.000Z",
+      "summary": "小学校時代の愛読書は赤ちゃんの名前辞典でした。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
     },
     {
       "title": "俳優アンソニー・ホプキンスにとって「最初の夢」は音楽、ついに初アルバム発表 全曲公開",
@@ -245,6 +369,105 @@
       "category": "music"
     },
     {
+      "title": "インスタントしょうゆラーメンで10分夏メシ。「シャキシャキレタスの冷やし焼肉ラーメン」【ヤスナリオ】",
+      "url": "https://www.hotpepper.jp/mesitsu/entry/yasunario/2026-01336",
+      "date": "2026-08-21T00:00:00.000Z",
+      "summary": "こんにちは、高円寺メタルめしのヤスナリオです。 買い置きしてあるインスタントラーメンを、手を変え品を変え食べ飽きないように楽しむアレンジシリーズ。 www.hotpepper.jp www.hotpepper.jp 今回は、シンプルなしょうゆラーメンを、甘辛い焼肉とシャキシャキレタスをたっぷりのせた「冷やし焼肉ラーメン」にアレンジします。 氷を浮かべたキンキンのしょうゆスープと、香ばしい焼肉のうま味、さっぱりのレタスがベストマッチ！ 1",
+      "source": "メシ通（ホットペッパーグルメ）",
+      "sourceHomepage": "https://www.hotpepper.jp/mesitsu/",
+      "category": "cooking"
+    },
+    {
+      "title": "「もう、充分だよ」きっとあのお客様はもう来ない…俺は長年の客を失ってしまった『おやすみカラスまた来てね。』【#10】",
+      "url": "https://hon-hikidashi.jp/book-person/179876/",
+      "date": "2026-08-20T23:00:51.000Z",
+      "summary": "「ほんのひきだし」では、「夏の夜更かし、ちょっと刺激的な夜読。」をテーマに、眠れない夏の夜にこそ読みたいコミックをご紹介します。恋、秘密、駆け引き、復讐、そして誰にも言えない想い。少し刺激的で、気づけば夜更かししてしまうような物語を、この機会にぜひお楽しみください。 今回ご紹介するのは、不思議なきっかけからバーを営むことになった男性が、店を訪れる女性たちと織りなす大人の交錯恋愛劇 『おやすみカラスまた来てね。』 です。 (adsbygo",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "売られた喧嘩は買う。タコは血気盛んな縄張り意識の高い魚に対してのみ、腕でひっぱたく",
+      "url": "https://karapaia.com/archives/622699.html",
+      "date": "2026-08-20T23:00:00.000Z",
+      "summary": "タコが魚を腕で叩くのは、無差別な攻撃や腹いせではなく、相手をしっかりと見極めた防衛行動であることが明らかとなった。ブラジルなどの研究チームの観察によると、タコは縄張り意識が強く、攻撃的な魚に対してのみ素早く腕で叩いたり、体の色を変化させる一方…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
+      "title": "アフロ『無職覚醒』MOROHA活動休止後に完成した初ソロ作 ヒップホップに捉われないサウンドで多様な人物の挫折と再起を描く - レビュー",
+      "url": "https://mikiki.tokyo.jp/articles/-/45785",
+      "date": "2026-08-20T22:37:00.000Z",
+      "summary": "アフロ『無職覚醒』MOROHA活動休止後に完成した初ソロ作 ヒップホップに捉われないサウンドで多様な人物の挫折と再起を描く",
+      "source": "Mikiki（タワーレコード）",
+      "sourceHomepage": "https://mikiki.tokyo.jp/",
+      "category": "music"
+    },
+    {
+      "title": "Penthouse『Neon Garden』ネオソウル調やスウィングジャズなど角野隼人らメンバーが入魂の演奏を繰り広げる3作目 - レビュー",
+      "url": "https://mikiki.tokyo.jp/articles/-/45784",
+      "date": "2026-08-20T22:36:00.000Z",
+      "summary": "Penthouse『Neon Garden』ネオソウル調やスウィングジャズなど角野隼人らメンバーが入魂の演奏を繰り広げる3作目",
+      "source": "Mikiki（タワーレコード）",
+      "sourceHomepage": "https://mikiki.tokyo.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ザ・ウォー・アンド・トリーティ（The War And Treaty）『The Story Of Michael And Tanya』ウーピー・ゴールドバーグが参加したカントリー夫婦デュオの新作 - レビュー",
+      "url": "https://mikiki.tokyo.jp/articles/-/45783",
+      "date": "2026-08-20T22:35:00.000Z",
+      "summary": "ザ・ウォー・アンド・トリーティ（The War And Treaty）『The Story Of Michael And Tanya』ウーピー・ゴールドバーグが参加したカントリー夫婦デュオの新作",
+      "source": "Mikiki（タワーレコード）",
+      "sourceHomepage": "https://mikiki.tokyo.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ディセンバー・テン（December 10）『On Your Side』サイモン・コーウェルが新たに送り出した7人組ボーイズグループの初EP - レビュー",
+      "url": "https://mikiki.tokyo.jp/articles/-/45782",
+      "date": "2026-08-20T22:34:00.000Z",
+      "summary": "ディセンバー・テン（December 10）『On Your Side』サイモン・コーウェルが新たに送り出した7人組ボーイズグループの初EP",
+      "source": "Mikiki（タワーレコード）",
+      "sourceHomepage": "https://mikiki.tokyo.jp/",
+      "category": "music"
+    },
+    {
+      "title": "フローレンス・ロード（Florence Road）『Between Seasons』初期アラニス・モリセットを思わせる曲などアイルランド発4人組の注目作 - レビュー",
+      "url": "https://mikiki.tokyo.jp/articles/-/45781",
+      "date": "2026-08-20T22:33:00.000Z",
+      "summary": "フローレンス・ロード（Florence Road）『Between Seasons』初期アラニス・モリセットを思わせる曲などアイルランド発4人組の注目作",
+      "source": "Mikiki（タワーレコード）",
+      "sourceHomepage": "https://mikiki.tokyo.jp/",
+      "category": "music"
+    },
+    {
+      "title": "エインシェント・インフィニティ・オーケストラ（Ancient Infinity Orchestra）『It’s Always About Liberation』スピリチュアルジャズ路線を邁進するUK大所帯ユニットの3作目 - レビュー",
+      "url": "https://mikiki.tokyo.jp/articles/-/45780",
+      "date": "2026-08-20T22:32:00.000Z",
+      "summary": "エインシェント・インフィニティ・オーケストラ（Ancient Infinity Orchestra）『It’s Always About Liberation』スピリチュアルジャズ路線を邁進するUK大…",
+      "source": "Mikiki（タワーレコード）",
+      "sourceHomepage": "https://mikiki.tokyo.jp/",
+      "category": "music"
+    },
+    {
+      "title": "メタ&ザ・コーナーストーンズ（Meta & The Cornerstones）『Echoes Of Time』ルーツレゲエの発展形と呼ぶに相応しい1枚 - レビュー",
+      "url": "https://mikiki.tokyo.jp/articles/-/45796",
+      "date": "2026-08-20T22:31:00.000Z",
+      "summary": "メタ&ザ・コーナーストーンズ（Meta & The Cornerstones）『Echoes Of Time』ルーツレゲエの発展形と呼ぶに相応しい1枚",
+      "source": "Mikiki（タワーレコード）",
+      "sourceHomepage": "https://mikiki.tokyo.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ヘンリー・スレッギル、ヴィジェイ・アイヤー&ダフニス・プリエト（Henry Threadgill, Vijay Iyer & Dafnis Prieto）『Fifteen』ジャズのミラクルトリオが新たな歴史を刻む - レビュー",
+      "url": "https://mikiki.tokyo.jp/articles/-/45795",
+      "date": "2026-08-20T22:30:00.000Z",
+      "summary": "ヘンリー・スレッギル、ヴィジェイ・アイヤー&ダフニス・プリエト（Henry Threadgill, Vijay Iyer & Dafnis Prieto）『Fifteen』ジャズのミラクルトリオが新た…",
+      "source": "Mikiki（タワーレコード）",
+      "sourceHomepage": "https://mikiki.tokyo.jp/",
+      "category": "music"
+    },
+    {
       "title": "『ele-king vol.37 ボーズ・オブ・カナダ大研究／サイケ＆ドリーミー特集』発売",
       "url": "https://amass.jp/191350/",
       "date": "2026-08-20T21:58:00.000Z",
@@ -272,6 +495,15 @@
       "category": "music"
     },
     {
+      "title": "江戸〜明治の「庶民の食生活」はどれほど健康的だった？古書の毛髪から明らかに",
+      "url": "https://nazology.kusuguru.co.jp/archives/198887",
+      "date": "2026-08-20T21:30:14.000Z",
+      "summary": "江戸時代の庶民の食事と聞くと、白米や漬物、魚を中心とした「質素な食卓」を思い浮かべる人も多いでしょう。 では、そんな食生活は現代と比べて、栄養面ではどのような特徴を持っていたのでしょうか。 龍谷大学などの研究グループは、江戸〜明治時代に作られた和本の表紙に紛れ込んでいた「毛髪」を分析し、当時の都市庶民が何を食べ、どのような元素を体内に取り込んでいたのかを調査。 その結果、食事は米と海産魚を中心とする質素な内容だった一方で、カルシウムや鉄",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
       "title": "佐々木李子、新曲がアニメ『転生貴族、鑑定スキルで成り上がる』3期OP主題歌に シングルリリースも",
       "url": "https://realsound.jp/2026/08/post-2497712.html",
       "date": "2026-08-20T21:00:49.000Z",
@@ -288,6 +520,15 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "2026年8月21日：本日発売のコミック新刊",
+      "url": "https://hon-hikidashi.jp/news/183498/",
+      "date": "2026-08-20T21:00:12.000Z",
+      "summary": "2026年8月21日（金）発売のコミック単行本をお知らせします。 〉 過去の日付のコミック新刊はこちら (adsbygoogle = window.adsbygoogle || []).push({}); KADOKAWA MFコミックスフラッパーシリーズ ・ リコリス・リコイル（9） （備前やすのり、Spider Lily） ・ オセロとアルキメデスの冒険（2） （なまねこ） MFC ・ アオイ君の猥談がたまらない！！（4） （mmk",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
     },
     {
       "title": "ジョー・スタンプ 新ソロ・アルバム『Lord of the Strings』発売 新曲MVあり",
@@ -350,6 +591,15 @@
       "summary": "ウィーザーが米TV番組『The Tonight Show Starring Jimmy Fallon』に登場。新アルバム『Weezer（The Gold Album）』から「We Might as Well Be Strangers」を披露。映像あり https://amass.jp/191337/",
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "Lienel、「一途な輪舞」配信開始 ”ピュアきゅん”溢れるドラマOP映像も公開",
+      "url": "https://ototoy.jp/news/131451",
+      "date": "2026-08-20T15:00:00.000Z",
+      "summary": "Lienelが、MBSドラマフィル枠にて放送中の新ドラマ『ちょっと待とうよ、春虎くん』オープニング主題歌となっている新曲「一途な輪舞」を2026年8月21日(金)に配信リリースした",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
     },
     {
@@ -497,21 +747,21 @@
       "category": "documentary"
     },
     {
-      "title": "フジロック’26総括レポ The xx、マッシヴ・アタック、クルアンビン、ハイスタらが新たな歴史を刻んだ3日間 - イベント&ライブ・レポート",
-      "url": "https://mikiki.tokyo.jp/articles/-/45699",
-      "date": "2026-08-20T11:00:00.000Z",
-      "summary": "フジロック’26総括レポ The xx、マッシヴ・アタック、クルアンビン、ハイスタらが新たな歴史を刻んだ3日間",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
       "title": "tayori、白鳥玉季が出演した新曲「ヘヴン」MV公開",
       "url": "https://ototoy.jp/news/131448",
       "date": "2026-08-20T11:00:00.000Z",
       "summary": "tayoriが2026年7月8日(水)にリリースしたニューシングル「ヘヴン」のミュージックビデオを公開した",
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
+      "title": "フジロック’26総括レポ The xx、マッシヴ・アタック、クルアンビン、ハイスタらが新たな歴史を刻んだ3日間 - イベント&ライブ・レポート",
+      "url": "https://mikiki.tokyo.jp/articles/-/45699",
+      "date": "2026-08-20T11:00:00.000Z",
+      "summary": "フジロック’26総括レポ The xx、マッシヴ・アタック、クルアンビン、ハイスタらが新たな歴史を刻んだ3日間",
+      "source": "Mikiki（タワーレコード）",
+      "sourceHomepage": "https://mikiki.tokyo.jp/",
       "category": "music"
     },
     {
@@ -632,15 +882,6 @@
       "category": "cooking"
     },
     {
-      "title": "映画「ケルト・ユートピア」が映すアイルランド音楽の豊かさと複雑さ――ポスト植民地の現代に息づくフォークを監督2人が語る - インタビュー",
-      "url": "https://mikiki.tokyo.jp/articles/-/45849",
-      "date": "2026-08-20T09:00:00.000Z",
-      "summary": "映画「ケルト・ユートピア」が映すアイルランド音楽の豊かさと複雑さ――ポスト植民地の現代に息づくフォークを監督2人が語る",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
       "title": "10年の記憶と感動を詰めた奇跡のステージ。初演から見届けた「『あんさんぶるスターズ！THE STAGE』-10th Anniversary LIVE-」1万字レポート",
       "url": "https://www.4gamer.net/games/440/G044054/20260812007/",
       "date": "2026-08-20T09:00:00.000Z",
@@ -648,15 +889,6 @@
       "source": "4Gamer（乙女ゲーム関連）",
       "sourceHomepage": "https://www.4gamer.net/",
       "category": "otome"
-    },
-    {
-      "title": "念願のチョコレートのたたき売りに行く（傑作選）",
-      "url": "https://dailyportalz.jp/kiji/chocolate-tatakiuri",
-      "date": "2026-08-20T09:00:00.000Z",
-      "summary": "「チョコのたたき売り、買ってみたいので見ててください」。安藤さんとアメ横を歩いていたら、急にそんなことを言われた。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
     },
     {
       "title": "着るキノコ。生きた菌糸で作られた自己修復するドレス",
@@ -668,12 +900,30 @@
       "category": "documentary"
     },
     {
+      "title": "念願のチョコレートのたたき売りに行く（傑作選）",
+      "url": "https://dailyportalz.jp/kiji/chocolate-tatakiuri",
+      "date": "2026-08-20T09:00:00.000Z",
+      "summary": "「チョコのたたき売り、買ってみたいので見ててください」。安藤さんとアメ横を歩いていたら、急にそんなことを言われた。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
+    },
+    {
       "title": "Kucci、新曲「くらいべいびー」リリース&MV公開",
       "url": "https://ototoy.jp/news/131447",
       "date": "2026-08-20T09:00:00.000Z",
       "summary": "Kucciが2026年8月19日(水)にニューシングル「くらいべいびー」をリリースし、ミュージックビデオを公開した",
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
+      "title": "映画「ケルト・ユートピア」が映すアイルランド音楽の豊かさと複雑さ――ポスト植民地の現代に息づくフォークを監督2人が語る - インタビュー",
+      "url": "https://mikiki.tokyo.jp/articles/-/45849",
+      "date": "2026-08-20T09:00:00.000Z",
+      "summary": "映画「ケルト・ユートピア」が映すアイルランド音楽の豊かさと複雑さ――ポスト植民地の現代に息づくフォークを監督2人が語る",
+      "source": "Mikiki（タワーレコード）",
+      "sourceHomepage": "https://mikiki.tokyo.jp/",
       "category": "music"
     },
     {
@@ -776,6 +1026,15 @@
       "category": "cooking"
     },
     {
+      "title": "ウクライナのセルゲイ・ポノマレンコは本当にタイムトラベラーだったのか？",
+      "url": "https://karapaia.com/archives/582260.html",
+      "date": "2026-08-20T07:00:00.000Z",
+      "summary": "タイムトラベルは、長いあいだSF小説や映画の定番の題材であり続けてきた。だが、現実の世界で本当にタイムマシンを作り、過去や未来へと自分自身を送り出すことができる日は来るのだろうか。2006年、ウクライナの首都キーウに奇妙な身なりの男性が姿を現した…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
       "title": "ワインのボトルが大きい",
       "url": "https://dailyportalz.jp/koresugo/large-wine-bottle",
       "date": "2026-08-20T07:00:00.000Z",
@@ -791,15 +1050,6 @@
       "summary": "まさかチンゲンサイにスペシャルサンクスのメッセージがあるとは思わず、2度見しました。",
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "ウクライナのセルゲイ・ポノマレンコは本当にタイムトラベラーだったのか？",
-      "url": "https://karapaia.com/archives/582260.html",
-      "date": "2026-08-20T07:00:00.000Z",
-      "summary": "タイムトラベルは、長いあいだSF小説や映画の定番の題材であり続けてきた。だが、現実の世界で本当にタイムマシンを作り、過去や未来へと自分自身を送り出すことができる日は来るのだろうか。2006年、ウクライナの首都キーウに奇妙な身なりの男性が姿を現した…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
     },
     {
@@ -920,15 +1170,6 @@
       "category": "cooking"
     },
     {
-      "title": "intoxicate vol.183が発行、表紙は忌野清志郎 武満徹、笠井紀美子、サントリーホール サマーフェスティバル、難波弘之などを特集 - ニュース",
-      "url": "https://mikiki.tokyo.jp/articles/-/45834",
-      "date": "2026-08-20T03:00:00.000Z",
-      "summary": "intoxicate vol.183が発行、表紙は忌野清志郎 武満徹、笠井紀美子、サントリーホール サマーフェスティバル、難波弘之などを特集",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
       "title": "ひらめいた！大親友のロバの背に乗り大好物の葉っぱを食べるヤギ",
       "url": "https://karapaia.com/archives/622934.html",
       "date": "2026-08-20T03:00:00.000Z",
@@ -936,6 +1177,15 @@
       "source": "カラパイア",
       "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
+    },
+    {
+      "title": "intoxicate vol.183が発行、表紙は忌野清志郎 武満徹、笠井紀美子、サントリーホール サマーフェスティバル、難波弘之などを特集 - ニュース",
+      "url": "https://mikiki.tokyo.jp/articles/-/45834",
+      "date": "2026-08-20T03:00:00.000Z",
+      "summary": "intoxicate vol.183が発行、表紙は忌野清志郎 武満徹、笠井紀美子、サントリーホール サマーフェスティバル、難波弘之などを特集",
+      "source": "Mikiki（タワーレコード）",
+      "sourceHomepage": "https://mikiki.tokyo.jp/",
+      "category": "music"
     },
     {
       "title": "【急上昇ワード】Midnight Grand Orchestra、4曲収録の初EP",
@@ -1001,19 +1251,19 @@
       "category": "culture"
     },
     {
-      "title": "岐阜タンメンの「プロテイントッピング」って頼んだことある？",
-      "url": "https://dailyportalz.jp/kiji/gifu-tanmen-protain",
+      "title": "桔梗信玄餅を包むスピードが速すぎる",
+      "url": "https://dailyportalz.jp/kiji/kikyo-shingen-mochi-furoshiki",
       "date": "2026-08-20T02:00:00.000Z",
-      "summary": "岐阜タンメンのメニューに「プロテイン」のトッピングがあるのを発見。注文すると果たして何が出てくるのか。そして、プロテインはタンメンと合うのか。気になることだらけです。",
+      "summary": "先日旅行先で工場見学に伺ったところ、桔梗信玄餅の風呂敷がものすごい勢いで包まれているのを目撃してしまった。なんだあれは、どうなってるんだ。おれにもできますか。",
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
     },
     {
-      "title": "桔梗信玄餅を包むスピードが速すぎる",
-      "url": "https://dailyportalz.jp/kiji/kikyo-shingen-mochi-furoshiki",
+      "title": "岐阜タンメンの「プロテイントッピング」って頼んだことある？",
+      "url": "https://dailyportalz.jp/kiji/gifu-tanmen-protain",
       "date": "2026-08-20T02:00:00.000Z",
-      "summary": "先日旅行先で工場見学に伺ったところ、桔梗信玄餅の風呂敷がものすごい勢いで包まれているのを目撃してしまった。なんだあれは、どうなってるんだ。おれにもできますか。",
+      "summary": "岐阜タンメンのメニューに「プロテイン」のトッピングがあるのを発見。注文すると果たして何が出てくるのか。そして、プロテインはタンメンと合うのか。気になることだらけです。",
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
@@ -1658,6 +1908,15 @@
       "category": "otome"
     },
     {
+      "title": "「失敗し放題」の時代に私たちは何を始める？『いい人すぎるよ展』明円卓の、アイデアをかたちにする方法",
+      "url": "https://www.cinra.net/article/202608_hp_suguru-myoen_cl",
+      "date": "2026-08-19T09:00:00.000Z",
+      "summary": "話題のプロジェクトを仕掛け続ける明円卓に聞く。「失敗はタダ」の時代、AIを相棒に新しい一歩を踏み出すには？",
+      "source": "CINRA",
+      "sourceHomepage": "https://www.cinra.net/",
+      "category": "culture"
+    },
+    {
       "title": "もし富士山が噴火したらどうなる!? 首都圏での火山灰対策グッズを考える",
       "url": "https://magazine.cainz.com/article/256435",
       "date": "2026-08-19T09:00:00.000Z",
@@ -1674,15 +1933,6 @@
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
-    },
-    {
-      "title": "「失敗し放題」の時代に私たちは何を始める？『いい人すぎるよ展』明円卓の、アイデアをかたちにする方法",
-      "url": "https://www.cinra.net/article/202608_hp_suguru-myoen_cl",
-      "date": "2026-08-19T09:00:00.000Z",
-      "summary": "話題のプロジェクトを仕掛け続ける明円卓に聞く。「失敗はタダ」の時代、AIを相棒に新しい一歩を踏み出すには？",
-      "source": "CINRA",
-      "sourceHomepage": "https://www.cinra.net/",
-      "category": "culture"
     },
     {
       "title": "【メイン食材はゴーヤのみ】シャキシャキ感と旨みを味わう浅漬けレシピ3選",
@@ -5328,258 +5578,6 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
-    },
-    {
-      "title": "ギルバート・オサリバン 新アルバム『On the Record』発売 1曲試聴可",
-      "url": "https://amass.jp/191239/",
-      "date": "2026-08-14T11:07:00.000Z",
-      "summary": "ギルバート・オサリバン（Gilbert O'Sullivan）は新スタジオ・アルバム『On the Record』を海外で11月6日発売。新曲「Growing Old Disgracefully」が聴けます https://amass.jp/191239/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "Nothing’s Carved In Stone、恒例ワンマンをZepp DiverCityで開催 コンセプトは“プログレッシブ”",
-      "url": "https://realsound.jp/2026/08/post-2491302.html",
-      "date": "2026-08-14T11:02:08.000Z",
-      "summary": "Nothing's Carved In Stoneが、11月15日にZepp DiverCity(TOKYO)にてワンマンライブ『Perfect Sounds 〜Progressive Tracks〜＋Live on",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "2次元の知識をもとにした恋愛アドバイスが大好評！悪役令嬢のイメージが回復したわ！『悪役令嬢に転生したので、隠れハイスペ王子と破滅の運命を回避します！』【#12】",
-      "url": "https://hon-hikidashi.jp/book-person/179215/",
-      "date": "2026-08-14T10:45:25.000Z",
-      "summary": "キルタイムコミュニケーションより、 『悪役令嬢に転生したので、隠れハイスペ王子と破滅の運命を回避します！』第4巻 が8月12日（水）に発売されました。 社畜OLから乙女ゲームの悪役令嬢に転生したシャロンは、第二王子・トラヴィスとの婚約直前に前世の記憶を取り戻します。トラヴィスから婚約破棄され、修道院に閉じ込められる未来を回避したいシャロンは、機転を利かせて地味なモブ王子・フェリクスに求婚しますが、別の破滅フラグが立ってしまいます。 今回",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "アクセル・ローズ 「ひどい顎関節症」だった 公演の最中に自身の体験をユーモアを交えて語る",
-      "url": "https://amass.jp/191238/",
-      "date": "2026-08-14T10:31:00.000Z",
-      "summary": "ガンズのアクセル・ローズは「ひどい顎関節症」だったそうで公演の最中に自身の体験をユーモアを交えて語る。「歌っているとバッグス・バニーが俺の耳の中でぴょんぴょん跳ね回ってるみたい」「顎が外れるんじゃないかと思うような音も聞こえる。それはそれで面白いけど」 https://amass.jp/191238/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "彼女の行動に、笑顔の仮面がはがれてしまった…顔に出さない痛みをなぜ理解した？『占い師には花騎士の恋心が見えています』【#10】",
-      "url": "https://hon-hikidashi.jp/book-person/178801/",
-      "date": "2026-08-14T10:15:28.000Z",
-      "summary": "キルタイムコミュニケーションより、 『占い師には花騎士の恋心が見えています』第6巻 が8月12日（水）に発売されました。 薬屋のシルルは、人の感情や近い先の未来を見ることができる力を持ち、周囲から「占い師」と呼ばれています。ある日、「花の騎士」と呼ばれる騎士・エクトルを助けた彼女は、意図に反して彼と関わっていくことになります。 今回は、第1話～第2話の試し読みを配信します。作品が気になった方はぜひ、店頭でお買い求めください。 (adsb",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "わがままな妹が最強の鬼の花嫁となった姉へ大嫉妬！妖狐のあやかしと姉への復讐を企てる！？『鬼の花嫁』【#32】",
-      "url": "https://hon-hikidashi.jp/book-person/174583/",
-      "date": "2026-08-14T10:05:55.000Z",
-      "summary": "ほんのひきだしでは、7月17日の漫画の日を記念して、出版社がおすすめする今夏に読んでほしい注目コミック作品の試し読み記事を配信します。 スターツ出版のおすすめコミックは、今年3月に実写映画化され、現在テレビアニメが放送中の 『鬼の花嫁』 です。 本作は、人間とあやかしが共生する日本を舞台にした、和風あやかしシンデレラストーリーです。家族に虐げられて育った平凡な女子高生・柚子が、あやかしの頂点に立つ最強の鬼・玲夜に見初められ、溺愛されなが",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "「アイドルになる方法、教えてあげるよ」東京で、芸能事務所の男性と知り合う『虎と羊』【#4】",
-      "url": "https://hon-hikidashi.jp/book-person/179545/",
-      "date": "2026-08-14T10:00:15.000Z",
-      "summary": "BookLiveの出版者「ライブコミックス」のオリジナルコミック 『虎と羊』 が、8月14日（金）より、総合電子書籍ストア「ブックライブ」にて配信開始されました。 高校の人気者だった虎美は、ある日、いじめられている同級生の羊子を救います。卒業後、虎美はアイドルを夢見て上京しますが、自分が特別な存在ではないという現実を突きつけられます。芸能事務所に勤める高木と出会った虎美は暴力で支配されるようになり絶望しますが、そこに現れたのは、かつて救",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "2人きりで話をしたあの日から、距離が縮まっていく柚乃と緋呂…『ロリースイートロリー』【#10】",
-      "url": "https://hon-hikidashi.jp/book-person/179926/",
-      "date": "2026-08-14T09:55:51.000Z",
-      "summary": "キルタイムコミュニケーションより、 『ロリースイートロリー』 が8月12日（水）に発売されました。 本作は、高校生の柚乃と勇、そして勇の中学時代の友人・緋呂の3人が織りなす青春群像劇です。同じクラスになったことをきっかけに変化していく関係性と、友情だけでは言い表せない繊細な感情がみずみずしく描かれます。何気ない日常の中で揺れ動く少女たちの心を映し出す、切なくも愛おしい青春ストーリーです。 今回は、第1話～第2話の試し読みを配信します。作",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "小川で素足で！アンジュルム・後藤花が無邪気さで魅せる『B.L.T. SUMMER CANDY 2026』の購入者特典の画像解禁",
-      "url": "https://hon-hikidashi.jp/news/184493/",
-      "date": "2026-08-14T09:45:51.000Z",
-      "summary": "アンジュルム・後藤花さんが登場する 『B.L.T. SUMMER CANDY 2026』 が8月24日（月）に発売されます。後藤花さんの購入者特典の画像が解禁されました。 『B.L.T. SUMMER CANDY 2026』（東京ニュース通信社）撮影／HIROKAZU 後藤花（アンジュルム） ポストカード1枚 FUN'S PROJECT MALLで詳細を見る アンジュルム・後藤花（高校3年生）のカット 『B.L.T. SUMMER CA",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "エリカ・バドゥ 16年ぶりのスタジオ・アルバムはアルケミストとのコラボ作 発売日決定 1曲試聴可",
-      "url": "https://amass.jp/191237/",
-      "date": "2026-08-14T09:44:00.000Z",
-      "summary": "エリカ・バドゥは16年ぶりのスタジオ・アルバムをリリースします。プロデューサーのアルケミストとのコラボ・アルバムで、8月28日にリリースすることを正式に発表。このアルバムから新曲「Witch Doctor」が先行公開されています https://amass.jp/191237/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "スティーヴン・ビショップ『Careless』50周年、同作用にレコーディングされた未発表曲「I Don't Know You Anymore」公開",
-      "url": "https://amass.jp/191236/",
-      "date": "2026-08-14T09:17:00.000Z",
-      "summary": "スティーヴン・ビショップのデビューアルバム『Careless』。発売50周年を記念して、同アルバム用にレコーディングされたものの、これまで未発表だった「I Don't Know You Anymore」がオフィシャル・リリース。ミュージックビデオが公開 https://amass.jp/191236/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "ワームに過度の餌を与えると、クローン個体が鎖状につながった「怪物」が誕生した",
-      "url": "https://nazology.kusuguru.co.jp/archives/198698",
-      "date": "2026-08-14T09:00:10.000Z",
-      "summary": "驚きの発見です。 小さなワームに餌をたっぷり与えたところ、体が異常なほど長く伸び、途中から次々と新しい「頭」が現れました。 数日後には、1匹だったはずのワームが、4〜5匹のクローン個体を頭から尾へと連結した、まるで多頭の怪物のような姿へ変わったのです。 ただし、遺伝子変異によって突然別の生物になったわけではありません。 原因はむしろ、普段から行っている無性生殖が、豊富すぎる餌によって「渋滞」を起こしたことにありました。 ポーランド・ワル",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "こんな怖いまんがみんな読んでんの？～ちいかわ（傑作選）",
-      "url": "https://dailyportalz.jp/kiji/book-review-hayashi02",
-      "date": "2026-08-14T09:00:00.000Z",
-      "summary": "デイリーポータルZのライター、関係者が愛読している本を語ります。今回はウェブマスター 林。レコメンドは「ちいかわ」（講談社）です。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "ダイバーシティお宝鑑定 ライター三土さん「100均フリーダム」表紙のパンダ",
-      "url": "https://dailyportalz.jp/dpq/otakara-01",
-      "date": "2026-08-14T09:00:00.000Z",
-      "summary": "ものの価値は人それぞれ、私が100万円と言ったらそれは100万円。人の微妙な（ごめん）お宝の価値を認めていく鑑定企画です。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "【950人絶賛レシピも！鶏ささみがメイン！】ガッツリジューシー大満足の主菜レシピ4選",
-      "url": "https://news.cookpad.com/articles/65779",
-      "date": "2026-08-14T09:00:00.000Z",
-      "summary": "比較的お手頃な価格帯で買える鶏ささみ。あっさりしたイメージがあるかもしれませんが、味付けや調理法を工夫すれば満足感のある主菜になる優秀食材です。今回は、唐揚げ、大葉のみそ焼き、チーズステーキ、ガ...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "アカマンボウは冷たい海でも体温を維持できる唯一の魚だった",
-      "url": "https://karapaia.com/archives/621959.html",
-      "date": "2026-08-14T09:00:00.000Z",
-      "summary": "海にすむ魚のほとんどは変温動物で、体温は周りの海水と同じまで下がる。ところがアカマンボウだけは違っていた。アメリカ海洋大気庁の研究チームが調べたところ、深海の冷たい水の中を泳ぎながら、アカマンボウの体の中は温かいままだったのだ。全身の体温を保てる魚は…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
-      "title": "妻の幽霊は、なぜ掃除機に宿るのか？ タイ映画『ユースフル・ゴースト』監督が描く「無自覚な差別」の連鎖",
-      "url": "https://www.cinra.net/article/202608-useful-ghost_imgwyk",
-      "date": "2026-08-14T08:50:00.000Z",
-      "summary": "『カンヌ国際映画祭』の「批評家週間」グランプリ受賞。来日したラッチャプーム・ブンバンチャーチョーク監督に聞く",
-      "source": "CINRA",
-      "sourceHomepage": "https://www.cinra.net/",
-      "category": "culture"
-    },
-    {
-      "title": "ディープ・パープルのイアン・ギラン、リッチー・ブラックモアと33年ぶりに共演し、「リッチー、ありがとう。あの瞬間は本当に大きな意味があった」と投稿",
-      "url": "https://amass.jp/191235/",
-      "date": "2026-08-14T08:37:00.000Z",
-      "summary": "リッチー・ブラックモアが33年ぶりにディープ・パープルと共演した後、イアン・ギランが観客に経緯を語っていると、リッチー「どうして君は俺よりそんなに背が高くなったんだ？」、イアン「逆だよ、相棒。君が縮んだんだ」。公演後には「リッチー、ありがとう」と投稿 https://amass.jp/191235/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "100年前の”奇妙”な集中ヘルメット「アイソレーター」",
-      "url": "https://nazology.kusuguru.co.jp/archives/198678",
-      "date": "2026-08-14T08:00:02.000Z",
-      "summary": "集中できないなら、周囲から入ってくる刺激そのものを遮ってしまえばいい。 そんな大胆な発想から約100年前に誕生したのが、科学・発明雑誌『Science and Invention』の編集者で発明家でもあったヒューゴー・ガーンズバック（Hugo Gernsback）氏が考案した、巨大な集中用ヘルメット「アイソレーター（The Isolator）」です。 装着すると外の音が大幅に弱められ、視界も机の上に限られます。 最終的には眠気対策として",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "〈呼吸〉のような即興演奏――大村亘・橋爪亮督・西嶋徹が多様な楽器を奏で、自然体な会話を重ねた『プラーナ』を語る - インタビュー",
-      "url": "https://mikiki.tokyo.jp/articles/-/45614",
-      "date": "2026-08-14T08:00:00.000Z",
-      "summary": "〈呼吸〉のような即興演奏――大村亘・橋爪亮督・西嶋徹が多様な楽器を奏で、自然体な会話を重ねた『プラーナ』を語る",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "【爆速でできるごはんに合う副菜はコレ】漬けておくだけ自家製即席キムチ風漬物3選",
-      "url": "https://news.cookpad.com/articles/65804",
-      "date": "2026-08-14T08:00:00.000Z",
-      "summary": "タレを混ぜて漬けておくだけで完成する、少ない材料で作れるキムチ風の副菜を3つ集めました。コチュジャンや粉唐辛子で味付けするだけの簡単なレシピばかりなので、あと一品ほしいときに役立ちます。切り干し...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "彼はきっと私たちを許さない…ならば、どんな状況でも迎え撃てるよう、王子を万能に育てなきゃ！『悪役令嬢に転生したので、隠れハイスペ王子と破滅の運命を回避します！』【#9】",
-      "url": "https://hon-hikidashi.jp/book-person/179212/",
-      "date": "2026-08-14T07:45:23.000Z",
-      "summary": "キルタイムコミュニケーションより、 『悪役令嬢に転生したので、隠れハイスペ王子と破滅の運命を回避します！』第4巻 が8月12日（水）に発売されました。 社畜OLから乙女ゲームの悪役令嬢に転生したシャロンは、第二王子・トラヴィスとの婚約直前に前世の記憶を取り戻します。トラヴィスから婚約破棄され、修道院に閉じ込められる未来を回避したいシャロンは、機転を利かせて地味なモブ王子・フェリクスに求婚しますが、別の破滅フラグが立ってしまいます。 今回",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "誰も逆らえなかった妖狐のあやかし！妹のための家族・家庭を姉は寂しく去っていく……『鬼の花嫁』【#27】",
-      "url": "https://hon-hikidashi.jp/book-person/174573/",
-      "date": "2026-08-14T07:38:21.000Z",
-      "summary": "ほんのひきだしでは、7月17日の漫画の日を記念して、出版社がおすすめする今夏に読んでほしい注目コミック作品の試し読み記事を配信します。 スターツ出版のおすすめコミックは、今年3月に実写映画化され、現在テレビアニメが放送中の 『鬼の花嫁』 です。 本作は、人間とあやかしが共生する日本を舞台にした、和風あやかしシンデレラストーリーです。家族に虐げられて育った平凡な女子高生・柚子が、あやかしの頂点に立つ最強の鬼・玲夜に見初められ、溺愛されなが",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "苦痛の原因はこれだったのね…！彼の腕には魔物につけられた傷があった『占い師には花騎士の恋心が見えています』【#7】",
-      "url": "https://hon-hikidashi.jp/book-person/178798/",
-      "date": "2026-08-14T07:15:26.000Z",
-      "summary": "キルタイムコミュニケーションより、 『占い師には花騎士の恋心が見えています』第6巻 が8月12日（水）に発売されました。 薬屋のシルルは、人の感情や近い先の未来を見ることができる力を持ち、周囲から「占い師」と呼ばれています。ある日、「花の騎士」と呼ばれる騎士・エクトルを助けた彼女は、意図に反して彼と関わっていくことになります。 今回は、第1話～第2話の試し読みを配信します。作品が気になった方はぜひ、店頭でお買い求めください。 (adsb",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "妖狐のあやかしへのお仕置きはもうやめてあげて！心優しい姉がそっと両親に別れを告げる！『鬼の花嫁』【#26】",
-      "url": "https://hon-hikidashi.jp/book-person/174571/",
-      "date": "2026-08-14T07:05:10.000Z",
-      "summary": "ほんのひきだしでは、7月17日の漫画の日を記念して、出版社がおすすめする今夏に読んでほしい注目のコミック作品の試し読み記事を配信します。 スターツ出版のおすすめコミックは、今年3月に実写映画化され、現在テレビアニメが放送中の 『鬼の花嫁』 です。 本作は、人間とあやかしが共生する日本を舞台にした、和風あやかしシンデレラストーリーです。 家族に虐げられて育った適当な女子高生・柚子が、あやかしの頂上に立つ最強の鬼・玲夜に見初められ、溺れ愛さ",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "「アイドルになれるって！」かわいくて優しい私は学校の人気者…今日も善行を積んでファンを集める『虎と羊』【#1】",
-      "url": "https://hon-hikidashi.jp/book-person/179470/",
-      "date": "2026-08-14T07:00:39.000Z",
-      "summary": "BookLiveの出版者「ライブコミックス」のオリジナルコミック 『虎と羊』 が、8月14日（金）より、総合電子書籍ストア「ブックライブ」にて配信開始されました。 高校の人気者だった虎美は、ある日、いじめられている同級生の羊子を救います。卒業後、虎美はアイドルを夢見て上京しますが、自分が特別な存在ではないという現実を突きつけられます。芸能事務所に勤める高木と出会った虎美は暴力で支配されるようになり絶望しますが、そこに現れたのは、かつて救",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "羽田空港のPLAZAの什器は飛行機柄",
-      "url": "https://dailyportalz.jp/koresugo/PLAZA-hikouki-gara",
-      "date": "2026-08-14T07:00:00.000Z",
-      "summary": "羽田空港のPLAZAの什器が飛行機モチーフでかわいかったです。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "肉の旨みがじゅわっと広がる◎レンチンで完成するとろ旨「なすドッグ」",
-      "url": "https://news.cookpad.com/articles/65770",
-      "date": "2026-08-14T07:00:00.000Z",
-      "summary": "切り込みを入れてお肉を挟むだけの「なすドッグ」。レンジでチンするだけで完成するのに、なすの甘みとお肉の旨みが溶け合って、ぺろりと食べられるとSNSでも大人気です。今回は家族みんなが大満足する簡単...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
     }
   ]
 }
