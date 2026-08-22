@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-08-22T07:04:35.254Z",
+  "generatedAt": "2026-08-22T13:04:38.040Z",
   "articleCount": 600,
   "feedStatus": [
+    {
+      "name": "NHKニュース（国際）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+      "errors": []
+    },
     {
       "name": "NHKニュース（主要）",
       "category": "news",
@@ -21,13 +28,6 @@
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
       "errors": []
     },
     {
@@ -59,13 +59,6 @@
       "errors": []
     },
     {
-      "name": "メシ通（ホットペッパーグルメ）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
-      "errors": []
-    },
-    {
       "name": "amass",
       "category": "music",
       "ok": true,
@@ -73,10 +66,10 @@
       "errors": []
     },
     {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
+      "name": "メシ通（ホットペッパーグルメ）",
+      "category": "cooking",
       "ok": true,
-      "usedUrl": "https://sorae.info/feed",
+      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
       "errors": []
     },
     {
@@ -87,10 +80,10 @@
       "errors": []
     },
     {
-      "name": "リアルサウンド",
-      "category": "music",
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
+      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -101,10 +94,24 @@
       "errors": []
     },
     {
+      "name": "リアルサウンド",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://realsound.jp/atom.xml",
+      "errors": []
+    },
+    {
       "name": "アニメ！アニメ！（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://animeanime.jp/rss20/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
       "errors": []
     },
     {
@@ -136,17 +143,17 @@
       "errors": []
     },
     {
-      "name": "和樂web",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://intojapanwaraku.com/feed",
-      "errors": []
-    },
-    {
       "name": "TOKION",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://tokion.jp/feed/",
+      "errors": []
+    },
+    {
+      "name": "和樂web",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://intojapanwaraku.com/feed",
       "errors": []
     },
     {
@@ -157,13 +164,6 @@
       "errors": []
     },
     {
-      "name": "Art Annual online（美術）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://www.art-annual.jp/feed",
-      "errors": []
-    },
-    {
       "name": "青い日記帳（美術展）",
       "category": "culture",
       "ok": true,
@@ -171,14 +171,113 @@
       "errors": []
     },
     {
-      "name": "OTOTOY",
-      "category": "music",
+      "name": "Art Annual online（美術）",
+      "category": "culture",
       "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
+      "usedUrl": "https://www.art-annual.jp/feed",
       "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "ジェファーソン・スターシップ 新曲「Jetpack」公開",
+      "url": "https://amass.jp/191395/",
+      "date": "2026-08-22T21:50:00.000Z",
+      "summary": "ジェファーソン・スターシップは新曲「Jetpack」をリリース。リリックビデオが公開されています https://amass.jp/191395/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ミニストリー 最後のスタジオ・アルバムから新曲「We Hate」のミュージックビデオ公開",
+      "url": "https://amass.jp/191394/",
+      "date": "2026-08-22T21:37:00.000Z",
+      "summary": "ミニストリーは“最後のスタジオ・アルバム”と宣言する新アルバム『Hate To Go - Take Out Or Delivery』から新曲「We Hate」をリリース。ミュージックビデオが公開されています。 https://amass.jp/191394/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "チャカ・カーンが選ぶ「無人島レコード」は？英BBC『Desert Island Discs』出演",
+      "url": "https://amass.jp/191393/",
+      "date": "2026-08-22T21:31:00.000Z",
+      "summary": "チャカ・カーンが選ぶ「無人島レコード」は？英BBC『Desert Island Discs』で「無人島レコード」8作を選んでいます。レッド・ツェッペリン、アレサ・フランクリン、マイルス・デイヴィス、ジョニ・ミッチェル、自身の作品ほか https://amass.jp/191393/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "映画『クロウ／飛翔伝説』 BS-TBSで8月30日放送",
+      "url": "https://amass.jp/191392/",
+      "date": "2026-08-22T21:10:00.000Z",
+      "summary": "映画『クロウ／飛翔伝説』がBS-TBSで8月30日放送。ジェームズ・オバーによるコミックを映画化した、カルト的な人気を誇る傑作ダークファンタジー。撮影中の不慮の事故でブランドン・リーの遺作となった。本編ノーカット＆字幕放送。 https://amass.jp/191392/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "誰かの不幸で腹を満たすーーなるみや「恋のfrog」が描く現代のリアル、バイラルの枠を超えて拡張する世界",
+      "url": "https://realsound.jp/2026/08/post-2449583.html",
+      "date": "2026-08-22T21:00:08.000Z",
+      "summary": "2021年にTikTokへの初投稿を行って以来、わずか1カ月で10万人フォロワーを達成し、その独特の音楽性とユーモア溢れる人間性で瞬く間に若い世代の心を掴んだシンガーソングライター・なるみや。本稿では、そんな彼女が6月にリリースした新曲「恋のfrog」に注目したい。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "AC/DCのミュージックビデオ撮影の舞台裏に迫るドキュメンタリー YouTubeでフル公開中",
+      "url": "https://amass.jp/191391/",
+      "date": "2026-08-22T20:59:00.000Z",
+      "summary": "AC/DCのミュージックビデオの歴史や制作舞台裏に迫るドキュメンタリー『AC/DC - Video Killed the Radio Star』（約24分）がYouTubeでフル公開されています https://amass.jp/191391/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ジミ・ヘンドリックスのYouTubeチャンネル、ジミ本人も認めた90分の貴重映像『Live at Woodstock:A Second Look』を無料公開",
+      "url": "https://amass.jp/191390/",
+      "date": "2026-08-22T20:35:00.000Z",
+      "summary": "ジミ・ヘンドリックスのYouTubeチャンネルは69年ウッドストックの映像作品『Live at Woodstock:A Second Look』（約90分）を無料公開。22歳が忍び込んでジミの演奏を撮影。後にジミ本人も鑑賞して、お墨付きを与えた貴重映像 https://amass.jp/191390/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "世が世なら!!!、新体制は8人に お披露目フリーライブ前に8月27日より新メンバー4名を順次公開",
+      "url": "https://realsound.jp/2026/08/post-2499575.html",
+      "date": "2026-08-22T20:00:49.000Z",
+      "summary": "世が世なら!!!が、本日8月22日に公式X（旧Twitter）を更新。8月27日20時より新メンバーを順次公開していくことを予告した。 X（旧Twitter）に投稿されたビジュアルには「世が世なら!!!は、8人になり",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "RE-GE、サマープロジェクト第4弾楽曲「夏の栞」配信リリース フリーライブでサプライズ披露",
+      "url": "https://realsound.jp/2026/08/post-2499602.html",
+      "date": "2026-08-22T20:00:09.000Z",
+      "summary": "RE-GEが、新曲「夏の栞」を8月28日に配信リリースする。 本楽曲は、本日8月22日に川崎 ラ チッタデッラ中央噴水広場にて行われたフリーライブで初披露されたもの。『RE-GEと過ごすファーストサマープロジェクト』",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "Snow Man 佐久間大介、土屋太鳳へのエスコートに賞賛の声 「ギャップが激しい」「どこぞの王子様かと思いました」",
+      "url": "https://realsound.jp/2026/08/post-2499628.html",
+      "date": "2026-08-22T18:19:25.000Z",
+      "summary": "佐久間大介（Snow Man）が、映画『マッチング TRUE LOVE』の完成披露舞台挨拶に登壇した。佐久間がオフショットを自身のInstagramに公開している。 佐久間は、8月20日にTOHOシネマズ 六本木ヒル",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "日食なつこ、目も耳も飽きさせない豪華絢爛『大日食観測会2026夏』 10月からは二度目の未発表曲ツアーへ",
+      "url": "https://realsound.jp/2026/08/post-2496783.html",
+      "date": "2026-08-22T18:00:37.000Z",
+      "summary": "日食なつこ、約1年半ぶりの自主企画ワンマンライブ『大日食観測会2026夏』をレポートする。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
     {
       "title": "月詠み、「朔日 feat. 吉乃」がアニメ『Duel Masters LOST』新章EDに続投 新曲「カンターレ」配信も",
       "url": "https://realsound.jp/2026/08/post-2499528.html",
@@ -225,6 +324,96 @@
       "category": "music"
     },
     {
+      "title": "寝ている間に脳は「お気に入りの記憶」を優先で再生している",
+      "url": "https://nazology.kusuguru.co.jp/archives/181266",
+      "date": "2026-08-22T13:00:02.000Z",
+      "summary": "記憶にも推しがあるようです。 スイスのジュネーブ大学（UNIGE）で行われた研究によると、ポジティブな気持ちと結びついた記憶は睡眠中の脳内で優先的に繰り返し再生され、その結果として記憶がより強化される可能性があるという。 研究ではゲームで勝利したときに得られた報酬に関する脳の活動パターンが、深い眠り（ノンレム睡眠）の間により頻繁に再現されることを脳の画像解析から発見しました。 人は「嬉しい記憶」を眠っている間に無意識に何度も反芻（はんす",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "直径約32億光年の超大規模構造「ジャイアント・リング」を発見 従来の理論では説明がつかず",
+      "url": "https://sorae.info/astronomy/20260822-giant-ring.html",
+      "date": "2026-08-22T13:00:01.000Z",
+      "summary": "私たちの宇宙に関する従来の理論では、数十億光年以上のスケールで見渡すと、宇宙は概ね均一であるという考えが主流でした。このため、宇宙に存在する構造には、大きさの上限があるとされていました。 しかし近年、上限をはるかに超える…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
+    },
+    {
+      "title": "判断基準がない問題に当たったとき、AIは多数派に同調しやすくなる",
+      "url": "https://nazology.kusuguru.co.jp/archives/198782",
+      "date": "2026-08-22T12:00:21.000Z",
+      "summary": "人間は店の評判を知らなくても、長い行列を見ると「これだけ人が並んでいるなら、きっと良い店なのだろう」と感じることがあります。 自分では答えを判断する材料が乏しいとき、周囲の人たちの選択そのものを手掛かりにするわけです。 では、複数のAIが互いの選択を見ながら判断すると、同じような多数派への追随は起こるのでしょうか。 複数のAIエージェントを連携させる技術が広がる一方、こうしたAI集団が外部から「合意しなさい」と指示されなくても自発的にま",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "天の川銀河は118億年前に別の銀河を飲み込んでいた！最古の合体の証拠を突き止める",
+      "url": "https://karapaia.com/archives/623155.html",
+      "date": "2026-08-22T11:30:00.000Z",
+      "summary": "私たちが暮らす天の川銀河は、誕生して間もないころから別の銀河を飲み込んで成長していことが、ハッブル宇宙望遠鏡のデータ分析で明らかとなった。イタリアを中心とする研究チームは、約118億年前、ビッグバンからわずか20億年後に…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
+      "title": "店のナンバー争いには無関心…ゲームランキングにだけ執着する先輩ホストの狙いは！？『えぶりでいホスト』【#24】",
+      "url": "https://hon-hikidashi.jp/book-person/182617/",
+      "date": "2026-08-22T11:00:01.000Z",
+      "summary": "「ほんのひきだし」では、「夏の夜更かし、ちょっと刺激的な夜読。」をテーマに、眠れない夏の夜にこそ読みたいコミックをご紹介します。恋、秘密、駆け引き、復讐、そして誰にも言えない想い。少し刺激的で、気づけば夜更かししてしまうような物語を、この機会にぜひお楽しみください。 今回ご紹介するのは、夜の街のリアルと 現実離れした激しいギャグが交錯する、眠れなくなる「夜職」コメディ 『えぶりでいホスト』 です。 (adsbygoogle = wind",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "hardnuts、新ギタリストとしてナカムラが正式加入",
+      "url": "https://ototoy.jp/news/131470",
+      "date": "2026-08-22T11:00:00.000Z",
+      "summary": "hardnutsに新ギタリストとしてナカムラが正式加入することが発表された",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
+      "title": "急な熱で倒れてしまった！ 子どものころの夢を見ている私に突然話しかけてきたのは……誰！？『夢見の公爵令嬢は婚約破棄をご所望です』【#9】",
+      "url": "https://hon-hikidashi.jp/book-person/185928/",
+      "date": "2026-08-22T10:45:55.000Z",
+      "summary": "実業之日本社より、 『夢見の公爵令嬢は婚約破棄をご所望です』第2巻 が8月20日（木）に発売されました。 本作は、夢で見た事柄が必ず起きる「夢見の聖女」である公爵令嬢フィーメルが最愛の婚約者エドガー殿下から婚約破棄を言い渡される夢を見て、身を引こうとする“ドキドキすれ違いファンタジー”です。 ぜひお近くの書店でお買い求めください。 (adsbygoogle = window.adsbygoogle || []).push({}); 試し",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "13年前、浮気の疑いのある夫の後をつけたことがあった！ その時たどり着いた家がまさかの！？『シジュウカラ』【#12】",
+      "url": "https://hon-hikidashi.jp/book-person/182963/",
+      "date": "2026-08-22T10:30:45.000Z",
+      "summary": "「ほんのひきだし」では、「夏の夜更かし、ちょっと刺激的な夜読。」をテーマに、眠れない夏の夜にこそ読みたいコミックをご紹介します。恋、秘密、駆け引き、復讐、そして誰にも言えない想い。少し刺激的で、気づけば夜更かししてしまうような物語を、この機会にぜひお楽しみください。 今回ご紹介するのは、アラフォーの女性と20代の男性の出会いは偶然？それとも必然？ 『シジュウカラ』 です。 (adsbygoogle = window.adsbygoogl",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "夜の会社で行為をする元彼と後輩…… そこに昼に会った男性がやってきて私を連れ出して……『隣の芝くんは見せてくれない』【#9】",
+      "url": "https://hon-hikidashi.jp/book-person/183257/",
+      "date": "2026-08-22T10:15:36.000Z",
+      "summary": "「ほんのひきだし」では、「夏の夜更かし、ちょっと刺激的な夜読。」をテーマに、眠れない夏の夜にこそ読みたいコミックをご紹介します。恋、秘密、駆け引き、復讐、そして誰にも言えない想い。少し刺激的で、気づけば夜更かししてしまうような物語を、この機会にぜひお楽しみください。 今回ご紹介するのは、隣人の行為をのぞき見するのが止まらない！ 『隣の芝くんは見せてくれない』 です。 (adsbygoogle = window.adsbygoogle |",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "「わあ、金髪美少女…」目の前に現れた侯爵令嬢は、オレと同じ12歳の少女だった『最弱職が前世の知識で世界最強～俺だけレベル限界がないので無限に強くなる無双ライフ～』【#3】",
+      "url": "https://hon-hikidashi.jp/book-person/187992/",
+      "date": "2026-08-22T10:10:41.000Z",
+      "summary": "実業之日本社より、 『最弱職が前世の知識で世界最強～俺だけレベル限界がないので無限に強くなる無双ライフ～』第5巻 が8月20日（木）に発売されました。 魔王との決戦で命を落とした最強の魔法使い・ロイは、魔法が廃れた300年後の世界に少年・ユーグとして転生します。しかし、この世界では魔法は廃れ、高貴な職業と崇められていた「魔法使い」は最底辺の仕事におとしめられていました。 ぜひお近くの書店でお買い求めください。 (adsbygoogle ",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
       "title": "KO1KEYZ デビュー曲MVに溢れるポテンシャル JO1、INIらとは一線を画す12人の“強み”を活かした戦略",
       "url": "https://realsound.jp/2026/08/post-2496179.html",
       "date": "2026-08-22T10:00:09.000Z",
@@ -232,6 +421,105 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "「殺す殺す殺す！コロース！」突然スマホをアイスピックで滅多刺し！？先輩ホストに何が起きた！？『えぶりでいホスト』【#23】",
+      "url": "https://hon-hikidashi.jp/book-person/182615/",
+      "date": "2026-08-22T10:00:01.000Z",
+      "summary": "「ほんのひきだし」では、「夏の夜更かし、ちょっと刺激的な夜読。」をテーマに、眠れない夏の夜にこそ読みたいコミックをご紹介します。恋、秘密、駆け引き、復讐、そして誰にも言えない想い。少し刺激的で、気づけば夜更かししてしまうような物語を、この機会にぜひお楽しみください。 今回ご紹介するのは、夜の街のリアルと 現実離れした激しいギャグが交錯する、眠れなくなる「夜職」コメディ 『えぶりでいホスト』 です。 (adsbygoogle = wind",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "きゅうりは冷凍保存が正解？3つの資格を持つ野菜のプロが教える、野菜が“10倍おいしくなる”保存法とレシピ",
+      "url": "https://news.cookpad.com/articles/65820",
+      "date": "2026-08-22T10:00:00.000Z",
+      "summary": "物価高騰が続く今、せっかく買った野菜を余らせず、おいしく使い切りたい——。そんな悩みに応える一冊『野菜を買ったら図鑑 - 野菜が10倍おいしくなる保存法と64のレシピ -』（ワニブックス）が発売されました。著者は管理栄養士・野菜ソムリエプロ・冷凍生活アドバイザーの3つの資格を持つ小島香住さん。この記事では、本書で紹介されている夏野菜（ピーマン・きゅうり・オクラ）の保存や下処理のコツと簡単レシピをご紹介します。",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "「ツイステ」推しのカードは絶対欲しい☆ アニメ「エピソード オブ サバナクロー」配信を記念した新商品が12月23日発売！ アニメイトでフェアも開催",
+      "url": "https://animeanime.jp/article/2026/08/22/102275.html",
+      "date": "2026-08-22T09:30:03.000Z",
+      "summary": "『ディズニー ツイステッドワンダーランド ザ アニメーション ～エピソード オブ サバナクロー～』の新商品が12月23日に登場。アニメイトでは同日から配信記念フェアも開催される。",
+      "source": "アニメ！アニメ！（乙女ゲーム関連）",
+      "sourceHomepage": "https://animeanime.jp/",
+      "category": "otome"
+    },
+    {
+      "title": "スペースX、約16時間で「ファルコン9」を2回打ち上げ 合計56機のスターリンク衛星を軌道投入",
+      "url": "https://sorae.info/ssn/20260822-starlink-g10-39-g15-20.html",
+      "date": "2026-08-22T09:18:30.000Z",
+      "summary": "SpaceX（スペースX）は日本時間2026年8月22日、アメリカ国内2か所の発射場から「Falcon 9（ファルコン9）」ロケットを相次いで打ち上げ、合計56機のStarlink（スターリンク）衛星を所定の軌道へ投入し…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
+    },
+    {
+      "title": "OFFICE DESTRUCTION GIRL、新作EP『EP1』リリース",
+      "url": "https://ototoy.jp/news/131469",
+      "date": "2026-08-22T09:00:00.000Z",
+      "summary": "OFFICE DESTRUCTION GIRLが新作EP『EP1』を2026年8月19日にリリースした",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
+      "title": "pudelhunds、新作EP『imnotsureif』リリース",
+      "url": "https://ototoy.jp/news/131468",
+      "date": "2026-08-22T09:00:00.000Z",
+      "summary": "pudelhundsが新作EP『imnotsureif』を2026年8月19日にリリースした",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
+      "title": "チーズ500gを溶かしてつくるシチュー、なんか悪いことしてる気持ちになる（傑作選）",
+      "url": "https://dailyportalz.jp/kiji/chili-cheese-etouffe",
+      "date": "2026-08-22T09:00:00.000Z",
+      "summary": "今日はアメリカNo.1の美味い料理（筆者調べ）をご紹介です。そんなに複雑なレシピでもないのですが、コツとしては、不退転の決意で望むことです。覚悟はいいですか。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "突如空き地に現れた複数のニセ黒猫の謎。その目的は？（アメリカ）",
+      "url": "https://karapaia.com/archives/623225.html",
+      "date": "2026-08-22T09:00:00.000Z",
+      "summary": "アメリカ・フロリダ州の空き地に、ある日突然、黒猫の形をした6体のパネルが現れた。住民は季節外れのハロウィンの飾りだと思ったが、近くの別の空き地でも同じニセ猫6体が見つかった。2か所の土地は最近売却され、一方には法律で保護されているアナホリフクロウの巣穴があった…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
+      "title": "100歳を超える長寿の体内では免疫の司令塔が自らがんと闘っていた",
+      "url": "https://nazology.kusuguru.co.jp/archives/198915",
+      "date": "2026-08-22T08:00:41.000Z",
+      "summary": "60代や70代で亡くなった著名人の訃報を聞くと、「まだ若いのに」と感じることがあります。 そして、その死因としてしばしば挙げられるのが、がんです。 年齢を重ねれば、私たちの体では遺伝子の変異や細胞の老化が少しずつ蓄積し、がんをはじめとするさまざまな病気のリスクが高まっていきます。 それでは、110歳を超えるような人々は、そうした「高齢になるほど増えていく危険」をどのように乗り越えているのでしょうか。 大阪大学や理化学研究所、慶應義塾大学",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "「左手は悪魔の手」という抑圧。ツォウ・シーチンが25年越しに『左利きの少女』で描いた台湾社会",
+      "url": "https://www.cinra.net/article/202510-tunekawa_sekaitizu_10_imgwyk",
+      "date": "2026-08-22T08:00:01.000Z",
+      "summary": "オスカー5冠『ANORA アノーラ』のショーン・ベイカーと20年以上に渡って協業。ツォウの初単独監督作品を紐解く",
+      "source": "CINRA",
+      "sourceHomepage": "https://www.cinra.net/",
+      "category": "culture"
+    },
+    {
+      "title": "【これ一杯で大満足】蒸し暑い日もさらっと完食！冷や汁風ごちそうボウル3選",
+      "url": "https://news.cookpad.com/articles/65817",
+      "date": "2026-08-22T08:00:00.000Z",
+      "summary": "蒸し暑い日が続くと、なんとなく元気が出ないときってありませんか？そんなときに試してほしいのが「一汁三菜ボウル」です。「一汁三菜ボウル」とは、一つの器に主食・主菜・副菜・汁物の要素を全て盛り込んだ...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
     },
     {
       "title": "「この間の人は彼女ですか？」彼女の一言でどっと汗が噴き出す！『おやすみカラスまた来てね。』【#15】",
@@ -360,15 +648,6 @@
       "category": "music"
     },
     {
-      "title": "保護犬部隊が外来種の二枚貝から河川や湖を守る（カナダ）",
-      "url": "https://karapaia.com/archives/620299.html",
-      "date": "2026-08-22T03:00:00.000Z",
-      "summary": "優れた嗅覚を武器に、活躍する探知犬たち。その能力を、湖や川の生態系を守るために活かしている犬たちがカナダにいる。カナダ・アルバータ州の州境近くに設けられた船舶検査所で、3匹の探知犬たちがボートの周囲を慎重に歩き回っている。彼らが探しているのは麻薬や爆発物ではない…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
       "title": "ボカロP・イマニシ、本人歌唱曲「ノアの方舟」リリース",
       "url": "https://ototoy.jp/news/131467",
       "date": "2026-08-22T03:00:00.000Z",
@@ -385,6 +664,15 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
+    },
+    {
+      "title": "保護犬部隊が外来種の二枚貝から河川や湖を守る（カナダ）",
+      "url": "https://karapaia.com/archives/620299.html",
+      "date": "2026-08-22T03:00:00.000Z",
+      "summary": "優れた嗅覚を武器に、活躍する探知犬たち。その能力を、湖や川の生態系を守るために活かしている犬たちがカナダにいる。カナダ・アルバータ州の州境近くに設けられた船舶検査所で、3匹の探知犬たちがボートの周囲を慎重に歩き回っている。彼らが探しているのは麻薬や爆発物ではない…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
     },
     {
       "title": "「恋愛」の引き寄せ習慣！「私は私」「あなたはあなた」と互いに「変わらないこと」こそが確かな関係を築ける！？",
@@ -423,19 +711,19 @@
       "category": "cooking"
     },
     {
-      "title": "パンダに見えるエレベーターの「閉」ボタン",
-      "url": "https://dailyportalz.jp/kiji/elevator-button-looks-like-panda",
+      "title": "おとなの絵日記２０２６夏",
+      "url": "https://dailyportalz.jp/kiji/otona-no-enikki-2026",
       "date": "2026-08-22T02:00:00.000Z",
-      "summary": "エレベーターの「閉」ボタンがパンダみたいに見えた。いろんなエレベーターの「閉」ボタンを探してみました。",
+      "summary": "子どもの頃、夏休みに描かされた、絵日記。初心に返るためにも今回は、大人なりに絵日記を描いてみたいと思うッ！ って毎年描いてるけど。",
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
     },
     {
-      "title": "おとなの絵日記２０２６夏",
-      "url": "https://dailyportalz.jp/kiji/otona-no-enikki-2026",
+      "title": "パンダに見えるエレベーターの「閉」ボタン",
+      "url": "https://dailyportalz.jp/kiji/elevator-button-looks-like-panda",
       "date": "2026-08-22T02:00:00.000Z",
-      "summary": "子どもの頃、夏休みに描かされた、絵日記。初心に返るためにも今回は、大人なりに絵日記を描いてみたいと思うッ！ って毎年描いてるけど。",
+      "summary": "エレベーターの「閉」ボタンがパンダみたいに見えた。いろんなエレベーターの「閉」ボタンを探してみました。",
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
@@ -504,15 +792,6 @@
       "category": "culture"
     },
     {
-      "title": "自由研究まだの子集まれ！1日でできるテーマ集めました",
-      "url": "https://news.cookpad.com/articles/65060",
-      "date": "2026-08-21T23:00:00.000Z",
-      "summary": "そろそろ夏休みも終わりですが、まだ自由研究が終わっていない！そんな時におすすめの、すぐできて楽しいレシピを集めました。豆乳とにがりで簡単に作れる豆腐は自由研究にぴったり！手作りの豆腐はおいしさも...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
       "title": "「アイドリッシュセブン VISIBLIVE TOUR \"4WARD JOURNEY\"」が開幕。16人が集結した幕張公演のレポートと写真を掲載",
       "url": "https://www.4gamer.net/games/304/G030495/20260821064/",
       "date": "2026-08-21T23:00:00.000Z",
@@ -529,6 +808,15 @@
       "source": "カラパイア",
       "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
+    },
+    {
+      "title": "自由研究まだの子集まれ！1日でできるテーマ集めました",
+      "url": "https://news.cookpad.com/articles/65060",
+      "date": "2026-08-21T23:00:00.000Z",
+      "summary": "そろそろ夏休みも終わりですが、まだ自由研究が終わっていない！そんな時におすすめの、すぐできて楽しいレシピを集めました。豆乳とにがりで簡単に作れる豆腐は自由研究にぴったり！手作りの豆腐はおいしさも...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
     },
     {
       "title": "fav me、“猫系あざとかわいい”の裏側にメロメロ 「にゃんてずるいの！」ジャケ写メイキングが「可愛い過ぎる」",
@@ -5290,294 +5578,6 @@
       "source": "Mikiki（タワーレコード）",
       "sourceHomepage": "https://mikiki.tokyo.jp/",
       "category": "music"
-    },
-    {
-      "title": "レイクシア・ベンジャミン（Lakecia Benjamin）『We Dream』上原ひろみら参加! 気鋭ジャズサックス奏者のエネルギー溢れる新作 - レビュー",
-      "url": "https://mikiki.tokyo.jp/articles/-/45550",
-      "date": "2026-08-16T22:30:00.000Z",
-      "summary": "レイクシア・ベンジャミン（Lakecia Benjamin）『We Dream』上原ひろみら参加! 気鋭ジャズサックス奏者のエネルギー溢れる新作",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "「出勤したのにやる気でない」無断欠勤よりヤバい心身状態の要因とは",
-      "url": "https://nazology.kusuguru.co.jp/archives/155399",
-      "date": "2026-08-16T22:00:05.000Z",
-      "summary": "「出勤したはいいけど、作業にまったく集中できず、生産効率が落ちてしまっている」 この状態をプレゼンティーズム（presenteeism）と呼びます。 プレゼンティーズムは当然、社会的に解決が望まれる精神問題ですが、従来の調査は記憶を頼りにした聞き取りが中心だったため、その原因となる要因を特定できずにいました。 しかし、大阪大学・東京大学の研究チームは2024年、独自のスマートフォンアプリや身体活動量計を用いて、日々の心身状態の変化をモニ",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "シェリル・クロウ 新アルバム『Pick You Up』の詳細発表 「Freedom Bus (feat. Jesse Welles)」のMVも公開",
-      "url": "https://amass.jp/191270/",
-      "date": "2026-08-16T21:53:00.000Z",
-      "summary": "シェリル・クロウは新スタジオ・アルバム『Pick You Up』の詳細を発表。海外で10月9日発売。ジェシー・ウェルズをフィーチャーした先行シングル「Freedom Bus (feat. Jesse Welles)」のミュージックビデオも公開 https://amass.jp/191270/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "才能ある若者の育て方が判明【特化すべきか、色々やらせるべきか】",
-      "url": "https://nazology.kusuguru.co.jp/archives/189537",
-      "date": "2026-08-16T21:30:21.000Z",
-      "summary": "ノーベル賞受賞者、オリンピックメダリスト、世界トップのチェスプレイヤー。 このような、世界で活躍するトップパフォーマーへと若者を育てていくには、どんな方法が適切なのでしょうか。 幼い頃から一つの分野に集中させ、才能を徹底的に磨く方法が良いのでしょうか。 それとも、複数の分野を経験させ、可能性を広げるほうが良いのでしょうか。 この長年続いてきた議論に対し、ドイツ、カイザースラウテルン・ランダウ大学（RPTU）の研究チームが、これまでの常識",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "Snow Man 佐久間大介、“カゲプロ”コスプレが圧倒的なクオリティ 「気づかなかった」「顔のパーツが2次元級」",
-      "url": "https://realsound.jp/2026/08/post-2492719.html",
-      "date": "2026-08-16T21:29:45.000Z",
-      "summary": "Snow Manの佐久間大介が、「カゲロウプロジェクト」のコスプレを自身のInstagramに公開している。 自ら“アニメオタク“を自称するほどのアニメ好きである佐久間。今回は「じん（自然の敵P）」が手がけるマルチメ",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "2026年8月17日：本日発売のコミック新刊",
-      "url": "https://hon-hikidashi.jp/news/183494/",
-      "date": "2026-08-16T21:00:31.000Z",
-      "summary": "2026年8月17日（月）発売のコミック単行本をお知らせします。 〉 過去の日付のコミック新刊はこちら (adsbygoogle = window.adsbygoogle || []).push({}); 秋田書店 A.L.C.DX ・ わたしのママは真野くんです。（4） （三津キヨ） ・ あなたが死んじゃったあとに ～かなしい時の歩き方～（1） （いのうえさきこ） MIU恋愛MAXCOMICS ・ プライベート・ドクター Season",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "リッチー・ブラックモア 33年ぶりにディープ・パープルと共演したことを語る「とても感動的だった」",
-      "url": "https://amass.jp/191268/",
-      "date": "2026-08-16T20:44:00.000Z",
-      "summary": "リッチー・ブラックモアは33年ぶりにディープ・パープルと共演したことを語る。「とても感動的だった。旧友たちに会うために行った。おそらくこれが最後に会う機会になるかもしれないと、みんな感じていたんじゃないかな」。不安、使用ギター、身長が縮んだ等も語る https://amass.jp/191268/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "『山下達郎サンデー・ソングブック』恒例「納涼夫婦放談（ゲスト：竹内まりや）」8月23日＆30日放送",
-      "url": "https://amass.jp/191267/",
-      "date": "2026-08-16T19:49:00.000Z",
-      "summary": "『山下達郎サンデー・ソングブック』は、竹内まりやがゲスト出演する毎年夏恒例の「納涼夫婦放談」を2026年も放送することを発表。8月23日＆30日放送予定 https://amass.jp/191267/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "NHK総合『東京ビートルズがやって来る ヤァ！ヤァ！ヤァ！』 8月23日深夜に再放送",
-      "url": "https://amass.jp/191266/",
-      "date": "2026-08-16T19:27:00.000Z",
-      "summary": "64年、当時世界を席巻し始めたばかりのビートルズの楽曲を日本語でカヴァーした東京ビートルズ。大滝詠一が90年代に音源を復刻を実現させたことでも知られる彼らを特集したNHK総合『東京ビートルズがやって来る ヤァ！ヤァ！ヤァ！』が8月23日深夜に再放送 https://amass.jp/191266/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "AKB48に続く“会いに行ける”男性アイドル誕生！ Cloud ten、総勢30人の個性が描き出す未来「必ず推しを見つけてもらえる」",
-      "url": "https://realsound.jp/2026/08/post-2491953.html",
-      "date": "2026-08-16T19:00:53.000Z",
-      "summary": "2025年夏よりスタートしたオーディションで選出された、個性あふれる30名によって結成された、男性アイドルプロジェクト“Cloud ten”。メンバーを代表して、大和田歩夢、舩水健佑、小峯佑斗、深水柊人が登場。お披露目イベントの手応えから、それぞれの魅力やグループの強み、バラエティあふれる楽曲についてなど、シアターオープンを目前に控えた彼らの素顔に迫った。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "性的に興奮した男性は、女性の表情よりも服装に注目しがちになる",
-      "url": "https://nazology.kusuguru.co.jp/archives/198712",
-      "date": "2026-08-16T13:00:15.000Z",
-      "summary": "心理学では以前から、男性は女性の性的な関心を実際より高く見積もる傾向があると言われています。 露出の高い服装の女性を見て、「誘ってるのか」なんて表現する男性も珍しくありません。 しかし当然ですが、露出度の高い服を着ていたとしても、その服装が男性への関心を示しているわけではありません。 それでも、女性の服装から、誘いやすそうと判断してしつこくナンパしてくる男性や、痴漢に走る男性がいます。彼らはなぜ受け入れてもらえるだろうという期待を抱いて",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "雑誌『BRUTUS』「通いたくなるミュージアム」に寄稿しました。",
-      "url": "https://bluediary2.jugem.jp/?eid=8160",
-      "date": "2026-08-16T12:31:00.000Z",
-      "summary": "雑誌『BRUTUS』2026年8月15日号 No.1059の特集は「通いたくなるミュージアム」 その中のBook in Book「25人のミュージアム好きに聞いた、推しミュージアムの推しコレクション。」に「青い日記帳」として寄稿しました。 BRUTUS(ブルータス) 2026年 8月15日号 今...",
-      "source": "青い日記帳（美術展）",
-      "sourceHomepage": "https://bluediary2.jugem.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "中国が「長征12号」打ち上げ 衛星インターネット低軌道第24組衛星を軌道投入",
-      "url": "https://sorae.info/ssn/20260816-satnet-leo-g24.html",
-      "date": "2026-08-16T12:24:04.000Z",
-      "summary": "CASC（中国航天科技集団）は2026年8月16日、中国・海南省の海南商業航天発射場から「長征12号」ロケットを打ち上げ、「衛星インターネット低軌道第24組衛星」を所定の軌道へ投入したと発表しました。 打ち上げに関する情…",
-      "source": "sorae（宇宙・天文）",
-      "sourceHomepage": "https://sorae.info/",
-      "category": "documentary"
-    },
-    {
-      "title": "THE JET BOY BANGERZメンバー紹介第10回：AOI スター性のある佇まいと多彩なスタイルで魅了する最年少パフォーマー",
-      "url": "https://realsound.jp/2026/08/post-2492006.html",
-      "date": "2026-08-16T12:10:56.000Z",
-      "summary": "NEO EXILE世代のメンバー紹介第27弾はTHE JET BOY BANGERZよりAOIをピックアップ。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "FouRTe Project、初オフラインライブで示したバーチャルアイドルのプライド 生歌・生ダンスへのこだわりと挑戦が生んだ熱気",
-      "url": "https://realsound.jp/2026/08/post-2492406.html",
-      "date": "2026-08-16T12:00:46.000Z",
-      "summary": "7人組バーチャルアイドルグループ・FouRTe Projectが、グループ初のオフラインライブ『FouRTe Project 1st LIVE \"ALL IN\"』を8月14日にZepp DiverCity (TOKYO)で開催。“生”のパフォーマンスにこだわり、バーチャルアイドルへのこだわりとプライドを示したライブの模様をレポートする。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "忘れらんねえよ、全国9ヶ所を回るツアー＆東名阪ツアー開催",
-      "url": "https://ototoy.jp/news/131383",
-      "date": "2026-08-16T12:00:00.000Z",
-      "summary": "忘れらんねえよが、東京・名古屋・大阪を回る東名阪ツレ伝〈武道館、どうだった？〉及び、全国 9 ヶ所を回る全国各地ワンマンツアー〈俺と武道館へ行かないか〉を開催することを発表した",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "地球上の生命起源は二度起こっていた可能性",
-      "url": "https://nazology.kusuguru.co.jp/archives/198694",
-      "date": "2026-08-16T12:00:00.000Z",
-      "summary": "地球上のすべての生物は、はるか昔に存在した共通祖先へとさかのぼると考えられています。 その祖先として想定されているのが、LUCA（Last Universal Common Ancestor：最終普遍共通祖先）です。 LUCAにはすでに、DNAなどの情報をもとにどのアミノ酸を並べてタンパク質を作るかを決める「遺伝暗号（genetic code）」や、タンパク質を合成する仕組みが備わっていたと考えられています。 ところが今回、ドイツのハイ",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "仮説の天体「ブラックホール星」を初めて単独で観測。巨大な水素ガスが包み込んでいた",
-      "url": "https://karapaia.com/archives/622269.html",
-      "date": "2026-08-16T11:30:00.000Z",
-      "summary": "初期宇宙でジェイムズ・ウェッブ宇宙望遠鏡が捉えた謎の赤い点が、仮説上の天体「ブラックホール星」である可能性が高いことがわかった。ブラックホール星は、中心にあるブラックホールを巨大なガスが包み込み、恒星のように輝く天体だ。2025年に存在が提唱されたものの…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
-      "title": "FRUITS ZIPPER 真中まな「アイドルにとって夏は命」 フェスの楽しみ方を明かす 子どもたちと遊ぶ貴重な姿も",
-      "url": "https://realsound.jp/2026/08/post-2492505.html",
-      "date": "2026-08-16T10:30:36.000Z",
-      "summary": "FRUITS ZIPPER 真中まなが『KAWAII FRIENDS PUKA PUKA PARK』オープニングイベントに登壇した。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "PIGGS、ファイナルライブを前に全国ラストツアー開催決定",
-      "url": "https://ototoy.jp/news/131381",
-      "date": "2026-08-16T10:00:00.000Z",
-      "summary": "PIGGSが、ファイナルライブを前に全国5都市を巡るラストツアー〈PIGGS FINAL TOUR〉の開催を発表した",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "神々しい！皆既日食を背景にトリックをキメたスケートボーダー（スペイン）",
-      "url": "https://karapaia.com/archives/622208.html",
-      "date": "2026-08-16T09:00:00.000Z",
-      "summary": "2026年8月。夏の夜空をペルセウス座流星群が彩るころ、ヨーロッパでは日食がこれに重なって、宇宙に思いを馳せる機会がいつにも増して多くなった。そんな中、スペインで撮影されたある映像が世界中の注目を集めた。皆既日食が起こった瞬間、太陽と月が重なる漆黒の円を背景に…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
-      "title": "ジャガイモはトマトとの交雑で約900万年前に誕生した",
-      "url": "https://nazology.kusuguru.co.jp/archives/182608",
-      "date": "2026-08-16T08:00:17.000Z",
-      "summary": "ジャガイモの起源というのは実は最近までわかっていませんでした。 2025年に報告された研究によって、現在のジャガイモの祖先は約800万〜900万年前に南米で野生のトマト属植物とジャガイモに似ていてもイモ（塊茎）を作らない植物（Etuberosum〈エツベロスム〉属）が自然交配し、生まれたことが明らかにされたのです。 異なる植物同士の交雑（種間交雑）によって、両親からそれぞれ異なる遺伝子が染色体レベルでモザイク状に混ざり合い、地下に栄養を",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "2100年の夏は約45℃になる？酷暑、豪雨、大型化する台風に迫る『異常気象の科学』",
-      "url": "https://hon-hikidashi.jp/news/180447/",
-      "date": "2026-08-16T08:00:16.000Z",
-      "summary": "本来、「異常」という言葉は、「通常」の状態から大きく異なることを意味します。気象学の分野では、この「通常」の定義には、現在からさかのぼって過去30年間の平均値が用いられます。これに対して、異常気象という言葉は、本来は30年に1度程度しか起こらない非常に稀な現象に対して使う言葉です。 しかし、異常だったはずの現象が昨今は毎年のように身近に発生し、珍しいことではなくなってきています。異常な現象があたりまえのように起こるというこの矛盾は、いっ",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "【実は優秀すぎる調味料】焼きそばの粉ソースで絶品おかず＆おやつ3選",
-      "url": "https://news.cookpad.com/articles/65790",
-      "date": "2026-08-16T08:00:00.000Z",
-      "summary": "焼きそばを作ったあと、余ることもある付属の粉ソース。せっかくの調味料をそのまま捨ててしまうのはもったいない！実は、この粉ソースはから揚げや煮卵、おやつ作りにも活用できちゃいます。今回は、焼きそば...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "「仕事はありませんか」与えられた仕事は猛禽類の餌！？まさか自分が人肉になるなんて…『生き餌によるモフモフ猛禽飼育記 異世界トリップしたら、姫巫女召喚のおまけでした』【#5】",
-      "url": "https://hon-hikidashi.jp/book-person/184405/",
-      "date": "2026-08-16T07:50:29.000Z",
-      "summary": "「竹コミ！」で連載中の 『生き餌によるモフモフ猛禽飼育記 異世界トリップしたら、姫巫女召喚のおまけでした』第1巻 が8月5日（水）に発売されました。 本作は、姫巫女召喚に巻き込まれ異世界へ転移したOL・優月が、冷遇された末に魔獣の生き餌にされてしまう物語です。ところが魔獣に懐かれたことをきっかけに運命が一変し、堅物戦士からも溺愛される大逆転シンデレラストーリーです。 気になった方はぜひ、店頭でお買い求めください。 (adsbygoogl",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "【焼きそばのマンネリを解消！】身近なものを足すだけ絶品アレンジ4選",
-      "url": "https://news.cookpad.com/articles/65785",
-      "date": "2026-08-16T07:00:00.000Z",
-      "summary": "バーベキュー、夏休みや週末のお昼ごはんと、夏に登場頻度が増える焼きそば。「飽きたなぁ」と思っても、ちょっとした工夫でさらにおいしく変化します。今回は、身近な食材を足すだけで、アレンジできてしまう...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "新兵教育修了式でひとり立ち尽くす兵士。指揮官が抱きしめ、こぼれ落ちる涙",
-      "url": "https://karapaia.com/archives/622366.html",
-      "date": "2026-08-16T07:00:00.000Z",
-      "summary": "インドネシア陸軍の新兵教育修了式が行われた。式典を終えた時点で訓練生から兵士となる。大勢の新兵たちは駆けつけた家族らに囲まれ喜びを分かち合っていた。そんな中、一人だけその場に立ち続ける若い兵士がいた。その姿に気づいた上官は静かに歩み寄り、兵士を抱きしめた…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
-      "title": "「きっと心細い思いをしているはず…」後輩を心配して手紙を書くも返事は来ず…どうやら楽しく過ごしているらしく…？『生き餌によるモフモフ猛禽飼育記 異世界トリップしたら、姫巫女召喚のおまけでした』【#4】",
-      "url": "https://hon-hikidashi.jp/book-person/184400/",
-      "date": "2026-08-16T06:48:36.000Z",
-      "summary": "「竹コミ！」で連載中の 『生き餌によるモフモフ猛禽飼育記 異世界トリップしたら、姫巫女召喚のおまけでした』第1巻 が8月5日（水）に発売されました。 本作は、姫巫女召喚に巻き込まれ異世界へ転移したOL・優月が、冷遇された末に魔獣の生き餌にされてしまう物語です。ところが魔獣に懐かれたことをきっかけに運命が一変し、堅物戦士からも溺愛される大逆転シンデレラストーリーです。 気になった方はぜひ、店頭でお買い求めください。 (adsbygoogl",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "夏のバナナは「塩バナナ」が正解!?甘じょっぱさがクセになる、新しい食べ方を試してみた",
-      "url": "https://news.cookpad.com/articles/65560",
-      "date": "2026-08-16T06:00:00.000Z",
-      "summary": "朝ごはんや小腹が空いたときに、サッと食べられて手軽にエネルギー補給ができる「バナナ」。皮をむくだけですぐ食べられるのも嬉しい、頼れる定番フルーツですよね。ですが今回、クックパッドで「バナナに少量...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "花冷え。、新曲「バリバリBuddy」がTVアニメ「転生したら剣でしたII」ED曲に",
-      "url": "https://ototoy.jp/news/131382",
-      "date": "2026-08-16T06:00:00.000Z",
-      "summary": "花冷え",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "L'Arc-en-Ciel、GLAY、黒夢、THE YELLOW MONKEY……節目の年に『サマソニ』初出演を果たしたレジェンドバンドたち",
-      "url": "https://realsound.jp/2026/08/post-2492408.html",
-      "date": "2026-08-16T05:50:07.000Z",
-      "summary": "8月14日から16日にかけて『SUMMER SONIC 2026』が東京、大阪の2会場で開催中だ。中でも注目なのは、今年結成35周年を迎えたL'Arc-en-Cielの初出演。本稿では、L'Arc-en-Ciel同様に節目のタイミングで『SUMMER SONIC』に初出演を果たしたレジェンドバンドを振り返る。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "「センパイと一緒なら大丈夫です！」異世界召喚に巻き込まれた私を励ましてくれる後輩…『生き餌によるモフモフ猛禽飼育記 異世界トリップしたら、姫巫女召喚のおまけでした』【#3】",
-      "url": "https://hon-hikidashi.jp/book-person/184390/",
-      "date": "2026-08-16T05:46:52.000Z",
-      "summary": "「竹コミ！」で連載中の 『生き餌によるモフモフ猛禽飼育記 異世界トリップしたら、姫巫女召喚のおまけでした』第1巻 が8月5日（水）に発売されました。 本作は、姫巫女召喚に巻き込まれ異世界へ転移したOL・優月が、冷遇された末に魔獣の生き餌にされてしまう物語です。ところが魔獣に懐かれたことをきっかけに運命が一変し、堅物戦士からも溺愛される大逆転シンデレラストーリーです。 気になった方はぜひ、店頭でお買い求めください。 (adsbygoogl",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
     }
   ]
 }
