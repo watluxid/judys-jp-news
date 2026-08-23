@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T13:06:15.438Z",
+  "generatedAt": "2026-08-23T18:52:26.149Z",
   "articleCount": 600,
   "feedStatus": [
     {
@@ -10,10 +10,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（科学・文化）",
+      "name": "NHKニュース（国際）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
       "errors": []
     },
     {
@@ -24,10 +24,17 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（国際）",
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（科学・文化）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -45,24 +52,10 @@
       "errors": []
     },
     {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
-      "errors": []
-    },
-    {
       "name": "Mikiki（タワーレコード）",
       "category": "music",
       "ok": true,
       "usedUrl": "https://mikiki.tokyo.jp/list/feed/rss",
-      "errors": []
-    },
-    {
-      "name": "メシ通（ホットペッパーグルメ）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
       "errors": []
     },
     {
@@ -80,10 +73,10 @@
       "errors": []
     },
     {
-      "name": "リアルサウンド",
-      "category": "music",
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
+      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -94,10 +87,10 @@
       "errors": []
     },
     {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
+      "name": "リアルサウンド",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://sorae.info/feed",
+      "usedUrl": "https://realsound.jp/atom.xml",
       "errors": []
     },
     {
@@ -105,6 +98,13 @@
       "category": "otome",
       "ok": true,
       "usedUrl": "https://animeanime.jp/rss20/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "メシ通（ホットペッパーグルメ）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
       "errors": []
     },
     {
@@ -129,20 +129,18 @@
       "errors": []
     },
     {
+      "name": "カラパイア",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://karapaia.com/index.rdf",
+      "errors": []
+    },
+    {
       "name": "和樂web",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://intojapanwaraku.com/feed",
       "errors": []
-    },
-    {
-      "name": "カラパイア",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://karapaia.com/feed",
-      "errors": [
-        "https://karapaia.com/index.rdf → HTTP 429"
-      ]
     },
     {
       "name": "TOKION",
@@ -260,6 +258,15 @@
       "summary": "AC/DC、トム・ジョーンズ・バンド、マンフレッド・マンズ・アース・バンド、The Firm、エイジア、ユーライア・ヒープなどで活躍したドラマーのクリス・スレイドが、60年にわたるドラマーとしてのキャリアに幕を下ろし、引退することを発表しました https://amass.jp/191397/",
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "【ライブレポ】乃木坂46、15周年の夏を駆け抜ける──菅原咲月、一ノ瀬美空の覚悟が光った、「真夏の全国ツアー2026」神宮公演最終日",
+      "url": "https://ototoy.jp/news/131482",
+      "date": "2026-08-23T15:10:00.000Z",
+      "summary": "2026年8月23日、東京・明治神宮野球場にて、乃木坂46「真夏の全国ツアー2026」DAY4が開催された",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
     },
     {
@@ -5571,15 +5578,6 @@
       "source": "アニメ！アニメ！（乙女ゲーム関連）",
       "sourceHomepage": "https://animeanime.jp/",
       "category": "otome"
-    },
-    {
-      "title": "「まさか複数の女性と関係を持ってるなんて…」鷹臣を監視するため、千絃は住み込みで働くことになり…！？『ワンサイド・バニラシュガー』【#3】",
-      "url": "https://hon-hikidashi.jp/book-person/182791/",
-      "date": "2026-08-17T10:35:08.000Z",
-      "summary": "キルタイムコミュニケーションより、 『ワンサイド・バニラシュガー』 が8月17日（月）に発売されました。 本作は、叔父の喫茶店で働く千絃が、片思い中の常連客・鷹臣の家政婦になり、彼の「女癖の悪さ」を監視するため同居生活を始める、純朴な家政婦とスパダリご主人の焦れ焦れボーイズラブ作品です。 今回は、第1話～第2話の試し読みを配信します。作品が気になった方はぜひ、店頭でお買い求めください。 (adsbygoogle = window.ads",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
     }
   ]
 }
