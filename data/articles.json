@@ -1,14 +1,7 @@
 {
-  "generatedAt": "2026-08-25T13:16:08.519Z",
+  "generatedAt": "2026-08-25T19:03:23.256Z",
   "articleCount": 600,
   "feedStatus": [
-    {
-      "name": "NHKニュース（主要）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-      "errors": []
-    },
     {
       "name": "NHKニュース（社会）",
       "category": "news",
@@ -24,10 +17,17 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（科学・文化）",
+      "name": "NHKニュース（国際）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（主要）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
       "errors": []
     },
     {
@@ -45,10 +45,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（国際）",
+      "name": "NHKニュース（科学・文化）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -59,17 +59,17 @@
       "errors": []
     },
     {
-      "name": "メシ通（ホットペッパーグルメ）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
-      "errors": []
-    },
-    {
       "name": "amass",
       "category": "music",
       "ok": true,
       "usedUrl": "https://amass.jp/rss/new",
+      "errors": []
+    },
+    {
+      "name": "メシ通（ホットペッパーグルメ）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
       "errors": []
     },
     {
@@ -80,10 +80,10 @@
       "errors": []
     },
     {
-      "name": "インサイド（乙女ゲーム関連）",
-      "category": "otome",
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
+      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -101,10 +101,24 @@
       "errors": []
     },
     {
+      "name": "インサイド（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
+      "errors": []
+    },
+    {
       "name": "アニメ！アニメ！（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://animeanime.jp/rss20/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
       "errors": []
     },
     {
@@ -122,17 +136,10 @@
       "errors": []
     },
     {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
-      "errors": []
-    },
-    {
-      "name": "sorae（宇宙・天文）",
+      "name": "カラパイア",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://sorae.info/feed",
+      "usedUrl": "https://karapaia.com/index.rdf",
       "errors": []
     },
     {
@@ -140,13 +147,6 @@
       "category": "culture",
       "ok": true,
       "usedUrl": "https://tokion.jp/feed/",
-      "errors": []
-    },
-    {
-      "name": "カラパイア",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
       "errors": []
     },
     {
@@ -164,21 +164,48 @@
       "errors": []
     },
     {
-      "name": "Art Annual online（美術）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://www.art-annual.jp/feed",
-      "errors": []
-    },
-    {
       "name": "青い日記帳（美術展）",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
+    },
+    {
+      "name": "Art Annual online（美術）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://www.art-annual.jp/feed",
+      "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "クイーンズ・オブ・ザ・ストーン・エイジ 新アルバム『Perfecth』発売 新曲リリックビデオあり",
+      "url": "https://amass.jp/191438/",
+      "date": "2026-08-26T00:44:00.000Z",
+      "summary": "クイーンズ・オブ・ザ・ストーン・エイジは新スタジオ・アルバム『Perfecth』を10月30日発売。新曲「Insignificant Other」のリリックビデオあり https://amass.jp/191438/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ビートルズ『Rubber Soul』拡張版SPエディションから「Day Tripper (Songwriting Work Tape)」公開",
+      "url": "https://amass.jp/191437/",
+      "date": "2026-08-26T00:30:00.000Z",
+      "summary": "ザ・ビートルズ『Rubber Soul』の拡張版スペシャル・エディションから「Day Tripper (Songwriting Work Tape)」が公開されています https://amass.jp/191437/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "OZworld、ニューアルバム『おくまれお』リリース 自身の生き様を刻んだ新曲「等身大」配信も",
+      "url": "https://realsound.jp/2026/08/post-2501614.html",
+      "date": "2026-08-26T00:00:25.000Z",
+      "summary": "OZworldが、ニューアルバム『おくまれお』を9月9日にリリース。また、本作に収録される新曲「等身大」を本日8月26日に先行配信し、あわせてMVも公開となった。 アルバムのタイトルは、OZworld自身の本名 奥間",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
     {
       "title": "マリンブルーデージー、新たな弾き語りイベントを3カ月連続開催 最新曲「シュノーケル」MV公開も",
       "url": "https://realsound.jp/2026/08/post-2501126.html",
@@ -297,6 +324,15 @@
       "category": "music"
     },
     {
+      "title": "坂本櫻、希望を感じさせる新曲リリース",
+      "url": "https://ototoy.jp/news/131509",
+      "date": "2026-08-25T15:00:00.000Z",
+      "summary": "坂本櫻が2026年8月26日(水)にニューシングル「When the rain stops」をリリースした",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
       "title": "WHISPER OUT LOUD主催『KEYS IN PURPLE vol.4』詳細発表 Jellow Glow、WALTZMORE、krageら対バン",
       "url": "https://realsound.jp/2026/08/post-2501263.html",
       "date": "2026-08-25T13:53:20.000Z",
@@ -322,6 +358,15 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "星座早見盤や展示物を手がかりに謎を解く！『真夜中の宇宙博物館からの脱出』体験レポート",
+      "url": "https://sorae.info/report/scrap-space-museum.html",
+      "date": "2026-08-25T13:36:12.000Z",
+      "summary": "宇宙や天体を題材にしたリアル脱出ゲーム『真夜中の宇宙博物館からの脱出』が、2026年7月30日から東京都武蔵野市の「リアル脱出ゲーム吉祥寺店」で開催されています。本イベントは、参加者が宇宙博物館の夜間警備員となり、博物館…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
     },
     {
       "title": "『テレビ朝日ドリームフェスティバル』今年はKアリーナ横浜で開催 Aぇ! group、マルシィら13組発表",
@@ -864,15 +909,6 @@
       "category": "cooking"
     },
     {
-      "title": "【急上昇ワード】秩父札所とコラボ〈THE ALFEE歌朱印〉が絶好調",
-      "url": "https://ototoy.jp/news/131505",
-      "date": "2026-08-25T03:00:00.000Z",
-      "summary": "今年デビュー52周年を迎えるTHE ALFEEが急上昇ワードにランクイン",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
       "title": "毎日列車に乗り、決まった駅で降りる2羽の野鳥（オーストラリア）",
       "url": "https://karapaia.com/archives/623971.html",
       "date": "2026-08-25T03:00:00.000Z",
@@ -880,6 +916,15 @@
       "source": "カラパイア",
       "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
+    },
+    {
+      "title": "【急上昇ワード】秩父札所とコラボ〈THE ALFEE歌朱印〉が絶好調",
+      "url": "https://ototoy.jp/news/131505",
+      "date": "2026-08-25T03:00:00.000Z",
+      "summary": "今年デビュー52周年を迎えるTHE ALFEEが急上昇ワードにランクイン",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
     },
     {
       "title": "三月のパンタシア、TVアニメ『生徒会にも穴はある！』OPテーマ担当決定",
@@ -5530,51 +5575,6 @@
       "url": "https://hon-hikidashi.jp/book-person/183850/",
       "date": "2026-08-19T10:35:58.000Z",
       "summary": "キルタイムコミュニケーションより、 『ワンサイド・バニラシュガー』 が8月17日（月）に発売されました。 本作は、叔父の喫茶店で働く千絃が、片思い中の常連客・鷹臣の家政婦になり、彼の「女癖の悪さ」を監視するため同居生活を始める、純朴な家政婦とスパダリご主人の焦れ焦れボーイズラブ作品です。 今回は、第1話～第2話の試し読みを配信します。作品が気になった方はぜひ、店頭でお買い求めください。 (adsbygoogle = window.ads",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "昔の作品が今になって電子コミックで大ヒット！ 新作を描かないか？と編集者に誘われて……『シジュウカラ』【#3】",
-      "url": "https://hon-hikidashi.jp/book-person/182952/",
-      "date": "2026-08-19T10:30:35.000Z",
-      "summary": "「ほんのひきだし」では、「夏の夜更かし、ちょっと刺激的な夜読。」をテーマに、眠れない夏の夜にこそ読みたいコミックをご紹介します。恋、秘密、駆け引き、復讐、そして誰にも言えない想い。少し刺激的で、気づけば夜更かししてしまうような物語を、この機会にぜひお楽しみください。 今回ご紹介するのは、アラフォーの女性と20代の男性の出会いは偶然？それとも必然？ 『シジュウカラ』 です。 (adsbygoogle = window.adsbygoogl",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "メタリカ Xに日本語で投稿 Adoがサマソニで「Enter Sandman」をカヴァーしたことへの感謝の気持ちを伝える",
-      "url": "https://amass.jp/191313/",
-      "date": "2026-08-19T10:24:00.000Z",
-      "summary": "メタリカはXに日本語で投稿。Adoがサマソニで「Enter Sandman」をカヴァーしたことへの感謝の気持ちを伝える。「若い世代が俺たちの音楽に辿り着いてくれるのを見るのは、いつだって嬉しい。こうして活動を続けている中でも最高だと思えることのひとつ」 https://amass.jp/191313/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "火星着陸から14年 いまも現役のNASA探査車「キュリオシティ」",
-      "url": "https://sorae.info/astronomy/20260819-curiosity-mars-14th.html",
-      "date": "2026-08-19T10:08:53.000Z",
-      "summary": "NASA（アメリカ航空宇宙局）の火星探査車「キュリオシティ（Curiosity）」が日本時間2026年8月6日、火星着陸から14周年を迎えました。NASAは同月17日、14周年を祝うミッションブログを公開しています。本記…",
-      "source": "sorae（宇宙・天文）",
-      "sourceHomepage": "https://sorae.info/",
-      "category": "documentary"
-    },
-    {
-      "title": "ザ・キンクスのデイヴ・デイヴィス、彼らと同じく兄弟間の対立があったオアシスのギャラガー兄弟について語る",
-      "url": "https://amass.jp/191312/",
-      "date": "2026-08-19T10:07:00.000Z",
-      "summary": "ザ・キンクスのデイヴ・デイヴィスは、彼らと同じく兄弟間の対立があったオアシスのギャラガー兄弟について語る。「憎しみ合う時期を乗り越え、今はまた元に戻っている。そういうのは成熟とともに訪れるものなんだ」。デイヴはオアシス再結成を予言していたという https://amass.jp/191312/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "「ある女に男がいたとする」仕事の話かと思いきや…先輩ホストのたとえが高度過ぎる！？『えぶりでいホスト』【#11】",
-      "url": "https://hon-hikidashi.jp/book-person/180913/",
-      "date": "2026-08-19T10:00:21.000Z",
-      "summary": "「ほんのひきだし」では、「夏の夜更かし、ちょっと刺激的な夜読。」をテーマに、眠れない夏の夜にこそ読みたいコミックをご紹介します。恋、秘密、駆け引き、復讐、そして誰にも言えない想い。少し刺激的で、気づけば夜更かししてしまうような物語を、この機会にぜひお楽しみください。 今回ご紹介するのは、夜の街のリアルと 現実離れした激しいギャグが交錯する、眠れなくなる「夜職」コメディ 『えぶりでいホスト』 です。 (adsbygoogle = wind",
       "source": "ほんのひきだし（本・出版）",
       "sourceHomepage": "https://hon-hikidashi.jp/",
       "category": "culture"
