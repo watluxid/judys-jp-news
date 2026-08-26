@@ -1,14 +1,7 @@
 {
-  "generatedAt": "2026-08-26T13:27:21.284Z",
+  "generatedAt": "2026-08-26T20:13:07.761Z",
   "articleCount": 600,
   "feedStatus": [
-    {
-      "name": "NHKニュース（科学・文化）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-      "errors": []
-    },
     {
       "name": "NHKニュース（主要）",
       "category": "news",
@@ -24,17 +17,17 @@
       "errors": []
     },
     {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "errors": []
+    },
+    {
       "name": "NHKニュース（社会）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
-      "errors": []
-    },
-    {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -52,17 +45,17 @@
       "errors": []
     },
     {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "errors": []
+    },
+    {
       "name": "Mikiki（タワーレコード）",
       "category": "music",
       "ok": true,
       "usedUrl": "https://mikiki.tokyo.jp/list/feed/rss",
-      "errors": []
-    },
-    {
-      "name": "メシ通（ホットペッパーグルメ）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
       "errors": []
     },
     {
@@ -73,6 +66,13 @@
       "errors": []
     },
     {
+      "name": "メシ通（ホットペッパーグルメ）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
+      "errors": []
+    },
+    {
       "name": "4Gamer（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
@@ -80,10 +80,10 @@
       "errors": []
     },
     {
-      "name": "リアルサウンド",
-      "category": "music",
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
+      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -94,17 +94,10 @@
       "errors": []
     },
     {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
+      "name": "リアルサウンド",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
-      "errors": []
-    },
-    {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://sorae.info/feed",
+      "usedUrl": "https://realsound.jp/atom.xml",
       "errors": []
     },
     {
@@ -129,24 +122,10 @@
       "errors": []
     },
     {
-      "name": "OTOTOY",
-      "category": "music",
+      "name": "デイリーポータルZ",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
-      "errors": []
-    },
-    {
-      "name": "TOKION",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
-      "errors": []
-    },
-    {
-      "name": "和樂web",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://intojapanwaraku.com/feed",
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -157,10 +136,31 @@
       "errors": []
     },
     {
+      "name": "和樂web",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://intojapanwaraku.com/feed",
+      "errors": []
+    },
+    {
+      "name": "TOKION",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://tokion.jp/feed/",
+      "errors": []
+    },
+    {
       "name": "ほんのひきだし（本・出版）",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://hon-hikidashi.jp/feed/",
+      "errors": []
+    },
+    {
+      "name": "Art Annual online（美術）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://www.art-annual.jp/feed",
       "errors": []
     },
     {
@@ -171,14 +171,41 @@
       "errors": []
     },
     {
-      "name": "Art Annual online（美術）",
-      "category": "culture",
+      "name": "OTOTOY",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://www.art-annual.jp/feed",
+      "usedUrl": "https://ototoy.jp/rss",
       "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "4Kレストア版『クイーン：ブダペスト』 トレーラー映像公開",
+      "url": "https://amass.jp/191461/",
+      "date": "2026-08-27T00:57:00.000Z",
+      "summary": "クイーンが1986年7月27日にハンガリーのブダペストで行ったコンサートが4Kレストア＆ドルビーアトモスで蘇る、4Kレストア版『クイーン：ブダペスト（Queen Budapest）』。トレーラー映像が公開されています。 https://amass.jp/191461/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "オリアンティ＋シンディ・ブラックマン・サンタナ＋ロンダ・スミスの新バンドThe Power Of 3 初アルバム発売決定 2曲試聴可",
+      "url": "https://amass.jp/191460/",
+      "date": "2026-08-27T00:53:00.000Z",
+      "summary": "ギタリストのオリアンティ、ドラマーのシンディ・ブラックマン・サンタナ、ベーシストのロンダ・スミスによる新バンドThe Power Of 3。デビューアルバムは12月発売。2曲試聴可。プロデュースはエディ・クレイマー。カルロス・サンタナがゲスト参加 https://amass.jp/191460/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ティアーズ・フォー・フィアーズ『The Seeds Of Love』 新3CDデラックス・エディション発売",
+      "url": "https://amass.jp/191459/",
+      "date": "2026-08-27T00:25:00.000Z",
+      "summary": "ティアーズ・フォー・フィアーズ『The Seeds Of Love』の新しい3CDデラックス・エディションが10月16日発売。リマスタリングが施されたオリジナル・アルバムの8曲に加え、Bサイド曲や別ミックスなどの関連音源を多数追加収録 https://amass.jp/191459/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "『BATTLE OF TOKYO』劇場版ライブ作品が映像商品化 オーディオコメンタリーや舞台挨拶映像収録も",
       "url": "https://realsound.jp/2026/08/post-2503340.html",
@@ -315,6 +342,15 @@
       "category": "music"
     },
     {
+      "title": "志摩陽立、全6曲を収録した新EPリリース",
+      "url": "https://ototoy.jp/news/131531",
+      "date": "2026-08-26T14:00:00.000Z",
+      "summary": "志摩陽立が2026年8月26日(水)にニューEP『メンタルヘルス・体温』をリリースした",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
       "title": "真心ブラザーズ、『tiny desk concerts JAPAN』初登場 広島から「サマーヌード」など代表曲披露",
       "url": "https://realsound.jp/2026/08/post-2502780.html",
       "date": "2026-08-26T13:50:47.000Z",
@@ -322,6 +358,15 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "ヘルメス生誕の山で発見された透明な巻貝、新種どころか新属だった",
+      "url": "https://nazology.kusuguru.co.jp/archives/199116",
+      "date": "2026-08-26T13:45:30.000Z",
+      "summary": "ギリシャのアテネ国立カポディストリアン大学（NKUA）の研究チームが、ペロポネソス半島の山あいに湧く小さな泉から、たった7匹の巻貝を拾い上げました。 いちばん大きな個体でも、殻の幅は1.46ミリ。ゴマ粒ほどの体は採れたてだとガラス細工のように透きとおり、色素も、目もありません。 研究チームは殻を割り、時計職人が使うような細い針とピンセットで、その透明な体を開いていきました。 そして突き当たったのは、この貝が既知のどのグループにも収まらな",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
     },
     {
       "title": "【連載コラム】遊津場の関西アーティスト週報 vol.120「grating hunnyが起こす、最後の夏風」",
@@ -513,15 +558,6 @@
       "category": "documentary"
     },
     {
-      "title": "辻井くぬえ、illequalによるRemixリリース",
-      "url": "https://ototoy.jp/news/131525",
-      "date": "2026-08-26T09:00:00.000Z",
-      "summary": "辻井くぬえが2026年8月26日(水)にニューシングル「27 Club (illequal Remix)」をリリースした",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
       "title": "北斎の「神奈川沖浪裏」を70万本の花で表現。世界最大の花の絨毯（ベルギー）",
       "url": "https://karapaia.com/archives/624001.html",
       "date": "2026-08-26T09:00:00.000Z",
@@ -529,6 +565,15 @@
       "source": "カラパイア",
       "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
+    },
+    {
+      "title": "辻井くぬえ、illequalによるRemixリリース",
+      "url": "https://ototoy.jp/news/131525",
+      "date": "2026-08-26T09:00:00.000Z",
+      "summary": "辻井くぬえが2026年8月26日(水)にニューシングル「27 Club (illequal Remix)」をリリースした",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
     },
     {
       "title": "ボストン、デビュー前の未発表デモ音源を発掘 デビューアルバムの50周年記念版に収録決定",
@@ -5533,51 +5578,6 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
-    },
-    {
-      "title": "フィル・アンセルモ擁するDOWN 新アルバム『Volume V』発売 キング・ダイアモンド参加曲やオジーに敬意を表した「Ozz」も収録 新曲MVあり",
-      "url": "https://amass.jp/191332/",
-      "date": "2026-08-20T09:21:00.000Z",
-      "summary": "パンテラのフィル・アンセルモ擁するDOWNは12年ぶりの新曲群となる新アルバム『Volume V』を11月発売。キング・ダイアモンドが参加した「Merciful Fate」、オジー・オズボーンに敬意を表した「Ozz」も収録。新曲MVあり https://amass.jp/191332/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "髪を抜く「抜毛症」には、ネガティブ感情以上に「退屈」や「疲労」が関係",
-      "url": "https://nazology.kusuguru.co.jp/archives/198898",
-      "date": "2026-08-20T09:00:31.000Z",
-      "summary": "髪を自分で繰り返し抜いてしまう「抜毛症」は、一般にストレスや不安と深く関係していると考えられてきました。 しかし日常生活の中で、そのときの気分や抜毛を繰り返し記録してみると、事情はそれほど単純ではないようです。 ドイツのハイデルベルク大学病院（UKHD）の研究チームが抜毛症の人々を10日間追跡したところ、不安や悲しみなどのネガティブ感情は、その後の抜毛を予測しませんでした。 一方で「退屈」はその後の実際の抜毛を、「疲労」はその後の「髪を",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "10年の記憶と感動を詰めた奇跡のステージ。初演から見届けた「『あんさんぶるスターズ！THE STAGE』-10th Anniversary LIVE-」1万字レポート",
-      "url": "https://www.4gamer.net/games/440/G044054/20260812007/",
-      "date": "2026-08-20T09:00:00.000Z",
-      "summary": "HappyElementsの「あんさんぶるスターズ！」を原作とした舞台シリーズ「あんステ」の10周年ライブが，福岡・神奈川・兵庫で開催された。本稿では，総勢41名が集結した神奈川公演1日目の模様を，初演から見届けてきた筆者の視点でレポートする。",
-      "source": "4Gamer（乙女ゲーム関連）",
-      "sourceHomepage": "https://www.4gamer.net/",
-      "category": "otome"
-    },
-    {
-      "title": "念願のチョコレートのたたき売りに行く（傑作選）",
-      "url": "https://dailyportalz.jp/kiji/chocolate-tatakiuri",
-      "date": "2026-08-20T09:00:00.000Z",
-      "summary": "「チョコのたたき売り、買ってみたいので見ててください」。安藤さんとアメ横を歩いていたら、急にそんなことを言われた。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "【5分でできる】ミニトマトの簡単副菜3選！火を使わずにカットして和えるだけレシピ",
-      "url": "https://news.cookpad.com/articles/65823",
-      "date": "2026-08-20T09:00:00.000Z",
-      "summary": "火を使わずに5分でできるミニトマトの副菜3選をご紹介します。切ったり和えたりするだけのレシピなので、コンロを使いたくない日にも大助かり。忙しいときに試してみたくなる、身近な材料でできる手軽な副菜...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
     }
   ]
 }
