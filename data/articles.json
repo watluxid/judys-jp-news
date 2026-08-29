@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T16:47:12.731Z",
+  "generatedAt": "2026-08-29T20:59:27.680Z",
   "articleCount": 600,
   "feedStatus": [
     {
@@ -17,17 +17,24 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（社会）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
-      "errors": []
-    },
-    {
       "name": "NHKニュース（国際）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+      "errors": []
+    },
+    {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（社会）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
       "errors": []
     },
     {
@@ -42,13 +49,6 @@
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://cookien.com/feed/",
-      "errors": []
-    },
-    {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -80,17 +80,17 @@
       "errors": []
     },
     {
-      "name": "リアルサウンド",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
-      "errors": []
-    },
-    {
       "name": "4Gamer（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://www.4gamer.net/rss/index.xml",
+      "errors": []
+    },
+    {
+      "name": "リアルサウンド",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://realsound.jp/atom.xml",
       "errors": []
     },
     {
@@ -108,13 +108,6 @@
       "errors": []
     },
     {
-      "name": "ナゾロジー",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
-      "errors": []
-    },
-    {
       "name": "OTOTOY",
       "category": "music",
       "ok": true,
@@ -129,10 +122,24 @@
       "errors": []
     },
     {
+      "name": "ナゾロジー",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "errors": []
+    },
+    {
       "name": "デイリーポータルZ",
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "errors": []
+    },
+    {
+      "name": "カラパイア",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://karapaia.com/index.rdf",
       "errors": []
     },
     {
@@ -147,13 +154,6 @@
       "category": "culture",
       "ok": true,
       "usedUrl": "https://tokion.jp/feed/",
-      "errors": []
-    },
-    {
-      "name": "カラパイア",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
       "errors": []
     },
     {
@@ -179,6 +179,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Stray Kids、TWICE、Mrs. GREEN APPLE……“史上初”を更新するMUFGスタジアム（国立競技場）公演相次ぐ",
+      "url": "https://realsound.jp/2026/08/post-2505261.html",
+      "date": "2026-08-30T05:50:38.000Z",
+      "summary": "Stray Kidsが8月29日・30日に、ワールドツアー一カ所目となる東京・MUFGスタジアム（国立競技場）公演を開催。これは同会場“史上初”の海外男性グループの単独ライブとなる。本稿では、今年MUFGスタジアムにおける“史上初”を更新したTWICE、Mrs. GREEN APPLEの公演を紹介する。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
     {
       "title": "ポール・マッカートニー＆マイケル・ジャクソンのコラボ曲「Say Say Say」 ミュージックビデオを4Kリマスター化",
       "url": "https://amass.jp/191528/",
@@ -5569,15 +5578,6 @@
       "source": "ほんのひきだし（本・出版）",
       "sourceHomepage": "https://hon-hikidashi.jp/",
       "category": "culture"
-    },
-    {
-      "title": "超大質量ブラックホール「いて座A*」周辺で新たな星を発見 ブラックホールの自転測定に期待",
-      "url": "https://sorae.info/astronomy/20260823-s301.html",
-      "date": "2026-08-23T09:27:41.000Z",
-      "summary": "パリ天文台のKarim Abd El Dayem氏を筆頭とする研究チームは、天の川銀河の中心部に存在する超大質量（超巨大）ブラックホール「いて座A*（Sgr A*）」のごく近くを周回する新たな星を発見したとする研究成果を…",
-      "source": "sorae（宇宙・天文）",
-      "sourceHomepage": "https://sorae.info/",
-      "category": "documentary"
     }
   ]
 }
