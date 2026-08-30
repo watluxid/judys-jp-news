@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T12:00:46.426Z",
+  "generatedAt": "2026-08-30T16:47:10.533Z",
   "articleCount": 600,
   "feedStatus": [
     {
@@ -10,10 +10,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（科学・文化）",
+      "name": "NHKニュース（国際）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
       "errors": []
     },
     {
@@ -24,17 +24,17 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-      "errors": []
-    },
-    {
       "name": "樋口直哉（TravelingFoodLab.）",
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -59,17 +59,17 @@
       "errors": []
     },
     {
-      "name": "amass",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://amass.jp/rss/new",
-      "errors": []
-    },
-    {
       "name": "メシ通（ホットペッパーグルメ）",
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
+      "errors": []
+    },
+    {
+      "name": "amass",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://amass.jp/rss/new",
       "errors": []
     },
     {
@@ -87,13 +87,6 @@
       "errors": []
     },
     {
-      "name": "リアルサウンド",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
-      "errors": []
-    },
-    {
       "name": "インサイド（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
@@ -101,24 +94,17 @@
       "errors": []
     },
     {
+      "name": "リアルサウンド",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://realsound.jp/atom.xml",
+      "errors": []
+    },
+    {
       "name": "アニメ！アニメ！（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://animeanime.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
-      "errors": []
-    },
-    {
-      "name": "CINRA",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://www.cinra.net/feed",
       "errors": []
     },
     {
@@ -136,24 +122,17 @@
       "errors": []
     },
     {
-      "name": "和樂web",
-      "category": "culture",
+      "name": "OTOTOY",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://intojapanwaraku.com/feed",
+      "usedUrl": "https://ototoy.jp/rss",
       "errors": []
     },
     {
-      "name": "カラパイア",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "ほんのひきだし（本・出版）",
+      "name": "CINRA",
       "category": "culture",
       "ok": true,
-      "usedUrl": "https://hon-hikidashi.jp/feed/",
+      "usedUrl": "https://www.cinra.net/feed",
       "errors": []
     },
     {
@@ -164,10 +143,24 @@
       "errors": []
     },
     {
-      "name": "青い日記帳（美術展）",
+      "name": "カラパイア",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://karapaia.com/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "和樂web",
       "category": "culture",
       "ok": true,
-      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
+      "usedUrl": "https://intojapanwaraku.com/feed",
+      "errors": []
+    },
+    {
+      "name": "ほんのひきだし（本・出版）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://hon-hikidashi.jp/feed/",
       "errors": []
     },
     {
@@ -176,9 +169,70 @@
       "ok": true,
       "usedUrl": "https://www.art-annual.jp/feed",
       "errors": []
+    },
+    {
+      "name": "青い日記帳（美術展）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
+      "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "マリリン・マンソン 最新作のエクスパンデッド版から「You Can't Die Young」公開",
+      "url": "https://amass.jp/191534/",
+      "date": "2026-08-31T00:36:00.000Z",
+      "summary": "マリリン・マンソンは最新アルバム『One Assassination Under God - Chapter 2』にボーナス曲1曲を追加したエクスパンデッド版をリリース。追加された「You Can't Die Young」はYouTube他で聴けます https://amass.jp/191534/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "中川翔子、驚きの“29キロ”減量を告白 「ダイエットお休み気味」でチーズ肉カレーうどんなど爆食",
+      "url": "https://realsound.jp/2026/08/post-2507234.html",
+      "date": "2026-08-30T23:13:16.000Z",
+      "summary": "中川翔子がダイエットお休み気味であることを自身のInstagramにて報告している。 昨年9月に双子の男児の出産後、最大体重から約29キロの減量を達成した中川。「おいしいものも食べなくちゃ生きてる意味！」という理由か",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "フランク・ザッパ＆マザーズ・オブ・インヴェンション『Freak Out!』60周年記念版から「I'm Not Satisfied (Mothers Demo)」公開",
+      "url": "https://amass.jp/191533/",
+      "date": "2026-08-30T22:03:00.000Z",
+      "summary": "フランク・ザッパ＆マザーズ・オブ・インヴェンション『Freak Out!』。発売60周年記念エディションから「I'm Not Satisfied (Mothers Demo)」が公開されています。 https://amass.jp/191533/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ラッシュ復活ツアー、アニカ・ニルスはリーとライフソンを最後の音で待たせたまま、毎回、愉快なことを行っている",
+      "url": "https://amass.jp/191532/",
+      "date": "2026-08-30T21:58:00.000Z",
+      "summary": "ラッシュ復活ツアーの公演ではメンバーが最後を締めくくる音を弾くためにドラマーのアニカ・ニルスの合図を待っている最中、じつは毎回、愉快なことが行われている。ニルスは曲をすぐに終わらせるのではなく、メンバーを待たせたままポテトチップスを食べたり…。映像あり https://amass.jp/191532/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "NHK BS『MUST BE UKTV』9月5日深夜はレディオヘッド／ザ・スミス／ザ・ジャム／ポリス／P.マッカートニー／キンクス／T.レックス／ボウイ他",
+      "url": "https://amass.jp/191531/",
+      "date": "2026-08-30T21:09:00.000Z",
+      "summary": "NHK BS『MUST BE UKTV』の9月5日深夜は70年代以降の英番組からレディオヘッド、ブラー、ザ・スミス、ザ・ジャム、ポリス、E.コステロ、P.マッカートニー、R.スチュワート、キンクス、T.レックス、J.レノン、D.ボウイら16組の演奏紹介 https://amass.jp/191531/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "tuki. “親友”星街すいせいと一夜限りの対バンライブ『星降る晩餐会』Kアリーナ横浜で開催",
+      "url": "https://realsound.jp/2026/08/post-2507322.html",
+      "date": "2026-08-30T21:00:51.000Z",
+      "summary": "tuki.が、星街すいせいとの一夜限りの対バンライブ『星降る晩餐会』を、12月20日に神奈川 Kアリーナ横浜で開催する。 tuki.と星街すいせいは、SNSでの共演をきっかけに、互いのYouTubeチャンネルに出演し",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
     {
       "title": "オリヴィア・トレマー・コントロール、27年ぶりの新アルバムから「Advice from the Oceans」公開",
       "url": "https://amass.jp/191530/",
@@ -243,6 +297,15 @@
       "category": "music"
     },
     {
+      "title": "スペースXがNASAの「ローマン宇宙望遠鏡」をファルコンヘビーで打ち上げ",
+      "url": "https://sorae.info/ssn/20260830-roman-space-telescope.html",
+      "date": "2026-08-30T14:37:18.000Z",
+      "summary": "SpaceX（スペースX）は日本時間2026年8月30日に、ケネディ宇宙センターから「Falcon Heavy（ファルコンヘビー）」ロケットの打ち上げを実施しました。搭載されていたNASA（アメリカ航空宇宙局）の「ナンシ…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
+    },
+    {
       "title": "CANDY TUNE、4thシングルCD表題曲「総意♡So Free」先行配信＆MV公開 全国ツアー初日公演で初披露",
       "url": "https://realsound.jp/2026/08/post-2507248.html",
       "date": "2026-08-30T14:05:04.000Z",
@@ -250,6 +313,15 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "「性欲がない＝セックスに満足できない」ではない―人が性に求めるものとは？",
+      "url": "https://nazology.kusuguru.co.jp/archives/199159",
+      "date": "2026-08-30T13:00:08.000Z",
+      "summary": "セックスをする理由は、いつも「自分がしたいから」だけなのでしょうか。 自分の性的欲求は低くても、パートナーとの関係などを理由に性的な活動に応じることはあります。 米国ワシントンD.C.のインティムメディシン・スペシャリスツ（IntimMedicine Specialists）のニキータ・グプタン（Nikita Guptan）氏ら、性的欲求低下障害（HSDD）の女性を対象とした複数の臨床試験を分析しました。 すると、性欲が非常に低い女性で",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
     },
     {
       "title": "Masato Hayashi、『RAPSTAR』を通して気づいた「ラップとは何か？」 苦悩の日々、充実の今、シーンへの危機感を語る",
@@ -5506,78 +5578,6 @@
       "source": "ほんのひきだし（本・出版）",
       "sourceHomepage": "https://hon-hikidashi.jp/",
       "category": "culture"
-    },
-    {
-      "title": "【もうスポーツドリンク買わない】砂糖、塩麹、梅…材料で選ぶ自家製スポドリ＆経口補水液",
-      "url": "https://news.cookpad.com/articles/65126",
-      "date": "2026-08-24T05:00:00.000Z",
-      "summary": "「暑い日の水分補給にスポーツドリンクを常備したいけれど、買い出しが大変」「市販品は添加物が気になる」などと感じていませんか？ じつはスポーツドリンクや経口補水液は、家にある身近な材料で簡単に手作...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "山下達郎、楽曲「高気圧ガール」が南琴奈出演の湖池屋『ピュアポテト』新CMソングに起用",
-      "url": "https://realsound.jp/2026/08/post-2499700.html",
-      "date": "2026-08-24T04:00:59.000Z",
-      "summary": "山下達郎の楽曲「高気圧ガール」が、本日8月24日より放送の湖池屋『ピュアポテト』の新CM『ポテチが好きだ。』篇のCMソングに決定した。 本CMでは、俳優 南琴奈が出演。「高気圧ガール」の世界観をベースに、透明感のある",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "バイト先で酒瓶を磨くレス妻…でも明日は誕生日だから素敵なことがあるはず…『35歳の不・純愛 ～あなたが恋しいだけだった～』【#1】",
-      "url": "https://hon-hikidashi.jp/book-person/186670/",
-      "date": "2026-08-24T03:45:48.000Z",
-      "summary": "「ほんのひきだし」では、「夏の夜更かし、ちょっと刺激的な夜読。」をテーマに、眠れない夏の夜にこそ読みたいコミックをご紹介します。恋、秘密、駆け引き、復讐、そして誰にも言えない想い。少し刺激的で、気づけば夜更かししてしまうような物語を、この機会にぜひお楽しみください。 今回ご紹介するのは、セックスレスの専業主婦が夫の不倫疑惑に思い悩みながらも夫婦関係に向き合う物語 『35歳の不・純愛 ～あなたが恋しいだけだった～』 です。 (adsbyg",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "8月28日開催『exPoP!!!!!』にcephalo、Nape、CRAZY BLUES、海風邪、mukeikakuが出演",
-      "url": "https://www.cinra.net/article/202608-whn-expop8_edteam",
-      "date": "2026-08-24T03:22:00.000Z",
-      "summary": "NiEWが贈る入場無料の音楽イベント『exPoP!!!!! vol.187』が8月28日に渋谷のSpotify O-nestで開催される。",
-      "source": "CINRA",
-      "sourceHomepage": "https://www.cinra.net/",
-      "category": "culture"
-    },
-    {
-      "title": "藤原カムイが20年ぶりに描く「ドラクエ7」の正統続編！『DRAGON QUEST EDEN』第1巻が発売｜今週の注目コミック発売日（8/24～8/30）",
-      "url": "https://hon-hikidashi.jp/news/187343/",
-      "date": "2026-08-24T03:00:33.000Z",
-      "summary": "今週の注目コミック発売日（8/24～8/30） ★はピックアップ銘柄です 8/24（月） マンガで分かる心療内科 受験うつ・無限の集中力編（34）［YKコミックス］ （ゆうきゆう、ソウ／少年画報社） 8/25（火） 銀河特急 ミルキー☆サブウェイ（2）［カドカワコミックスA］ （河野丼、亀山陽平／KADOKAWA） 幼女戦記（35）［カドカワコミックスA］ （東條チカ、カルロ・ゼン／KADOKAWA） ★ きみとバラ色の日々（4）［マー",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "「驚くと瞳孔が開くのはなぜ？」科学的しくみが明らかに",
-      "url": "https://nazology.kusuguru.co.jp/archives/198968",
-      "date": "2026-08-24T03:00:08.000Z",
-      "summary": "私たちは暗い場所に入ると、より多くの光を取り込むために瞳孔が開きます。 しかし、瞳孔が開くのは暗い場所にいるときだけではありません。 突然大きな音がしたり、予想外の出来事に驚いたりしたときにも、瞳孔は一瞬大きくなります。 では、光の量とは関係のない「驚き」で、なぜ瞳孔が開くのでしょうか。 米ブラウン大学（Brown University）の研究チームは、この反応が単なる驚きの副産物ではなく、脳が「これまでの予測をいったん見直し、新しい状",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "オクラがあれば5分で完成！毎日作りたい副菜集",
-      "url": "https://news.cookpad.com/articles/65066",
-      "date": "2026-08-24T03:00:00.000Z",
-      "summary": "メインおかずのあとに「あと1品作りたい」と思うことありますよね。今日は、「もう一品ほしいときに5分もあればすぐに作れるオクラの副菜レシピをご紹介します。オクラを茹でたらごま油と塩で和えればできあ...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "うれしいニュース。米ニューヨークの川で野生のカワウソが100年ぶりに目撃される",
-      "url": "https://karapaia.com/archives/623667.html",
-      "date": "2026-08-24T03:00:00.000Z",
-      "summary": "かつては深刻な水質汚染に見舞われ、下水道のように扱われていたアメリカ・ニューヨークのブロンクス川に、約100年ぶりに野生のカワウソが姿を現した。長年にわたる懸命な水質浄化と環境修復の取り組みが実を結び、きれいな水と豊富な魚を必要とするカナダカワウソが戻ってきたのだ…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
     }
   ]
 }
