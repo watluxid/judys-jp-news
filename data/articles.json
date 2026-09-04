@@ -1,12 +1,26 @@
 {
-  "generatedAt": "2026-09-04T16:27:57.382Z",
+  "generatedAt": "2026-09-04T20:50:57.188Z",
   "articleCount": 600,
   "feedStatus": [
+    {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "errors": []
+    },
     {
       "name": "NHKニュース（国際）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（社会）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
       "errors": []
     },
     {
@@ -24,17 +38,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（科学・文化）",
-      "category": "news",
+      "name": "つくおき",
+      "category": "cooking",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（社会）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "usedUrl": "https://cookien.com/feed/",
       "errors": []
     },
     {
@@ -45,24 +52,10 @@
       "errors": []
     },
     {
-      "name": "つくおき",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://cookien.com/feed/",
-      "errors": []
-    },
-    {
       "name": "Mikiki（タワーレコード）",
       "category": "music",
       "ok": true,
       "usedUrl": "https://mikiki.tokyo.jp/list/feed/rss",
-      "errors": []
-    },
-    {
-      "name": "メシ通（ホットペッパーグルメ）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
       "errors": []
     },
     {
@@ -73,10 +66,10 @@
       "errors": []
     },
     {
-      "name": "4Gamer（乙女ゲーム関連）",
-      "category": "otome",
+      "name": "メシ通（ホットペッパーグルメ）",
+      "category": "cooking",
       "ok": true,
-      "usedUrl": "https://www.4gamer.net/rss/index.xml",
+      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
       "errors": []
     },
     {
@@ -84,6 +77,13 @@
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://sorae.info/feed",
+      "errors": []
+    },
+    {
+      "name": "4Gamer（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://www.4gamer.net/rss/index.xml",
       "errors": []
     },
     {
@@ -101,20 +101,6 @@
       "errors": []
     },
     {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
-      "errors": []
-    },
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
-      "errors": []
-    },
-    {
       "name": "アニメ！アニメ！（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
@@ -122,17 +108,24 @@
       "errors": []
     },
     {
-      "name": "CINRA",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://www.cinra.net/feed",
-      "errors": []
-    },
-    {
       "name": "ナゾロジー",
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "errors": []
+    },
+    {
+      "name": "デイリーポータルZ",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "errors": []
+    },
+    {
+      "name": "CINRA",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://www.cinra.net/feed",
       "errors": []
     },
     {
@@ -176,9 +169,43 @@
       "ok": true,
       "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
+    },
+    {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
+      "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "徳川美術館で新指定・重要文化財「菊白露蒔絵婚礼調度」を特別公開",
+      "url": "https://bluediary2.jugem.jp/?eid=8179",
+      "date": "2026-09-05T12:34:00.000Z",
+      "summary": "徳川美術館を代表する名品のひとつ、国宝「初音の調度」。 徳川3代将軍・家光の娘、千代姫が尾張徳川家へ嫁ぐ際に制作された豪華な婚礼調度としてよく知られています。 国宝 初音蒔絵調度 三棚飾り 徳川美術館蔵 その「初音の調度」より6年早く制作された婚...",
+      "source": "青い日記帳（美術展）",
+      "sourceHomepage": "https://bluediary2.jugem.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "オアシス 謎の動画の第2弾に隠されたメッセージは？ 解読したファンはマンチェスター・シティの本拠地でのレジデンシー公演を示唆していると主張",
+      "url": "https://amass.jp/191650/",
+      "date": "2026-09-05T05:06:00.000Z",
+      "summary": "オアシスのSNSアカウントは謎の動画の第2弾を投稿。ファンたちは今回も動画に隠されたメッセージを解読したと主張。今回はマンチェスター・シティの本拠地であるエティハド・スタジアムで全12公演のレジデンシー公演を行うことを示唆しているのではないかと推測 https://amass.jp/191650/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "プリンス没後のオーバーダビングが判明した未発表曲「Calabama」 プリンスの遺産管理団体は経緯を説明する声明発表",
+      "url": "https://amass.jp/191649/",
+      "date": "2026-09-05T01:49:00.000Z",
+      "summary": "プリンスの未発表音源集『Timeless』の収録曲「Calabama」では、プリンス没後に新たな楽器演奏をオーバーダビングしていたことが先日判明。これを受け、プリンスの遺産管理団体は公式SNSアカウントにて声明を発表し、経緯を詳しく説明しています https://amass.jp/191649/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "アリッサ・ホワイト＝グラズ率いるブルー・メデューサ 新曲「CROCODILE.」のMV公開",
       "url": "https://amass.jp/191648/",
@@ -702,6 +729,15 @@
       "category": "documentary"
     },
     {
+      "title": "AI監視カメラを欺け！派手な柄のデジタル迷彩シャツで検出を回避",
+      "url": "https://karapaia.com/archives/626046.html",
+      "date": "2026-09-04T09:00:00.000Z",
+      "summary": "AIカメラから「人間」と認識されなくなるド派手な柄のシャツが開発された。「デジタル・カモフラージュ（Digital Camouflage）」は、2026年8月からドイツのベルリンで導入されているAI監視カメラ計画回避のために作られた。このシャツの柄は…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
       "title": "heykazma主催〈yuu.ten vol.3〉、10/16下北沢SPREADで開催 石橋英子、KISEKIら出演",
       "url": "https://ototoy.jp/news/131690",
       "date": "2026-09-04T09:00:00.000Z",
@@ -718,15 +754,6 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
-    },
-    {
-      "title": "AI監視カメラを欺け！派手な柄のデジタル迷彩シャツで検出を回避",
-      "url": "https://karapaia.com/archives/626046.html",
-      "date": "2026-09-04T09:00:00.000Z",
-      "summary": "AIカメラから「人間」と認識されなくなるド派手な柄のシャツが開発された。「デジタル・カモフラージュ（Digital Camouflage）」は、2026年8月からドイツのベルリンで導入されているAI監視カメラ計画回避のために作られた。このシャツの柄は…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
     },
     {
       "title": "沖縄発3人組バンド・HOME、初の対バンツアー「YUNG MEN IN THE CAR TOUR 2026」開催決定",
@@ -5551,33 +5578,6 @@
       "source": "カラパイア",
       "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
-    },
-    {
-      "title": "つんく♂、日本に根付かせた“リズム”の意識 シャ乱Q、ハロプロ、リズム天国……音楽シーンに留まらない功績",
-      "url": "https://realsound.jp/2026/08/post-2507004.html",
-      "date": "2026-08-29T22:00:50.000Z",
-      "summary": "つんく♂が日本に根付かせた“リズム”の意識を解説し、その功績を振り返る。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "楽器練習を4年つづけた高齢者は「脳の老化」が止まっていた",
-      "url": "https://nazology.kusuguru.co.jp/archives/180666",
-      "date": "2026-08-29T22:00:30.000Z",
-      "summary": "高齢者が新たな趣味として楽器を始めたら、多くの人がそれを「生きがい」や「余暇の楽しみ」と見なすかもしれません。 しかし京都大学の研究によると、高齢者が楽器練習を継続することで、脳機能の加齢による低下を防げる可能性があるのだという。 しかも効果が現れたのは「演奏が上手い人」ではなく、「やめずに続けた人」でした。 研究の詳細は2025年6月17日付で学術誌『Imaging Neuroscience』に掲載されています。",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "グラディス・ナイト、健康上の懸念の中「今後はパフォーマンスの回数を徐々に減らしていく」と発表",
-      "url": "https://amass.jp/191525/",
-      "date": "2026-08-29T21:49:00.000Z",
-      "summary": "“ソウルの女帝”グラディス・ナイト（82歳）は声明を発表。「今後はパフォーマンスの回数を徐々に減らしキャリアと人生の次の段階への移行に注力していく」と発表。最近の公演では健康状態に問題を抱えているように見えたことから一部のファンの間で懸念が広がっていた https://amass.jp/191525/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
     }
   ]
 }
