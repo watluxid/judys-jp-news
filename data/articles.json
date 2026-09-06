@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T11:05:52.593Z",
+  "generatedAt": "2026-09-06T15:33:17.406Z",
   "articleCount": 600,
   "feedStatus": [
     {
@@ -7,6 +7,13 @@
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -24,10 +31,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（科学・文化）",
-      "category": "news",
+      "name": "クックパッドニュース",
+      "category": "cooking",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
       "errors": []
     },
     {
@@ -35,13 +42,6 @@
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://note.com/travelingfoodlab/rss",
-      "errors": []
-    },
-    {
-      "name": "クックパッドニュース",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
       "errors": []
     },
     {
@@ -59,13 +59,6 @@
       "errors": []
     },
     {
-      "name": "amass",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://amass.jp/rss/new",
-      "errors": []
-    },
-    {
       "name": "メシ通（ホットペッパーグルメ）",
       "category": "cooking",
       "ok": true,
@@ -73,10 +66,10 @@
       "errors": []
     },
     {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
+      "name": "amass",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://sorae.info/feed",
+      "usedUrl": "https://amass.jp/rss/new",
       "errors": []
     },
     {
@@ -94,10 +87,10 @@
       "errors": []
     },
     {
-      "name": "デイリーポータルZ",
+      "name": "sorae（宇宙・天文）",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -115,6 +108,13 @@
       "errors": []
     },
     {
+      "name": "デイリーポータルZ",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "errors": []
+    },
+    {
       "name": "CINRA",
       "category": "culture",
       "ok": true,
@@ -129,24 +129,10 @@
       "errors": []
     },
     {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
-      "errors": []
-    },
-    {
       "name": "カラパイア",
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://karapaia.com/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "TOKION",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
       "errors": []
     },
     {
@@ -157,10 +143,24 @@
       "errors": []
     },
     {
+      "name": "TOKION",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://tokion.jp/feed/",
+      "errors": []
+    },
+    {
       "name": "ほんのひきだし（本・出版）",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://hon-hikidashi.jp/feed/",
+      "errors": []
+    },
+    {
+      "name": "青い日記帳（美術展）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
     },
     {
@@ -171,14 +171,59 @@
       "errors": []
     },
     {
-      "name": "青い日記帳（美術展）",
-      "category": "culture",
+      "name": "OTOTOY",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
+      "usedUrl": "https://ototoy.jp/rss",
       "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "ロックの殿堂の式典でこれまで披露されてきたビートルズ楽曲のパフォーマンスを紹介する映像33分公開",
+      "url": "https://amass.jp/191667/",
+      "date": "2026-09-06T21:55:00.000Z",
+      "summary": "ロックの殿堂のYouTubeチャンネルは、同殿堂の式典でこれまで披露されてきたビートルズ楽曲の演奏を紹介する映像約33分を公開。プリンスの名ソロ、アクセル・ローズとブルース・スプリングスティーンの共演、ポールと豪華共演者による演奏など計8つを紹介 https://amass.jp/191667/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "アリッサ・ホワイト＝グラズ率いるブルー・メデューサがライヴ・デビュー 映像あり",
+      "url": "https://amass.jp/191666/",
+      "date": "2026-09-06T21:40:00.000Z",
+      "summary": "現ドラゴンフォース／元アーチ・エネミーのヴォーカリスト、アリッサ・ホワイト＝グラズ率いるバンド、ブルー・メデューサが初ライヴを実施。9月4日にドイツのベルリンで開催されたイベントでライヴ・デビューを果たしました。映像あり https://amass.jp/191666/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ローリング・ストーンズの伝記映画始動？ 米国の制作会社と契約を締結したと英紙報道",
+      "url": "https://amass.jp/191665/",
+      "date": "2026-09-06T21:30:00.000Z",
+      "summary": "英The Sun紙によると、ローリング・ストーンズを題材にした映画のために、ミック・ジャガー、キース・リチャーズ、ロニー・ウッドの3人は先月、米国の制作会社101 Studiosと契約を締結したという。初期段階でキャスティングはまだ始まっていない https://amass.jp/191665/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ジョン・ライドンはクラウトロックの巨星CANへの加入を試みていた CANのイルミン・シュミット回想",
+      "url": "https://amass.jp/191664/",
+      "date": "2026-09-06T21:14:00.000Z",
+      "summary": "セックス・ピストルズ／パブリック・イメージ・リミテッドのジョン・ライドン（ジョニー・ロットン）は、ある時期、クラウトロックの巨星CANへの加入を試みていたという。CANのイルミン・シュミットが語る。「彼は本当にCANのヴォーカリストになりたがっていた」 https://amass.jp/191664/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "オアシス2027年ツアーは北米やヨーロッパでも開催予定だと英The Sun紙報道",
+      "url": "https://amass.jp/191663/",
+      "date": "2026-09-06T20:49:00.000Z",
+      "summary": "オアシスの2027年ツアーは北米やヨーロッパでも開催される予定だと英The Sun紙が報道。オアシスのSNSが投稿した謎の動画の第3弾はドイツのミュンヘン公演を示唆するもので、また同紙は関係者の話としてボストンやラスベガスで公演を行う予定だと報道 https://amass.jp/191663/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "ふみの、1stアルバムの全収録楽曲発表 過去の自分と向き合って誕生したリード曲「18」先行配信も",
       "url": "https://realsound.jp/2026/09/post-2514460.html",
@@ -241,6 +286,33 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "「キスの起源」から「パンツ埋め実験」まで――2026年イグノーベル賞、全10部門の受賞研究",
+      "url": "https://nazology.kusuguru.co.jp/archives/199309",
+      "date": "2026-09-06T12:30:24.000Z",
+      "summary": "綿のパンツを土に埋めて、2か月 死んだ蚊の口を3Dプリンターのノズルに 毒ヘビの頭を、防護ブーツでそっと踏む 「人を笑わせ、そして考えさせる研究」に贈られるこの賞の授賞式が、2026年9月3日に開かれました。 1991年の創設以来、対面の授賞式は米国のボストン周辺で開かれてきましたが、今回の会場はスイスのチューリッヒです。 今年のテーマは「Fungi（菌類）」で、トロフィーはブルーチーズの上に載った足からキノコが生えた像、賞金はすでに廃",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "火星の硫黄結晶の発見がScience誌表紙を飾る 火星の局所的な環境を示す重要な手がかり",
+      "url": "https://sorae.info/astronomy/20260906-mars-sulfur-deposit.html",
+      "date": "2026-09-06T12:25:42.000Z",
+      "summary": "偶然が思わぬ発見をもたらすことはありますが、今回お話する内容はその最たる例かもしれません。2024年6月、NASA（アメリカ航空宇宙局）の火星探査車「キュリオシティ（Curiosity）」の運用チームは、淡い色をした岩が…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
+    },
+    {
+      "title": "宇宙最大の謎「ダークマター」の痕跡か。検出器が奇妙な反応を検出",
+      "url": "https://karapaia.com/archives/626440.html",
+      "date": "2026-09-06T11:30:00.000Z",
+      "summary": "宇宙の質量の大部分を占めるとされる、目に見えない暗黒物質「ダークマター」。何十年にもわたり物理学者が追い求めてきたその正体がついに判明するかもしれない。アメリカの地下深くにある世界最高感度のダークマター検出器が、通常の物質では説明できない粒子の反応をとらえたのだ…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
     },
     {
       "title": "「そんなところ汚いよ！！」初めての体験は、全部が刺激的であっという間だった『女風のまにまに』【#12】",
@@ -5506,78 +5578,6 @@
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
-    },
-    {
-      "title": "『映画ちいかわ』入場者特典第4弾は島二郎らが登場のチャームミニフィギュア",
-      "url": "https://www.cinra.net/article/202608-whn-chiikawa4_edteam",
-      "date": "2026-08-31T07:34:00.000Z",
-      "summary": "『映画ちいかわ 人魚の島のひみつ』の入場者特典第4弾が発表された。",
-      "source": "CINRA",
-      "sourceHomepage": "https://www.cinra.net/",
-      "category": "culture"
-    },
-    {
-      "title": "【つくれぽ1000件レシピも】和えるだけで爆速完成！豆苗でやみつきシャキシャキ絶品サラダ",
-      "url": "https://news.cookpad.com/articles/65992",
-      "date": "2026-08-31T07:00:00.000Z",
-      "summary": "豆苗はお手頃価格で再生栽培もできる、家計にうれしい野菜。それだけでなく、シャキシャキとした食感と、ぴりりとした味がアクセントになって他の素材も引き立てます。今回は切って和えるだけで完成する簡単サ...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "京都を走る嵐電の時計は漢字（しかも旧字）",
-      "url": "https://dailyportalz.jp/koresugo/clocks-randen-train",
-      "date": "2026-08-31T07:00:00.000Z",
-      "summary": "嵐山には嵐電という路面電車があるのですが、時計が一瞬読めなくてビックリしました。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "書き出し小説大賞 306回秀作発表",
-      "url": "https://dailyportalz.jp/kiji/kakidashi306",
-      "date": "2026-08-31T07:00:00.000Z",
-      "summary": "書き出しだけで成立するミニマムな小説。自由部門と規定部門『涼感・冷感』あわせて42作品の発表です。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "巨大ニシキヘビが脱走し学校が火事に。飼育していた教師はこれに反論",
-      "url": "https://karapaia.com/archives/624775.html",
-      "date": "2026-08-31T07:00:00.000Z",
-      "summary": "アメリカの中学校で真夜中に火災が発生した。駆け付けた消防隊が煙の充満する教室にいたのは、体長約2.4mの巨大なニシキヘビだった。消防当局の調査では、このニシキヘビが飼育ケースから脱走した際に保温器具を倒し、火災を引き起こしたとしている。だが…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
-      "title": "【いつものお茶が極上スイーツに】お茶に注ぐだけで完成「飲むゼリー」3選",
-      "url": "https://news.cookpad.com/articles/65802",
-      "date": "2026-08-31T06:00:00.000Z",
-      "summary": "好きな飲みものをゼリーにして崩すだけ！夏にうれしいスイーツ「飲むゼリー」を3つ集めました。飲みものの種類や合わせるミルクを変えれば、いろいろな味わいが楽しめます。熱湯で作ったほうじ茶に砂糖とゼラ...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "Number_i 平野紫耀、自分らしく生きるための余裕 近づく30歳――今を楽しむ“素敵な大人”への意識",
-      "url": "https://realsound.jp/2026/08/post-2506168.html",
-      "date": "2026-08-31T05:50:24.000Z",
-      "summary": "Number_i 平野紫耀が、自分らしく生きるために大切にしている“余裕”について紹介する。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "香取慎吾、草間彌生と共通する“描く＝生きる”という意識 ふたりの交流から見えた「描き続けてみます」という言葉の重み",
-      "url": "https://realsound.jp/2026/08/post-2506572.html",
-      "date": "2026-08-31T05:50:15.000Z",
-      "summary": "香取慎吾と草間彌生に共通する“描く＝生きる”という意識について紹介する。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
     }
   ]
 }
