@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-06T15:33:17.406Z",
+  "generatedAt": "2026-09-06T20:30:28.057Z",
   "articleCount": 600,
   "feedStatus": [
-    {
-      "name": "NHKニュース（主要）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-      "errors": []
-    },
     {
       "name": "NHKニュース（科学・文化）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（主要）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
       "errors": []
     },
     {
@@ -24,13 +24,6 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（社会）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
-      "errors": []
-    },
-    {
       "name": "クックパッドニュース",
       "category": "cooking",
       "ok": true,
@@ -38,10 +31,10 @@
       "errors": []
     },
     {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
+      "name": "NHKニュース（社会）",
+      "category": "news",
       "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
       "errors": []
     },
     {
@@ -49,6 +42,13 @@
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://cookien.com/feed/",
+      "errors": []
+    },
+    {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -73,6 +73,13 @@
       "errors": []
     },
     {
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://sorae.info/feed",
+      "errors": []
+    },
+    {
       "name": "4Gamer（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
@@ -84,13 +91,6 @@
       "category": "music",
       "ok": true,
       "usedUrl": "https://realsound.jp/atom.xml",
-      "errors": []
-    },
-    {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -122,17 +122,17 @@
       "errors": []
     },
     {
-      "name": "ナゾロジー",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
-      "errors": []
-    },
-    {
       "name": "カラパイア",
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://karapaia.com/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "ナゾロジー",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
       "errors": []
     },
     {
@@ -143,17 +143,17 @@
       "errors": []
     },
     {
+      "name": "Art Annual online（美術）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://www.art-annual.jp/feed",
+      "errors": []
+    },
+    {
       "name": "TOKION",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://tokion.jp/feed/",
-      "errors": []
-    },
-    {
-      "name": "ほんのひきだし（本・出版）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://hon-hikidashi.jp/feed/",
       "errors": []
     },
     {
@@ -164,10 +164,10 @@
       "errors": []
     },
     {
-      "name": "Art Annual online（美術）",
+      "name": "ほんのひきだし（本・出版）",
       "category": "culture",
       "ok": true,
-      "usedUrl": "https://www.art-annual.jp/feed",
+      "usedUrl": "https://hon-hikidashi.jp/feed/",
       "errors": []
     },
     {
@@ -179,6 +179,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Every Time I Dieの元ギタリストでプロレスラーのアンディ・ウィリアムズ死去",
+      "url": "https://amass.jp/191668/",
+      "date": "2026-09-07T00:51:00.000Z",
+      "summary": "米メタルコアバンド、エヴリタイム・アイ・ダイ（Every Time I Die）の元ギタリストであり、プロレスラーでもあったアンディ・ウィリアムズ（Andy Williams）が死去。プロレスの試合後に倒れ、その後、搬送先の病院で亡くなる。48歳でした https://amass.jp/191668/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "ロックの殿堂の式典でこれまで披露されてきたビートルズ楽曲のパフォーマンスを紹介する映像33分公開",
       "url": "https://amass.jp/191667/",
@@ -5569,15 +5578,6 @@
       "source": "和樂web",
       "sourceHomepage": "https://intojapanwaraku.com/",
       "category": "culture"
-    },
-    {
-      "title": "ゴリック / うっかりデイリー 2026年8月29日号",
-      "url": "https://dailyportalz.jp/dpq/ukkari_20260829",
-      "date": "2026-08-31T08:00:00.000Z",
-      "summary": "デイリーポータルZが配信しているメルマガ「うっかりデイリー8/29配信号です。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
     }
   ]
 }
