@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-09T11:34:05.970Z",
+  "generatedAt": "2026-09-09T16:44:56.066Z",
   "articleCount": 600,
   "feedStatus": [
     {
-      "name": "NHKニュース（主要）",
+      "name": "NHKニュース（科学・文化）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -24,10 +24,17 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（科学・文化）",
+      "name": "NHKニュース（主要）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+      "errors": []
+    },
+    {
+      "name": "つくおき",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://cookien.com/feed/",
       "errors": []
     },
     {
@@ -45,13 +52,6 @@
       "errors": []
     },
     {
-      "name": "つくおき",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://cookien.com/feed/",
-      "errors": []
-    },
-    {
       "name": "Mikiki（タワーレコード）",
       "category": "music",
       "ok": true,
@@ -59,17 +59,17 @@
       "errors": []
     },
     {
-      "name": "amass",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://amass.jp/rss/new",
-      "errors": []
-    },
-    {
       "name": "メシ通（ホットペッパーグルメ）",
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
+      "errors": []
+    },
+    {
+      "name": "amass",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://amass.jp/rss/new",
       "errors": []
     },
     {
@@ -101,6 +101,13 @@
       "errors": []
     },
     {
+      "name": "デイリーポータルZ",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "errors": []
+    },
+    {
       "name": "アニメ！アニメ！（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
@@ -115,13 +122,6 @@
       "errors": []
     },
     {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
-      "errors": []
-    },
-    {
       "name": "CINRA",
       "category": "culture",
       "ok": true,
@@ -129,10 +129,10 @@
       "errors": []
     },
     {
-      "name": "カラパイア",
-      "category": "documentary",
+      "name": "OTOTOY",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
+      "usedUrl": "https://ototoy.jp/rss",
       "errors": []
     },
     {
@@ -143,10 +143,10 @@
       "errors": []
     },
     {
-      "name": "TOKION",
-      "category": "culture",
+      "name": "カラパイア",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
+      "usedUrl": "https://karapaia.com/index.rdf",
       "errors": []
     },
     {
@@ -154,6 +154,13 @@
       "category": "culture",
       "ok": true,
       "usedUrl": "https://hon-hikidashi.jp/feed/",
+      "errors": []
+    },
+    {
+      "name": "TOKION",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://tokion.jp/feed/",
       "errors": []
     },
     {
@@ -169,16 +176,72 @@
       "ok": true,
       "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
-    },
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
-      "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "ブルース・スプリングスティーン ライヴ映像シリーズ『Land of Hope and Dreams American Tour (Philadelphia Freedom Cut)』第1弾公開",
+      "url": "https://amass.jp/191730/",
+      "date": "2026-09-10T00:54:00.000Z",
+      "summary": "ブルース・スプリングスティーンはライヴ映像シリーズ『Land of Hope and Dreams American Tour(Philadelphia Freedom Cut)』の第1弾公開。最新ツアー最終公演のOPから7曲目まで収録。全4回の第1弾 https://amass.jp/191730/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "英国王立造幣局 ピンク・フロイドを称える金製／銅製の限定ギターピック発売",
+      "url": "https://amass.jp/191729/",
+      "date": "2026-09-10T00:40:00.000Z",
+      "summary": "英国の王立造幣局は、ピンク・フロイドの功績を称え、金製および銅製の限定ギター・ピックを発売します。『狂気』の象徴的なプリズムをデザイン。このピックはギターアクセサリーとして実際に使用可能。価格は銅製は約8400円、10個限定の金製は約120万円 https://amass.jp/191729/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "映画『キャノンボール』 BS-TBSで9月13日放送 ノーカット＆日本語吹替放送",
+      "url": "https://amass.jp/191728/",
+      "date": "2026-09-09T21:45:00.000Z",
+      "summary": "豪華ハリウッドスター勢揃いのお祭り映画『キャノンボール』（1980年／アメリカ・香港）がBS-TBSで9月13日放送。ノーカット＆日本語吹替放送 https://amass.jp/191728/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "安田章大、シンガーソングライターとして始動 自身の誕生日に1stデジタルシングルリリース",
+      "url": "https://realsound.jp/2026/09/post-2517906.html",
+      "date": "2026-09-09T21:30:59.000Z",
+      "summary": "SUPER EIGHTの安田章大が、自身の誕生日である9月11日に1stデジタルシングル『ばっか/まだらびより』をリリース。あわせて同日夜には、新たに開設されたInstagramアカウントにて、リリースを記念したインス",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ライアーズ 新アルバム『A Ban On Plastic Bag Bans』発売 新曲MVあり",
+      "url": "https://amass.jp/191727/",
+      "date": "2026-09-09T20:52:00.000Z",
+      "summary": "ライアーズ（Liars）は新アルバム『A Ban On Plastic Bag Bans』を海外で2027年3月5日発売。新曲「Ice Pick、 Kalamazoo」のミュージックビデオが公開されています。 https://amass.jp/191727/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ジェイムス・ブレイクはレコード店で何を選ぶ？Amoeba Music「What's In My Bag?」出演映像公開",
+      "url": "https://amass.jp/191726/",
+      "date": "2026-09-09T20:43:00.000Z",
+      "summary": "ジェイムス・ブレイクは米Amoeba Musicの名物企画「What's in My Bag」に出演。この企画はミュージシャン／アーティストが米国のレコード店Amoeba Musicを訪れ、自分の好きなアルバムなどを自ら選んで紹介するもの。映像あり https://amass.jp/191726/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "アヴァランチーズ 新曲「Far Away ft. John Glacier, Khadija Al Hanafi」公開",
+      "url": "https://amass.jp/191725/",
+      "date": "2026-09-09T20:39:00.000Z",
+      "summary": "アヴァランチーズ（The Avalanches）の6年ぶりとなる新スタジオ・アルバム『No Bad Memories』から「Far Away ft. John Glacier、 Khadija Al Hanafi」が先行公開されています https://amass.jp/191725/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "ティーンエイジ・ファンクラブ 新曲「Be With You Tonight」のミュージックビデオ公開",
       "url": "https://amass.jp/191724/",
@@ -279,12 +342,66 @@
       "category": "music"
     },
     {
+      "title": "刀剣男士とエクササイズ！ 「Fit Boxing 刀剣乱舞 -出陣！えくささいず本丸-」が2027年1月15日に発売",
+      "url": "https://www.4gamer.net/games/041/G104101/20260909083/",
+      "date": "2026-09-09T14:53:45.000Z",
+      "summary": "本日（2026年9月9日）配信された任天堂のプレゼンテーション番組「NintendoDirect」にて，イマジニアはNintendoSwitch用ソフト「FitBoxing刀剣乱舞-出陣！えくささいず本丸-」を2027年1月15日に発売すると発表した。",
+      "source": "4Gamer（乙女ゲーム関連）",
+      "sourceHomepage": "https://www.4gamer.net/",
+      "category": "otome"
+    },
+    {
+      "title": "『Fit Boxing 刀剣乱舞 -出陣！えくささいず本丸-』2027年1月15日発売！ 今度は六振りの刀剣男士とエクササイズ【Nintendo Direct 2026.9.9】",
+      "url": "https://www.inside-games.jp/article/2026/09/09/187517.html",
+      "date": "2026-09-09T14:48:04.000Z",
+      "summary": "刀剣男士と一緒にエクササイズ！",
+      "source": "インサイド（乙女ゲーム関連）",
+      "sourceHomepage": "https://www.inside-games.jp/",
+      "category": "otome"
+    },
+    {
       "title": "Mrs. GREEN APPLE、6thオリジナルフルアルバムのタイトルは『POPS』に カバーアートも公開",
       "url": "https://realsound.jp/2026/09/post-2517243.html",
       "date": "2026-09-09T13:40:56.000Z",
       "summary": "Mrs. GREEN APPLEが9月30日にリリースする6作目のオリジナルフルアルバムのタイトルが、『POPS』に決定。また、あわせてカバーアートも公開となった。 本作には、「Carrying Happiness」",
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "【ライブレポ】ano、「大丈夫」を君に──〈ano Hall Tour 2026 DUAL DINER〉追加公演",
+      "url": "https://ototoy.jp/news/131760",
+      "date": "2026-09-09T13:30:00.000Z",
+      "summary": "「大丈夫」という言葉は、誰かに言われるより、自分自身で信じられたときに初めて強くなるのかもしれない",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
+      "title": "ニコライ・バーグマン写真集『KUMIAWASE 組み合わせ』",
+      "url": "https://bluediary2.jugem.jp/?eid=8184",
+      "date": "2026-09-09T13:23:00.000Z",
+      "summary": "花と花を組み合わせる。色と色を組み合わせる。さらに花と器、花と空間、花と異なるジャンルの表現を組み合わせる。 デンマーク出身のフラワーアーティスト、ニコライ・バーグマンの25年にわたる創作をまとめた写真集『KUMIAWASE 組み合わせ』が刊行されました。 ...",
+      "source": "青い日記帳（美術展）",
+      "sourceHomepage": "https://bluediary2.jugem.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "優しい人ほど「心の浮気」が深かった――冷徹な策士は、他人に心を奪われない",
+      "url": "https://nazology.kusuguru.co.jp/archives/199449",
+      "date": "2026-09-09T13:10:12.000Z",
+      "summary": "ルーマニアのアレクサンドル・イオアン・クザ大学（UAIC）で行われた研究によって、性格や関係の満足度が同じような人を比べると、他人を思いやる優しさが強い人ほど、心の浮気が起きやすい傾向があることがわかりました。 思いやりのある人ほど恋人を大切にするはず——その予想が、この比べ方では裏返ります。 論文では、恋人以外の相手への強い没頭を予測する性格には、これまで問題視されてきたものだけでなく、一般には望ましいとされてきた性質も含まれると記述",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "PISS、荒々しいハードコアな新曲リリース",
+      "url": "https://ototoy.jp/news/131756",
+      "date": "2026-09-09T13:00:00.000Z",
+      "summary": "PISSが2026年9月2日(水)にニューシングル「time loop at hot slit」をリリースした",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
     },
     {
@@ -330,6 +447,33 @@
       "summary": "2026年、My Hair is Badがメジャーデビュー10周年を迎えた。2008年に新潟県上越市で結成され、2016年にシングル『時代をあつめて』でメジャーデビュー。恋愛や日常のなかで生まれる感情を赤裸々な言葉で歌",
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "杉本彩さんのしなやかな体を支えるのは「高たんぱくな毎日のごはん」——俳優が実践する\"美筋ごはん\"とは",
+      "url": "https://news.cookpad.com/articles/66151",
+      "date": "2026-09-09T12:00:00.000Z",
+      "summary": "「食事の量は変わらないのに、体脂肪が落ちにくくなった」——そんなミドル世代の悩みに応えるのが、俳優・杉本彩さんの書籍『杉本彩の美筋ごはん』(主婦の友社刊)。58歳の今もしなやかな体を保つ杉本さんの高たんぱくレシピには、毎日の食卓ですぐ役立つコツが詰まっていました！",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "京都のアイドル・AQ、2ndアルバム『W.W』10/7リリース決定",
+      "url": "https://ototoy.jp/news/131763",
+      "date": "2026-09-09T12:00:00.000Z",
+      "summary": "古都レコード所属の4人組楽曲派アイドル・AQ（エーキュー）が、2ndアルバム『W.W』を10月7日に配信＆CDでリリースすることが決定した",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
+      "title": "元FAITH・Akari Dritschler擁するハイブリッドポッププロジェクト「MEET THE BUTCHER」始動",
+      "url": "https://ototoy.jp/news/131761",
+      "date": "2026-09-09T12:00:00.000Z",
+      "summary": "「J-POP構造 × 海外インディの空気感」を掲げるハイブリッドポッププロジェクト・MEET THE BUTCHERが、初のシングル「Me & Yo」を2026年9月9日に配信リリースし",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
     },
     {
@@ -5433,150 +5577,6 @@
       "summary": "【タワレコ店長おすすめの1枚】ジーナ（GENA）『The Pleasure Is Yours』はジャズやヒップホップを越境する極上のネオソウル作!",
       "source": "Mikiki（タワーレコード）",
       "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "【タワレコ店長おすすめの1枚】ウィロー・アヴァロン（Willow Avalon）はカントリー&ポップの新星! 愛らしく射貫く注目作『Pink Pocket Pistol』 - 連載",
-      "url": "https://mikiki.tokyo.jp/articles/-/45949",
-      "date": "2026-09-03T02:45:00.000Z",
-      "summary": "【タワレコ店長おすすめの1枚】ウィロー・アヴァロン（Willow Avalon）はカントリー&ポップの新星! 愛らしく射貫く注目作『Pink Pocket Pistol』",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "「着られるドレスが可哀想だもの」私につらく当たる妹…でも母も叔父も見て見ぬふりをしている『幽霊殿下とわたしの秘密のおしゃべり』【#2】",
-      "url": "https://hon-hikidashi.jp/book-person/184961/",
-      "date": "2026-09-03T02:30:30.000Z",
-      "summary": "「ほんのひきだし」では、「夏の夜更かし、ちょっと刺激的な夜読。」をテーマに、眠れない夏の夜にこそ読みたいコミックをご紹介します。恋、秘密、駆け引き、復讐、そして誰にも言えない想い。少し刺激的で、気づけば夜更かししてしまうような物語を、この機会にぜひお楽しみください。 今回ご紹介するのは、異父妹から嫌がらせを受ける伯爵令嬢が、記憶喪失の幽霊と出会う 『幽霊殿下とわたしの秘密のおしゃべり』 です。最新第3巻が9月14日（月）に発売されます。",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "水原希子がソロデビュー。John Carroll Kirbyプロデュース曲“Feelin’ Wee”配信＆MV公開",
-      "url": "https://www.cinra.net/article/202609-whn-kikomizuhara_edteam",
-      "date": "2026-09-03T02:30:00.000Z",
-      "summary": "俳優、モデルの水原希子が、ロサンゼルス拠点の音楽レーベル「Stones Throw」からソロアーティストとしてデビュー。",
-      "source": "CINRA",
-      "sourceHomepage": "https://www.cinra.net/",
-      "category": "culture"
-    },
-    {
-      "title": "パーク ハイアット 京都と料亭「京大和」が贈る、一夜限りのガストロノミーイベント「観月の夕べ」。成澤由浩氏ら三人の料理人が描く名月と京都の秋",
-      "url": "https://intojapanwaraku.com/travel/314480/",
-      "date": "2026-09-03T02:00:43.000Z",
-      "summary": "夏の余韻から秋へ。成澤由浩氏らが手掛ける七皿のコース 「観月の夕べ」は、旬の味覚とその土地ならではの食文化をテーマに展開する、パーク ハイアットのシグネチャープログラム「Masters of Food & Wi […]",
-      "source": "和樂web",
-      "sourceHomepage": "https://intojapanwaraku.com/",
-      "category": "culture"
-    },
-    {
-      "title": "ルービックキューブを自動で解こうとするが全然解けない装置",
-      "url": "https://dailyportalz.jp/kiji/rubikcube-tokenai-machine",
-      "date": "2026-09-03T02:00:00.000Z",
-      "summary": "電子工作界隈のいちジャンルに、「ルービックキューブを自動で解く装置」がある。それに自分らしさを加え、世界初の装置を作った。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "おれだって山田うどんに行きたい",
-      "url": "https://dailyportalz.jp/kiji/ore-datte-yamada-udon",
-      "date": "2026-09-03T02:00:00.000Z",
-      "summary": "山田うどんに行ったことがない。近くに山田うどんがない人生だったから。このままでいいのか。よくないので行くことにした。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "鞘師里保、新フェーズへの実験的EP『OWN』リリース",
-      "url": "https://ototoy.jp/news/131663",
-      "date": "2026-09-03T02:00:00.000Z",
-      "summary": "鞘師里保が新EP『OWN』をリリースした",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "ISSでNASAとESAの宇宙飛行士が船外活動を実施 1か月間で4回目",
-      "url": "https://sorae.info/space/20260903-iss-spacewalk.html",
-      "date": "2026-09-03T01:50:53.000Z",
-      "summary": "NASA（アメリカ航空宇宙局）は2026年9月1日付で、ISS（国際宇宙ステーション）で船外活動が実施されたと発表しました。 今回の作業はNASAのJessica Meir（ジェシカ・メイヤー）宇宙飛行士とESA（ヨーロ…",
-      "source": "sorae（宇宙・天文）",
-      "sourceHomepage": "https://sorae.info/",
-      "category": "documentary"
-    },
-    {
-      "title": "「ボロ雑巾になって死ぬんだ」だけど、やっぱり――こんなところで死ぬわけにいかない！『無能は不要と言われ「時計使い」の僕は職人ギルドから追い出されるも、ダンジョンの深部で真の力に覚醒する』【#12】",
-      "url": "https://hon-hikidashi.jp/book-person/189076/",
-      "date": "2026-09-03T01:40:37.000Z",
-      "summary": "マイクロマガジン社より、 『無能は不要と言われ「時計使い」の僕は職人ギルドから追い出されるも、ダンジョンの深部で真の力に覚醒する』 が好評発売中です。 本作は、無能な「時計使い」のスキルを与えられた少年・シクロが、卑劣な罠によって犯罪奴隷にされ、辺境送りになるものの、ダンジョンの奈落で自身の持つ能力を覚醒させ、復讐を誓うファンタジーです。 8月28日（金）には待望の第6巻が発売されました。ぜひお近くの書店でお買い求めください。 (ads",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "HANAのJISOOが「LEE JISOO」としてソロデビュー。誕生日9月8日にデビューシングルリリース",
-      "url": "https://www.cinra.net/article/202609-whn-leejisoo_edteam",
-      "date": "2026-09-03T01:37:00.000Z",
-      "summary": "HANAのメンバーJISOOが「LEE JISOO」（ヨミ：イ・ジス）としてソロデビューすることが決定した。",
-      "source": "CINRA",
-      "sourceHomepage": "https://www.cinra.net/",
-      "category": "culture"
-    },
-    {
-      "title": "栄養も満腹感も一皿で完結！「一汁三菜ボウル」がキテる",
-      "url": "https://news.cookpad.com/articles/65091",
-      "date": "2026-09-03T01:00:00.000Z",
-      "summary": "主菜、副菜、汁物、ご飯がボウルひとつにおさまる「一汁三菜ボウル」を知っていますか？ 洗い物が少なく、食事の時間も短縮できる、忙しい日の新しい定食スタイルが最近話題になっています。今回は厳選した2...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "押しボタン式信号返却（2026.9.３ 朝エッセイと更新情報）",
-      "url": "https://dailyportalz.jp/dpq/midokoro-20260903",
-      "date": "2026-09-03T01:00:00.000Z",
-      "summary": "先日信号機のかぶりものを作りました。今週末のメーカーフェアに信号として参加します。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "HANAのJISOOがLEE JISOO(イ・ジス)としてソロデビューへ",
-      "url": "https://ototoy.jp/news/131662",
-      "date": "2026-09-03T01:00:00.000Z",
-      "summary": "HANAのJISOOが「LEE JISOO」（ヨミ：イ・ジス）としてソロデビューすることが決定した",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "ラッシュのニール・パートを称える新ドキュメンタリー『Neil Peart: No One’s Disciple』 トレーラー映像公開",
-      "url": "https://amass.jp/191598/",
-      "date": "2026-09-03T00:36:00.000Z",
-      "summary": "ラッシュのニール・パートを称える新しいドキュメンタリー『Neil Peart: No One’s Disciple』のトレーラー映像が公開。本編にはインタビューに加え、ラッシュの2人がスチュワート・コープランドやチャド・スミスらと演奏した独占映像も含む https://amass.jp/191598/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "【G15-23】スペースXがスターリンク衛星27機を軌道投入 ファルコン9の第1段は35回目の飛行",
-      "url": "https://sorae.info/ssn/20260903-starlink-g15-23.html",
-      "date": "2026-09-03T00:32:55.000Z",
-      "summary": "SpaceX（スペースX）は日本時間2026年9月2日、アメリカのヴァンデンバーグ宇宙軍基地から「Falcon 9（ファルコン9）」ロケットを打ち上げ、Starlink（スターリンク）衛星27機を所定の軌道へ投入しました…",
-      "source": "sorae（宇宙・天文）",
-      "sourceHomepage": "https://sorae.info/",
-      "category": "documentary"
-    },
-    {
-      "title": "ハロウィン／ガンマ・レイのカイ・ハンセン、10年ぶりの新ソロ・アルバムから「Wait and See」公開",
-      "url": "https://amass.jp/191597/",
-      "date": "2026-09-03T00:28:00.000Z",
-      "summary": "ハロウィン／ガンマ・レイのカイ・ハンセンは10年ぶりとなる新ソロ・アルバム『Born With A Hammer』から新曲「Wait and See」公開 https://amass.jp/191597/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
       "category": "music"
     }
   ]
