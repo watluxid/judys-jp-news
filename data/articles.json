@@ -1,47 +1,12 @@
 {
-  "generatedAt": "2026-09-10T16:31:14.168Z",
+  "generatedAt": "2026-09-10T20:57:35.053Z",
   "articleCount": 600,
   "feedStatus": [
-    {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-      "errors": []
-    },
     {
       "name": "NHKニュース（主要）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-      "errors": []
-    },
-    {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（科学・文化）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-      "errors": []
-    },
-    {
-      "name": "つくおき",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://cookien.com/feed/",
-      "errors": []
-    },
-    {
-      "name": "クックパッドニュース",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
       "errors": []
     },
     {
@@ -52,6 +17,41 @@
       "errors": []
     },
     {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（国際）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+      "errors": []
+    },
+    {
+      "name": "クックパッドニュース",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
+      "errors": []
+    },
+    {
+      "name": "つくおき",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://cookien.com/feed/",
+      "errors": []
+    },
+    {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "errors": []
+    },
+    {
       "name": "Mikiki（タワーレコード）",
       "category": "music",
       "ok": true,
@@ -59,17 +59,17 @@
       "errors": []
     },
     {
-      "name": "メシ通（ホットペッパーグルメ）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
-      "errors": []
-    },
-    {
       "name": "amass",
       "category": "music",
       "ok": true,
       "usedUrl": "https://amass.jp/rss/new",
+      "errors": []
+    },
+    {
+      "name": "メシ通（ホットペッパーグルメ）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
       "errors": []
     },
     {
@@ -94,38 +94,10 @@
       "errors": []
     },
     {
-      "name": "リアルサウンド",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
-      "errors": []
-    },
-    {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
-      "errors": []
-    },
-    {
-      "name": "ナゾロジー",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
-      "errors": []
-    },
-    {
       "name": "アニメ！アニメ！（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://animeanime.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "CINRA",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://www.cinra.net/feed",
       "errors": []
     },
     {
@@ -136,10 +108,31 @@
       "errors": []
     },
     {
-      "name": "カラパイア",
+      "name": "ナゾロジー",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
+      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "errors": []
+    },
+    {
+      "name": "デイリーポータルZ",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "errors": []
+    },
+    {
+      "name": "リアルサウンド",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://realsound.jp/atom.xml",
+      "errors": []
+    },
+    {
+      "name": "CINRA",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://www.cinra.net/feed",
       "errors": []
     },
     {
@@ -147,6 +140,13 @@
       "category": "culture",
       "ok": true,
       "usedUrl": "https://tokion.jp/feed/",
+      "errors": []
+    },
+    {
+      "name": "カラパイア",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://karapaia.com/index.rdf",
       "errors": []
     },
     {
@@ -164,21 +164,48 @@
       "errors": []
     },
     {
-      "name": "青い日記帳（美術展）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
-      "errors": []
-    },
-    {
       "name": "Art Annual online（美術）",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://www.art-annual.jp/feed",
       "errors": []
+    },
+    {
+      "name": "青い日記帳（美術展）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
+      "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "Snow Man 深澤辰哉、初単独CM起用に繋がった温かな人柄 “人とのつながり”から見える広く愛される理由",
+      "url": "https://realsound.jp/2026/09/post-2517875.html",
+      "date": "2026-09-11T05:50:22.000Z",
+      "summary": "Snow Man 深澤辰哉が、韓国のダーマコスメブランド「MEDIHEAL」のブランドアンバサダーに就任した。本稿では、「優しく穏やかな人柄」、「周囲に寄り添う柔らかな雰囲気」、「親しみやすさと信頼感」といったアンバサダーの起用理由とともに、彼が愛される理由や魅力を紐解いていく。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "指原莉乃「AKB48時代に貯めたお金を解放する」人気のK-POPアイドルに自腹で爆買い 「超神回」「お姉ちゃん呼びが尊すぎる」",
+      "url": "https://realsound.jp/2026/09/post-2519281.html",
+      "date": "2026-09-11T05:50:06.000Z",
+      "summary": "指原莉乃が自身のYouTubeを更新。ILLITのWONHEE（ウォンヒ）がゲストに登場した買い放題企画動画を公開した。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "木村拓哉、『プレミアムガーナ』新CM出演 濃厚な味わいを“嘘ひとつない”表情と言葉で表現",
+      "url": "https://realsound.jp/2026/09/post-2519656.html",
+      "date": "2026-09-11T04:00:40.000Z",
+      "summary": "木村拓哉が出演する新CM『一粒の濃厚物語 濃厚ショコラ』篇、『一粒の濃厚物語 濃厚生チョコレート＜芳醇カカオ＞』篇、『一粒の濃厚物語 ティーショコラ』篇（各15秒）が、9月15日より全国で順次オンエアとなる。 新CM",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
     {
       "title": "ピクシーズ 『Bossanova』『Trompe le Monde』の2026リマスター・エディション全曲公開",
       "url": "https://amass.jp/191760/",
@@ -585,15 +612,6 @@
       "category": "cooking"
     },
     {
-      "title": "渋柿の渋を抜きながら送る方法（傑作選）",
-      "url": "https://dailyportalz.jp/kiji/shibunuki-okuru",
-      "date": "2026-09-10T09:00:00.000Z",
-      "summary": "佐渡の柿は基本的に渋柿だ。渋を抜くために二重にした段ボールの中に、ヘタを焼酎に浸した柿を並べて密封する。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
       "title": "〈ATMCコーリング2026 -MINAMI WHEEL EDITION-〉開催決定 3markets[ ]、Cloudy、忘れらんねえよ出演",
       "url": "https://ototoy.jp/news/131780",
       "date": "2026-09-10T09:00:00.000Z",
@@ -628,6 +646,15 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
+    },
+    {
+      "title": "渋柿の渋を抜きながら送る方法（傑作選）",
+      "url": "https://dailyportalz.jp/kiji/shibunuki-okuru",
+      "date": "2026-09-10T09:00:00.000Z",
+      "summary": "佐渡の柿は基本的に渋柿だ。渋を抜くために二重にした段ボールの中に、ヘタを焼酎に浸した柿を並べて密封する。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
     },
     {
       "title": "トランプ大統領が宇宙軍の新制服案を公開。スターウォーズの帝国軍に似すぎていると話題に",
@@ -5551,33 +5578,6 @@
       "source": "Mikiki（タワーレコード）",
       "sourceHomepage": "https://mikiki.tokyo.jp/",
       "category": "music"
-    },
-    {
-      "title": "【タワレコ店長おすすめの1枚】ジミヘンに憧れる21歳ギタリスト、アマニ・バーナム（Amani Burnham）のデビュー作『Roots & Wings』! - 連載",
-      "url": "https://mikiki.tokyo.jp/articles/-/45951",
-      "date": "2026-09-04T02:45:00.000Z",
-      "summary": "【タワレコ店長おすすめの1枚】ジミヘンに憧れる21歳ギタリスト、アマニ・バーナム（Amani Burnham）のデビュー作『Roots & Wings』!",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "日欧の水星探査ミッション「ベピ・コロンボ」推進モジュール分離確認 水星到着は2026年11月",
-      "url": "https://sorae.info/space/20260904-bepicolombo-farewell-mtm.html",
-      "date": "2026-09-04T02:25:17.000Z",
-      "summary": "ESA（ヨーロッパ宇宙機関）は2026年9月3日付で、JAXA（宇宙航空研究開発機構）と共同の水星探査ミッション「BepiColombo」（ベピ・コロンボ、ベピコロンボ）の探査機水星到着に向けて、ロケット分離から水星付近…",
-      "source": "sorae（宇宙・天文）",
-      "sourceHomepage": "https://sorae.info/",
-      "category": "documentary"
-    },
-    {
-      "title": "豚、鶏、ラムの「濃い味肉おかず」で白メシが足りない。食欲の秋のレシピまとめ",
-      "url": "https://www.hotpepper.jp/mesitsu/entry/recipe-blog/2026-01341",
-      "date": "2026-09-04T02:00:00.000Z",
-      "summary": "何はなくとも白メシ。冷凍ご飯や市販のパックご飯を常備して、「いつでも来い！」と白メシ欲に備えているメシ通読者も多いはずです。 そこで今回は、肉×濃いめの味付けで、白メシがどんどんすすむおかずレシピを集めました。 手軽に作れる薄切り肉から、休みの日にじっくり煮込みたい塊肉まで、豚肉、鶏肉、そしてラム肉と、食欲の秋にぴったりのガッツリ系ぞろいです。白メシを腹いっぱい食べたい、そんなときにぜひ作ってみてください。 INDEX ▽01:豚こまを",
-      "source": "メシ通（ホットペッパーグルメ）",
-      "sourceHomepage": "https://www.hotpepper.jp/mesitsu/",
-      "category": "cooking"
     }
   ]
 }
