@@ -1,33 +1,19 @@
 {
-  "generatedAt": "2026-09-10T11:30:32.539Z",
+  "generatedAt": "2026-09-10T16:31:14.168Z",
   "articleCount": 600,
   "feedStatus": [
-    {
-      "name": "NHKニュース（主要）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（科学・文化）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（社会）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
-      "errors": []
-    },
     {
       "name": "NHKニュース（国際）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（主要）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
       "errors": []
     },
     {
@@ -38,10 +24,10 @@
       "errors": []
     },
     {
-      "name": "クックパッドニュース",
-      "category": "cooking",
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
       "ok": true,
-      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -52,17 +38,24 @@
       "errors": []
     },
     {
+      "name": "クックパッドニュース",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（社会）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "errors": []
+    },
+    {
       "name": "Mikiki（タワーレコード）",
       "category": "music",
       "ok": true,
       "usedUrl": "https://mikiki.tokyo.jp/list/feed/rss",
-      "errors": []
-    },
-    {
-      "name": "amass",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://amass.jp/rss/new",
       "errors": []
     },
     {
@@ -73,10 +66,10 @@
       "errors": []
     },
     {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
+      "name": "amass",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://sorae.info/feed",
+      "usedUrl": "https://amass.jp/rss/new",
       "errors": []
     },
     {
@@ -84,6 +77,13 @@
       "category": "otome",
       "ok": true,
       "usedUrl": "https://www.4gamer.net/rss/index.xml",
+      "errors": []
+    },
+    {
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -101,10 +101,10 @@
       "errors": []
     },
     {
-      "name": "アニメ！アニメ！（乙女ゲーム関連）",
-      "category": "otome",
+      "name": "デイリーポータルZ",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -115,10 +115,10 @@
       "errors": []
     },
     {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
+      "name": "アニメ！アニメ！（乙女ゲーム関連）",
+      "category": "otome",
       "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
       "errors": []
     },
     {
@@ -129,6 +129,13 @@
       "errors": []
     },
     {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
+      "errors": []
+    },
+    {
       "name": "カラパイア",
       "category": "documentary",
       "ok": true,
@@ -136,17 +143,17 @@
       "errors": []
     },
     {
-      "name": "和樂web",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://intojapanwaraku.com/feed",
-      "errors": []
-    },
-    {
       "name": "TOKION",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://tokion.jp/feed/",
+      "errors": []
+    },
+    {
+      "name": "和樂web",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://intojapanwaraku.com/feed",
       "errors": []
     },
     {
@@ -169,16 +176,90 @@
       "ok": true,
       "usedUrl": "https://www.art-annual.jp/feed",
       "errors": []
-    },
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
-      "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "ピクシーズ 『Bossanova』『Trompe le Monde』の2026リマスター・エディション全曲公開",
+      "url": "https://amass.jp/191760/",
+      "date": "2026-09-11T00:59:00.000Z",
+      "summary": "ピクシーズは結成40周年を記念して、90年の『Bossanova』と91年の『Trompe le Monde』という2枚のスタジオアルバムの2026リマスター・エディションをリリース。ストリーミング配信開始。YouTubeほかで聴けます https://amass.jp/191760/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "4Kレストア版『クイーン：ブダペスト』から「Tie Your Mother Down」のライヴ映像公開",
+      "url": "https://amass.jp/191759/",
+      "date": "2026-09-11T00:47:00.000Z",
+      "summary": "4Kレストア版『クイーン：ブダペスト』から「Tie Your Mother Down」のライヴ映像が公開されています https://amass.jp/191759/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "モトリー・クルー『Too Fast For Love』45周年記念デラックス限定ボックスセット発売 未発表デモ音源のMVあり",
+      "url": "https://amass.jp/191758/",
+      "date": "2026-09-11T00:41:00.000Z",
+      "summary": "モトリー・クルー『Too Fast For Love』の45周年記念デラックス限定ボックスセットが海外で10月30日発売。自主制作版とメジャー版のリマスター＋ライヴ盤＋未発表デモ音源集の5LP、デモカセット、7インチ盤など収録。未発表デモ音源のMVあり https://amass.jp/191758/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "細野晴臣の新アルバム『Yours Sincerely』がストリーミング配信開始",
+      "url": "https://amass.jp/191757/",
+      "date": "2026-09-11T00:13:00.000Z",
+      "summary": "細野晴臣の新アルバム『Yours Sincerely』がストリーミング配信開始。また「Note of Mothership」のミュージックビデオ（Alternative Universe Video）も公開されています。 https://amass.jp/191757/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "元スレイヤーのデイヴ・ロンバードとルストモードの新プロジェクト 新曲「The Desolate Shore Part I: Submergence」公開",
+      "url": "https://amass.jp/191756/",
+      "date": "2026-09-10T20:50:00.000Z",
+      "summary": "元スレイヤーのデイヴ・ロンバードとルストモードが組んだ新プロジェクト、ルストモード・ロンバード。デビューアルバムから「The Desolate Shore Part I: Submergence」が公開 https://amass.jp/191756/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "斉藤由貴、恒例のクリスマスビルボードライブツアー開催 歌い継がれてきた楽曲を特別アレンジで披露",
+      "url": "https://realsound.jp/2026/09/post-2519358.html",
+      "date": "2026-09-10T20:45:10.000Z",
+      "summary": "斉藤由貴が、毎年恒例となっているビルボードライブツアー『斉藤由貴 Xmas live 2026』を12月に東京、大阪、横浜で開催する。 本公演では、これまで歌い継がれてきた楽曲の数々を特別なアレンジで披露。バンドメン",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ディアフーフ 新アルバム『Divine Schism』発売 1曲試聴可",
+      "url": "https://amass.jp/191755/",
+      "date": "2026-09-10T20:43:00.000Z",
+      "summary": "ディアフーフ（Deerhoof）は新アルバム『Divine Schism』のリリースを発表。初の自主制作アルバム。CDとアナログ盤は基本的にツアー会場限定。デジタル版でBandcamp限定。1曲試聴可 https://amass.jp/191755/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "高橋克典、3年ぶりとなるビルボードライブツアー開催 出演作にちなんだ楽曲や慣れ親しんだ楽曲を披露",
+      "url": "https://realsound.jp/2026/09/post-2519446.html",
+      "date": "2026-09-10T20:40:13.000Z",
+      "summary": "高橋克典が、3年ぶりとなるビルボードライブツアーを開催する。 今回のツアーでは、これまでの出演作にちなんだ楽曲や、自身が慣れ親しんだフェイバリットソングを特別なアレンジで披露するという。 公演はビルボードライブ大阪",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ROLW、フルバンド編成のビルボードライブ横浜公演開催 SPセッションゲストに長江崚行、高本学迎える",
+      "url": "https://realsound.jp/2026/09/post-2519429.html",
+      "date": "2026-09-10T20:30:17.000Z",
+      "summary": "ROLWが、11月29日にビルボードライブ横浜でフルバンド編成による公演を開催する。 ROLWは、JPOP、ロック、R&B、ヒップホップなどを彷彿とさせるジャンルレスな楽曲と、独創性あふれるリリックを展開する",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
     {
       "title": "名誉伝説、自身初のフルアルバム『OK集』リリース アニメ『水属性の魔法使い』OP含む全12曲収録",
       "url": "https://realsound.jp/2026/09/post-2519282.html",
@@ -288,6 +369,15 @@
       "category": "music"
     },
     {
+      "title": "BANVOX、新感覚EDMチューン「BREATH」リリース",
+      "url": "https://ototoy.jp/news/131777",
+      "date": "2026-09-10T13:00:00.000Z",
+      "summary": "BANVOXが2026年9月11日(金)にニューシングル「BREATH」をリリースする",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
       "title": "ハンソンのテイラー・ハンソン、スナック菓子の新商品のために「キラメキ☆MMMBOP」をリメイク",
       "url": "https://amass.jp/191741/",
       "date": "2026-09-10T12:40:00.000Z",
@@ -295,6 +385,15 @@
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
+    },
+    {
+      "title": "小さな太陽系外縁天体の意外な特徴 ウェッブ宇宙望遠鏡とハッブル宇宙望遠鏡の観測で判明",
+      "url": "https://sorae.info/astronomy/20260910-tno-hst-jwst.html",
+      "date": "2026-09-10T12:29:33.000Z",
+      "summary": "ビクトリア大学のMarielle Eduardo氏やノーザンアリゾナ大学のAnastasia Morgan氏をはじめとする研究チームは、ジェームズ・ウェッブ宇宙望遠鏡とハッブル宇宙望遠鏡による共同観測の結果、海王星よりも…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
     },
     {
       "title": "フィーブル・リトル・ホースの初来日公演決定",
@@ -322,6 +421,24 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "赤字の豆腐屋から生まれた、白崎裕子の\"予約の取れない\"茶会",
+      "url": "https://news.cookpad.com/articles/65758",
+      "date": "2026-09-10T12:00:00.000Z",
+      "summary": "クックパッドのポッドキャスト番組「ぼくらはみんな食べている」。食や料理に熱い思いを持ち活躍するゲストを迎え、さまざまな話を語ります。クックパッド初代編集長の小竹貴子がパーソナリティを務めます。第86回目・87回目のゲストは、料理教室「白崎茶会」主宰・白崎裕子さんです。",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "土星の南極上空に出現した「十角形の波」。北極の六角形に続く新たな謎",
+      "url": "https://karapaia.com/archives/627083.html",
+      "date": "2026-09-10T11:30:00.000Z",
+      "summary": "土星といえば、大きな輪と北極の周りを渦巻く巨大な「六角形」の雲の波が有名だが、他にも新たな特徴が見つかった。スペインのバスク大学などの研究チームは、土星の南極上空にも巨大な「十角形」の波が出現しているのを発見した。アマチュア天文学者の観測画像をきっかけに…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
     },
     {
       "title": "ブーツィー・コリンズ 初の回想録『Funked Around, Found Out』発売",
@@ -477,15 +594,6 @@
       "category": "documentary"
     },
     {
-      "title": "トランプ大統領が宇宙軍の新制服案を公開。スターウォーズの帝国軍に似すぎていると話題に",
-      "url": "https://karapaia.com/archives/627264.html",
-      "date": "2026-09-10T09:00:00.000Z",
-      "summary": "2026年9月6日、トランプ大統領がアメリカ宇宙軍の新しい制服のデザイン案を自身のSNSで公開し、ネットをざわつかせている。画像の中には、SF映画「スターシップ・トゥルーパーズ」の軍服が持つ規律と機能性に着想を得たと書かれていた。ところが…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
       "title": "〈ATMCコーリング2026 -MINAMI WHEEL EDITION-〉開催決定 3markets[ ]、Cloudy、忘れらんねえよ出演",
       "url": "https://ototoy.jp/news/131780",
       "date": "2026-09-10T09:00:00.000Z",
@@ -520,6 +628,15 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
+    },
+    {
+      "title": "トランプ大統領が宇宙軍の新制服案を公開。スターウォーズの帝国軍に似すぎていると話題に",
+      "url": "https://karapaia.com/archives/627264.html",
+      "date": "2026-09-10T09:00:00.000Z",
+      "summary": "2026年9月6日、トランプ大統領がアメリカ宇宙軍の新しい制服のデザイン案を自身のSNSで公開し、ネットをざわつかせている。画像の中には、SF映画「スターシップ・トゥルーパーズ」の軍服が持つ規律と機能性に着想を得たと書かれていた。ところが…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
     },
     {
       "title": "柚木麻子、朝井リョウ、でか美ちゃんの10年以上続いた「ハロプロ雑談」が50万字超で書籍化。本日刊行",
@@ -1359,15 +1476,6 @@
       "category": "culture"
     },
     {
-      "title": "【新米の季節到来】いつものお米がツヤ立つ！極上のご飯に炊き上げるお米の炊き方3選",
-      "url": "https://news.cookpad.com/articles/66020",
-      "date": "2026-09-09T10:00:00.000Z",
-      "summary": "新米の季節、今回は、いつものご飯をもっとおいしく炊き上げる方法を3つ集めました。炊飯器で炊く方法から、鍋でじっくり炊き上げる本格的な方法、土鍋を使った農家直伝の方法まで、新米が驚くほどおいしくな...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
       "title": "「黄金ラガービール」と共に、ドイツ旅行の思い出に浸る",
       "url": "https://magazine.cainz.com/article/258296",
       "date": "2026-09-09T10:00:00.000Z",
@@ -1375,6 +1483,15 @@
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
+    },
+    {
+      "title": "【新米の季節到来】いつものお米がツヤ立つ！極上のご飯に炊き上げるお米の炊き方3選",
+      "url": "https://news.cookpad.com/articles/66020",
+      "date": "2026-09-09T10:00:00.000Z",
+      "summary": "新米の季節、今回は、いつものご飯をもっとおいしく炊き上げる方法を3つ集めました。炊飯器で炊く方法から、鍋でじっくり炊き上げる本格的な方法、土鍋を使った農家直伝の方法まで、新米が驚くほどおいしくな...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
     },
     {
       "title": "〈柳家スーパーフェス〉第1弾で柳家睦＆THE RATBONES、SA、めろん畑a go goら決定",
@@ -5461,123 +5578,6 @@
       "source": "メシ通（ホットペッパーグルメ）",
       "sourceHomepage": "https://www.hotpepper.jp/mesitsu/",
       "category": "cooking"
-    },
-    {
-      "title": "マックス・リヒターが再解釈したヴィヴァルディ《四季》を京都で。庄司紗矢香×杉本博司、1日限りの特別公演",
-      "url": "https://intojapanwaraku.com/culture/314778/",
-      "date": "2026-09-04T02:00:00.000Z",
-      "summary": "バロックの名曲を現代へ。庄司紗矢香氏が奏でるリヒター版《四季》 マックス・リヒターは、クラシック音楽の伝統と電子音楽を融合させた「ポスト・クラシカル」を代表する作曲家。その代表作のひとつが、《リコンポーズド・バイ・マック […]",
-      "source": "和樂web",
-      "sourceHomepage": "https://intojapanwaraku.com/",
-      "category": "culture"
-    },
-    {
-      "title": "埼玉の浦和競馬場はレースがない日は公園になっている",
-      "url": "https://dailyportalz.jp/kiji/urawa-keibajo-uchibaba-kouen",
-      "date": "2026-09-04T02:00:00.000Z",
-      "summary": "和競馬場は開催がない日は内馬場（コースの内側）が公園として機能している。しかも、コースを横切って内馬場に入るのだ。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "忍んで日差しから逃げよう！UVカット忍者",
-      "url": "https://dailyportalz.jp/kiji/uv-cut-ninja",
-      "date": "2026-09-04T02:00:00.000Z",
-      "summary": "日焼け対策グッズを使えば、忍者のコスプレができるのではないか。日差しから隠れる忍者になってみよう。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "XTCアンディ・パートリッジ提供曲も モンキーズのミッキー・ドレンツが新EP『Timeless』全曲公開",
-      "url": "https://amass.jp/191624/",
-      "date": "2026-09-04T01:19:00.000Z",
-      "summary": "XTCのアンディ・パートリッジが提供した楽曲も。モンキーズのミッキー・ドレンツは6曲入りの新EP『Timeless』をリリース。ストリーミング配信開始。YouTubeほかで聴けます。 https://amass.jp/191624/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "スティック・メン、キング・クリムゾン『THRAK』オマージュ作品『Let’s THRAK Again (Reel One)』全曲公開",
-      "url": "https://amass.jp/191623/",
-      "date": "2026-09-04T01:13:00.000Z",
-      "summary": "キング・クリムゾン『THRAK』に参加したトニー・レヴィンとパット・マステロットらが組むスティック・メン。10年ぶりのフルスタジオアルバム『Let’s THRAK Again (Reel One)』がストリーミング配信開始。YouTubeほかで聴けます https://amass.jp/191623/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "キャンパスとキットカットの共通するブランド哲学。「学生応援」ブランドはどう育てた？",
-      "url": "https://www.cinra.net/article/202609_kokuyo2_ysdkrcl",
-      "date": "2026-09-04T01:03:00.000Z",
-      "summary": "「学生応援」を軸としたブランドづくりの考え方、リブランディングの理由やSNS活用までを聞いた",
-      "source": "CINRA",
-      "sourceHomepage": "https://www.cinra.net/",
-      "category": "culture"
-    },
-    {
-      "title": "ベン・フォールズ・ファイヴのデビューアルバム、30周年記念エディション全曲公開",
-      "url": "https://amass.jp/191622/",
-      "date": "2026-09-04T01:03:00.000Z",
-      "summary": "ベン・フォールズ・ファイヴのデビュー・アルバム。発売30周年記念エディションがストリーミング配信開始。YouTubeほかで聴けます。新たにリマスタリングされたオリジナル・アルバム＋お蔵入りになった最初のヴァージョンのデビュー・アルバム https://amass.jp/191622/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "グジャッとしない「トマトの切り方」3選",
-      "url": "https://news.cookpad.com/articles/65094",
-      "date": "2026-09-04T01:00:00.000Z",
-      "summary": "今回は旬のトマトをきれいに切るコツを3つ紹介します。「完熟でグジャッとなる」「タネが出てきて水っぽくなる」「いつも同じくし切りで飽きた」そんなお悩みを切り方ひとつで解決できますよ。これだけで刃を...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "台南でたべたショウガ醤油トマト「薑汁番茄」（2026.9.4 朝エッセイと更新情報）",
-      "url": "https://dailyportalz.jp/dpq/midokoro-20260904",
-      "date": "2026-09-04T01:00:00.000Z",
-      "summary": "台湾南部のカットフルーツ屋で、トマトを頼んだところ、甘いショウガ醤油がついてきました。 知らん食べ方！",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "フジTV〈STAR〉9/10出演者発表",
-      "url": "https://ototoy.jp/news/131680",
-      "date": "2026-09-04T01:00:00.000Z",
-      "summary": "フジテレビの音楽番組〈STAR〉9月10日の出演者が発表された",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "メリッサ・オフ・ダ・マー、15年以上ぶりの新曲を収録したアルバム『Bass Womb Room』全曲公開",
-      "url": "https://amass.jp/191621/",
-      "date": "2026-09-04T00:55:00.000Z",
-      "summary": "ホールやスマッシング・パンプキンズでの活躍でも知られるメリッサ・オフ・ダ・マーは、15年以上ぶりの新曲を収録したアルバム『Bass Womb Room』をリリース。ストリーミング配信開始。YouTubeほかで聴けます https://amass.jp/191621/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "プライマル・スクリーム『XTRMNTR』の新エクスパンデッドエディション 全曲公開",
-      "url": "https://amass.jp/191620/",
-      "date": "2026-09-04T00:50:00.000Z",
-      "summary": "プライマル・スクリームは、『XTRMNTR』（2000年）の新しいエクスパンデッド・エディションをリリース。ストリーミング配信開始。YouTubeほかで聴けます https://amass.jp/191620/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "デキシーズ・ミッドナイト・ランナーズ 41年ぶりに同名義で発表する新アルバム『LOVE』全曲公開",
-      "url": "https://amass.jp/191619/",
-      "date": "2026-09-04T00:43:00.000Z",
-      "summary": "「カモン・アイリーン」で知られるデキシーズ・ミッドナイト・ランナーズが、41年ぶりにデキシーズ・ミッドナイト・ランナーズ名義でリリースするフルアルバム『LOVE』。ストリーミング配信開始。YouTubeほかで聴けます。 https://amass.jp/191619/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
     }
   ]
 }
