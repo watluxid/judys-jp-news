@@ -1,12 +1,28 @@
 {
-  "generatedAt": "2026-09-13T12:02:24.291Z",
+  "generatedAt": "2026-09-13T16:26:46.121Z",
   "articleCount": 600,
   "feedStatus": [
+    {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": false,
+      "usedUrl": null,
+      "errors": [
+        "https://ototoy.jp/rss → feed parsed but has no items"
+      ]
+    },
     {
       "name": "NHKニュース（主要）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -24,20 +40,6 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（科学・文化）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-      "errors": []
-    },
-    {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
-      "errors": []
-    },
-    {
       "name": "クックパッドニュース",
       "category": "cooking",
       "ok": true,
@@ -52,6 +54,13 @@
       "errors": []
     },
     {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "errors": []
+    },
+    {
       "name": "Mikiki（タワーレコード）",
       "category": "music",
       "ok": true,
@@ -59,17 +68,17 @@
       "errors": []
     },
     {
-      "name": "メシ通（ホットペッパーグルメ）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
-      "errors": []
-    },
-    {
       "name": "amass",
       "category": "music",
       "ok": true,
       "usedUrl": "https://amass.jp/rss/new",
+      "errors": []
+    },
+    {
+      "name": "メシ通（ホットペッパーグルメ）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
       "errors": []
     },
     {
@@ -87,13 +96,6 @@
       "errors": []
     },
     {
-      "name": "リアルサウンド",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
-      "errors": []
-    },
-    {
       "name": "インサイド（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
@@ -108,13 +110,6 @@
       "errors": []
     },
     {
-      "name": "ナゾロジー",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
-      "errors": []
-    },
-    {
       "name": "デイリーポータルZ",
       "category": "documentary",
       "ok": true,
@@ -122,10 +117,10 @@
       "errors": []
     },
     {
-      "name": "カラパイア",
+      "name": "ナゾロジー",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
+      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
       "errors": []
     },
     {
@@ -136,17 +131,17 @@
       "errors": []
     },
     {
-      "name": "OTOTOY",
-      "category": "music",
+      "name": "カラパイア",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
+      "usedUrl": "https://karapaia.com/index.rdf",
       "errors": []
     },
     {
-      "name": "TOKION",
-      "category": "culture",
+      "name": "リアルサウンド",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
+      "usedUrl": "https://realsound.jp/atom.xml",
       "errors": []
     },
     {
@@ -154,6 +149,13 @@
       "category": "culture",
       "ok": true,
       "usedUrl": "https://intojapanwaraku.com/feed",
+      "errors": []
+    },
+    {
+      "name": "TOKION",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://tokion.jp/feed/",
       "errors": []
     },
     {
@@ -179,6 +181,42 @@
     }
   ],
   "articles": [
+    {
+      "title": "板野友美、自身のブランド＆PRADAコーデに賞賛の声 「足ほそ！」「華やかで美しい」「いつまでも憧れ」",
+      "url": "https://realsound.jp/2026/09/post-2522152.html",
+      "date": "2026-09-13T23:07:50.000Z",
+      "summary": "板野友美は自身のInstagramを更新。『すーぱーのびしろたいむ』に出演した際の制服姿のオフショットを公開し話題になっている。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "Beck 「Girl Dreams」のアコースティック・パフォーマンス映像公開",
+      "url": "https://amass.jp/191803/",
+      "date": "2026-09-13T21:42:00.000Z",
+      "summary": "Beckは南フランスで撮影した「Girl Dreams」のアコースティックギターの弾き語りパフォーマンスの映像を自身のYouTubeチャンネルで公開しています。 https://amass.jp/191803/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "チャカ・カーン 英フェス＜Radio 2 in the Park 2026＞から「I'm Every Woman」他のライヴ映像公開",
+      "url": "https://amass.jp/191802/",
+      "date": "2026-09-13T21:34:00.000Z",
+      "summary": "チャカ・カーンは英フェス＜Radio 2 in the Park 2026＞に出演。オフィシャル・ライヴ映像が公開されています。曲は「Boogie's In My Soul」「I'm Every Woman (ft. Alexandra Burke)」 https://amass.jp/191802/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ロジャー・ディーン、エイジア『Alpha』のアルバム・ジャケット／エイジア初期3枚に共通したパターンを解説",
+      "url": "https://amass.jp/191801/",
+      "date": "2026-09-13T21:29:00.000Z",
+      "summary": "ロジャー・ディーンはSNSの新しい投稿で、エイジアの『Alpha』のアルバム・ジャケットを解説。また自身がジャケットを手掛けたエイジアの初期3枚（『Asia』『Alpha』『Astra』）には共通したパターンがあることを、後になって気づいたとも説明 https://amass.jp/191801/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "オアシス再結成ツアーのドキュメンタリー『ドント・ルック・バック・イン・アンガー』から韓国公演の映像公開",
       "url": "https://amass.jp/191800/",
@@ -252,6 +290,15 @@
       "category": "music"
     },
     {
+      "title": "映画『モネと時間旅行』をもっと楽しむために―安井裕雄さんが語るモネ、印象派、そして1895年",
+      "url": "https://bluediary2.jugem.jp/?eid=8188",
+      "date": "2026-09-13T13:02:00.000Z",
+      "summary": "9月18日（金）より公開される映画『モネと時間旅行』。『ダンサー イン Paris』などで知られるセドリック・クラピッシュ監督の最新作です。 舞台は現代のパリとノルマンディー、そして19世紀末のフランス。 長い間閉ざされていた一族の屋敷をめぐり、現代を生きる親...",
+      "source": "青い日記帳（美術展）",
+      "sourceHomepage": "https://bluediary2.jugem.jp/",
+      "category": "culture"
+    },
+    {
       "title": "花冷え。 ニューアルバム『UMAMI』リリース 初回盤には全国ツアーZepp Haneda公演収めたBlu-rayも",
       "url": "https://realsound.jp/2026/09/post-2521876.html",
       "date": "2026-09-13T13:00:40.000Z",
@@ -259,6 +306,33 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "タイトルが「CharadeManiacs Fond de Dialogue」に決定。イベント「オトメイトパーティー2026」2日目[夜公演]で発表された情報をまとめて掲載",
+      "url": "https://www.4gamer.net/games/983/G098360/20260911037/",
+      "date": "2026-09-13T12:40:00.000Z",
+      "summary": "アイディアファクトリーは，本日開催されたイベント「オトメイトパーティー2026」2日目",
+      "source": "4Gamer（乙女ゲーム関連）",
+      "sourceHomepage": "https://www.4gamer.net/",
+      "category": "otome"
+    },
+    {
+      "title": "ネパールの大洪水、発端は高山の「氷と岩の崩落」だったとみられる、災害が連鎖する怖さ",
+      "url": "https://nazology.kusuguru.co.jp/archives/199572",
+      "date": "2026-09-13T12:33:40.000Z",
+      "summary": "鉄砲水と聞けば大雨を思い浮かべるが、今回の水は、雨の降っていない山の上から来た。 ネパールで起きた壊滅的な洪水は、山の高いところで氷と岩が崩れたことから始まった、と専門家はみています。 崩れた氷や岩はボテコシ川の支流をせき止めてダムを作り、それが決壊して下流を襲った、と災害の分析は推定しています。 濁流はほとんど警告なしにラスワ郡に達し、川沿いの集落を引き裂き、橋や道路、水力発電の設備を壊し、チベットとの交易路を断ちました。 9月1日時",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "青い裂け目のような銀河の横姿 ハッブル宇宙望遠鏡が観測した渦巻銀河「UGC 2890」",
+      "url": "https://sorae.info/astronomy/20260913-ugc-2890.html",
+      "date": "2026-09-13T12:04:53.000Z",
+      "summary": "こちらは、ハッブル宇宙望遠鏡が観測した渦巻銀河「UGC 2890」。きりん座の方向、地球から約3000万光年先にあります。 とても渦巻いているようには見えませんが、その理由は私たちがUGC 2890の円盤構造を横から観測…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
     },
     {
       "title": "WHITE SCORPION、昨年に続き香港公演開催 9thデジタルシングル収録曲「Commitment」初披露も",
@@ -5506,78 +5580,6 @@
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
-    },
-    {
-      "title": "飲めるほどウマい！加熱3分でとろじゅわ食感「なすの煮浸し」",
-      "url": "https://news.cookpad.com/articles/65054",
-      "date": "2026-09-07T07:00:00.000Z",
-      "summary": "今日は、暑い夏に助かる揚げずにフライパンに並べて3分蒸し焼きで完成する「なすの煮浸し」レシピをご紹介します。なすが旬の今の時期に作りたい一品です。1.フライパンになすを並べて焼きます。2.めんつ...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "手袋のまち、東かがわ市には「さぬきうどん」手袋がある",
-      "url": "https://dailyportalz.jp/koresugo/sanuki-udon-tebukuro",
-      "date": "2026-09-07T07:00:00.000Z",
-      "summary": "香川県東かがわ市は国産手袋90%のシェアを誇る手袋のまちなのですが、「東かがわ手袋ギャラリー」にこんな商品がありました。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "オスの細胞から繁殖可能なメスのクローンを作ることに成功（日本研究）",
-      "url": "https://karapaia.com/archives/625132.html",
-      "date": "2026-09-07T07:00:00.000Z",
-      "summary": "SFなどに登場する「クローン」は、元の個体と同じ性別で生まれてきていたはず。そして少なくともこれまでは、体細胞クローンでもそれが当たり前だった。ところが日本の研究チームが、この常識を覆すことに成功した。オスのマウスの体細胞からY染色体を取り除き…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
-      "title": "博多にある「濡衣塚」ってナニ？「濡れ衣」の語源となった奈良時代の悲劇に迫る！",
-      "url": "https://intojapanwaraku.com/travel/302507/",
-      "date": "2026-09-07T06:00:42.000Z",
-      "summary": "いや、待て。 ちょい待て。待てい。 そもそもの話。 無実の罪や身に覚えのない罪を表す「濡れ衣」という言葉って。 語源となる事件が存在していたのか。 なんなら、それさえも知らないぞ、わたし。 ということで。 お察しの通り、 […]",
-      "source": "和樂web",
-      "sourceHomepage": "https://intojapanwaraku.com/",
-      "category": "culture"
-    },
-    {
-      "title": "【黒くなってしまったオクラ】食べられる？野菜ソムリエプロ・緒方湊さんに聞いてみた！黒くなりにくい方法も伝授",
-      "url": "https://news.cookpad.com/articles/66191",
-      "date": "2026-09-07T06:00:00.000Z",
-      "summary": "ストックしておくと、手軽に一品作れる使い勝手の良いオクラ。冷蔵庫に入れていたオクラが黒っぽく変色して、驚いたことはありませんか？「傷んでいるかも…」と食べて良いか不安になりますよね。黒くなったオ...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "Number_iのあとには“記録”がついてくる 映像、アルバム、MV……史上初を連発し、音楽シーンに刻み続ける足跡",
-      "url": "https://realsound.jp/2026/09/post-2512667.html",
-      "date": "2026-09-07T05:50:41.000Z",
-      "summary": "Number_iが、映像作品でまた新たな記録を打ち立てた。記録を更新し続ける、彼らの歩みを振り返る。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "子どもも喜ぶ！家に余っているアレが「おにぎり」に意外と合う",
-      "url": "https://news.cookpad.com/articles/65689",
-      "date": "2026-09-07T05:00:00.000Z",
-      "summary": "おにぎりに合う食材といえば、梅干しや鮭、ふりかけなどが定番ですよね。いつも同じ組み合わせで少し飽きてしまった…というときにおすすめしたいのが、家に余りがちな「きなこ」です。今回は、朝食やおやつ、...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "「主人もよろこぶと思います」冷静になれるはずだった。それなのに彼の名前を口にした瞬間、私の胸はざわついて『子宮恋愛』【#22】",
-      "url": "https://hon-hikidashi.jp/book-person/184001/",
-      "date": "2026-09-07T03:30:00.000Z",
-      "summary": "「ほんのひきだし」では、「夏の夜更かし、ちょっと刺激的な夜読。」をテーマに、眠れない夏の夜にこそ読みたいコミックをご紹介します。恋、秘密、駆け引き、復讐、そして誰にも言えない想い。少し刺激的で、気づけば夜更かししてしまうような物語を、この機会にぜひお楽しみください。 今回ご紹介するのは、セックスレスに悩む妻が婚外恋愛をする 『子宮恋愛』 です。 (adsbygoogle = window.adsbygoogle || []).push(",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
     }
   ]
 }
