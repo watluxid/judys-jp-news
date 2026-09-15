@@ -1,19 +1,12 @@
 {
-  "generatedAt": "2026-09-15T17:07:35.882Z",
+  "generatedAt": "2026-09-15T21:29:30.756Z",
   "articleCount": 600,
   "feedStatus": [
     {
-      "name": "NHKニュース（主要）",
+      "name": "NHKニュース（科学・文化）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（社会）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -24,10 +17,17 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（科学・文化）",
+      "name": "NHKニュース（社会）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（主要）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
       "errors": []
     },
     {
@@ -38,17 +38,17 @@
       "errors": []
     },
     {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
-      "errors": []
-    },
-    {
       "name": "つくおき",
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://cookien.com/feed/",
+      "errors": []
+    },
+    {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -59,17 +59,17 @@
       "errors": []
     },
     {
-      "name": "メシ通（ホットペッパーグルメ）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
-      "errors": []
-    },
-    {
       "name": "amass",
       "category": "music",
       "ok": true,
       "usedUrl": "https://amass.jp/rss/new",
+      "errors": []
+    },
+    {
+      "name": "メシ通（ホットペッパーグルメ）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
       "errors": []
     },
     {
@@ -80,13 +80,6 @@
       "errors": []
     },
     {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://sorae.info/feed",
-      "errors": []
-    },
-    {
       "name": "インサイド（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
@@ -94,31 +87,10 @@
       "errors": []
     },
     {
-      "name": "アニメ！アニメ！（乙女ゲーム関連）",
-      "category": "otome",
-      "ok": true,
-      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "リアルサウンド",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
-      "errors": []
-    },
-    {
-      "name": "CINRA",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://www.cinra.net/feed",
-      "errors": []
-    },
-    {
-      "name": "ナゾロジー",
+      "name": "sorae（宇宙・天文）",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -129,17 +101,38 @@
       "errors": []
     },
     {
+      "name": "リアルサウンド",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://realsound.jp/atom.xml",
+      "errors": []
+    },
+    {
+      "name": "アニメ！アニメ！（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "ナゾロジー",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "errors": []
+    },
+    {
+      "name": "CINRA",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://www.cinra.net/feed",
+      "errors": []
+    },
+    {
       "name": "カラパイア",
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://karapaia.com/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "和樂web",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://intojapanwaraku.com/feed",
       "errors": []
     },
     {
@@ -150,6 +143,13 @@
       "errors": []
     },
     {
+      "name": "和樂web",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://intojapanwaraku.com/feed",
+      "errors": []
+    },
+    {
       "name": "ほんのひきだし（本・出版）",
       "category": "culture",
       "ok": true,
@@ -157,17 +157,17 @@
       "errors": []
     },
     {
-      "name": "青い日記帳（美術展）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
-      "errors": []
-    },
-    {
       "name": "Art Annual online（美術）",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://www.art-annual.jp/feed",
+      "errors": []
+    },
+    {
+      "name": "青い日記帳（美術展）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
     },
     {
@@ -179,6 +179,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "新着MVランキング：LISA「SaWaDiKa」で打ち出す自らのアイデンティティ タイの伝統とポップスの融合",
+      "url": "https://realsound.jp/2026/09/post-2523396.html",
+      "date": "2026-09-16T05:50:35.000Z",
+      "summary": "毎週更新される「YouTube Music Charts」ウィークリー ミュージック ビデオ ランキングより、MVをはじめとした音楽関連の新着動画から上位10作品／楽曲を取り上げ、ランキング化＆レビューしていく連載「MV Chart Focus」。今週は首位を獲得したLISA「SaWaDiKa」を取り上げる。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "木村拓哉、ギャツビー『ムービングラバー』新CM出演 CMソングはスペクトラム「TOMATO IPPATSU」",
+      "url": "https://realsound.jp/2026/09/post-2524399.html",
+      "date": "2026-09-16T04:00:55.000Z",
+      "summary": "木村拓哉が、9月19日より放送のギャツビー『ムービングラバー』の新CM『いい予感しかない。』篇に出演する。 CMでは、ピンクの背景にブラックのスーツ姿で登場する木村が、CMソング「TOMATO IPPATSU」（スペ",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
     {
       "title": "デフ・レパードの軌跡を辿るボックスセット第4弾発売 ビートルズ「Revolution」の未発表カヴァー先行公開",
       "url": "https://amass.jp/191847/",
@@ -205,6 +223,15 @@
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
+    },
+    {
+      "title": "2026年9月16日：本日発売のコミック新刊",
+      "url": "https://hon-hikidashi.jp/news/197244/",
+      "date": "2026-09-15T21:00:53.000Z",
+      "summary": "2026年9月16日（水）発売のコミック単行本をお知らせします。 〉 過去の日付のコミック新刊はこちら (adsbygoogle = window.adsbygoogle || []).push({}); 一迅社 百合姫コミックス ・ 無力聖女と無能王女～魔力ゼロで召喚された聖女の異世界救国記～ （4） （玉崎たま） KADOKAWA FLOS COMIC ・ 女伯爵アンバーには商才がある！ やっと自由になれたので、再婚なんてお断り （",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
     },
     {
       "title": "G-FREAK FACTORY、結成30周年を前に解き放つ“パンクの核心” 初のアコースティック盤『灯-TOMOSHIBI』クロスレビュー",
@@ -5551,33 +5578,6 @@
       "source": "Mikiki（タワーレコード）",
       "sourceHomepage": "https://mikiki.tokyo.jp/",
       "category": "music"
-    },
-    {
-      "title": "あなたの顔に「動脈硬化のサイン」が現れる可能性",
-      "url": "https://nazology.kusuguru.co.jp/archives/199368",
-      "date": "2026-09-09T09:00:34.000Z",
-      "summary": "朝、洗面所の鏡で目頭に近いまぶたの皮膚に黄色っぽい小さな斑を見つけたら、まず気にするのは見た目でしょう。 実際、この斑のある人の多くは、見た目の悩みとして皮膚科を受診しています。 この斑は「眼瞼黄色腫(がんけんおうしょくしゅ)」と呼ばれ、中身はコレステロールなどの脂肪をため込んだ免疫細胞です。 スタンフォード大学の研究チームは、この斑のある人がない人に比べて心筋梗塞や脳卒中を起こす割合が高いことを、17,925人ずつの電子カルテの比較で",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "九州のうどんチェーン「ウエスト」が東京に1店舗だけあるので行った（傑作選）",
-      "url": "https://dailyportalz.jp/kiji/west-tokyo",
-      "date": "2026-09-09T09:00:00.000Z",
-      "summary": "九州を中心に展開するチェーン店「ウエスト」。うどんをメインに居酒屋のようなおつまみメニューもあり。東京にも一店舗だけあるらしい。これは行くしかない。うどんが好きだから。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "自然が振付師。ドイツ・フランクフルトの上空に掲げられた「希望に満ちた空」",
-      "url": "https://karapaia.com/archives/624671.html",
-      "date": "2026-09-09T09:00:00.000Z",
-      "summary": "まるでオーロラのよう。ドイツ・フランクフルトの広場の空に幻想的な巨大アートが現れた。このネット（網）状のインスタレーションは、風や光によって見え方が変わる。2026年8月から展示中の「A Sky Full of Hope（希望に満ちた空） – Earthtime 1.78 Frankfurt」は…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
     }
   ]
 }
