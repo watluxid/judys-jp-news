@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T16:32:40.112Z",
+  "generatedAt": "2026-09-18T20:59:27.463Z",
   "articleCount": 600,
   "feedStatus": [
     {
@@ -17,6 +17,13 @@
       "errors": []
     },
     {
+      "name": "NHKニュース（国際）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+      "errors": []
+    },
+    {
       "name": "NHKニュース（科学・文化）",
       "category": "news",
       "ok": true,
@@ -24,10 +31,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（国際）",
-      "category": "news",
+      "name": "つくおき",
+      "category": "cooking",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+      "usedUrl": "https://cookien.com/feed/",
       "errors": []
     },
     {
@@ -42,13 +49,6 @@
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://news.cookpad.com/feeds/news.rss",
-      "errors": []
-    },
-    {
-      "name": "つくおき",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://cookien.com/feed/",
       "errors": []
     },
     {
@@ -94,10 +94,24 @@
       "errors": []
     },
     {
+      "name": "デイリーポータルZ",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "errors": []
+    },
+    {
       "name": "リアルサウンド",
       "category": "music",
       "ok": true,
       "usedUrl": "https://realsound.jp/atom.xml",
+      "errors": []
+    },
+    {
+      "name": "CINRA",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://www.cinra.net/feed",
       "errors": []
     },
     {
@@ -115,31 +129,10 @@
       "errors": []
     },
     {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
-      "errors": []
-    },
-    {
-      "name": "CINRA",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://www.cinra.net/feed",
-      "errors": []
-    },
-    {
       "name": "カラパイア",
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://karapaia.com/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "和樂web",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://intojapanwaraku.com/feed",
       "errors": []
     },
     {
@@ -150,6 +143,13 @@
       "errors": []
     },
     {
+      "name": "和樂web",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://intojapanwaraku.com/feed",
+      "errors": []
+    },
+    {
       "name": "ほんのひきだし（本・出版）",
       "category": "culture",
       "ok": true,
@@ -157,17 +157,17 @@
       "errors": []
     },
     {
-      "name": "青い日記帳（美術展）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
-      "errors": []
-    },
-    {
       "name": "Art Annual online（美術）",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://www.art-annual.jp/feed",
+      "errors": []
+    },
+    {
+      "name": "青い日記帳（美術展）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
     },
     {
@@ -179,6 +179,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "Fujii Kazeはかけがえのない“ひとり”に歌いかけている 「You」MVから伝わる『Prema』＝至上の愛の本質",
+      "url": "https://realsound.jp/2026/09/post-2528938.html",
+      "date": "2026-09-19T05:50:12.000Z",
+      "summary": "Fujii Kaze「You」MVをレビュー。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
     {
       "title": "クイーンのロジャー・テイラー 「A Beautiful World」のミュージックビデオ公開",
       "url": "https://amass.jp/191935/",
@@ -5568,15 +5577,6 @@
       "summary": "トニー・アイオミは若い頃の事故で2本の指の先端を失う。彼のもとには病院から定期的に義指が送られてくるが、実は腕全体が送られてくるという。「俺は指の部分を切り落として腕は捨てる。ゴミ収集員は“何が起きてるんだ？誰かを殺したのか？”と思ってるだろうね」 https://amass.jp/191794/",
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "松本伊代＆ヒロミ夫妻の若かりし頃も 小園凌央、誕生日にレアな家族写真を投稿「ビックリするくらいそっくり」",
-      "url": "https://realsound.jp/2026/09/post-2521298.html",
-      "date": "2026-09-12T21:11:19.000Z",
-      "summary": "松本伊代とヒロミの息子で俳優として活動する小園凌央が、9月9日に誕生日を迎えた。両親に祝われる様子を自身のInstagramに投稿している。 31歳を迎えた小園は、「誕生日は両親に感謝する日 メッセージもありがとうご",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
       "category": "music"
     }
   ]
