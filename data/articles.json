@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-18T11:26:57.458Z",
+  "generatedAt": "2026-09-18T16:32:40.112Z",
   "articleCount": 600,
   "feedStatus": [
-    {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-      "errors": []
-    },
     {
       "name": "NHKニュース（主要）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（社会）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
       "errors": []
     },
     {
@@ -24,10 +24,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（社会）",
+      "name": "NHKニュース（国際）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
       "errors": []
     },
     {
@@ -73,13 +73,6 @@
       "errors": []
     },
     {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://sorae.info/feed",
-      "errors": []
-    },
-    {
       "name": "4Gamer（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
@@ -87,10 +80,10 @@
       "errors": []
     },
     {
-      "name": "リアルサウンド",
-      "category": "music",
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
+      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -101,31 +94,24 @@
       "errors": []
     },
     {
+      "name": "リアルサウンド",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://realsound.jp/atom.xml",
+      "errors": []
+    },
+    {
+      "name": "ナゾロジー",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "errors": []
+    },
+    {
       "name": "アニメ！アニメ！（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://animeanime.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
-      "errors": []
-    },
-    {
-      "name": "カラパイア",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "CINRA",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://www.cinra.net/feed",
       "errors": []
     },
     {
@@ -136,10 +122,17 @@
       "errors": []
     },
     {
-      "name": "ナゾロジー",
+      "name": "CINRA",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://www.cinra.net/feed",
+      "errors": []
+    },
+    {
+      "name": "カラパイア",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "usedUrl": "https://karapaia.com/index.rdf",
       "errors": []
     },
     {
@@ -164,6 +157,13 @@
       "errors": []
     },
     {
+      "name": "青い日記帳（美術展）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
+      "errors": []
+    },
+    {
       "name": "Art Annual online（美術）",
       "category": "culture",
       "ok": true,
@@ -171,14 +171,95 @@
       "errors": []
     },
     {
-      "name": "青い日記帳（美術展）",
-      "category": "culture",
+      "name": "OTOTOY",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
+      "usedUrl": "https://ototoy.jp/rss",
       "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "クイーンのロジャー・テイラー 「A Beautiful World」のミュージックビデオ公開",
+      "url": "https://amass.jp/191935/",
+      "date": "2026-09-19T00:45:00.000Z",
+      "summary": "クイーンのロジャー・テイラーは「A Beautiful World」のミュージックビデオ公開。この曲は最新ソロ・アルバム『Violence Insane In A Beautiful World』に収録 https://amass.jp/191935/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "高橋幸宏＋細野晴臣のSKETCH SHOW ライヴ映像作品のYouTube無料配信が今年も決定 9月19日21時～",
+      "url": "https://amass.jp/191934/",
+      "date": "2026-09-19T00:37:00.000Z",
+      "summary": "高橋幸宏と細野晴臣のSKETCH SHOW。1stアルバム発売日＝9月19日の記念日にライヴ映像作品『WILD SKETCH SHOW -SKETCH SHOW LIVE 2002』のYouTube無料配信が今年も行われます。19日21:00より開始 https://amass.jp/191934/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ダンカン・シーク死去 「Barely Breathing」がヒット／ミュージカル『春のめざめ』でトニー賞受賞",
+      "url": "https://amass.jp/191933/",
+      "date": "2026-09-19T00:28:00.000Z",
+      "summary": "1996年のヒット曲「Barely Breathing」などで知られるシンガーソングライターで、またミュージカル『春のめざめ』の作曲でトニー賞受賞したダンカン・シーク（Duncan Sheik）が死去。56歳でした。 https://amass.jp/191933/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "SOTA＆MANATO、BE:FIRSTでの挑戦とShowMinorSavageでの音楽探求 2つの場所を行き来しながら広げる表現",
+      "url": "https://realsound.jp/2026/09/post-2527610.html",
+      "date": "2026-09-18T22:00:21.000Z",
+      "summary": "9月18日、BE:FIRSTが初のグローバルEP『WATCH ME』をリリース。海外展開を本格化させる一方で、メンバー個々の活動も精力的に取り組んでいる。そんな中、MANATOとSOTAはAile The Shotaとのユニット・ShowMinorSavageとしても音楽を発信。そこで直近でリリースされた新曲から、ふたりの現在地を紐解いてみたい。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "DOMOTO 堂本光一、 SUPER EIGHT 安田章大 、SixTONES 京本大我、Snow Man 佐久間大介……SNSとの向き合い方から見える個性",
+      "url": "https://realsound.jp/2026/09/post-2528298.html",
+      "date": "2026-09-18T22:00:11.000Z",
+      "summary": "DOMOTO 堂本光一、 SUPER EIGHT 安田章大 、SixTONES 京本大我、Snow Man 佐久間大介らのSNSとの向き合い方を紹介する。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "iVy、2ndアルバム『存在する理由』リリース決定 渋谷CLUB QUATTROでワンマンライブも",
+      "url": "https://realsound.jp/2026/09/post-2529759.html",
+      "date": "2026-09-18T21:49:47.000Z",
+      "summary": "fuki（Composer/Gt.Vo）とpupu（Syn.Vo）によるオルタナティブ・ポップユニットiVyが、2ndアルバム『存在する理由』を11月11日にリリースする。あわせて、アルバムのリリースを記念したワンマン",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "デス・キャブ・フォー・キューティー 「Stone Over Water」のミュージックビデオ公開",
+      "url": "https://amass.jp/191932/",
+      "date": "2026-09-18T21:02:00.000Z",
+      "summary": "デス・キャブ・フォー・キューティーは「Stone Over Water」のミュージックビデオ公開。この曲は最新スタジオ・アルバム『I Built You a Tower』に収録 https://amass.jp/191932/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ジョン・フォガティの最新ライヴにスティーヴ・ウィンウッドがゲスト参加",
+      "url": "https://amass.jp/191931/",
+      "date": "2026-09-18T20:59:00.000Z",
+      "summary": "ジョン・フォガティの最新ライヴにスティーヴ・ウィンウッドがゲスト参加。ウィルソン・ピケットの「In the Midnight Hour」を一緒にカヴァーしています。映像あり。 https://amass.jp/191931/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ニール・ヤング、今はかなり悲観的な時代だが「きっと良くなる。それ以上に明らかなことなんてない。歴史を振り返ってごらん。今、まさにそこにいる」",
+      "url": "https://amass.jp/191930/",
+      "date": "2026-09-18T20:52:00.000Z",
+      "summary": "ニール・ヤングは、今はかなり悲観的な時代だが「きっと良くなる。それ以上に明らかなことなんてない。歴史を振り返って大きな出来事や変化が起きた時のことを考えてみればいい。今、まさにそこにいる」と語る。また「ストリーミングなんてクソみたいなもんだ」とも語る https://amass.jp/191930/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "LE SSERAFIM SAKURA、ピンクヘアから黒髪ボブにイメチェン 肩出しワンピ姿のLA散歩ショットに「可愛いすぎ！」",
       "url": "https://realsound.jp/2026/09/post-2529402.html",
@@ -279,6 +360,42 @@
       "category": "music"
     },
     {
+      "title": "創業100周年記念「シェフ meets アート トリュフ コレクション」",
+      "url": "https://bluediary2.jugem.jp/?eid=8193",
+      "date": "2026-09-18T14:32:00.000Z",
+      "summary": "名画を眺めながら、「この絵を味にしたら、どんな味になるのだろう」と考えたことはあるでしょうか。 創業100周年を迎えたゴディバから登場する「100周年 シェフ meets アート トリュフ コレクション」は、世界各地のアートからインスピレーションを得て、ゴディバ...",
+      "source": "青い日記帳（美術展）",
+      "sourceHomepage": "https://bluediary2.jugem.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "手術も抗がん剤も効かなかった3歳児のがんが、2回の点滴で消えた",
+      "url": "https://nazology.kusuguru.co.jp/archives/199873",
+      "date": "2026-09-18T14:05:50.000Z",
+      "summary": "アメリカのベイラー医科大学（BCM）などで行われた研究によって、手術でも抗がん剤でも止められなかった3歳男児の肝臓がんが、2回の点滴で消えたことが明らかになりました。 点滴の中身は、この子自身の免疫細胞を改造したものです。 患者自身の免疫細胞を改造して体に戻す治療は、血液のがんでは大きな成果を上げてきた一方、肝臓がんのように塊を作るがんにはあまり通用しないと考えられていましたが、今回のケースでは「完全奏効」を達成しました。 論文では今回",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "1947年に出現した観測史上最大級の黒点群は「スーパーフレア」を起こし得た？",
+      "url": "https://sorae.info/astronomy/20260918-sun-superflare.html",
+      "date": "2026-09-18T14:03:38.000Z",
+      "summary": "マックス・プランク太陽系研究所（MPS）のNatalie Krivova氏やValeriy Vasilyev氏をはじめとする研究チームは、観測史上最大とされる太陽の黒点群（黒点の集まり）がどれほど強力な太陽フレアを起こせ…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
+    },
+    {
+      "title": "Natsudaidai、1st EPのアナログ盤を〈レコードの日〉に限定リリース! 初の東名阪ツアーも決定 - ニュース",
+      "url": "https://mikiki.tokyo.jp/articles/-/46158",
+      "date": "2026-09-18T13:45:00.000Z",
+      "summary": "Natsudaidai、1st EPのアナログ盤を〈レコードの日〉に限定リリース! 初の東名阪ツアーも決定",
+      "source": "Mikiki（タワーレコード）",
+      "sourceHomepage": "https://mikiki.tokyo.jp/",
+      "category": "music"
+    },
+    {
       "title": "IZ*ONE出身イ・チェヨン、日本デビューシングルリリース “声”にフォーカスした新たな表現に挑戦",
       "url": "https://realsound.jp/2026/09/post-2528266.html",
       "date": "2026-09-18T13:36:38.000Z",
@@ -294,6 +411,42 @@
       "summary": "Beckは、浅野忠信が出演する「Run Away」のミュージックビデオを公開しています。この曲は、7年ぶりとなる全曲新録の新スタジオ・アルバム『Ride Lonesome』に収録 https://amass.jp/191916/",
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "Lizzy McAlpine、全14曲を収録した新AL発売",
+      "url": "https://ototoy.jp/news/131904",
+      "date": "2026-09-18T13:00:00.000Z",
+      "summary": "Lizzy McAlpineが2026年9月18日(金)にニューアルバム『Angel』をリリースした",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
+      "title": "Riley Green、全19曲を収録した新ALリリース",
+      "url": "https://ototoy.jp/news/131903",
+      "date": "2026-09-18T13:00:00.000Z",
+      "summary": "Riley Greenが2026年9月18日(金)にニューアルバム『That’s Just Me』をリリースした",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
+      "title": "K-POPとは? 魅力・特徴から世界的人気の理由、代表アーティスト、名曲、世代、用語、事務所まで徹底解説【音楽ジャンル再入門】第3回 - 連載",
+      "url": "https://mikiki.tokyo.jp/articles/-/46151",
+      "date": "2026-09-18T12:44:00.000Z",
+      "summary": "K-POPとは? 魅力・特徴から世界的人気の理由、代表アーティスト、名曲、世代、用語、事務所まで徹底解説",
+      "source": "Mikiki（タワーレコード）",
+      "sourceHomepage": "https://mikiki.tokyo.jp/",
+      "category": "music"
+    },
+    {
+      "title": "BUDDiiS、メジャー2ndシングル「無限大LOVE!!!」ジャケ写＆収録曲詳細を公開",
+      "url": "https://ototoy.jp/news/131908",
+      "date": "2026-09-18T12:30:00.000Z",
+      "summary": "BUDDiiSが、2026年11月18日(水)に発売するメジャー2ndシングル「無限大LOVE!!!」のジャケット写真＆収録曲詳細が公開された",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
     },
     {
@@ -333,6 +486,24 @@
       "category": "music"
     },
     {
+      "title": "「生きた薬」を1回点滴しただけで骨粗鬆症患者の骨折が94％減――スカスカの内側が埋まり始めていた",
+      "url": "https://nazology.kusuguru.co.jp/archives/199864",
+      "date": "2026-09-18T12:00:05.000Z",
+      "summary": "スペインのムルシア大学（UM）などで行われた研究によって、骨粗鬆症が進んだ患者に、自分の体から取り出した幹細胞を調節して1回だけ点滴したところ、その後2年間の骨折が94%減っていたことが明らかになりました。 骨を作り直す力を持つ幹細胞の存在は前から知られていましたが、血管に流しても骨の奥までたどり着けないことが長年の弱点でした。 しかし新たな研究ではこの幹細胞に「骨髄行き」という信号を上手く加えることで、この問題を解決しました。 研究者",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "コンピAL『合成音声×HIPHOP』リリース",
+      "url": "https://ototoy.jp/news/131907",
+      "date": "2026-09-18T12:00:00.000Z",
+      "summary": "コンピレーション・アルバム『合成音声×HIPHOP』が2026年9月18日にリリースされた",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
       "title": "ジョニー・マーのギター約80本がオークションに、最高落札額は82年製リッケンバッカー330ジェットグロで約7480万円",
       "url": "https://amass.jp/191915/",
       "date": "2026-09-18T11:59:00.000Z",
@@ -340,6 +511,15 @@
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
+    },
+    {
+      "title": "鳥葬の名残か。ゾロアスター教と関連性がある2000年以上前の祭壇と骨壺を発見",
+      "url": "https://karapaia.com/archives/628599.html",
+      "date": "2026-09-18T11:30:00.000Z",
+      "summary": "遺体を野外に置いて鳥食べさせる。ゾロアスター教の伝統的な葬送「鳥葬」、「葬儀」と関連性のある遺物が発見された。ウズベキスタン南東部にあるオディルモン遺跡で、2000年以上前に作られた「火の祭壇」と、骨を納める「骨壺」が発掘された…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
     },
     {
       "title": "アンスラックス 「Cursum Perficio」のミュージックビデオ公開",
@@ -522,21 +702,12 @@
       "category": "music"
     },
     {
-      "title": "きゃりーぱみゅぱみゅ、宇宙が舞台の「月姫」MV公開",
-      "url": "https://ototoy.jp/news/131898",
+      "title": "ジャックフルーツを丸ごと買った（傑作選）",
+      "url": "https://dailyportalz.jp/kiji/jackfruit",
       "date": "2026-09-18T09:00:00.000Z",
-      "summary": "きゃりーぱみゅぱみゅが「月姫」のミュージックビデオを公開した",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "呼吸する毛玉。もふもふロボットは体積が変わることで生き物らしく見える",
-      "url": "https://karapaia.com/archives/627437.html",
-      "date": "2026-09-18T09:00:00.000Z",
-      "summary": "もふもふの体を膨らませたり縮めたりする毛玉ロボットに、人はなぜか愛着が湧く。電気通信大学とソニーの共同研究チームが開発したロボット「MOFU（（MOrphing Fluffy Unit））」は、目も顔も手足もなく、呼吸しているかのような動きをする。特定の動物の動きを真似しているわけでもなく…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
+      "summary": "ハラールショップで冷凍のジャックフルーツが激安だったので、丸ごとひとつ買ってみた。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
     },
     {
@@ -549,13 +720,22 @@
       "category": "culture"
     },
     {
-      "title": "ジャックフルーツを丸ごと買った（傑作選）",
-      "url": "https://dailyportalz.jp/kiji/jackfruit",
+      "title": "呼吸する毛玉。もふもふロボットは体積が変わることで生き物らしく見える",
+      "url": "https://karapaia.com/archives/627437.html",
       "date": "2026-09-18T09:00:00.000Z",
-      "summary": "ハラールショップで冷凍のジャックフルーツが激安だったので、丸ごとひとつ買ってみた。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
+      "summary": "もふもふの体を膨らませたり縮めたりする毛玉ロボットに、人はなぜか愛着が湧く。電気通信大学とソニーの共同研究チームが開発したロボット「MOFU（（MOrphing Fluffy Unit））」は、目も顔も手足もなく、呼吸しているかのような動きをする。特定の動物の動きを真似しているわけでもなく…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
+    },
+    {
+      "title": "きゃりーぱみゅぱみゅ、宇宙が舞台の「月姫」MV公開",
+      "url": "https://ototoy.jp/news/131898",
+      "date": "2026-09-18T09:00:00.000Z",
+      "summary": "きゃりーぱみゅぱみゅが「月姫」のミュージックビデオを公開した",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
     },
     {
       "title": "BorisとDuranによるスペシャルセッションが限定12インチでリリース",
@@ -576,15 +756,6 @@
       "category": "music"
     },
     {
-      "title": "REBECCA、新ミニAL『All my LOVE』リリース決定",
-      "url": "https://ototoy.jp/news/131896",
-      "date": "2026-09-18T08:00:00.000Z",
-      "summary": "REBECCAが10月28日（水）に2年振りとなる最新作『All my LOVE』をリリースすることが決定した",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
       "title": "ごみか宝か判定 ライター石井公二「おれT・パイプ」",
       "url": "https://dailyportalz.jp/dpq/gomi-or-takara-02-02",
       "date": "2026-09-18T08:00:00.000Z",
@@ -592,6 +763,15 @@
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
+    },
+    {
+      "title": "REBECCA、新ミニAL『All my LOVE』リリース決定",
+      "url": "https://ototoy.jp/news/131896",
+      "date": "2026-09-18T08:00:00.000Z",
+      "summary": "REBECCAが10月28日（水）に2年振りとなる最新作『All my LOVE』をリリースすることが決定した",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
     },
     {
       "title": "若きバイオリニストHIMARIが〈タワラブ!〉キャンペーンに登場! デビューアルバム発売記念でポスター提出やTOWER PLUS+配布など - ニュース",
@@ -603,31 +783,13 @@
       "category": "music"
     },
     {
-      "title": "初心者でも失敗しない！「折りたたむだけ」で綺麗な萌え断ができる簡単ミルクレープが話題",
+      "title": "初心者でも失敗しない！「折りたたむだけ」で綺麗な萌え断ができる簡単ミルクレープ",
       "url": "https://news.cookpad.com/articles/66393",
       "date": "2026-09-18T07:00:00.000Z",
       "summary": "いちごやバナナなどのフルーツを挟んだミルクレープ、おいしいですよね。今日は、ホットケーキミックスを使って作る簡単おいしいミルクレープの作り方をご紹介します。折りたたんでいくだけなので、とっても手...",
       "source": "クックパッドニュース",
       "sourceHomepage": "https://news.cookpad.com/",
       "category": "cooking"
-    },
-    {
-      "title": "イ・チェヨン、日本デビュー決定",
-      "url": "https://ototoy.jp/news/131897",
-      "date": "2026-09-18T07:00:00.000Z",
-      "summary": "IZ*ONE出身のイ・チェヨンが10月8日（木）に2曲収録の1stシングル「ボクノコエ（My Voice）」で日本デビューすることが決定した",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "大量の帽子にクレヨンしんちゃんも。イエローストーンの熱水地帯で2万点以上の物品回収",
-      "url": "https://karapaia.com/archives/628559.html",
-      "date": "2026-09-18T07:00:00.000Z",
-      "summary": "アメリカ、イエローストーン国立公園の地質チームは2026年9月、園内の熱水地帯から今年だけで2万点以上の落とし物を回収したと、アメリカ地質調査所（USGS）のコラムで報告した。回収されたものの中には、大量の帽子やサングラス、カメラのレンズキャップに硬貨はもちろん…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
     },
     {
       "title": "事例紹介）ライフネット生命はなぜデイリーポータルZとコラボしているのか",
@@ -646,6 +808,24 @@
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
+    },
+    {
+      "title": "大量の帽子にクレヨンしんちゃんも。イエローストーンの熱水地帯で2万点以上の物品回収",
+      "url": "https://karapaia.com/archives/628559.html",
+      "date": "2026-09-18T07:00:00.000Z",
+      "summary": "アメリカ、イエローストーン国立公園の地質チームは2026年9月、園内の熱水地帯から今年だけで2万点以上の落とし物を回収したと、アメリカ地質調査所（USGS）のコラムで報告した。回収されたものの中には、大量の帽子やサングラス、カメラのレンズキャップに硬貨はもちろん…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
+      "title": "イ・チェヨン、日本デビュー決定",
+      "url": "https://ototoy.jp/news/131897",
+      "date": "2026-09-18T07:00:00.000Z",
+      "summary": "IZ*ONE出身のイ・チェヨンが10月8日（木）に2曲収録の1stシングル「ボクノコエ（My Voice）」で日本デビューすることが決定した",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
     },
     {
       "title": "「よくまばたきする子」ほど頭の切り替えが上手な傾向、幼児のカード分け課題と脳の活動で判明",
@@ -819,13 +999,13 @@
       "category": "cooking"
     },
     {
-      "title": "ベック（Beck）が語る、ジョーイ・ワロンカーらと作り上げた黄昏時のアルバム『Ride Lonesome』と日本に対する特別な思い - インタビュー",
-      "url": "https://mikiki.tokyo.jp/articles/-/46138",
+      "title": "妖怪万年竹、カインズにステッカーをもらいに行く",
+      "url": "https://magazine.cainz.com/article/259346",
       "date": "2026-09-18T03:00:00.000Z",
-      "summary": "ベック（Beck）が語る、ジョーイ・ワロンカーらと作り上げた黄昏時のアルバム『Ride Lonesome』と日本に対する特別な思い",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
+      "summary": "緑色のアイテムを身につけてカインズに行くとステッカーがもらえるらしい。9月19〜23日までの期間限定イベントである。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
     },
     {
       "title": "愛犬にピッタリのソファを探すため、等身大のパネルを持参し店内へGO！",
@@ -837,13 +1017,13 @@
       "category": "documentary"
     },
     {
-      "title": "妖怪万年竹、カインズにステッカーをもらいに行く",
-      "url": "https://magazine.cainz.com/article/259346",
+      "title": "ベック（Beck）が語る、ジョーイ・ワロンカーらと作り上げた黄昏時のアルバム『Ride Lonesome』と日本に対する特別な思い - インタビュー",
+      "url": "https://mikiki.tokyo.jp/articles/-/46138",
       "date": "2026-09-18T03:00:00.000Z",
-      "summary": "緑色のアイテムを身につけてカインズに行くとステッカーがもらえるらしい。9月19〜23日までの期間限定イベントである。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
+      "summary": "ベック（Beck）が語る、ジョーイ・ワロンカーらと作り上げた黄昏時のアルバム『Ride Lonesome』と日本に対する特別な思い",
+      "source": "Mikiki（タワーレコード）",
+      "sourceHomepage": "https://mikiki.tokyo.jp/",
+      "category": "music"
     },
     {
       "title": "「書くと、体が健康になる」。『さとこはいつも』沖田修一×折坂悠太×柴田聡子が語る、書くことで得られること",
@@ -5398,186 +5578,6 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
-    },
-    {
-      "title": "『インド音楽ディスクガイド オールジャンルの名盤でたどるインド・ポピュラー音楽100年「超」史』発売",
-      "url": "https://amass.jp/191793/",
-      "date": "2026-09-12T20:56:00.000Z",
-      "summary": "『インド音楽ディスクガイド オールジャンルの名盤でたどるインド・ポピュラー音楽100年「超」史』がDU BOOKSから11月発売。音楽大国インドの歴史・文化・社会を、ジャンルごとの解説、時代を彩った名盤紹介、独自インタビューで読み解く。400枚超掲載 https://amass.jp/191793/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "デフ・レパード初の公式長編ドキュメンタリー映画『Long Live Def Leppard』 2027年初頭に北米で劇場公開",
-      "url": "https://amass.jp/191792/",
-      "date": "2026-09-12T20:45:00.000Z",
-      "summary": "デフ・レパード初のオフィシャル長編ドキュメンタリー映画『Long Live Def Leppard』が2027年初頭に北米で劇場公開決定。「これまで公開されたことのない映像と、メンバーへの他に類を見ない密着取材を通じて」バンドの壮大な道のりを描く https://amass.jp/191792/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "春茶、自身最大規模となるZepp Haneda＆Zepp Osaka Baysideでワンマンライブ『ここから。』開催",
-      "url": "https://realsound.jp/2026/09/post-2521525.html",
-      "date": "2026-09-12T20:30:29.000Z",
-      "summary": "春茶が、東京と大阪にて自身最大規模となるワンマンライブ『HARUTYA ONE-MAN LIVE「ここから。」』を2027年2月に開催する。 本公演は、2027年2月21日にZepp Osaka Bayside、2月",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "Tempalay、ニューアルバムリリース後初の東京ワンマン『THE ATOMEW』開催 チケット先着受付スタート",
-      "url": "https://realsound.jp/2026/09/post-2521505.html",
-      "date": "2026-09-12T20:00:05.000Z",
-      "summary": "Tempalayが、9月25日に東京 EX THEATER ROPPONGIにて単独公演『THE ATOMEW』を開催する。 本公演は、Tempalayのニューアルバム『ATOMEW』リリース後初となる東京での単独公",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "RUNIDREのデビュー舞台裏に迫る特別番組公開 モキュメンタリー＆2000年代ファッションの真相を語る",
-      "url": "https://realsound.jp/2026/09/post-2521463.html",
-      "date": "2026-09-12T19:00:19.000Z",
-      "summary": "RUNIDREのデビューの舞台裏に迫る特別番組が、グループ公式YouTubeにて本日9月12日19時に公開される。 「RUNIDREってどんな5人？」予告映像 本番組では、森本晋太郎（トンツカタン）がMCを務め、RU",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "CIRRA、3rd EP『Snow Dress / I like it』リリース 結成1周年記念日に初ファンミーティング開催も",
-      "url": "https://realsound.jp/2026/09/post-2521421.html",
-      "date": "2026-09-12T18:30:18.000Z",
-      "summary": "CIRRAが、3rd EP『Snow Dress / I like it』を11月18日にリリースする。 本作は、CIRRAの持つ異なる魅力を表現した2曲がリードトラックとなるコンセプチュアルなEPで、歌とパフォーマ",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "ONE OK ROCK、過去の悔しさへの落とし前、さらなる高みへと突き進むための夜 『DETOX』ツアーで遂げた進化",
-      "url": "https://realsound.jp/2026/09/post-2521069.html",
-      "date": "2026-09-12T18:00:09.000Z",
-      "summary": "ONE OK ROCK『DETOX JAPAN TOUR FINAL 2026』の最終公演が9月6日にZOZOマリンスタジアムで開催。足かけ1年半にわたり続いてきた長いツアーの集大成であり、土砂降りの雨のなか行われた同公演を小川智宏がレポートする。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "忘れらんねえよ、武道館経験アーティスト迎える東名阪ツアーゲストにTHE BACK HORN、打首獄門同好会",
-      "url": "https://realsound.jp/2026/09/post-2521386.html",
-      "date": "2026-09-12T17:47:41.000Z",
-      "summary": "忘れらんねえよが、11月より開催する東名阪ツアー『武道館、どうだった？』の名古屋、大阪公演の対バンアーティストを発表した。 12月1日に行われる大阪 LIVE HOUSE バナナホール公演にはTHE BACK HOR",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "Hammer Head Shark、2nd EP『a i r』リリース 渋谷 WWW Xでのワンマン含む全国ツアー開催も",
-      "url": "https://realsound.jp/2026/09/post-2521377.html",
-      "date": "2026-09-12T17:18:44.000Z",
-      "summary": "Hammer Head Sharkが、2nd EP『a i r』を11月にリリース。また、同月より全国ツアー『air in hurt TOUR』を開催することも発表した。 本EPの収録曲やリリーススケジュールは、現時",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "「没後100年記念 住友春翠」",
-      "url": "https://bluediary2.jugem.jp/?eid=8187",
-      "date": "2026-09-12T13:15:00.000Z",
-      "summary": "泉屋博古館東京にて開催中の 「没後100年記念 住友春翠&#8212;仕合せの住友近代美術コレクション」へ行って来ました。 https://sen-oku.or.jp/tokyo/ モネをはじめとする西洋絵画から、日本画、近代陶磁器、茶道具、中国古代青銅器まで、これほど幅広い作品がな...",
-      "source": "青い日記帳（美術展）",
-      "sourceHomepage": "https://bluediary2.jugem.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "ラフ×ラフ 佐々木楓菜×Akira Sunset対談 現役アイドルが“音楽作家”としてスクールへ通い始めた理由とは",
-      "url": "https://realsound.jp/2026/09/post-2492120.html",
-      "date": "2026-09-12T13:00:59.000Z",
-      "summary": "現役アイドルグループ「ラフ×ラフ」の佐々木楓菜と、音楽プロデューサーAkira Sunsetの特別対談。アイドル活動と並行し、“音楽作家”としても才能を発揮する佐々木が、プロ作曲家育成スクール「Dr.BROWN」に通い始めた理由とは？ 現役プレイヤーならではの楽曲制作へのこだわりやプロデュース術、今後の展望について二人が語り合います。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "新作「VELVET CANDY TINT KISS」や移植作品「源狼 GENROH」が発表。オトメイトパーティー2026の1日目夜公演で発表された情報を公開",
-      "url": "https://www.4gamer.net/games/041/G104197/20260911013/",
-      "date": "2026-09-12T12:40:00.000Z",
-      "summary": "アイディアファクトリーは，本日開催したイベント「オトメイトパーティー2026」1日目",
-      "source": "4Gamer（乙女ゲーム関連）",
-      "sourceHomepage": "https://www.4gamer.net/",
-      "category": "otome"
-    },
-    {
-      "title": "斉藤和義が鳴らすロックの衝動 “戦争の対義語としての日常”が示す平和、『日常Days』で挑む新たな音像",
-      "url": "https://realsound.jp/2026/09/post-2496205.html",
-      "date": "2026-09-12T12:00:58.000Z",
-      "summary": "斉藤和義が、前作から3年4カ月ぶりとなるニューアルバム『日常Days』をリリースした。60歳の節目を迎えた彼が今回提示するのは、あえてバラードを排し、アグレッシブなバンドサウンドと弦アレンジを融合させたロックな世界観だ。本作の制作背景や楽曲に込めた切実なメッセージ、そして全国ツアーへの意気込みについて、じっくりと話を聞いた。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "VIBYが掴み取った“デビューショーケースで日本武道館”という偉業 40人から1万人へ――5人が体現する青春の歩み",
-      "url": "https://realsound.jp/2026/09/post-2519225.html",
-      "date": "2026-09-12T12:00:25.000Z",
-      "summary": "VIBYが“デビューショーケースで日本武道館”という偉業を成し遂げるまでの歩みを振り返る。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "約1800年前の古代ローマ遺跡で、愛猫と愛犬の名前が刻まれたモザイク画を発見",
-      "url": "https://karapaia.com/archives/627522.html",
-      "date": "2026-09-12T11:30:00.000Z",
-      "summary": "約1800年前の古代ローマ時代、現代の私たちと同じように愛する動物に名前をつけ、その姿を永遠に残そうとした人物がいた。トルコのエーゲ海沿岸にある古代都市アドラミュッテイオンの遺跡で、名前が刻まれた愛猫「エメラルド」と愛犬「オケアノス」のモザイク画の床タイルが発見されたのだ…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
-      "title": "食生活を変えてマイナス12kg！5,200名以上を指導してきた保健師・松田リエさんが教える「瞬食お酢ダイエット」",
-      "url": "https://news.cookpad.com/articles/66142",
-      "date": "2026-09-12T11:00:00.000Z",
-      "summary": "食事を減らすダイエットはつらくて続かない。お酢は体にいいと聞くけれど、酸っぱいのが苦手……。そんな人に向けて、保健師でありダイエット講師である松田リエさんの著書『ひとさじで変わる 瞬食お酢ダイエット』（KADOKAWA）から、無理なく続けられるお酢の取り入れ方をお伝えします。本書に掲載されているレシピも2品ご紹介。",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "sassya-、EP『爆音現実』収録曲「俺は終わった」MV公開 吉祥寺WARPで単独公演開催も",
-      "url": "https://realsound.jp/2026/09/post-2520390.html",
-      "date": "2026-09-12T10:45:54.000Z",
-      "summary": "東京を拠点に活動するロックバンド sassya-が、EP『爆音現実』収録曲「俺は終わった」のMVを公開した。 sassya- / 俺は終わった (Ore wa Owatta / I'm Done) [Official",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "SHE'S、周年ツアー追加公演として台北にてワンマンライブ開催 2年ぶりの台湾での単独公演に",
-      "url": "https://realsound.jp/2026/09/post-2520979.html",
-      "date": "2026-09-12T10:30:26.000Z",
-      "summary": "SHE'Sが、開催中の周年全国ツアー『SHE'S 15th Anniversary Tour “Who am I?”』の追加公演として、台北 THE WALL LIVE HOUSEでのワンマンライブを開催する。 本ツ",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "「あの化け物の事…何か知ってるのか？」問いかけても妹は反応しない『ぼくらの夏が裂けていく』【#10】",
-      "url": "https://hon-hikidashi.jp/book-person/195341/",
-      "date": "2026-09-12T10:15:07.000Z",
-      "summary": "あなたのすぐそばにも、こんな恐怖が潜んでいるかも――。「ほんのひきだし」では、幽霊よりも怖い「人」の狂気や、何気ない日常に忍び寄る違和感を描いたヒトコワ＆ホラー漫画を厳選しました。背筋がゾクッとする物語を、試し読みでお楽しみください。 今回ご紹介するのは、 『ぼくらの夏が裂けていく』 です。進学を機に生まれ育った島を離れていた高校生の樹は、妹の大けがをきっかけに地元に戻ります。しかし、島では異様なほどに徹底されたコロナ対策がとられていま",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "相手が失敗したと聞いた瞬間、人は自分の成功を隠す",
-      "url": "https://nazology.kusuguru.co.jp/archives/199533",
-      "date": "2026-09-12T10:00:37.000Z",
-      "summary": "アメリカのライス大学などで行われた研究によって、自分の成功を打ち明けるかどうかは直前に相手が何を話したかで激変し、相手が失敗を明かした直後には、成功を語る気持ちが、相手が自分の結果を明かさなかった場合の4分の1以下にまで落ち込むことが明らかになりました。 自慢したいから成功を語り、恥ずかしいから失敗を隠す。 そう説明されてきた行動の裏で、人が重く見ていたのは自分の見え方よりも、目の前の相手の痛みのほうでした。 研究者は「誰かが苦労したと",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
     }
   ]
 }
