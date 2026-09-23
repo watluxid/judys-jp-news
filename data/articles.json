@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-09-23T17:13:45.826Z",
+  "generatedAt": "2026-09-23T21:35:17.398Z",
   "articleCount": 600,
   "feedStatus": [
+    {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "errors": []
+    },
     {
       "name": "NHKニュース（主要）",
       "category": "news",
@@ -14,20 +21,6 @@
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（科学・文化）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-      "errors": []
-    },
-    {
-      "name": "クックパッドニュース",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
       "errors": []
     },
     {
@@ -45,6 +38,13 @@
       "errors": []
     },
     {
+      "name": "クックパッドニュース",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
+      "errors": []
+    },
+    {
       "name": "つくおき",
       "category": "cooking",
       "ok": true,
@@ -59,17 +59,17 @@
       "errors": []
     },
     {
-      "name": "amass",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://amass.jp/rss/new",
-      "errors": []
-    },
-    {
       "name": "メシ通（ホットペッパーグルメ）",
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
+      "errors": []
+    },
+    {
+      "name": "amass",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://amass.jp/rss/new",
       "errors": []
     },
     {
@@ -80,13 +80,6 @@
       "errors": []
     },
     {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://sorae.info/feed",
-      "errors": []
-    },
-    {
       "name": "リアルサウンド",
       "category": "music",
       "ok": true,
@@ -94,10 +87,10 @@
       "errors": []
     },
     {
-      "name": "デイリーポータルZ",
+      "name": "sorae（宇宙・天文）",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -108,17 +101,17 @@
       "errors": []
     },
     {
+      "name": "デイリーポータルZ",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "errors": []
+    },
+    {
       "name": "アニメ！アニメ！（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://animeanime.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "ナゾロジー",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
       "errors": []
     },
     {
@@ -129,38 +122,17 @@
       "errors": []
     },
     {
-      "name": "和樂web",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://intojapanwaraku.com/feed",
-      "errors": []
-    },
-    {
-      "name": "カラパイア",
+      "name": "ナゾロジー",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
+      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
       "errors": []
     },
     {
-      "name": "ほんのひきだし（本・出版）",
-      "category": "culture",
+      "name": "OTOTOY",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://hon-hikidashi.jp/feed/",
-      "errors": []
-    },
-    {
-      "name": "青い日記帳（美術展）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
-      "errors": []
-    },
-    {
-      "name": "Art Annual online（美術）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://www.art-annual.jp/feed",
+      "usedUrl": "https://ototoy.jp/rss",
       "errors": []
     },
     {
@@ -171,14 +143,60 @@
       "errors": []
     },
     {
-      "name": "OTOTOY",
-      "category": "music",
+      "name": "カラパイア",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
+      "usedUrl": "https://karapaia.com/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "和樂web",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://intojapanwaraku.com/feed",
+      "errors": []
+    },
+    {
+      "name": "ほんのひきだし（本・出版）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://hon-hikidashi.jp/feed/",
+      "errors": []
+    },
+    {
+      "name": "Art Annual online（美術）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://www.art-annual.jp/feed",
+      "errors": []
+    },
+    {
+      "name": "青い日記帳（美術展）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "Hey! Say! JUMP、結成19周年に寄せて 変わりながら守り続ける信念、進化を止めない“アイドル”の姿",
+      "url": "https://realsound.jp/2026/09/post-2527859.html",
+      "date": "2026-09-24T05:50:53.000Z",
+      "summary": "Hey! Say! JUMPが結成19周年を迎えた。20周年を目前に、ライブ、冠番組、新曲と新たな表現を広げる彼ら。全力の“かわいい”から壮大なドーム公演まで、19年で培った経験を生かしながら、変化さえも力に変えて“アイドル”の形を更新し続ける彼らの強さを紐解く。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "嵐も歩んだ国民的グループへの道？ 吉田仁人、山中柔太朗、塩﨑太智……M!LKメンバーの相次ぐドラマ出演が示す“サイン”",
+      "url": "https://realsound.jp/2026/09/post-2531807.html",
+      "date": "2026-09-24T05:50:06.000Z",
+      "summary": "今秋クールドラマで、吉田仁人が『溺愛 〜 実は、最強ヒーロー 〜』（TOKYO MXほか）、山中柔太朗が『いろはの恋は時代をかける』（TBS系）、塩﨑太智が『もうパパ！』（ABCテレビ／テレビ朝日系）に出演。M!LK旋風の最中でのドラマ起用と、過去の嵐の事例を振り返り、今のグループの勢いを考える。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
     {
       "title": "テイラー・スウィフト、新曲4曲を追加したデラックス版『The Life of a Showgirl: The Encore』発売",
       "url": "https://amass.jp/192006/",
@@ -232,6 +250,15 @@
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
+    },
+    {
+      "title": "2026年9月24日：本日発売のコミック新刊",
+      "url": "https://hon-hikidashi.jp/news/197248/",
+      "date": "2026-09-23T21:00:16.000Z",
+      "summary": "2026年9月24日（木）発売のコミック単行本をお知らせします。 〉 過去の日付のコミック新刊はこちら (adsbygoogle = window.adsbygoogle || []).push({}); KADOKAWA あすかコミックスDX ・ 怪島奇譚 ～不死の少年と妖猫の旅～（2） （張季雅） ・ KATANA（23） 百鬼夜行 （かまたきみこ） ・ あんちゃんはほんと（1） （久松エイト） ソラジマ／鍬谷書店扱い ・ 千鶴の夜",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
     },
     {
       "title": "SUPER BEAVER、2027年9月より新アリーナツアー開催 自身過去最大となる約33万人の動員を予定",
@@ -612,15 +639,6 @@
       "category": "documentary"
     },
     {
-      "title": "天井から腕がニョキ。日本の住宅事情に配慮した家一体型の家事ロボット",
-      "url": "https://karapaia.com/archives/628473.html",
-      "date": "2026-09-23T09:00:00.000Z",
-      "summary": "あえて床を歩かず上から伸びてくる仕様。家と一体のロボットの腕が、天井からニョキっと伸びて家事をサポートしてくれる。日本のスタートアップ企業MW(ムウ)は、近ごろ話題の歩く人型ロボットではなく、ロボットを家そのものに組み込む、という驚きのアイデアで、家事の自動化に挑んでいる…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
       "title": "TAENY、自分の心に従って生きることを歌った新曲リリース",
       "url": "https://ototoy.jp/news/131954",
       "date": "2026-09-23T09:00:00.000Z",
@@ -628,6 +646,15 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
+    },
+    {
+      "title": "天井から腕がニョキ。日本の住宅事情に配慮した家一体型の家事ロボット",
+      "url": "https://karapaia.com/archives/628473.html",
+      "date": "2026-09-23T09:00:00.000Z",
+      "summary": "あえて床を歩かず上から伸びてくる仕様。家と一体のロボットの腕が、天井からニョキっと伸びて家事をサポートしてくれる。日本のスタートアップ企業MW(ムウ)は、近ごろ話題の歩く人型ロボットではなく、ロボットを家そのものに組み込む、という驚きのアイデアで、家事の自動化に挑んでいる…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
     },
     {
       "title": "Tレックスは哺乳類並みの体温36.3℃だった――歯の化学分析で判明",
@@ -5551,33 +5578,6 @@
       "source": "ナゾロジー",
       "sourceHomepage": "https://nazology.kusuguru.co.jp/",
       "category": "documentary"
-    },
-    {
-      "title": "朔雀『REVERSE WAVE』ケンモチヒデフミ作のダンストラックやポエトリーラップを披露するDaoko提供曲を含むバーチャルシンガーの初作 - レビュー",
-      "url": "https://mikiki.tokyo.jp/articles/-/46068",
-      "date": "2026-09-16T22:36:00.000Z",
-      "summary": "朔雀『REVERSE WAVE』ケンモチヒデフミ作のダンストラックやポエトリーラップを披露するDaoko提供曲を含むバーチャルシンガーの初作",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "ムーンライダーズ『e.d morrison』澤部渡と佐藤優介を含むメンバー全員が作曲および歌唱を担ったデビュー50周年記念アルバム - レビュー",
-      "url": "https://mikiki.tokyo.jp/articles/-/46067",
-      "date": "2026-09-16T22:35:00.000Z",
-      "summary": "ムーンライダーズ『e.d morrison』澤部渡と佐藤優介を含むメンバー全員が作曲および歌唱を担ったデビュー50周年記念アルバム",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "プーヤ（Pouya）『Foreverglades』メロディアスなラップとダークなクランクが交配し、いつも通りの気怠い酩酊感が全体を包む - レビュー",
-      "url": "https://mikiki.tokyo.jp/articles/-/46066",
-      "date": "2026-09-16T22:34:00.000Z",
-      "summary": "プーヤ（Pouya）『Foreverglades』メロディアスなラップとダークなクランクが交配し、いつも通りの気怠い酩酊感が全体を包む",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
     }
   ]
 }
