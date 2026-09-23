@@ -1,35 +1,12 @@
 {
-  "generatedAt": "2026-09-23T11:49:40.810Z",
+  "generatedAt": "2026-09-23T17:13:45.826Z",
   "articleCount": 600,
   "feedStatus": [
-    {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
-      "ok": false,
-      "usedUrl": null,
-      "errors": [
-        "https://sorae.info/feed → HTTP 415"
-      ]
-    },
     {
       "name": "NHKニュース（主要）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（社会）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（科学・文化）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -40,10 +17,10 @@
       "errors": []
     },
     {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
       "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -51,6 +28,20 @@
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://news.cookpad.com/feeds/news.rss",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（社会）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "errors": []
+    },
+    {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -68,6 +59,13 @@
       "errors": []
     },
     {
+      "name": "amass",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://amass.jp/rss/new",
+      "errors": []
+    },
+    {
       "name": "メシ通（ホットペッパーグルメ）",
       "category": "cooking",
       "ok": true,
@@ -82,10 +80,24 @@
       "errors": []
     },
     {
-      "name": "amass",
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://sorae.info/feed",
+      "errors": []
+    },
+    {
+      "name": "リアルサウンド",
       "category": "music",
       "ok": true,
-      "usedUrl": "https://amass.jp/rss/new",
+      "usedUrl": "https://realsound.jp/atom.xml",
+      "errors": []
+    },
+    {
+      "name": "デイリーポータルZ",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -103,13 +115,6 @@
       "errors": []
     },
     {
-      "name": "リアルサウンド",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
-      "errors": []
-    },
-    {
       "name": "ナゾロジー",
       "category": "documentary",
       "ok": true,
@@ -124,10 +129,10 @@
       "errors": []
     },
     {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
+      "name": "和樂web",
+      "category": "culture",
       "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "usedUrl": "https://intojapanwaraku.com/feed",
       "errors": []
     },
     {
@@ -138,24 +143,17 @@
       "errors": []
     },
     {
-      "name": "和樂web",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://intojapanwaraku.com/feed",
-      "errors": []
-    },
-    {
-      "name": "TOKION",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
-      "errors": []
-    },
-    {
       "name": "ほんのひきだし（本・出版）",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://hon-hikidashi.jp/feed/",
+      "errors": []
+    },
+    {
+      "name": "青い日記帳（美術展）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
     },
     {
@@ -166,10 +164,10 @@
       "errors": []
     },
     {
-      "name": "青い日記帳（美術展）",
+      "name": "TOKION",
       "category": "culture",
       "ok": true,
-      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
+      "usedUrl": "https://tokion.jp/feed/",
       "errors": []
     },
     {
@@ -181,6 +179,87 @@
     }
   ],
   "articles": [
+    {
+      "title": "テイラー・スウィフト、新曲4曲を追加したデラックス版『The Life of a Showgirl: The Encore』発売",
+      "url": "https://amass.jp/192006/",
+      "date": "2026-09-24T00:21:00.000Z",
+      "summary": "テイラー・スウィフトは最新アルバム『The Life of a Showgirl』の新しいデラックス・エディション『The Life of a Showgirl: The Encore』を9月25日にリリースします。4曲の新曲を追加しています https://amass.jp/192006/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "クイーンズ・オブ・ザ・ストーン・エイジ 新曲「Where The Goth Girls At?」のミュージックビデオ公開",
+      "url": "https://amass.jp/192005/",
+      "date": "2026-09-24T00:13:00.000Z",
+      "summary": "クイーンズ・オブ・ザ・ストーン・エイジ（Queens of the Stone Age）は新曲「Where The Goth Girls At?」をリリース。ミュージックビデオが公開されています。この曲は10月発売の新アルバム『Perfecth』に収録 https://amass.jp/192005/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ブルース・スプリングスティーン ライヴ映像シリーズ『Land of Hope and Dreams American Tour (Philadelphia Freedom Cut)』第2弾公開",
+      "url": "https://amass.jp/192004/",
+      "date": "2026-09-24T00:09:00.000Z",
+      "summary": "ブルース・スプリングスティーンはライヴ映像シリーズ『Land of Hope and Dreams American Tour(Philadelphia Freedom Cut)』の第2弾公開。最新ツアー最終公演の8曲目から14曲目までの計7曲収録 https://amass.jp/192004/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "KICK THE CAN CREW、「クリスマス・イブ Rap」発売25周年記念して初のアナログ化 CDシングルも復刻発売",
+      "url": "https://realsound.jp/2026/09/post-2531781.html",
+      "date": "2026-09-24T00:00:27.000Z",
+      "summary": "KICK THE CAN CREWが、「クリスマス・イブ Rap」の発売25周年を記念し、初のアナログ盤を11月25日にリリース。また、12センチCDシングルも同日に復刻新装発売される。 本楽曲は、山下達郎の「クリス",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "TWICE SANA、アンニュイなノースリーブ姿に反響 「美人すぎる」「日本の宝」",
+      "url": "https://realsound.jp/2026/09/post-2531760.html",
+      "date": "2026-09-23T23:30:08.000Z",
+      "summary": "SANA（TWICE）が、9月22日にイタリア・ミラノで開催されたプラダの2027年春夏ウィメンズコレクションファッションショーに参加した。その様子を自身のInstagramに公開している。 プラダのグローバルアンバ",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "オアシス 2027年ツアーの追加公演を発表 「ツアーにこれ以上の日程が追加されることはない」との報道も",
+      "url": "https://amass.jp/192003/",
+      "date": "2026-09-23T21:33:00.000Z",
+      "summary": "オアシスは2027年ツアーに新たなツアー日程を追加し、英国、イタリア、ドイツでの追加公演を発表。英国の複数のメディアは「バンドの広報担当者は、ツアーにこれ以上の日程が追加されることはないとしている」と報じています https://amass.jp/192003/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "SUPER BEAVER、2027年9月より新アリーナツアー開催 自身過去最大となる約33万人の動員を予定",
+      "url": "https://realsound.jp/2026/09/post-2531836.html",
+      "date": "2026-09-23T21:00:09.000Z",
+      "summary": "SUPER BEAVERが、2027年9月から2028年3月にかけて全国アリーナツアー『SUPER BEAVER 都会のラクダ TOUR 2027-2028 〜ラクダムーンと、サンサンサンライズ〜』を開催する。 本情",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "タヒチ80 新曲「Dreams Of Glory」のミュージックビデオ公開",
+      "url": "https://amass.jp/192002/",
+      "date": "2026-09-23T20:54:00.000Z",
+      "summary": "タヒチ80（Tahiti 80）は新曲「Dreams Of Glory」をリリース。ミュージックビデオが公開されています。この曲は9月発売の新アルバム『Rejoice (An Inventory of Pop Maps)』に収録 https://amass.jp/192002/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "プロング 新曲「Fear The Sun」公開",
+      "url": "https://amass.jp/192001/",
+      "date": "2026-09-23T20:50:00.000Z",
+      "summary": "プロング（Prong）の新作は、通算14作目のスタジオ・アルバムにして初のセルフタイトルの『Prong』。このアルバムから新曲「Fear The Sun」が公開されています。 https://amass.jp/192001/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "MR.BIG 2023年7月日本武道館公演のライヴ作品から「Wild World」のライヴ映像公開",
       "url": "https://amass.jp/192000/",
@@ -353,6 +432,15 @@
       "category": "music"
     },
     {
+      "title": "NEK!、東名阪ツアーを全公演ソールドアウトで完走 2027年1月より全国11箇所を巡るライブツアー開催",
+      "url": "https://ototoy.jp/news/131962",
+      "date": "2026-09-23T12:10:00.000Z",
+      "summary": "4人組ガールズロックバンド・NEK!（ネキ）が、2026年9月23日東京・duo MUSIC EXCHANGEにてメジャーデビュー後初となる東名阪ツアー〈NEK! MAJOR DEBUT TOUR〉のファイナル公演を開催し、2027年1月からスタートする新たな全国ツアーの開催を発表した",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
       "title": "ラッシュ、約1億2300万円をニール・パート記念碑建立のために寄付、これにより資金調達の目標額達成",
       "url": "https://amass.jp/191987/",
       "date": "2026-09-23T12:02:00.000Z",
@@ -395,6 +483,15 @@
       "summary": "英オックスフォード大学の量子物理学者、マリア・ヴィオラリス博士が、パラレルワールド（並行世界）にいる「もう一人の自分」からメッセージを受け取れるとする思考実験を発表した。枝分かれしたパラレルワールドどうしは決して情報をやり取りできない…",
       "source": "カラパイア",
       "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
+      "title": "めずらしい特徴を持つ渦巻銀河 ハッブル宇宙望遠鏡が観測した「NGC 4698」",
+      "url": "https://sorae.info/astronomy/20260923-ngc-4698.html",
+      "date": "2026-09-23T11:25:02.000Z",
+      "summary": "こちらは、ハッブル宇宙望遠鏡が観測した渦巻銀河「NGC 4698」。おとめ座の方向、地球から約5500万光年先にあります。 地球から見たNGC 4698は、アンドロメダ銀河（M31）のように斜めに覗き込むような位置関係に…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
       "category": "documentary"
     },
     {
@@ -549,6 +646,15 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "太陽の活動領域の出現をAIで予測 黒点が現れる前兆を探る新手法",
+      "url": "https://sorae.info/astronomy/20260923-solar-ai-forecast.html",
+      "date": "2026-09-23T07:07:28.000Z",
+      "summary": "太陽の表面に黒点が現れる前、その兆しを捉えることはできるのでしょうか？ NASA（アメリカ航空宇宙局）は2026年8月14日、太陽の「活動領域」の出現を予測するAI（人工知能）モデルの研究成果を紹介しました。過去の観測デ…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
     },
     {
       "title": "【間食を我慢するほど太るって本当？】管理栄養士が解説！ダイエット中の「上手な間食」の選び方とタイミング",
@@ -5471,114 +5577,6 @@
       "summary": "プーヤ（Pouya）『Foreverglades』メロディアスなラップとダークなクランクが交配し、いつも通りの気怠い酩酊感が全体を包む",
       "source": "Mikiki（タワーレコード）",
       "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "ミドリ・イエガー（midori jaeger）『(Re)planted』アフロビートの意匠がちらつく曲など複雑なリズムと中性的な歌声に惹かれる1枚 - レビュー",
-      "url": "https://mikiki.tokyo.jp/articles/-/46065",
-      "date": "2026-09-16T22:32:00.000Z",
-      "summary": "ミドリ・イエガー（midori jaeger）『(Re)planted』アフロビートの意匠がちらつく曲など複雑なリズムと中性的な歌声に惹かれる1枚",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "スウィーピング・プロミセズ（Sweeping Promises）『You Say I Romanticize』サーフロックやポストパンクを絶妙に交錯させた男女デュオの2nd - レビュー",
-      "url": "https://mikiki.tokyo.jp/articles/-/46064",
-      "date": "2026-09-16T22:31:00.000Z",
-      "summary": "スウィーピング・プロミセズ（Sweeping Promises）『You Say I Romanticize』サーフロックやポストパンクを絶妙に交錯させた男女デュオの2nd",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "「手塚治虫表紙絵集 増補改訂版」マンガの神様がたったひとりで描いた1,200点以上を収蔵したスペシャルな1冊 - レビュー",
-      "url": "https://mikiki.tokyo.jp/articles/-/46041",
-      "date": "2026-09-16T22:30:00.000Z",
-      "summary": "「手塚治虫表紙絵集 増補改訂版」マンガの神様がたったひとりで描いた1,200点以上を収蔵したスペシャルな1冊",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "フレンドリー・ファイアーズ 7年半ぶりの新アルバム『Dig Deeper』発売 新曲「Magnetic」試聴可",
-      "url": "https://amass.jp/191868/",
-      "date": "2026-09-16T21:04:00.000Z",
-      "summary": "フレンドリー・ファイアーズ（Friendly Fires）は7年半ぶりとなる新スタジオ・アルバム『Dig Deeper』を海外で2027年1月15日発売。新たな新曲「Magnetic」も公開 https://amass.jp/191868/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "2026年9月17日：本日発売のコミック新刊",
-      "url": "https://hon-hikidashi.jp/news/197245/",
-      "date": "2026-09-16T21:00:54.000Z",
-      "summary": "2026年9月17日（木）発売のコミック単行本をお知らせします。 〉 過去の日付のコミック新刊はこちら (adsbygoogle = window.adsbygoogle || []).push({}); 秋田書店 少年チャンピオン・コミックス ・ 今朝も揺られてます（5） （増田英二） チャンピオンREDコミックス ・ ニンジャスレイヤー キョート・ヘル・オン・アース（20） （ブラッドレー・ボンド＋フィリップ・N・モーゼズ、余湖裕輝",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "ふみの、1stALリード曲「18」MV公開",
-      "url": "https://ototoy.jp/news/131867",
-      "date": "2026-09-16T21:00:00.000Z",
-      "summary": "ふみのが9月14日（月）にリリースしたファーストアルバム『僕のすべてを知ってるような君だから』よりリード曲「18」のミュージックビデオを公開した",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "フィンランドのアコーディオン・デュオがヴァン・ヘイレン「Eruption」をカヴァー",
-      "url": "https://amass.jp/191867/",
-      "date": "2026-09-16T20:56:00.000Z",
-      "summary": "フィンランドのアコーディオン・デュオがヴァン・ヘイレンの「Eruption」をカヴァー。パフォーマンス映像が公開されています。2人は交代でエディ・ヴァン・ヘイレンの象徴的なギター・ソロをアコーディオンで再現 https://amass.jp/191867/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "ロジャー・ニコルス初の公認ソングブックをアナログ盤化 CD未収録曲1曲収録",
-      "url": "https://amass.jp/191866/",
-      "date": "2026-09-16T20:48:00.000Z",
-      "summary": "数々のヒット曲を作曲したソングライター、ロジャー・ニコルス。2025年にCDリリースされた初の公認ソングブックがアナログ盤化決定。15曲を厳選し、さらに新たに1曲を加えて12月2日に発売されます https://amass.jp/191866/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "ラムシュタイン、ライヴ・アルバム／コンサート映画『Live In Mexico City』発表 トレーラー映像あり",
-      "url": "https://amass.jp/191865/",
-      "date": "2026-09-16T20:39:00.000Z",
-      "summary": "ラムシュタインはライヴ・アルバム／コンサート映画『Live In Mexico City』を発表。映画は世界各国の映画館で11月4日より限定公開される予定。ライヴ・アルバムは海外で11月20日発売。トレーラー映像あり https://amass.jp/191865/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "B.B.キング モントルー・ジャズ・フェス公式ライヴ・アルバム発売 ほぼ全て未発表音源 ライヴ映像1曲あり",
-      "url": "https://amass.jp/191864/",
-      "date": "2026-09-16T20:27:00.000Z",
-      "summary": "B.B.キングのモントルー・ジャズ・フェスでのパフォーマンスを収録したオフィシャル・ライヴ・コレクション・アルバムが11月発売。1982年から2000年まで計9回のパフォーマンスの中から厳選。ほぼ全て未発表音源。トレーラー映像とライヴ映像1曲あり https://amass.jp/191864/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "中川翔子、出張ヘアカットで双子初散髪 兄 ポコちゃん＆弟 まことちゃんヘアに「イケメン君」「髪の毛フサフサ」",
-      "url": "https://realsound.jp/2026/09/post-2525292.html",
-      "date": "2026-09-16T20:13:58.000Z",
-      "summary": "中川翔子が自身のInstagramを更新。双子の男児が初のヘアカットをしたことを報告した。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "リッチー・ブラックモアは惜しみなく褒め言葉を口にするタイプ 元レインボーのボビー・ロンディネリ証言 武道館公演後のエピソード等語る",
-      "url": "https://amass.jp/191863/",
-      "date": "2026-09-16T20:02:00.000Z",
-      "summary": "リッチー・ブラックモアが褒め言葉を口にすることはあるのか？元レインボーのドラマー、ボビー・ロンディネリは、リッチーは惜しみなく褒め言葉を口にするタイプだと語り、武道館公演後、リッチーに抱きしめられて「最高だった」と褒められたエピソードなどを回想 https://amass.jp/191863/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
       "category": "music"
     }
   ]
