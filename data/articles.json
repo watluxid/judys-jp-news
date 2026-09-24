@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T17:19:19.763Z",
+  "generatedAt": "2026-09-24T21:36:25.526Z",
   "articleCount": 600,
   "feedStatus": [
     {
@@ -10,10 +10,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（科学・文化）",
+      "name": "NHKニュース（社会）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
       "errors": []
     },
     {
@@ -24,17 +24,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（社会）",
+      "name": "NHKニュース（科学・文化）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
-      "errors": []
-    },
-    {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -45,6 +38,13 @@
       "errors": []
     },
     {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "errors": []
+    },
+    {
       "name": "つくおき",
       "category": "cooking",
       "ok": true,
@@ -52,17 +52,17 @@
       "errors": []
     },
     {
-      "name": "Mikiki（タワーレコード）",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://mikiki.tokyo.jp/list/feed/rss",
-      "errors": []
-    },
-    {
       "name": "メシ通（ホットペッパーグルメ）",
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
+      "errors": []
+    },
+    {
+      "name": "Mikiki（タワーレコード）",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://mikiki.tokyo.jp/list/feed/rss",
       "errors": []
     },
     {
@@ -80,10 +80,24 @@
       "errors": []
     },
     {
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://sorae.info/feed",
+      "errors": []
+    },
+    {
       "name": "リアルサウンド",
       "category": "music",
       "ok": true,
       "usedUrl": "https://realsound.jp/atom.xml",
+      "errors": []
+    },
+    {
+      "name": "インサイド（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
       "errors": []
     },
     {
@@ -94,24 +108,10 @@
       "errors": []
     },
     {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://sorae.info/feed",
-      "errors": []
-    },
-    {
       "name": "デイリーポータルZ",
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://dailyportalz.jp/feed/headline",
-      "errors": []
-    },
-    {
-      "name": "インサイド（乙女ゲーム関連）",
-      "category": "otome",
-      "ok": true,
-      "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
       "errors": []
     },
     {
@@ -129,17 +129,17 @@
       "errors": []
     },
     {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
-      "errors": []
-    },
-    {
       "name": "和樂web",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://intojapanwaraku.com/feed",
+      "errors": []
+    },
+    {
+      "name": "カラパイア",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://karapaia.com/index.rdf",
       "errors": []
     },
     {
@@ -157,13 +157,6 @@
       "errors": []
     },
     {
-      "name": "Art Annual online（美術）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://www.art-annual.jp/feed",
-      "errors": []
-    },
-    {
       "name": "青い日記帳（美術展）",
       "category": "culture",
       "ok": true,
@@ -171,14 +164,48 @@
       "errors": []
     },
     {
-      "name": "カラパイア",
-      "category": "documentary",
+      "name": "Art Annual online（美術）",
+      "category": "culture",
       "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
+      "usedUrl": "https://www.art-annual.jp/feed",
+      "errors": []
+    },
+    {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
       "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "@onefive、書き下ろし楽曲「バニララテ」が与田祐希主演ドラマ『溺愛カレシの作り方』EDテーマに",
+      "url": "https://realsound.jp/2026/09/post-2532937.html",
+      "date": "2026-09-25T06:00:17.000Z",
+      "summary": "@onefiveの書き下ろし楽曲「バニララテ」が、10月7日放送スタートのドラマ『溺愛カレシの作り方 〜セから本命になる女の子の話〜』（テレビ東京系）のエンディングテーマに決定した。 本作は、ざくざくろの同名漫画を実",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "M!LK 吉田仁人＆塩﨑太智が観葉植物を購入 佐野勇斗へのサプライズプレゼントに「尊い」「メンバー愛にあふれたいい回」",
+      "url": "https://realsound.jp/2026/09/post-2532929.html",
+      "date": "2026-09-25T05:50:47.000Z",
+      "summary": "M!LKの吉田仁人と塩﨑太智がYouTubeを更新。塩﨑が自身の26歳の誕生日プレゼントとして観葉植物を購入するため、吉田とともに園芸専門店「オザキフラワーパーク」を訪れる様子を公開した。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "Snow Man 佐久間大介、実写映画・朗読劇・声優で広がる表現の幅 ジャンルを越えて積み重ねる確かな演技力",
+      "url": "https://realsound.jp/2026/09/post-2532050.html",
+      "date": "2026-09-25T05:50:24.000Z",
+      "summary": "佐久間大介が出演する映画『マッチング TRUE LOVE』が9月25日に全国劇場公開された。本稿では、実写・朗読劇・声優という3つのフィールドで経験を重ねてきた佐久間の演技力と、広がり続ける表現の可能性を辿る。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
     {
       "title": "U2、9年ぶりの新スタジオ・アルバム『Carnaval De Luz』発売 ドリー・パートンやブライアン・イーノら参加",
       "url": "https://amass.jp/192041/",
@@ -277,6 +304,15 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "2026年9月25日：本日発売のコミック新刊",
+      "url": "https://hon-hikidashi.jp/news/197249/",
+      "date": "2026-09-24T21:00:17.000Z",
+      "summary": "2026年9月25日（金）発売のコミック単行本をお知らせします。 〉 過去の日付のコミック新刊はこちら (adsbygoogle = window.adsbygoogle || []).push({}); 秋田書店 プリンセス・コミックス プチプリ ・ 初恋相手の王女の心配ばかりしている婚約者と、スッキリさよならしました（1） （山田露子、ほいっぷくりーむほか） ヤングチャンピオン・コミックス ・ カレシがいるのに（14） （柚木N'）",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
     },
     {
       "title": "リアム・ギャラガー、オアシスの2027年ツアーについて「フェアウェル・ツアーではないけれど、これが最後になる可能性はある」と投稿",
@@ -675,6 +711,15 @@
       "category": "documentary"
     },
     {
+      "title": "古代エジプトの髪型事情。かつらやヘアスタイルは身分を証明するものだった",
+      "url": "https://karapaia.com/archives/627001.html",
+      "date": "2026-09-24T09:00:00.000Z",
+      "summary": "数千年前の古代エジプトにおいて、精巧なかつらや特有の髪型は、富や権力、信仰、年齢を示す重要な身分証の役割を果たしていた。大英博物館に保存されている遺物や、最新のCTスキャンによるミイラ解析により、当時の人々がどのようにかつらを作り…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
       "title": "ウミアラシ、初となるSG「碧の青」リリース&MV公開",
       "url": "https://ototoy.jp/news/131981",
       "date": "2026-09-24T09:00:00.000Z",
@@ -691,15 +736,6 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
-    },
-    {
-      "title": "古代エジプトの髪型事情。かつらやヘアスタイルは身分を証明するものだった",
-      "url": "https://karapaia.com/archives/627001.html",
-      "date": "2026-09-24T09:00:00.000Z",
-      "summary": "数千年前の古代エジプトにおいて、精巧なかつらや特有の髪型は、富や権力、信仰、年齢を示す重要な身分証の役割を果たしていた。大英博物館に保存されている遺物や、最新のCTスキャンによるミイラ解析により、当時の人々がどのようにかつらを作り…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
     },
     {
       "title": "【総つくれぽ数2300件】調理10分＆さつまいも「だけ」でこの旨さ！箸が止まらないホク旨おかず",
@@ -5541,42 +5577,6 @@
       "summary": "プリンス（Prince）『Timeless』40年のキャリアから満遍なく選曲 聴きどころ多数な5年ぶりの未発表音源集!",
       "source": "Mikiki（タワーレコード）",
       "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "スペースXが「スターシップ」第14回飛行試験を日本時間9月28日にも実施予定 初の周回飛行へ",
-      "url": "https://sorae.info/space/20260918-starship-14.html",
-      "date": "2026-09-17T22:31:33.000Z",
-      "summary": "アメリカのSpaceX（スペースX）社は2026年9月16日に、同社が開発中の大型ロケット「Starship（スターシップ）」による第14回飛行試験に向けて準備を進めていると発表しました。 SpaceXによると、今回の飛…",
-      "source": "sorae（宇宙・天文）",
-      "sourceHomepage": "https://sorae.info/",
-      "category": "documentary"
-    },
-    {
-      "title": "あいみょん、ベストALのSP映像でタモリとコラボ",
-      "url": "https://ototoy.jp/news/131892",
-      "date": "2026-09-17T22:00:00.000Z",
-      "summary": "あいみょんがベストアルバム『AIMYON BEST ALBUM - 唇を追え！ -』のスペシャルムービーを公開した",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "秦 基博、初のトリビュートアルバム『秦 基博を歌う』にTOMOOが参加 「アイ」をカバー",
-      "url": "https://realsound.jp/2026/09/post-2527748.html",
-      "date": "2026-09-17T21:07:28.000Z",
-      "summary": "秦 基博のデビュー20周年記念トリビュートアルバム『秦 基博を歌う -Hata Motohiro Tribute-』に、TOMOOが参加することが発表された。 本作は、2026年11月8日にデビュー20周年を迎える秦",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "プリンスは何が凄かった？ 没後10年の今聴き返したい名曲、The WeekndやTyler, The Creatorへの多大な影響【オリジナル動画】",
-      "url": "https://realsound.jp/2026/09/post-2527703.html",
-      "date": "2026-09-17T21:00:58.000Z",
-      "summary": "リアルサウンドのYouTubeチャンネルでは、ヒップホップやR&Bを中心に海外で話題になっているアーティストについて解説していく番組を配信中。今回は、没後10年のプリンスを取り上げる。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
       "category": "music"
     }
   ]
