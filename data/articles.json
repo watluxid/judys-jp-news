@@ -1,14 +1,7 @@
 {
-  "generatedAt": "2026-09-25T17:19:16.119Z",
+  "generatedAt": "2026-09-25T21:40:18.754Z",
   "articleCount": 600,
   "feedStatus": [
-    {
-      "name": "NHKニュース（主要）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-      "errors": []
-    },
     {
       "name": "NHKニュース（国際）",
       "category": "news",
@@ -17,10 +10,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（科学・文化）",
+      "name": "NHKニュース（主要）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
       "errors": []
     },
     {
@@ -31,17 +24,17 @@
       "errors": []
     },
     {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "errors": []
+    },
+    {
       "name": "クックパッドニュース",
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://news.cookpad.com/feeds/news.rss",
-      "errors": []
-    },
-    {
-      "name": "つくおき",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://cookien.com/feed/",
       "errors": []
     },
     {
@@ -52,10 +45,10 @@
       "errors": []
     },
     {
-      "name": "メシ通（ホットペッパーグルメ）",
+      "name": "つくおき",
       "category": "cooking",
       "ok": true,
-      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
+      "usedUrl": "https://cookien.com/feed/",
       "errors": []
     },
     {
@@ -66,6 +59,13 @@
       "errors": []
     },
     {
+      "name": "メシ通（ホットペッパーグルメ）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
+      "errors": []
+    },
+    {
       "name": "amass",
       "category": "music",
       "ok": true,
@@ -73,17 +73,17 @@
       "errors": []
     },
     {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://sorae.info/feed",
-      "errors": []
-    },
-    {
       "name": "4Gamer（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://www.4gamer.net/rss/index.xml",
+      "errors": []
+    },
+    {
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -101,24 +101,10 @@
       "errors": []
     },
     {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
-      "errors": []
-    },
-    {
       "name": "アニメ！アニメ！（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://animeanime.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "CINRA",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://www.cinra.net/feed",
       "errors": []
     },
     {
@@ -129,24 +115,31 @@
       "errors": []
     },
     {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
+      "errors": []
+    },
+    {
+      "name": "CINRA",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://www.cinra.net/feed",
+      "errors": []
+    },
+    {
+      "name": "デイリーポータルZ",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "errors": []
+    },
+    {
       "name": "和樂web",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://intojapanwaraku.com/feed",
-      "errors": []
-    },
-    {
-      "name": "TOKION",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
-      "errors": []
-    },
-    {
-      "name": "ほんのひきだし（本・出版）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://hon-hikidashi.jp/feed/",
       "errors": []
     },
     {
@@ -157,10 +150,10 @@
       "errors": []
     },
     {
-      "name": "青い日記帳（美術展）",
+      "name": "TOKION",
       "category": "culture",
       "ok": true,
-      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
+      "usedUrl": "https://tokion.jp/feed/",
       "errors": []
     },
     {
@@ -171,10 +164,17 @@
       "errors": []
     },
     {
-      "name": "OTOTOY",
-      "category": "music",
+      "name": "ほんのひきだし（本・出版）",
+      "category": "culture",
       "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
+      "usedUrl": "https://hon-hikidashi.jp/feed/",
+      "errors": []
+    },
+    {
+      "name": "青い日記帳（美術展）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
     }
   ],
@@ -259,6 +259,15 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "2026年9月26日：本日発売のコミック新刊",
+      "url": "https://hon-hikidashi.jp/news/202611/",
+      "date": "2026-09-25T21:00:33.000Z",
+      "summary": "2026年9月26日（土）発売のコミック単行本をお知らせします。 〉 過去の日付のコミック新刊はこちら (adsbygoogle = window.adsbygoogle || []).push({}); 一迅社 REXコミックス ・ 砂魔法で砂の王国を作ろう ～砂漠に追放されたから頑張って祖国以上の国家を建ててみた～ （4） （空地大乃、色意しのぶほか） ・ 初期街から旅立たない勇者のハーレムライフ ～勇者さま、コンプラ的にアウトです",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
     },
     {
       "title": "エヴァネッセンス『The Open Door』20周年記念エディション発売",
@@ -684,30 +693,12 @@
       "category": "music"
     },
     {
-      "title": "高知の郷土料理、イタドリごはんがうまくて驚いた（傑作選）",
-      "url": "https://dailyportalz.jp/kiji/itadori-gohan",
-      "date": "2026-09-25T09:00:00.000Z",
-      "summary": "イタドリはタデ科の植物だけあって、酸っぱくて、青臭くて、えぐい。そんなイタドリを、あく抜きもせずに調理してみたところ、びっくりするうまさだった。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
       "title": "落ち込みや絶望より強かった、心の危機を知らせる言葉",
       "url": "https://nazology.kusuguru.co.jp/archives/200087",
       "date": "2026-09-25T09:00:00.000Z",
       "summary": "友だちへのメッセージを何度も打っては消し、結局「大丈夫」とだけ送ってスマホを伏せた夜。 苦しい気持ちを打ち明ける文章には、その人の危うさを知らせる手がかりが含まれています。 アメリカのマサチューセッツ工科大学(MIT)などの研究チームは、AIを使って、自殺の危険につながる49の要因を文章から拾い上げる「言葉の辞書」を作りました。 この辞書を使うと、危機相談でのメッセージのやり取りから、相談員(カウンセラー)が判定した自殺のリスクを予測で",
       "source": "ナゾロジー",
       "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "ヒントは猫爪！滑りやすい氷の斜面にペタッと着陸するドローン",
-      "url": "https://karapaia.com/archives/626761.html",
-      "date": "2026-09-25T09:00:00.000Z",
-      "summary": "一般的なドローンは、氷上への着地が苦手だ。ちょっとした斜面でも滑ってしまう弱点がある。ところがこのたび、その弱点を克服する新型機が開発された。カナダ・シャーブルック大学の研究チームが着目したのは猫の爪。よりくわしくいえば、使うときだけ爪を出す猫の足だ。従来のドローンは…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
     },
     {
@@ -718,6 +709,24 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
+    },
+    {
+      "title": "高知の郷土料理、イタドリごはんがうまくて驚いた（傑作選）",
+      "url": "https://dailyportalz.jp/kiji/itadori-gohan",
+      "date": "2026-09-25T09:00:00.000Z",
+      "summary": "イタドリはタデ科の植物だけあって、酸っぱくて、青臭くて、えぐい。そんなイタドリを、あく抜きもせずに調理してみたところ、びっくりするうまさだった。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "ヒントは猫爪！滑りやすい氷の斜面にペタッと着陸するドローン",
+      "url": "https://karapaia.com/archives/626761.html",
+      "date": "2026-09-25T09:00:00.000Z",
+      "summary": "一般的なドローンは、氷上への着地が苦手だ。ちょっとした斜面でも滑ってしまう弱点がある。ところがこのたび、その弱点を克服する新型機が開発された。カナダ・シャーブルック大学の研究チームが着目したのは猫の爪。よりくわしくいえば、使うときだけ爪を出す猫の足だ。従来のドローンは…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
     },
     {
       "title": "永山瑛太×大森立嗣監督のタッグで菊池寛の小説『恩讐の彼方に』が映画化。2028年公開",
@@ -963,6 +972,15 @@
       "category": "culture"
     },
     {
+      "title": "「いいね」より「微妙だったね」に流される――人の目が気になる人",
+      "url": "https://nazology.kusuguru.co.jp/archives/200069",
+      "date": "2026-09-25T02:00:00.000Z",
+      "summary": "映画の帰り道、友だちの「微妙だったね」の一言で、さっきまでの「面白かった」がしぼんでいく。 人からどう評価されるかがとても気になる人は、周りの否定的な気持ちに、自分の気持ちまで合わせてしまいやすいようです。 首都師範大学と浙江師範大学の研究チームは、若者44人に人づきあいの場面の画像を見せ、「自分がその場にいたらどう感じるか」を答えてもらいました。 その後で「ほかの学生の評価」を見せると、人の評価を恐れる傾向が強い人たちは、周りが自分よ",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
       "title": "メークインじゃがいもの「メイク in ポーチ」つくる",
       "url": "https://dailyportalz.jp/kiji/make-in-porch",
       "date": "2026-09-25T02:00:00.000Z",
@@ -978,15 +996,6 @@
       "summary": "車中泊ってオシャレだ。私も死ぬまでに一度は経験してみたい、と思った。",
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "「いいね」より「微妙だったね」に流される――人の目が気になる人",
-      "url": "https://nazology.kusuguru.co.jp/archives/200069",
-      "date": "2026-09-25T02:00:00.000Z",
-      "summary": "映画の帰り道、友だちの「微妙だったね」の一言で、さっきまでの「面白かった」がしぼんでいく。 人からどう評価されるかがとても気になる人は、周りの否定的な気持ちに、自分の気持ちまで合わせてしまいやすいようです。 首都師範大学と浙江師範大学の研究チームは、若者44人に人づきあいの場面の画像を見せ、「自分がその場にいたらどう感じるか」を答えてもらいました。 その後で「ほかの学生の評価」を見せると、人の評価を恐れる傾向が強い人たちは、周りが自分よ",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
       "category": "documentary"
     },
     {
@@ -1017,15 +1026,6 @@
       "category": "cooking"
     },
     {
-      "title": "アジサイの名前が自由（2026.9.25 朝エッセイと更新情報）",
-      "url": "https://dailyportalz.jp/dpq/midokoro-20260925",
-      "date": "2026-09-25T01:00:00.000Z",
-      "summary": "三重県桑名市のなばなの里に行きました。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
       "title": "坂道選抜が歌唱 青葉坂46オーディションテーマ曲リリース決定",
       "url": "https://ototoy.jp/news/131987",
       "date": "2026-09-25T01:00:00.000Z",
@@ -1033,6 +1033,15 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
+    },
+    {
+      "title": "アジサイの名前が自由（2026.9.25 朝エッセイと更新情報）",
+      "url": "https://dailyportalz.jp/dpq/midokoro-20260925",
+      "date": "2026-09-25T01:00:00.000Z",
+      "summary": "三重県桑名市のなばなの里に行きました。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
     },
     {
       "title": "ストライパー 新アルバム『Throne of Thorns』全曲公開",
@@ -5569,15 +5578,6 @@
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
-    },
-    {
-      "title": "創業100周年記念「シェフ meets アート トリュフ コレクション」",
-      "url": "https://bluediary2.jugem.jp/?eid=8193",
-      "date": "2026-09-18T14:32:00.000Z",
-      "summary": "名画を眺めながら、「この絵を味にしたら、どんな味になるのだろう」と考えたことはあるでしょうか。 創業100周年を迎えたゴディバから登場する「100周年 シェフ meets アート トリュフ コレクション」は、世界各地のアートからインスピレーションを得て、ゴディバ...",
-      "source": "青い日記帳（美術展）",
-      "sourceHomepage": "https://bluediary2.jugem.jp/",
-      "category": "culture"
     }
   ]
 }
