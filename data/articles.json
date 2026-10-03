@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T16:30:01.902Z",
+  "generatedAt": "2026-10-03T21:27:02.452Z",
   "articleCount": 600,
   "feedStatus": [
     {
@@ -10,17 +10,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（科学・文化）",
+      "name": "NHKニュース（国際）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-      "errors": []
-    },
-    {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
       "errors": []
     },
     {
@@ -31,10 +24,17 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（国際）",
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（科学・文化）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -59,24 +59,10 @@
       "errors": []
     },
     {
-      "name": "amass",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://amass.jp/rss/new",
-      "errors": []
-    },
-    {
       "name": "メシ通（ホットペッパーグルメ）",
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
-      "errors": []
-    },
-    {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -87,17 +73,24 @@
       "errors": []
     },
     {
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://sorae.info/feed",
+      "errors": []
+    },
+    {
+      "name": "amass",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://amass.jp/rss/new",
+      "errors": []
+    },
+    {
       "name": "リアルサウンド",
       "category": "music",
       "ok": true,
       "usedUrl": "https://realsound.jp/atom.xml",
-      "errors": []
-    },
-    {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -108,10 +101,10 @@
       "errors": []
     },
     {
-      "name": "CINRA",
-      "category": "culture",
+      "name": "デイリーポータルZ",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://www.cinra.net/feed",
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -122,24 +115,17 @@
       "errors": []
     },
     {
+      "name": "CINRA",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://www.cinra.net/feed",
+      "errors": []
+    },
+    {
       "name": "ナゾロジー",
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://nazology.kusuguru.co.jp/feed",
-      "errors": []
-    },
-    {
-      "name": "カラパイア",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "TOKION",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
       "errors": []
     },
     {
@@ -157,17 +143,24 @@
       "errors": []
     },
     {
+      "name": "TOKION",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://tokion.jp/feed/",
+      "errors": []
+    },
+    {
+      "name": "カラパイア",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://karapaia.com/index.rdf",
+      "errors": []
+    },
+    {
       "name": "ほんのひきだし（本・出版）",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://hon-hikidashi.jp/feed/",
-      "errors": []
-    },
-    {
-      "name": "Art Annual online（美術）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://www.art-annual.jp/feed",
       "errors": []
     },
     {
@@ -176,9 +169,25 @@
       "ok": true,
       "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
+    },
+    {
+      "name": "Art Annual online（美術）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://www.art-annual.jp/feed",
+      "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "北島三郎、90歳に 加山雄三、小林旭、高木ブー……80代後半～90代、今なお続くそれぞれの音楽人生",
+      "url": "https://realsound.jp/2026/10/post-2541706.html",
+      "date": "2026-10-04T05:50:21.000Z",
+      "summary": "10月4日に卒寿を迎える北島三郎をはじめ、89歳の加山雄三、87歳の小林旭、93歳の高木ブー。昭和からキャリアを築いた4人は、令和の今、どのように音楽と関わり続けているのか。本稿では、それぞれの歩みと現在をたどる。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
     {
       "title": "ランシド『...And Out Come the Wolves』30周年記念ボックスセット発売決定",
       "url": "https://amass.jp/192230/",
@@ -396,15 +405,6 @@
       "category": "documentary"
     },
     {
-      "title": "土星衛星エンケラドゥスで生命が見つかる可能性がさらに高まった！氷の粒が鍵に",
-      "url": "https://karapaia.com/archives/631036.html",
-      "date": "2026-10-03T11:30:00.000Z",
-      "summary": "土星の衛星エンケラドゥスは、厚い氷の下に海があり、宇宙空間へ水柱を噴出している。噴出した水滴がゆっくり凍る過程で成分が分離することで、生命の痕跡が探しやすくなることが、ドイツのベルリン自由大学などの研究で明らかになった。さらに同じ日に公開されたもう1本の研究では…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
       "title": "WINNER、〈a-nation 2026〉約12年ぶりに出演",
       "url": "https://ototoy.jp/news/132101",
       "date": "2026-10-03T11:30:00.000Z",
@@ -412,6 +412,15 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
+    },
+    {
+      "title": "土星衛星エンケラドゥスで生命が見つかる可能性がさらに高まった！氷の粒が鍵に",
+      "url": "https://karapaia.com/archives/631036.html",
+      "date": "2026-10-03T11:30:00.000Z",
+      "summary": "土星の衛星エンケラドゥスは、厚い氷の下に海があり、宇宙空間へ水柱を噴出している。噴出した水滴がゆっくり凍る過程で成分が分離することで、生命の痕跡が探しやすくなることが、ドイツのベルリン自由大学などの研究で明らかになった。さらに同じ日に公開されたもう1本の研究では…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
     },
     {
       "title": "「認知症予防には効かない」はずのアスピリンが、発症を3分の1以下に減らしていた人たちがいた",
@@ -684,15 +693,6 @@
       "category": "cooking"
     },
     {
-      "title": "「猫についていって」の看板の近くに猫！そのままカフェの空席に案内してくれた！",
-      "url": "https://karapaia.com/archives/631224.html",
-      "date": "2026-10-03T03:00:00.000Z",
-      "summary": "東ヨーロッパの国、モンテネグロの旧市街を散策していた旅行者たちは、路地裏で「猫についていって」と書かれた看板を発見した。すると、そのすぐ前の壁際に、本物の猫が座っていた。猫は旅行者たちの方を見るとスタスタと歩きはじめた。導かれるように猫の後を追っていくと…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
       "title": "櫻坂46、BACK曲「自称バレエダンサー」先行配信開始",
       "url": "https://ototoy.jp/news/132098",
       "date": "2026-10-03T03:00:00.000Z",
@@ -700,6 +700,15 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
+    },
+    {
+      "title": "「猫についていって」の看板の近くに猫！そのままカフェの空席に案内してくれた！",
+      "url": "https://karapaia.com/archives/631224.html",
+      "date": "2026-10-03T03:00:00.000Z",
+      "summary": "東ヨーロッパの国、モンテネグロの旧市街を散策していた旅行者たちは、路地裏で「猫についていって」と書かれた看板を発見した。すると、そのすぐ前の壁際に、本物の猫が座っていた。猫は旅行者たちの方を見るとスタスタと歩きはじめた。導かれるように猫の後を追っていくと…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
     },
     {
       "title": "Rob49、カジュアルな新曲「GIRLS GIRL」リリース",
@@ -5569,15 +5578,6 @@
       "source": "ほんのひきだし（本・出版）",
       "sourceHomepage": "https://hon-hikidashi.jp/",
       "category": "culture"
-    },
-    {
-      "title": "3つの唇に赤い目。新種のウミグモがカナダの海で約100年ぶりに発見される",
-      "url": "https://karapaia.com/archives/630097.html",
-      "date": "2026-09-27T23:00:00.000Z",
-      "summary": "カナダのセイリッシュ海で約100年ぶりに、奇妙な姿をした2種類の新種のウミグモが発見された。ブリティッシュコロンビア大学の研究チームが気候変動の影響を調べるために潜水調査を行ったところ、赤い目と毛深い脚、3つの唇を持つ不気味なウミグモを見つけたのだ…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
     }
   ]
 }
