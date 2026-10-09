@@ -1,26 +1,19 @@
 {
-  "generatedAt": "2026-10-09T13:28:48.338Z",
+  "generatedAt": "2026-10-09T22:44:18.998Z",
   "articleCount": 600,
   "feedStatus": [
-    {
-      "name": "NHKニュース（主要）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-      "errors": []
-    },
     {
       "name": "NHKニュース（社会）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（主要）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
       "errors": []
     },
     {
@@ -31,10 +24,10 @@
       "errors": []
     },
     {
-      "name": "樋口直哉（TravelingFoodLab.）",
+      "name": "つくおき",
       "category": "cooking",
       "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "usedUrl": "https://cookien.com/feed/",
       "errors": []
     },
     {
@@ -45,17 +38,17 @@
       "errors": []
     },
     {
-      "name": "つくおき",
-      "category": "cooking",
+      "name": "NHKニュース（国際）",
+      "category": "news",
       "ok": true,
-      "usedUrl": "https://cookien.com/feed/",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
       "errors": []
     },
     {
-      "name": "Mikiki（タワーレコード）",
-      "category": "music",
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
       "ok": true,
-      "usedUrl": "https://mikiki.tokyo.jp/list/feed/rss",
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -66,17 +59,17 @@
       "errors": []
     },
     {
+      "name": "Mikiki（タワーレコード）",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://mikiki.tokyo.jp/list/feed/rss",
+      "errors": []
+    },
+    {
       "name": "amass",
       "category": "music",
       "ok": true,
       "usedUrl": "https://amass.jp/rss/new",
-      "errors": []
-    },
-    {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -87,10 +80,10 @@
       "errors": []
     },
     {
-      "name": "リアルサウンド",
-      "category": "music",
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
+      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -101,10 +94,10 @@
       "errors": []
     },
     {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
+      "name": "リアルサウンド",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "usedUrl": "https://realsound.jp/atom.xml",
       "errors": []
     },
     {
@@ -136,10 +129,10 @@
       "errors": []
     },
     {
-      "name": "TOKION",
-      "category": "culture",
+      "name": "デイリーポータルZ",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -150,13 +143,6 @@
       "errors": []
     },
     {
-      "name": "ほんのひきだし（本・出版）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://hon-hikidashi.jp/feed/",
-      "errors": []
-    },
-    {
       "name": "カラパイア",
       "category": "documentary",
       "ok": true,
@@ -164,10 +150,24 @@
       "errors": []
     },
     {
+      "name": "TOKION",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://tokion.jp/feed/",
+      "errors": []
+    },
+    {
       "name": "Art Annual online（美術）",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://www.art-annual.jp/feed",
+      "errors": []
+    },
+    {
+      "name": "ほんのひきだし（本・出版）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://hon-hikidashi.jp/feed/",
       "errors": []
     },
     {
@@ -179,6 +179,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "松下洸平、ニューアルバム『New Dawn』来春リリース 全国ツアータイトル発表＆東京追加公演も",
+      "url": "https://realsound.jp/2026/10/post-2549959.html",
+      "date": "2026-10-10T00:00:10.000Z",
+      "summary": "松下洸平が、2027年春にニューアルバム『New Dawn』（ニュードーン）をリリースする。 本作は、ソニー・ミュージックレーベルズ移籍後初となるアルバムで、松下のアルバムリリースは2023年以来となる。詳細は後日発",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "テクニカルライターを描いたお仕事小説！ 『咲良は上手に説明したい！』【総合3.8】",
+      "url": "https://hon-hikidashi.jp/book-person/206377/",
+      "date": "2026-10-09T22:00:58.000Z",
+      "summary": "咲良は上手に説明したい！ 著者：滝沢志郎 発売日：2026年03月 発行所：ＰＨＰ研究所 価格：2,090円（税込） ISBNコード：9784569860626 『咲良は上手に説明したい！』の要点 1．横浜駅のアルバイト駅員・石川咲良は、台風で混乱する駅構内で、わかりにくい運行案内を鮮やかに書き換えた女性・浅倉響に出会う。彼女が「テクニカルライター」だと知った咲良は、その仕事に興味を持ち、浅倉の会社の求人に応募。見事採用される。 2．テ",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
     {
       "title": "BE:FIRST、『BMSG FES』で見せる“先輩”としての姿 世界への挑戦者でありながらBMSGを牽引する存在に",
       "url": "https://realsound.jp/2026/10/post-2548078.html",
@@ -195,6 +213,15 @@
       "summary": "木村拓哉、堂本光一、中島健人、髙橋海人らの“ソロデビュー作”に見える決意と表現者としての姿を紹介する。",
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "松下洸平、来春ALリリース決定",
+      "url": "https://ototoy.jp/news/132203",
+      "date": "2026-10-09T22:00:00.000Z",
+      "summary": "松下洸平が2027年春に新アルバム『New Dawn』(ニュードーン)をリリースすることが決定した",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
     },
     {
@@ -279,6 +306,15 @@
       "category": "music"
     },
     {
+      "title": "TOOBOE、TVアニメ「ホタルの嫁入り」ED曲「夢心地」配信開始",
+      "url": "https://ototoy.jp/news/132194",
+      "date": "2026-10-09T15:05:00.000Z",
+      "summary": "TOOBOEが手がける、TVアニメ「ホタルの嫁入り」エンディング・テーマ曲「夢心地」が、2026年10月10日(土)0:00よりデジタル配信リリースされた",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
       "title": "MIYACHI、アルバム『SALARYMAN STRIKES BACK』リリース1周年記念してManhattan Recordsで限定CD発売",
       "url": "https://realsound.jp/2026/10/post-2549024.html",
       "date": "2026-10-09T15:02:46.000Z",
@@ -286,6 +322,15 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "深海で青く光る「長い脚の巨人」2種を発見",
+      "url": "https://nazology.kusuguru.co.jp/archives/201003",
+      "date": "2026-10-09T14:00:00.000Z",
+      "summary": "太陽の光がまったく届かない深い海の底にも、暗闇を照らす「光」が存在します。 深海には、自分の体で光をつくる生き物がたくさん暮らしているのです。 そんな深海で今回、長い脚をもつ巨大な「ウミグモ」の仲間2種が光る姿がとらえられました。 けれども、ウミグモの光についてはこれまで謎が多く、その光がどこで、どのように生まれているのかは分かっていませんでした。 では、深海のウミグモは、いったいどうやって光を灯しているのでしょうか。 ベルギーのルーヴ",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
     },
     {
       "title": "LDH SCREAM、『D.LEAGUE 26-27 SEASON ROUND.1』パフォーマンス楽曲「Up set feat.Reichi」リリース",
@@ -304,6 +349,15 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "数学の難問はAIの「性能試験のついで」に解かれていた──722本の論文が一挙公開",
+      "url": "https://nazology.kusuguru.co.jp/archives/201082",
+      "date": "2026-10-09T13:30:42.000Z",
+      "summary": "アメリカのOpenAI（オープンAI）が2026年10月6日、一般には公開していないAIモデルを使い、未解決だった数学の難問について、372件の成果を722本の原稿として発表しました。 その中には、150年以上誰も崩せていないリーマン予想に大きく近づく結果や、1940年代から残っていた難問が並びます。 どれか一本でも大ニュースになる水準のものが、いくつも混じっています。 難問が1つ解かれるたびにニュースになっていた数学の世界に、AIが数",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
     },
     {
       "title": "ロバート・プラント率いるセイヴィング・グレイス 「The Blackest Crow」のミュージックビデオ公開",
@@ -585,15 +639,6 @@
       "category": "documentary"
     },
     {
-      "title": "山本大斗、新曲「愛をくべましょう」がドラマ『あなたを殺す旅 Season２』主題歌に決定",
-      "url": "https://ototoy.jp/news/132189",
-      "date": "2026-10-09T09:00:00.000Z",
-      "summary": "福岡を拠点に活動するシンガーソングライター・山本大斗の新曲「愛をくべましょう」が、2026年10月8日（木）20時よりFODにて独占配信がスタートしたドラマ『あなたを殺す旅 Season２』の主題歌に決定した",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
       "title": "生きた筋肉細胞を動力にした極薄のロボットを水中で泳がせることに成功",
       "url": "https://karapaia.com/archives/631943.html",
       "date": "2026-10-09T09:00:00.000Z",
@@ -601,6 +646,15 @@
       "source": "カラパイア",
       "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
+    },
+    {
+      "title": "山本大斗、新曲「愛をくべましょう」がドラマ『あなたを殺す旅 Season２』主題歌に決定",
+      "url": "https://ototoy.jp/news/132189",
+      "date": "2026-10-09T09:00:00.000Z",
+      "summary": "福岡を拠点に活動するシンガーソングライター・山本大斗の新曲「愛をくべましょう」が、2026年10月8日（木）20時よりFODにて独占配信がスタートしたドラマ『あなたを殺す旅 Season２』の主題歌に決定した",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
     },
     {
       "title": "アン・ルイス本人監修、タワレコ限定7インチBOXの各シングルジャケット&非売品ステッカーの画像公開 - ニュース",
@@ -5524,60 +5578,6 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
-    },
-    {
-      "title": "10-FEET主催フェス『京都大作戦2027』4日間開催決定 “はんなり会”超最速チケット受付も開始",
-      "url": "https://realsound.jp/2026/10/post-2542953.html",
-      "date": "2026-10-03T20:00:20.000Z",
-      "summary": "10-FEETが主催する大型フェス『京都大作戦2027』が、7月3日、4日、10日、11の4日間、京都 府立山城総合運動公園 太陽が丘特設野外ステージにて開催される。 開催20周年を迎える2027年は、4日間の開催と",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "『ユイカ』、TVアニメ『らんま1/2』第3期EDテーマ「かわいくない」配信リリース ノンクレ映像も",
-      "url": "https://realsound.jp/2026/10/post-2542946.html",
-      "date": "2026-10-03T19:01:03.000Z",
-      "summary": "『ユイカ』が、新曲「かわいくない」を10月9日にリリースする。 本作は、本日10月3日より放送のTVアニメ『らんま1/2』第3期のエンディングテーマに書き下ろした一曲。また、アニメ第1話放送後より、MAPPA You",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "歌声分析 Vol.24：上白石萌音 “役に入るように曲へ入る”ーー言葉の明瞭さと声色の変化、楽曲の世界へ溶け込む力",
-      "url": "https://realsound.jp/2026/10/post-2539021.html",
-      "date": "2026-10-03T19:00:40.000Z",
-      "summary": "アーティストの魅力を語るうえで、楽曲だけでなく“歌声”そのものに宿る個性にフォーカスする連載「歌声分析」。声をひとつの“楽器”として捉え、音楽表現にどのような輪郭を与えているのかを掘り下げていく本連載では、技術的な視点からさまざまなアーティストの歌声を紐解いていく。第24回目は、上白石萌音を取り上げる。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "King & Prince 髙橋海人、“KAITO”名義でソロ活動開始 1stシングル「swim?」配信リリース＆MV公開",
-      "url": "https://realsound.jp/2026/10/post-2542935.html",
-      "date": "2026-10-03T19:00:38.000Z",
-      "summary": "King & Princeの髙橋海人が、KAITO名義でソロ活動を開始。1stデジタルシングル「swim?」を10月5日にリリースし、同日0時にMVを公開する。 本楽曲は、作詞作曲、アートワーク、MVと、全て",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "問題行動のある子の「1年後の冷たさ」と「母の性格」",
-      "url": "https://nazology.kusuguru.co.jp/archives/200493",
-      "date": "2026-10-03T14:00:00.000Z",
-      "summary": "ドラマで冷たい悪役を見て、「この人の親はどんな人だったんだろう」と、つい想像してしまうことがあります。 ルールを破る行動をくり返す10代の中には、人を傷つけてもあまり心が動かないように見える子がいます。 その「冷たさ」は、本人だけを見ていれば説明がつくものなのでしょうか。 米バージニア・コモンウェルス大学（VCU）の研究チームは、こうした10代とその母親を1年にわたって追いかけ、母親の性格との関係を調べました。 では、母親の性格は、1年",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "「ようこそ! 華麗なる宮中晩餐会の世界へ」",
-      "url": "https://bluediary2.jugem.jp/?eid=8208",
-      "date": "2026-10-03T13:26:00.000Z",
-      "summary": "霞会館記念学習院ミュージアムで開催中の 「ようこそ! 華麗なる宮中晩餐会の世界へ」展へ行って来ました。 https://www.museum.univ.gakushuin.ac.jp/ 宮中晩餐会と聞くと、皇居で国賓を迎える華やかな光景を思い浮かべます。 しかし、そこでどんな食器が使わ...",
-      "source": "青い日記帳（美術展）",
-      "sourceHomepage": "https://bluediary2.jugem.jp/",
-      "category": "culture"
     }
   ]
 }
