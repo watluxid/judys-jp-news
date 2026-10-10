@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T12:42:52.915Z",
+  "generatedAt": "2026-10-10T21:51:54.058Z",
   "articleCount": 600,
   "feedStatus": [
     {
@@ -10,10 +10,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（社会）",
+      "name": "NHKニュース（科学・文化）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -24,10 +24,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（科学・文化）",
+      "name": "NHKニュース（社会）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
       "errors": []
     },
     {
@@ -59,17 +59,17 @@
       "errors": []
     },
     {
-      "name": "amass",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://amass.jp/rss/new",
-      "errors": []
-    },
-    {
       "name": "メシ通（ホットペッパーグルメ）",
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
+      "errors": []
+    },
+    {
+      "name": "amass",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://amass.jp/rss/new",
       "errors": []
     },
     {
@@ -94,17 +94,17 @@
       "errors": []
     },
     {
-      "name": "インサイド（乙女ゲーム関連）",
-      "category": "otome",
-      "ok": true,
-      "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
       "name": "デイリーポータルZ",
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "errors": []
+    },
+    {
+      "name": "インサイド（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
       "errors": []
     },
     {
@@ -129,24 +129,10 @@
       "errors": []
     },
     {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
-      "errors": []
-    },
-    {
       "name": "和樂web",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://intojapanwaraku.com/feed",
-      "errors": []
-    },
-    {
-      "name": "カラパイア",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
       "errors": []
     },
     {
@@ -157,10 +143,24 @@
       "errors": []
     },
     {
+      "name": "カラパイア",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://karapaia.com/index.rdf",
+      "errors": []
+    },
+    {
       "name": "ほんのひきだし（本・出版）",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://hon-hikidashi.jp/feed/",
+      "errors": []
+    },
+    {
+      "name": "青い日記帳（美術展）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
     },
     {
@@ -171,14 +171,68 @@
       "errors": []
     },
     {
-      "name": "青い日記帳（美術展）",
-      "category": "culture",
+      "name": "OTOTOY",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
+      "usedUrl": "https://ototoy.jp/rss",
       "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "山口百恵、あおい輝彦、野口五郎、西城秀樹、桜田淳子……50年前のヒットチャートを彩った若きスターたち",
+      "url": "https://realsound.jp/2026/10/post-2544215.html",
+      "date": "2026-10-11T05:50:38.000Z",
+      "summary": "山口百恵「横須賀ストーリー」「パールカラーにゆれて」と、あおい輝彦「あなただけを」が計18週にわたって首位をつないだ1976年。野口五郎、西城秀樹、桜田淳子、太田裕美らもチャートを彩り、それぞれが歌、映画、ライブへと活躍の場を広げていた。本稿では、50年前のヒットチャートから、若きスターたちが競い合った時代の熱気をたどる。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "80'sキング・クリムゾンを演奏するBEAT テリー・ボジオが新たに参加する北米ツアー開幕 初日公演の映像あり",
+      "url": "https://amass.jp/192364/",
+      "date": "2026-10-11T00:32:00.000Z",
+      "summary": "エイドリアン・ブリュー、トニー・レヴィン、スティーヴ・ヴァイが80年代のキング・クリムゾンを演奏するバンドBEAT。全米ツアー開幕。ダニー・ケアリーの代役としてテリー・ボジオが新たに参加。初日公演ではザッパ楽曲含む計4曲をBEATとして初演奏。映像あり https://amass.jp/192364/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "OZworld、“リベンジ”となるZeppツアー『RESPAWN TOUR 2027』開催 沖縄で主催フェス開催も",
+      "url": "https://realsound.jp/2026/10/post-2550236.html",
+      "date": "2026-10-11T00:00:30.000Z",
+      "summary": "OZworldが、全国3都市のZeppをまわるツアー『RESPAWN TOUR 2027』を2027年2月より開催する。 本情報は、10月10日にTOYOTA ARENA TOKYOにて行われたワンマンライブにて発表",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "浜野はるき、『TGC 北九州 2026』で初披露の公式ランウェイソング「LIFE RUNWAY」配信リリース",
+      "url": "https://realsound.jp/2026/10/post-2550198.html",
+      "date": "2026-10-10T22:00:55.000Z",
+      "summary": "浜野はるきが、新曲「LIFE RUNWAY」を11月6日に配信リリースする。 本楽曲は、本日10月10日に行われた『TGC 北九州 2026』の公式ランウェイソングとして、オープニングアクトにて初披露されたもの。人の",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "シェリル・クロウ 「Pick You Up」のミュージックビデオ公開",
+      "url": "https://amass.jp/192363/",
+      "date": "2026-10-10T21:51:00.000Z",
+      "summary": "シェリル・クロウ（Sheryl Crow）は「Pick You Up」のミュージックビデオ公開。この曲は最新スタジオ・アルバム『Pick You Up』に収録 https://amass.jp/192363/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "バンドのマストドン、ゾウの遠い祖先マストドンの歯の化石を使用した限定アナログ盤発売",
+      "url": "https://amass.jp/192362/",
+      "date": "2026-10-10T21:47:00.000Z",
+      "summary": "米バンドのマストドンは20年前、1万年ほど前に絶滅した長い牙を持ったゾウの遠い祖先「マストドン」の歯の化石を譲り受けました。そして今回、その本物のマストドンの歯を使用した限定アナログレコードのリリースを発表しています。メイキング映像あり https://amass.jp/192362/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "ピーター・ガブリエル 最新シングルの別ヴァージョン「Face the Wall (Bright-Side Mix)」公開",
       "url": "https://amass.jp/192361/",
@@ -279,6 +333,15 @@
       "category": "music"
     },
     {
+      "title": "誰もいない三菱一号館美術館へ。建物ツアー付き特別ランチプラン",
+      "url": "https://bluediary2.jugem.jp/?eid=8215",
+      "date": "2026-10-10T13:07:50.000Z",
+      "summary": "東京ステーションホテルが、三菱一号館美術館とともに「三菱一号館美術館 建物ツアー付きランチプラン」を2026年11月10日（火）に開催します。 今回の大きな魅力は、一般開館前の三菱一号館美術館に入れること。 まだ誰もいない朝の美術館を、美術館スタッフの...",
+      "source": "青い日記帳（美術展）",
+      "sourceHomepage": "https://bluediary2.jugem.jp/",
+      "category": "culture"
+    },
+    {
       "title": "「宇宙の花火」を拡大したら、巨大な真珠が連なっていた──1粒で海王星の軌道10個ぶん",
       "url": "https://nazology.kusuguru.co.jp/archives/201386",
       "date": "2026-10-10T12:40:42.000Z",
@@ -295,15 +358,6 @@
       "source": "sorae（宇宙・天文）",
       "sourceHomepage": "https://sorae.info/",
       "category": "documentary"
-    },
-    {
-      "title": "美術商の眼が選んだ名品が集結「東美アートフェア2026」",
-      "url": "https://bluediary2.jugem.jp/?eid=8214",
-      "date": "2026-10-10T12:25:00.000Z",
-      "summary": "「東美アートフェア2026」が10月16日（金）から18日（日）までの3日間、東京・新橋の東京美術倶楽部で開催されます。 https://artfair.toobi.co.jp/ 「東美アートフェア」は1999年に始まった歴史ある催しです。その源流は1964年に始まった「東美特別展」にさかの...",
-      "source": "青い日記帳（美術展）",
-      "sourceHomepage": "https://bluediary2.jugem.jp/",
-      "category": "culture"
     },
     {
       "title": "「怖いものから逃げてきたのなら、今度は向き合わなければいけない」 Zilqy、覚悟の1stアルバム『Birth of Riot』を語る",
@@ -477,15 +531,6 @@
       "category": "documentary"
     },
     {
-      "title": "〈EIGHT-JAM〉10/11は「山下達郎特集」",
-      "url": "https://ototoy.jp/news/132210",
-      "date": "2026-10-10T09:00:00.000Z",
-      "summary": "10月11日放送の〈EIGHT-JAM〉は今年ソロデビュー50周年を迎える「山下達郎特集」を放送する",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
       "title": "誤ったAIの要約を読むと自分の目で見た記憶が書き換わる。記憶改ざんの実態",
       "url": "https://karapaia.com/archives/631773.html",
       "date": "2026-10-10T09:00:00.000Z",
@@ -493,6 +538,15 @@
       "source": "カラパイア",
       "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
+    },
+    {
+      "title": "〈EIGHT-JAM〉10/11は「山下達郎特集」",
+      "url": "https://ototoy.jp/news/132210",
+      "date": "2026-10-10T09:00:00.000Z",
+      "summary": "10月11日放送の〈EIGHT-JAM〉は今年ソロデビュー50周年を迎える「山下達郎特集」を放送する",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
     },
     {
       "title": "「桃源暗鬼」一ノ瀬四季や無陀野無人、皇后崎迅たちが優雅で幻想的な星座風の装いに！「AGF2026」描き下ろしグッズが先行販売へ",
@@ -1042,6 +1096,15 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
+    },
+    {
+      "title": "美術商の眼が選んだ名品が集結「東美アートフェア2026」",
+      "url": "https://bluediary2.jugem.jp/?eid=8214",
+      "date": "2026-10-09T12:56:00.000Z",
+      "summary": "「東美アートフェア2026」が10月16日（金）から18日（日）までの3日間、東京・新橋の東京美術倶楽部で開催されます。 https://artfair.toobi.co.jp/ 「東美アートフェア」は1999年に始まった歴史ある催しです。その源流は1964年に始まった「東美特別展」にさかの...",
+      "source": "青い日記帳（美術展）",
+      "sourceHomepage": "https://bluediary2.jugem.jp/",
+      "category": "culture"
     },
     {
       "title": "チェルノブイリの核燃料の粒、40年後も想定より安定していたと判明",
@@ -5514,69 +5577,6 @@
       "summary": "須田景凪『LOVE HATE』バルーン名義の話題曲をボカロと共に歌ったナンバーなど自身の中に渦巻く愛憎をぶつけたメジャー3作目",
       "source": "Mikiki（タワーレコード）",
       "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "WILD BLUE『CURVE』山下幸輝がリーダーを務める5人組の1stは失恋ソング、ヒップホップやロックの要素を散りばめた曲など多彩 - レビュー",
-      "url": "https://mikiki.tokyo.jp/articles/-/46225",
-      "date": "2026-10-04T22:34:00.000Z",
-      "summary": "WILD BLUE『CURVE』山下幸輝がリーダーを務める5人組の1stは失恋ソング、ヒップホップやロックの要素を散りばめた曲など多彩",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "THE JAPANESE PRIDE『PPP』3ピースバンドの新作は徹頭徹尾とにかくアッパーでキャッチーでハイボルテージ! - レビュー",
-      "url": "https://mikiki.tokyo.jp/articles/-/46224",
-      "date": "2026-10-04T22:33:00.000Z",
-      "summary": "THE JAPANESE PRIDE『PPP』3ピースバンドの新作は徹頭徹尾とにかくアッパーでキャッチーでハイボルテージ!",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "ラプソディ（Rapsody）『God Gotta Afro & Gold Hoops』官能を歌うネオソウルなどブラックカルチャーを包括したスケールの大きい意欲作 - レビュー",
-      "url": "https://mikiki.tokyo.jp/articles/-/46223",
-      "date": "2026-10-04T22:32:00.000Z",
-      "summary": "ラプソディ（Rapsody）『God Gotta Afro & Gold Hoops』官能を歌うネオソウルなどブラックカルチャーを包括したスケールの大きい意欲作",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "アレックス・ウォーレン（Alex Warren）『WILDCHILD』ポップからゴスペル、ソウル、フォークまで真摯かつエモーショナルな歌心で勝負 - レビュー",
-      "url": "https://mikiki.tokyo.jp/articles/-/46222",
-      "date": "2026-10-04T22:31:00.000Z",
-      "summary": "アレックス・ウォーレン（Alex Warren）『WILDCHILD』ポップからゴスペル、ソウル、フォークまで真摯かつエモーショナルな歌心で勝負",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "リッチー・コッツェン 新シングル「Big Money Club」のリリックビデオ公開",
-      "url": "https://amass.jp/192235/",
-      "date": "2026-10-04T21:37:00.000Z",
-      "summary": "リッチー・コッツェンは新シングル「Big Money Club」をリリース。リリックビデオが公開されています。 https://amass.jp/192235/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "クワイエット・ライオット、23歳のリードシンガーを迎えて初ライヴ開催 映像あり",
-      "url": "https://amass.jp/192234/",
-      "date": "2026-10-04T21:28:00.000Z",
-      "summary": "クワイエット・ライオットは7月に脱退したジジー・パールの後任として23歳のヴォーカリスト、ジョン・トーラを新たなリード・シンガーとして迎えました。新生クワイエット・ライオットの初ライヴが行われました。映像あり https://amass.jp/192234/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "メタリカ、スフィア公演開幕、12年ぶりに「...And Justice for All」／18年ぶりに「Devil's Dance」／7年ぶりに「The Outlaw Torn」演奏",
-      "url": "https://amass.jp/192233/",
-      "date": "2026-10-04T21:11:00.000Z",
-      "summary": "メタリカ、球形のコンサートホール・スフィアでの公演開幕。ライヴ演奏は久々の楽曲も披露、12年ぶりに「...And Justice for All」を、18年ぶりに「Devil's Dance」、7年ぶりに「The Outlaw Torn」演奏。映像あり https://amass.jp/192233/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
       "category": "music"
     }
   ]
