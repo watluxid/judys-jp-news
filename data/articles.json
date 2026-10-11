@@ -1,14 +1,7 @@
 {
-  "generatedAt": "2026-10-11T13:05:33.111Z",
+  "generatedAt": "2026-10-11T22:07:28.323Z",
   "articleCount": 600,
   "feedStatus": [
-    {
-      "name": "NHKニュース（主要）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
-      "errors": []
-    },
     {
       "name": "NHKニュース（科学・文化）",
       "category": "news",
@@ -24,10 +17,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（社会）",
+      "name": "NHKニュース（主要）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
       "errors": []
     },
     {
@@ -38,10 +31,10 @@
       "errors": []
     },
     {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
+      "name": "NHKニュース（社会）",
+      "category": "news",
       "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
       "errors": []
     },
     {
@@ -49,6 +42,13 @@
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://cookien.com/feed/",
+      "errors": []
+    },
+    {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -66,13 +66,6 @@
       "errors": []
     },
     {
-      "name": "4Gamer（乙女ゲーム関連）",
-      "category": "otome",
-      "ok": true,
-      "usedUrl": "https://www.4gamer.net/rss/index.xml",
-      "errors": []
-    },
-    {
       "name": "amass",
       "category": "music",
       "ok": true,
@@ -80,10 +73,17 @@
       "errors": []
     },
     {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
+      "name": "リアルサウンド",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://sorae.info/feed",
+      "usedUrl": "https://realsound.jp/atom.xml",
+      "errors": []
+    },
+    {
+      "name": "4Gamer（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://www.4gamer.net/rss/index.xml",
       "errors": []
     },
     {
@@ -91,13 +91,6 @@
       "category": "otome",
       "ok": true,
       "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "リアルサウンド",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
       "errors": []
     },
     {
@@ -115,10 +108,10 @@
       "errors": []
     },
     {
-      "name": "CINRA",
-      "category": "culture",
+      "name": "OTOTOY",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://www.cinra.net/feed",
+      "usedUrl": "https://ototoy.jp/rss",
       "errors": []
     },
     {
@@ -129,10 +122,10 @@
       "errors": []
     },
     {
-      "name": "和樂web",
+      "name": "CINRA",
       "category": "culture",
       "ok": true,
-      "usedUrl": "https://intojapanwaraku.com/feed",
+      "usedUrl": "https://www.cinra.net/feed",
       "errors": []
     },
     {
@@ -143,10 +136,10 @@
       "errors": []
     },
     {
-      "name": "TOKION",
+      "name": "和樂web",
       "category": "culture",
       "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
+      "usedUrl": "https://intojapanwaraku.com/feed",
       "errors": []
     },
     {
@@ -157,10 +150,17 @@
       "errors": []
     },
     {
-      "name": "青い日記帳（美術展）",
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://sorae.info/feed",
+      "errors": []
+    },
+    {
+      "name": "TOKION",
       "category": "culture",
       "ok": true,
-      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
+      "usedUrl": "https://tokion.jp/feed/",
       "errors": []
     },
     {
@@ -171,14 +171,32 @@
       "errors": []
     },
     {
-      "name": "OTOTOY",
-      "category": "music",
+      "name": "青い日記帳（美術展）",
+      "category": "culture",
       "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
+      "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "香取慎吾、“小さな場所”から始める時代の開拓者 SMAPと重なる歩み――宮根誠司との対話から見えた挑戦を楽しむ生き方",
+      "url": "https://realsound.jp/2026/10/post-2549229.html",
+      "date": "2026-10-12T05:50:43.000Z",
+      "summary": "香取慎吾と宮根誠司の対話から見えた、“開拓者”としての香取を紹介する。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "あいみょん×森七菜、大森元貴×上白石萌音、Vaundy×菅田将暉、川谷絵音×原田知世……アーティストから俳優へ贈られた歌",
+      "url": "https://realsound.jp/2026/10/post-2549366.html",
+      "date": "2026-10-12T05:50:05.000Z",
+      "summary": "あいみょん×森七菜、大森元貴×上白石萌音、Vaundy×菅田将暉、川谷絵音×原田知世のコラボによる、アーティストから俳優へ贈られた歌を紹介する。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
     {
       "title": "Travis Japan、4thアルバム『Jewelry Basket』トラックリスト公開 新曲「EGO」配信＆MV公開も",
       "url": "https://realsound.jp/2026/10/post-2550618.html",
@@ -214,6 +232,24 @@
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
+    },
+    {
+      "title": "大ヒット漫画『じゃあ、あんたが作ってみろよ』に登場する鮎美の筑前煮や勝男のおでんなどのレシピを大公開",
+      "url": "https://news.cookpad.com/articles/66133",
+      "date": "2026-10-11T21:00:00.000Z",
+      "summary": "ドラマ化されて大反響を呼んだ漫画『じゃあ、あんたが作ってみろよ』(谷口菜津子／ぶんか社)の最終巻がついに発売！作中のレシピ5品を特別に大公開します。 こんにゃくをスプーンでちぎって下ゆでするの...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "ドラマとは違う結末となった漫画「じゃあ、あんたが作ってみろよ」、著者が語る“料理をしたくない”日の対策は",
+      "url": "https://news.cookpad.com/articles/66132",
+      "date": "2026-10-11T21:00:00.000Z",
+      "summary": "付き合っていた鮎美にプロポーズを断られた勝男が、筑前煮づくりから料理を始めて自分を見つめ直していく物語「じゃあ、あんたが作ってみろよ」。ドラマ化され大反響を呼んだこの漫画がついに最終巻を迎えます...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
     },
     {
       "title": "新作『ブレードランナー2099』の新しいトレーラー映像公開",
@@ -441,15 +477,6 @@
       "category": "documentary"
     },
     {
-      "title": "四足歩行ロボットを魔改造！お化け屋敷対応の地獄のアライグマに大変身",
-      "url": "https://karapaia.com/archives/632368.html",
-      "date": "2026-10-11T09:00:00.000Z",
-      "summary": "ハロウィーンの季節がやってきた。アメリカのペンシルベニア州のお化け屋敷に、最新テクノロジーを駆使した新たな怪物が登場した。人気YouTubeチャンネル「ウィケッド・メイカーズ」が、約80万円の最先端の四足歩行ロボットを不気味なアライグマの姿に改造したのだ…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
       "title": "Lainey Wilson、恋愛の魅力を描いた新曲リリース",
       "url": "https://ototoy.jp/news/132216",
       "date": "2026-10-11T09:00:00.000Z",
@@ -466,6 +493,15 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
+    },
+    {
+      "title": "四足歩行ロボットを魔改造！お化け屋敷対応の地獄のアライグマに大変身",
+      "url": "https://karapaia.com/archives/632368.html",
+      "date": "2026-10-11T09:00:00.000Z",
+      "summary": "ハロウィーンの季節がやってきた。アメリカのペンシルベニア州のお化け屋敷に、最新テクノロジーを駆使した新たな怪物が登場した。人気YouTubeチャンネル「ウィケッド・メイカーズ」が、約80万円の最先端の四足歩行ロボットを不気味なアライグマの姿に改造したのだ…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
     },
     {
       "title": "子どもも大好き！お弁当のご飯が秒で消える絶品「フライパン鮭おかず」",
@@ -657,15 +693,6 @@
       "category": "documentary"
     },
     {
-      "title": "5分で作れる！あと一品に大活躍の「油揚げ副菜」4選",
-      "url": "https://news.cookpad.com/articles/66043",
-      "date": "2026-10-11T01:00:00.000Z",
-      "summary": "あとひと品が足りない。そんな時に冷蔵庫に常備している油揚げが大活躍します！油揚げを使ってパパっと作れるサブおかずを紹介します。定番の煮物からアレンジレシピまで、バリエーション豊富ですよ！油揚げと...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
       "title": "地味ハロウィンランド、それは世界（2026.10.11 朝エッセイと更新情報）",
       "url": "https://dailyportalz.jp/dpq/midokoro-20261011",
       "date": "2026-10-11T01:00:00.000Z",
@@ -673,6 +700,15 @@
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
+    },
+    {
+      "title": "5分で作れる！あと一品に大活躍の「油揚げ副菜」4選",
+      "url": "https://news.cookpad.com/articles/66043",
+      "date": "2026-10-11T01:00:00.000Z",
+      "summary": "あとひと品が足りない。そんな時に冷蔵庫に常備している油揚げが大活躍します！油揚げを使ってパパっと作れるサブおかずを紹介します。定番の煮物からアレンジレシピまで、バリエーション豊富ですよ！油揚げと...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
     },
     {
       "title": "BS日テレ〈歌謡プレミアム〉10/12のゲストは千昌夫",
@@ -720,13 +756,13 @@
       "category": "documentary"
     },
     {
-      "title": "混ぜるだけ簡単！100均の型でOKなまったり濃厚なチョコチーズケーキ",
-      "url": "https://news.cookpad.com/articles/66105",
+      "title": "ゴダイゴ、11年ぶりの新曲配信へ 作詞はリリー・フランキー",
+      "url": "https://ototoy.jp/news/132213",
       "date": "2026-10-10T23:00:00.000Z",
-      "summary": "スーパーやコンビニの定番スイーツにあがる「チョコケーキ」と「チーズケーキ」。今日は、その両方の魅力を1つにした「チョコチーズケーキ」のご紹介です。チーズケーキだけでは物足りないチョコ好きさんにお...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
+      "summary": "デビュー50周年を迎えたゴダイゴが11月11日(水)に11年ぶりとなる新曲「My Dear / My Dear」をデジタルシングルとして配信リリースすることが決定した",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
     },
     {
       "title": "女性が100歳到達率が日本の約2倍。イタリア、サルデーニャ島の長寿村",
@@ -738,13 +774,13 @@
       "category": "documentary"
     },
     {
-      "title": "ゴダイゴ、11年ぶりの新曲配信へ 作詞はリリー・フランキー",
-      "url": "https://ototoy.jp/news/132213",
+      "title": "混ぜるだけ簡単！100均の型でOKなまったり濃厚なチョコチーズケーキ",
+      "url": "https://news.cookpad.com/articles/66105",
       "date": "2026-10-10T23:00:00.000Z",
-      "summary": "デビュー50周年を迎えたゴダイゴが11月11日(水)に11年ぶりとなる新曲「My Dear / My Dear」をデジタルシングルとして配信リリースすることが決定した",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
+      "summary": "スーパーやコンビニの定番スイーツにあがる「チョコケーキ」と「チーズケーキ」。今日は、その両方の魅力を1つにした「チョコチーズケーキ」のご紹介です。チーズケーキだけでは物足りないチョコ好きさんにお...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
     },
     {
       "title": "オランウータンの母親は子どもに「遊び相手」を探してあげていたと判明",
@@ -5541,42 +5577,6 @@
       "summary": "ファントムシータが、新曲「スイートピー」を10月11日に配信リリースする。 本作は、10月4日より放送がスタートしたTVアニメ『ホテル・インヒューマンズ』第2期のエンディングテーマのために、Cö shu Nieの中村",
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "2026年11月13日に人類は滅亡すると予測した1960年の科学者。心配するべきなのか？",
-      "url": "https://karapaia.com/archives/631405.html",
-      "date": "2026-10-05T11:30:00.000Z",
-      "summary": "1960年、アメリカのまじめな科学研究誌『Science』誌に驚きの論文が掲載された。アメリカ人物理学者ハインツ・フォン・フェルスター氏らは、人類は増え続け、2026年11月13日（金）に人口が無限大に近づき「圧死」により自滅すると予測したのだ。緻密な数式に裏付けられた「運命の日」の予測は…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
-      "title": "小関裕太、自身初となる音楽イベント『ULTERIUS』1月にビルボードライブ大阪＆横浜で開催",
-      "url": "https://realsound.jp/2026/10/post-2543463.html",
-      "date": "2026-10-05T11:20:56.000Z",
-      "summary": "小関裕太が、自身初となる音楽イベント『ULTERIUS』を2027年1月にビルボードライブ大阪、横浜にて開催する。 本公演は、1月23日に大阪、30日、31日に横浜で開催。ジャズライブの空間への憧れと、長年愛してきた",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "「いいの？」僕に差し出せるのはこれだけ…それを見た彼女の反応にドキッ！『バイト先のネットカフェが、なぜかクラスの美少女たちの溜まり場になった件。THE COMIC』【#4】",
-      "url": "https://hon-hikidashi.jp/book-person/203125/",
-      "date": "2026-10-05T11:10:45.000Z",
-      "summary": "マイクロマガジン社より、 『バイト先のネットカフェが、なぜかクラスの美少女たちの溜まり場になった件。』第1巻 が9月29日（火）に発売されました。 県内随一の進学校に通う僕は、バイト先のネットカフェの前で倒れたクラスメイトを助けます。彼女は、同じ学校に通う学園一の美女・椋橋真衣でした。 今回は、第1話～第2話の試し読みを配信します。作品が気になった方はぜひ、店頭でお買い求めください。 (adsbygoogle = window.adsb",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "松本孝弘＋ジャック・ブレイズ＋エリック・マーティン＋マット・ソーラムのTMG 「SAYONARA (feat. Ado)」のMV公開",
-      "url": "https://amass.jp/192239/",
-      "date": "2026-10-05T11:08:00.000Z",
-      "summary": "B'zの松本孝弘が率いるバンドで、ナイト・レンジャーのジャック・ブレイズ、MR.BIGのエリック・マーティン、元ガンズのマット・ソーラムが参加するTMG。「SAYONARA (feat. Ado)」のミュージックビデオ公開。この曲は新アルバムに収録 https://amass.jp/192239/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
       "category": "music"
     }
   ]
