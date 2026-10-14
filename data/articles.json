@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T12:05:36.885Z",
+  "generatedAt": "2026-10-14T17:20:21.448Z",
   "articleCount": 600,
   "feedStatus": [
     {
@@ -17,13 +17,6 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-      "errors": []
-    },
-    {
       "name": "NHKニュース（科学・文化）",
       "category": "news",
       "ok": true,
@@ -38,17 +31,17 @@
       "errors": []
     },
     {
+      "name": "NHKニュース（国際）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+      "errors": []
+    },
+    {
       "name": "クックパッドニュース",
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://news.cookpad.com/feeds/news.rss",
-      "errors": []
-    },
-    {
-      "name": "つくおき",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://cookien.com/feed/",
       "errors": []
     },
     {
@@ -59,10 +52,10 @@
       "errors": []
     },
     {
-      "name": "amass",
-      "category": "music",
+      "name": "つくおき",
+      "category": "cooking",
       "ok": true,
-      "usedUrl": "https://amass.jp/rss/new",
+      "usedUrl": "https://cookien.com/feed/",
       "errors": []
     },
     {
@@ -70,6 +63,20 @@
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
+      "errors": []
+    },
+    {
+      "name": "amass",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://amass.jp/rss/new",
+      "errors": []
+    },
+    {
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -87,24 +94,17 @@
       "errors": []
     },
     {
-      "name": "インサイド（乙女ゲーム関連）",
-      "category": "otome",
-      "ok": true,
-      "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://sorae.info/feed",
-      "errors": []
-    },
-    {
       "name": "デイリーポータルZ",
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "errors": []
+    },
+    {
+      "name": "インサイド（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
       "errors": []
     },
     {
@@ -143,6 +143,13 @@
       "errors": []
     },
     {
+      "name": "ナゾロジー",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "errors": []
+    },
+    {
       "name": "和樂web",
       "category": "culture",
       "ok": true,
@@ -154,13 +161,6 @@
       "category": "culture",
       "ok": true,
       "usedUrl": "https://www.art-annual.jp/feed",
-      "errors": []
-    },
-    {
-      "name": "ナゾロジー",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
       "errors": []
     },
     {
@@ -179,6 +179,33 @@
     }
   ],
   "articles": [
+    {
+      "title": "ブルース・スプリングスティーン ライヴ映像シリーズ『Land of Hope and Dreams American Tour (Philadelphia Freedom Cut)』第3弾公開",
+      "url": "https://amass.jp/192422/",
+      "date": "2026-10-15T00:45:00.000Z",
+      "summary": "ブルース・スプリングスティーンはライヴ映像シリーズ『Land of Hope and Dreams American Tour(Philadelphia Freedom Cut)』の第3弾公開。最新ツアー最終公演の15曲目から22曲目までの計8曲収録 https://amass.jp/192422/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ローリング・ストーンズ 最新スタジオ・アルバムに5曲追加したデラックス・エディション『Foreign Tongues, Loose Lips』発売",
+      "url": "https://amass.jp/192421/",
+      "date": "2026-10-15T00:36:00.000Z",
+      "summary": "ローリング・ストーンズは最新スタジオ・アルバムのデラックス・エディション『Foreign Tongues、 Loose Lips』を11月27日発売。5曲の新録音を追加。ジャズサックス奏者コートニー・パイン参加曲は10月20日に先行配信予定 https://amass.jp/192421/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "90年代以降の英国から生まれたブラック・ミュージックの歴史と現在を一望する一冊 『UKブラック・ミュージック・ディスクガイド』発売",
+      "url": "https://amass.jp/192420/",
+      "date": "2026-10-14T21:47:00.000Z",
+      "summary": "90年代以降の英国から生まれたブラック・ミュージックの歴史と現在を一望する一冊『UKブラック・ミュージック・ディスクガイド ジャングル／ドラムンベース、トリップ・ホップ、UKガラージ、グライム、ダブステップ、UKジャズ――1990s～2020s』発売 https://amass.jp/192420/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "BREIMEN、ドラマ『おかえり、初恋。』ED主題歌の新曲「さよならリバー」hamaibaによるMV公開",
       "url": "https://realsound.jp/2026/10/post-2553684.html",
@@ -277,6 +304,15 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "「ザ・ベスト・オブ・山種コレクション?」",
+      "url": "https://bluediary2.jugem.jp/?eid=8219",
+      "date": "2026-10-14T13:47:00.000Z",
+      "summary": "山種美術館で開催中の 開館60周年記念特別展3「ザ・ベスト・オブ・山種コレクション? ―横山大観、竹内栖鳳から上村松園、速水御舟へ―」へ行って来ました。 https://www.yamatane-museum.jp/ 1966年に日本初の日本画専門美術館として開館した山種美術館。 今年...",
+      "source": "青い日記帳（美術展）",
+      "sourceHomepage": "https://bluediary2.jugem.jp/",
+      "category": "culture"
     },
     {
       "title": "HINONABE、1stフルアルバム『LOOP』リリース 「浮き輪」など収録曲のスタジオライブ映像も公開",
@@ -5541,42 +5577,6 @@
       "summary": "ポール・マッカートニー『The Boys of Dungeon Lane』のスペシャルエディションがリリース。ストリーミング配信開始。YouTubeほかで聴けます。新曲3曲とリンゴ・スターとのデュエット曲「Home To Us」の新ヴァージョンを追加 https://amass.jp/192293/",
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "野生動物のための陸橋を設けたことで衝突事故が91％も減少（アメリカ）",
-      "url": "https://karapaia.com/archives/629686.html",
-      "date": "2026-10-07T23:00:00.000Z",
-      "summary": "米コロラド州を南北に走る州間高速道路25号線（I-25）の上に、野生動物用の陸橋が設置された。6車線の高速道路をすっぽりまたぐ陸橋は、動物たちが安全に道路を渡るために造られたものだ。2025年12月に完成してから9か月。カメラにはエルク（アメリカアカシカ）の群れをはじめ…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
-      "title": "「見た目はウンチ」寿命は100年超えと推定されたナマコ",
-      "url": "https://nazology.kusuguru.co.jp/archives/200849",
-      "date": "2026-10-07T23:00:00.000Z",
-      "summary": "子どもの頃、磯でぶよぶよした黒い何かを棒でつついて、親に「やめなさい」と言われた人もいるかもしれません。 サンゴ礁の海には、ぱっと見るとウンチにも見えてしまう黒いナマコがいます。 その名は「ブラック・ティートフィッシュ」です。 記事で紹介されていた画像はこちら（画像1、画像2） 見た目こそ地味ですが、高値で取引される種です。サンゴ礁のナマコは、これまでたくさん獲られてきました。 今では絶滅危惧種となり、国際的な取引を規制する「ワシントン",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "M!LK『LOVE ENG!NE』ラテン歌謡やロッキンなギターが力強いナンバー、陽気な友情ソングなどアッパーな痛快曲だらけ! - レビュー",
-      "url": "https://mikiki.tokyo.jp/articles/-/46252",
-      "date": "2026-10-07T22:35:00.000Z",
-      "summary": "M!LK『LOVE ENG!NE』ラテン歌謡やロッキンなギターが力強いナンバー、陽気な友情ソングなどアッパーな痛快曲だらけ!",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "Little Glee Monster『BREATH』軽快なブラスと彩り豊かな歌声に心躍るポップチューンなど現在のリトグリを余すことなく楽しめる1枚 - レビュー",
-      "url": "https://mikiki.tokyo.jp/articles/-/46251",
-      "date": "2026-10-07T22:34:00.000Z",
-      "summary": "Little Glee Monster『BREATH』軽快なブラスと彩り豊かな歌声に心躍るポップチューンなど現在のリトグリを余すことなく楽しめる1枚",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
       "category": "music"
     }
   ]
