@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T17:10:02.517Z",
+  "generatedAt": "2026-10-15T21:31:28.139Z",
   "articleCount": 600,
   "feedStatus": [
     {
@@ -17,13 +17,6 @@
       "errors": []
     },
     {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
-      "errors": []
-    },
-    {
       "name": "NHKニュース（科学・文化）",
       "category": "news",
       "ok": true,
@@ -38,10 +31,24 @@
       "errors": []
     },
     {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "errors": []
+    },
+    {
       "name": "クックパッドニュース",
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://news.cookpad.com/feeds/news.rss",
+      "errors": []
+    },
+    {
+      "name": "つくおき",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://cookien.com/feed/",
       "errors": []
     },
     {
@@ -66,10 +73,10 @@
       "errors": []
     },
     {
-      "name": "つくおき",
-      "category": "cooking",
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://cookien.com/feed/",
+      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -80,24 +87,10 @@
       "errors": []
     },
     {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://sorae.info/feed",
-      "errors": []
-    },
-    {
       "name": "インサイド（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "リアルサウンド",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
       "errors": []
     },
     {
@@ -122,17 +115,31 @@
       "errors": []
     },
     {
-      "name": "和樂web",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://intojapanwaraku.com/feed",
-      "errors": []
-    },
-    {
       "name": "ナゾロジー",
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "errors": []
+    },
+    {
+      "name": "リアルサウンド",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://realsound.jp/atom.xml",
+      "errors": []
+    },
+    {
+      "name": "カラパイア",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://karapaia.com/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "和樂web",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://intojapanwaraku.com/feed",
       "errors": []
     },
     {
@@ -147,13 +154,6 @@
       "category": "culture",
       "ok": true,
       "usedUrl": "https://hon-hikidashi.jp/feed/",
-      "errors": []
-    },
-    {
-      "name": "カラパイア",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
       "errors": []
     },
     {
@@ -179,6 +179,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "Snow Man、なぜアルバムが100万枚売れ続ける？ B'zと並ぶ連続記録、初週ミリオンを支える“期待”の積み重ね",
+      "url": "https://realsound.jp/2026/10/post-2553526.html",
+      "date": "2026-10-16T05:50:14.000Z",
+      "summary": "10月7日にリリースされたSnow Manの6枚目のアルバム『AMENITY』が、「オリコン週間アルバムランキング」にて初週売上101.4万枚を記録し、5作連続で初週ミリオンを達成した。本稿では、なぜ彼らはアルバムをリリースするたびに大きな売上を記録し、ミリオンを達成し続けられるのかを紐解いていきたい。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "西野未姫、にこりちゃん＆頑馬くんと浴衣姿で初のお祭りへ 「興奮にこちゃん可愛い」「日常が特別で眩しい」",
+      "url": "https://realsound.jp/2026/10/post-2554355.html",
+      "date": "2026-10-16T05:50:11.000Z",
+      "summary": "西野未姫が自身のYouTubeを更新。長女のにこりちゃんと長男の頑馬くんとともに実家に帰省し、初めてのお祭りに行く様子を公開した。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
     {
       "title": "U2、9年ぶりの新アルバム』から新曲「The Greatest Show On Earth」リリース MV公開",
       "url": "https://amass.jp/192449/",
@@ -259,6 +277,15 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "2026年10月16日：本日発売のコミック新刊",
+      "url": "https://hon-hikidashi.jp/news/206133/",
+      "date": "2026-10-15T21:00:03.000Z",
+      "summary": "2026年10月16日（金）発売のコミック単行本をお知らせします。 〉 過去の日付のコミック新刊はこちら (adsbygoogle = window.adsbygoogle || []).push({}); 一迅社 百合姫コミックス ・ 私の推しは悪役令嬢。 （13） （青乃下、いのり。ほか） ・ 現実世界でも幸せにしてくださいね？ （4） （しぼりかすこ） ・ ひなちゃんが生きてるなら （2） （紬めめ） comic LAKE ・ 傷",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
     },
     {
       "title": "吉田兄弟、ビルボードライブ大阪＆横浜公演開催 美鵬直三朗と小湊昭尚を迎えた特別編成に",
@@ -5551,33 +5578,6 @@
       "source": "カラパイア",
       "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
-    },
-    {
-      "title": "炊いたご飯に◯◯を加えるのがポイント！絶対に失敗しない究極の「塩おにぎり」の作り方",
-      "url": "https://news.cookpad.com/articles/66103",
-      "date": "2026-10-08T23:00:00.000Z",
-      "summary": "お米そのもののおいしさを存分に味わえる新米の季節。シンプルだからこそ奥が深い「塩おにぎり」ですが、「塩加減が毎回ブレてしまう」「熱くて上手ににぎれない」などと悩んだことはありませんか？ じつは、...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "毒ヘビほど「目立つ色」をしていると判明",
-      "url": "https://nazology.kusuguru.co.jp/archives/200928",
-      "date": "2026-10-08T23:00:00.000Z",
-      "summary": "庭の水まき用ホースが草むらに転がっているのを見て、思わず「ヘビだ」と飛びのいた経験がある人もいるでしょう。 自然界には、ハチやヤドクガエルのように、あえて派手な色をまとって「自分は危険だ」と天敵に知らせる生き物がいます。 こうした見た目は「警告色（けいこくしょく）」と呼ばれ、目立つことそのものが生き残りの作戦になっています。 ヘビでも、しま模様のはっきりした姿は、毒を持つことを知らせるサインとしてよく例に挙げられます。 ところが、ヘビだ",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "「第77回NHK紅白歌合戦」司会は芦田愛菜・堺雅人・二宮和也、それぞれコメントを発表 番組テーマも決定 - ニュース",
-      "url": "https://mikiki.tokyo.jp/articles/-/46353",
-      "date": "2026-10-08T22:50:00.000Z",
-      "summary": "「第77回NHK紅白歌合戦」司会は芦田愛菜・堺雅人・二宮和也、それぞれコメントを発表 番組テーマも決定",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
     }
   ]
 }
