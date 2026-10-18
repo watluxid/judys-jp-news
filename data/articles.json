@@ -1,14 +1,7 @@
 {
-  "generatedAt": "2026-10-18T15:58:26.445Z",
+  "generatedAt": "2026-10-18T20:53:27.226Z",
   "articleCount": 600,
   "feedStatus": [
-    {
-      "name": "NHKニュース（社会）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
-      "errors": []
-    },
     {
       "name": "NHKニュース（主要）",
       "category": "news",
@@ -17,10 +10,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（科学・文化）",
+      "name": "NHKニュース（社会）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
       "errors": []
     },
     {
@@ -28,6 +21,13 @@
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -59,17 +59,17 @@
       "errors": []
     },
     {
-      "name": "メシ通（ホットペッパーグルメ）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
-      "errors": []
-    },
-    {
       "name": "amass",
       "category": "music",
       "ok": true,
       "usedUrl": "https://amass.jp/rss/new",
+      "errors": []
+    },
+    {
+      "name": "メシ通（ホットペッパーグルメ）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
       "errors": []
     },
     {
@@ -80,13 +80,6 @@
       "errors": []
     },
     {
-      "name": "リアルサウンド",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
-      "errors": []
-    },
-    {
       "name": "インサイド（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
@@ -94,17 +87,10 @@
       "errors": []
     },
     {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
+      "name": "リアルサウンド",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
-      "errors": []
-    },
-    {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://sorae.info/feed",
+      "usedUrl": "https://realsound.jp/atom.xml",
       "errors": []
     },
     {
@@ -115,13 +101,6 @@
       "errors": []
     },
     {
-      "name": "CINRA",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://www.cinra.net/feed",
-      "errors": []
-    },
-    {
       "name": "OTOTOY",
       "category": "music",
       "ok": true,
@@ -129,17 +108,24 @@
       "errors": []
     },
     {
-      "name": "カラパイア",
+      "name": "sorae（宇宙・天文）",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
+      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
-      "name": "TOKION",
+      "name": "デイリーポータルZ",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "errors": []
+    },
+    {
+      "name": "CINRA",
       "category": "culture",
       "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
+      "usedUrl": "https://www.cinra.net/feed",
       "errors": []
     },
     {
@@ -147,6 +133,13 @@
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://nazology.kusuguru.co.jp/feed",
+      "errors": []
+    },
+    {
+      "name": "カラパイア",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://karapaia.com/index.rdf",
       "errors": []
     },
     {
@@ -168,6 +161,13 @@
       "category": "culture",
       "ok": true,
       "usedUrl": "https://www.art-annual.jp/feed",
+      "errors": []
+    },
+    {
+      "name": "TOKION",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://tokion.jp/feed/",
       "errors": []
     },
     {
@@ -396,21 +396,21 @@
       "category": "cooking"
     },
     {
-      "title": "宇宙の死角をAIが暴く。紫外線を用いた初の全天マップが完成",
-      "url": "https://karapaia.com/archives/632728.html",
-      "date": "2026-10-18T09:00:00.000Z",
-      "summary": "宇宙の星や銀河を、地球から見上げた空全体で1枚に描いた「全天マップ」は、電波や赤外線、目に見える光など、さまざまな種類の光で作られてきた。だが、紫外線を用いた全天マップだけは、観測されていない空白が多く、穴だらけのままだった。2026年、AnthropicのAI「Claude」は…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
       "title": "薬が効かない殺人真菌が使っていた「予想外の生き残り術」とは",
       "url": "https://nazology.kusuguru.co.jp/archives/202050",
       "date": "2026-10-18T09:00:00.000Z",
       "summary": "冷蔵庫の奥で忘れられていた作り置きのふたを、恐る恐る開けた経験がある人は多いはずです。 カンジダ・アウリスという真菌(カビや酵母の仲間)は、世界の病院を悩ませている危険な病原体です。 ところがロンドンでは、検査で「薬が効く」と判定された菌に、実際には薬が効かないという事態が起きました。 菌は薬の中で、いったいどうやって生き延びていたのでしょうか。 その謎に迫る研究が、英エクセター大学らにより、査読前の論文として公開されています。 研究の",
       "source": "ナゾロジー",
       "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "宇宙の死角をAIが暴く。紫外線を用いた初の全天マップが完成",
+      "url": "https://karapaia.com/archives/632728.html",
+      "date": "2026-10-18T09:00:00.000Z",
+      "summary": "宇宙の星や銀河を、地球から見上げた空全体で1枚に描いた「全天マップ」は、電波や赤外線、目に見える光など、さまざまな種類の光で作られてきた。だが、紫外線を用いた全天マップだけは、観測されていない空白が多く、穴だらけのままだった。2026年、AnthropicのAI「Claude」は…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
     },
     {
@@ -882,15 +882,6 @@
       "category": "culture"
     },
     {
-      "title": "どういう感情で読んでいいか分からない～「ワタシってサバサバしてるから」（傑作選）",
-      "url": "https://dailyportalz.jp/kiji/book-review-hayashi01",
-      "date": "2026-10-17T09:00:00.000Z",
-      "summary": "ウェブ広告でよく見かける漫画をしっかり読み込みました。でも、主人公がこれまでにいないタイプの嫌なやつでどういう感情で読んでいいのかわかりません。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
       "title": "きゃりーぱみゅぱみゅ、「Pang Pang Pang」MV公開",
       "url": "https://ototoy.jp/news/132329",
       "date": "2026-10-17T09:00:00.000Z",
@@ -916,6 +907,15 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
+    },
+    {
+      "title": "どういう感情で読んでいいか分からない～「ワタシってサバサバしてるから」（傑作選）",
+      "url": "https://dailyportalz.jp/kiji/book-review-hayashi01",
+      "date": "2026-10-17T09:00:00.000Z",
+      "summary": "ウェブ広告でよく見かける漫画をしっかり読み込みました。でも、主人公がこれまでにいないタイプの嫌なやつでどういう感情で読んでいいのかわかりません。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
     },
     {
       "title": "バイキングの暴力を物語る「家の中の痕跡」を発見",
