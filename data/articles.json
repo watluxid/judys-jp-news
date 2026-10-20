@@ -1,21 +1,12 @@
 {
-  "generatedAt": "2026-10-20T11:49:57.738Z",
+  "generatedAt": "2026-10-20T17:19:19.790Z",
   "articleCount": 600,
   "feedStatus": [
     {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": false,
-      "usedUrl": null,
-      "errors": [
-        "https://ototoy.jp/rss → HTTP 503"
-      ]
-    },
-    {
-      "name": "NHKニュース（主要）",
+      "name": "NHKニュース（国際）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
       "errors": []
     },
     {
@@ -26,20 +17,6 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-      "errors": []
-    },
-    {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
-      "errors": []
-    },
-    {
       "name": "NHKニュース（科学・文化）",
       "category": "news",
       "ok": true,
@@ -47,10 +24,10 @@
       "errors": []
     },
     {
-      "name": "クックパッドニュース",
-      "category": "cooking",
+      "name": "NHKニュース（主要）",
+      "category": "news",
       "ok": true,
-      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
       "errors": []
     },
     {
@@ -61,17 +38,24 @@
       "errors": []
     },
     {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "errors": []
+    },
+    {
+      "name": "クックパッドニュース",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
+      "errors": []
+    },
+    {
       "name": "Mikiki（タワーレコード）",
       "category": "music",
       "ok": true,
       "usedUrl": "https://mikiki.tokyo.jp/list/feed/rss",
-      "errors": []
-    },
-    {
-      "name": "amass",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://amass.jp/rss/new",
       "errors": []
     },
     {
@@ -82,10 +66,10 @@
       "errors": []
     },
     {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
+      "name": "amass",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://sorae.info/feed",
+      "usedUrl": "https://amass.jp/rss/new",
       "errors": []
     },
     {
@@ -96,17 +80,10 @@
       "errors": []
     },
     {
-      "name": "デイリーポータルZ",
+      "name": "sorae（宇宙・天文）",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
-      "errors": []
-    },
-    {
-      "name": "リアルサウンド",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
+      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -117,10 +94,24 @@
       "errors": []
     },
     {
+      "name": "リアルサウンド",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://realsound.jp/atom.xml",
+      "errors": []
+    },
+    {
       "name": "アニメ！アニメ！（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://animeanime.jp/rss20/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "デイリーポータルZ",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -131,17 +122,17 @@
       "errors": []
     },
     {
+      "name": "和樂web",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://intojapanwaraku.com/feed",
+      "errors": []
+    },
+    {
       "name": "カラパイア",
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://karapaia.com/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "TOKION",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
       "errors": []
     },
     {
@@ -152,10 +143,10 @@
       "errors": []
     },
     {
-      "name": "和樂web",
+      "name": "TOKION",
       "category": "culture",
       "ok": true,
-      "usedUrl": "https://intojapanwaraku.com/feed",
+      "usedUrl": "https://tokion.jp/feed/",
       "errors": []
     },
     {
@@ -178,9 +169,61 @@
       "ok": true,
       "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
+    },
+    {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
+      "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "w.o.d. ニューアルバム『ふれる』収録楽曲公開 Instagramアカウントにて新企画スタートも",
+      "url": "https://realsound.jp/2026/10/post-2559057.html",
+      "date": "2026-10-21T00:00:57.000Z",
+      "summary": "w.o.d.が、11月18日にリリースするニューアルバム『ふれる』より、先行トラック「Feelin‘」を本日10月21日に配信リリース。また、アルバムの収録楽曲情報も公開となった。 本作には、2025年から26年にか",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "桑田佳祐、ライブアルバム『九段下フォーク・フェスティバル'25』より桜井和寿との「奇跡の地球」配信",
+      "url": "https://realsound.jp/2026/10/post-2558850.html",
+      "date": "2026-10-21T00:00:19.000Z",
+      "summary": "桑田佳祐が11月3日にリリースするライブアルバム『九段下フォーク・フェスティバル'25』より、4週連続先行配信の第3弾となる桜井和寿と桑田佳祐による「奇跡の地球（ほし）」を本日10月21日に先行配信した。 本楽曲は、",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ホット・チップ 新アルバム『A Long Way From Kansas』発売 新曲MVあり",
+      "url": "https://amass.jp/192532/",
+      "date": "2026-10-20T21:07:00.000Z",
+      "summary": "ホット・チップ（Hot Chip）は新アルバム『A Long Way From Kansas』を海外で2027年1月8日発売。新曲「Random Violence」のミュージックビデオが公開されています。 https://amass.jp/192532/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "スウェード 英TV番組で「Dancing With The Europeans」披露",
+      "url": "https://amass.jp/192531/",
+      "date": "2026-10-20T20:59:00.000Z",
+      "summary": "スウェードが英TV番組『The Graham Norton Show』に登場。アルバム『Antidepressants』から「Dancing With The Europeans」を披露しています。パフォーマンス映像あり https://amass.jp/192531/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ゲス・フーのランディ・バックマン、カール・ウィルソンからビーチ・ボーイズのメンバーにならないかと誘われていたことを明かす",
+      "url": "https://amass.jp/192530/",
+      "date": "2026-10-20T20:53:00.000Z",
+      "summary": "ゲス・フー等での活躍でも知られるランディ・バックマンは1980年頃、カール・ウィルソンからビーチ・ボーイズのメンバーにならないかと誘われていたことを明かしています。またギタリストとしてのカールは完全に過小評価されているとも語る https://amass.jp/192530/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "NOA、3rdアルバムリード曲「Last Kiss」ティザー映像公開 東京＆大阪で対面イベント開催も",
       "url": "https://realsound.jp/2026/10/post-2558974.html",
@@ -333,6 +376,24 @@
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
+    },
+    {
+      "title": "「吉田璋也のデザイン」",
+      "url": "https://bluediary2.jugem.jp/?eid=8225",
+      "date": "2026-10-20T12:40:00.000Z",
+      "summary": "パナソニック汐留美術館で開催中の 「吉田璋也のデザイン ― 新作民藝運動がめざした未来」展へ行って来ました。 https://panasonic.co.jp/ew/museum/ 民藝運動といえば、柳宗悦を筆頭に河井?次郎、濱田庄司の名前がよく知られています。 その一方で、民藝の理...",
+      "source": "青い日記帳（美術展）",
+      "sourceHomepage": "https://bluediary2.jugem.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "天王星と海王星は“双子”と言えるほど似てないかも？ 海王星が大移動した可能性を改めて示唆",
+      "url": "https://sorae.info/astronomy/20261020-uranus-and-neptune.html",
+      "date": "2026-10-20T12:22:08.000Z",
+      "summary": "エクス＝マルセイユ大学のTom Briand氏を筆頭とする研究チームは、天王星と海王星の大気の奥深くに含まれる炭素と酸素の推定量をもとに、両惑星を形づくった材料がどこでできたのかを調べた研究成果を発表しました。 地球と金…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
     },
     {
       "title": "香取慎吾×シソンヌ、コントライブ『シゴンヌ』2027年正月に日本武道館で開催 長谷川忍「耳を疑いました」",
@@ -1244,6 +1305,15 @@
       "category": "culture"
     },
     {
+      "title": "〈昭和歌謡パレード〉10/22は山内惠介ほか「推し」へのアツい思いを語る",
+      "url": "https://ototoy.jp/news/132335",
+      "date": "2026-10-19T08:00:00.000Z",
+      "summary": "BSフジ〈昭和歌謡パレード〉10月22日の出演者が発表された",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
       "title": "100円食材で絶品副菜！えのきとチーズのカリカリ焼き",
       "url": "https://news.cookpad.com/articles/66617",
       "date": "2026-10-19T08:00:00.000Z",
@@ -1278,6 +1348,15 @@
       "source": "和樂web",
       "sourceHomepage": "https://intojapanwaraku.com/",
       "category": "culture"
+    },
+    {
+      "title": "NHKで中森明菜特集3番組放送",
+      "url": "https://ototoy.jp/news/132334",
+      "date": "2026-10-19T06:00:00.000Z",
+      "summary": "NHKで中森明菜特集を3番組放送する",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
     },
     {
       "title": "2週間経ってもパリパリ！「キャベツ」を新鮮なまま長持ちさせる裏ワザ",
@@ -1370,6 +1449,15 @@
       "category": "otome"
     },
     {
+      "title": "今夜放送〈CDTVライブ！ライブ！〉10/19見どころ",
+      "url": "https://ototoy.jp/news/132333",
+      "date": "2026-10-19T03:00:00.000Z",
+      "summary": "10月19日放送のTBS〈CDTVライブ！ライブ！〉出演者と歌唱曲が発表された",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
       "title": "モフモフのハイランド牛が洗濯物に絡まりお化け牛に！",
       "url": "https://karapaia.com/archives/632626.html",
       "date": "2026-10-19T03:00:00.000Z",
@@ -1386,15 +1474,6 @@
       "source": "クックパッドニュース",
       "sourceHomepage": "https://news.cookpad.com/",
       "category": "cooking"
-    },
-    {
-      "title": "今夜放送〈CDTVライブ！ライブ！〉10/19見どころ",
-      "url": "https://ototoy.jp/news/132333",
-      "date": "2026-10-19T03:00:00.000Z",
-      "summary": "10月19日放送のTBS〈CDTVライブ！ライブ！〉出演者と歌唱曲が発表された",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
     },
     {
       "title": "福川伸陽はなぜ吹奏楽コンサートに挑んだのか? 世界的ホルン奏者がライブ盤となった〈フィルハーモニア・ウィンズ東京〉を語る福川伸陽『フィルハーモニア・ウィンズ東京 2026 ライヴ』 - インタビュー",
@@ -1487,6 +1566,15 @@
       "category": "documentary"
     },
     {
+      "title": "〈人生、歌がある〉10/24は「坂本冬美名場面集」",
+      "url": "https://ototoy.jp/news/132332",
+      "date": "2026-10-19T01:00:00.000Z",
+      "summary": "BS朝日〈人生、歌がある〉10月24日は「もう一度みたい この1曲！」コーナーと坂本冬美特集を放送する",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
       "title": "卵焼き器で焼ける！一口サイズ「柿のタルトタタン」",
       "url": "https://news.cookpad.com/articles/66065",
       "date": "2026-10-19T01:00:00.000Z",
@@ -1503,15 +1591,6 @@
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
-    },
-    {
-      "title": "〈人生、歌がある〉10/24は「坂本冬美名場面集」",
-      "url": "https://ototoy.jp/news/132332",
-      "date": "2026-10-19T01:00:00.000Z",
-      "summary": "BS朝日〈人生、歌がある〉10月24日は「もう一度みたい この1曲！」コーナーと坂本冬美特集を放送する",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
     },
     {
       "title": "辻希美、次女・夢空がウォーカーライダーで遊ぶ姿を笑顔で見守る 「ホントに成長が楽しみ」",
@@ -1946,15 +2025,6 @@
       "category": "culture"
     },
     {
-      "title": "やらかしちっち！ニンゲンに助けを求めてドアにすがりつくアライグマの子",
-      "url": "https://karapaia.com/archives/633465.html",
-      "date": "2026-10-18T03:00:00.000Z",
-      "summary": "頭にプラスチック容器がすっぽりとはまってしまったアライグマの子は、この窮地を脱出するため、人間のいる店のガラスドアの前にやってきた。そこで懸命に前足を動かして「助けてください」と猛アピールする。直ちに救出に向かった従業員たちの手により、容器を取り除くことに成功…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
       "title": "【ライブレポ】＝LOVEが届けた9年間の愛と感謝、そして夢の続きへ──「＝LOVE 9th ANNIVERSARY PREMIUM CONCERT」DAY1",
       "url": "https://ototoy.jp/news/132330",
       "date": "2026-10-18T03:00:00.000Z",
@@ -1962,6 +2032,15 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
+    },
+    {
+      "title": "やらかしちっち！ニンゲンに助けを求めてドアにすがりつくアライグマの子",
+      "url": "https://karapaia.com/archives/633465.html",
+      "date": "2026-10-18T03:00:00.000Z",
+      "summary": "頭にプラスチック容器がすっぽりとはまってしまったアライグマの子は、この窮地を脱出するため、人間のいる店のガラスドアの前にやってきた。そこで懸命に前足を動かして「助けてください」と猛アピールする。直ちに救出に向かった従業員たちの手により、容器を取り除くことに成功…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
     },
     {
       "title": "【ちょい足しで感激の味】いつもの豚汁が劇的にコクうまになる裏ワザ",
@@ -5499,87 +5578,6 @@
       "source": "ナゾロジー",
       "sourceHomepage": "https://nazology.kusuguru.co.jp/",
       "category": "documentary"
-    },
-    {
-      "title": "【オフィシャルレポ】桃井はるこ、新SG『みかんせい』発売記念イベント開催 リリース前の新曲にファンも息ぴったりのコールで応える",
-      "url": "https://ototoy.jp/news/132249",
-      "date": "2026-10-13T10:15:00.000Z",
-      "summary": "元祖アキバ系女王 ”モモーイ” こと桃井はるこが2026 年 10 月 11 日(日)東京・汐留シオサイト地下歩道にて、ニューシングル『みかんせい』の発売記念イベントを開催した",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "「結婚するって、本当ですか？」人の家にいきなり来て、こいつは一体なんなんだ『夏目アラタの結婚』【#14】",
-      "url": "https://hon-hikidashi.jp/book-person/201637/",
-      "date": "2026-10-13T10:10:42.000Z",
-      "summary": "あなたのすぐそばにも、こんな恐怖が潜んでいるかも――。「ほんのひきだし」では、幽霊よりも怖い「人」の狂気や、何気ない日常に忍び寄る違和感を描いたヒトコワ＆ホラー漫画を厳選しました。背筋がゾクッとする物語を、試し読みでお楽しみください。 今回ご紹介するのは、児童相談所に勤務する男性が連続殺人事件の死刑囚にプロポーズする 『夏目アラタの結婚』 です。 (adsbygoogle = window.adsbygoogle || []).push",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "みんなが就寝中、地震発生！？響き渡る爆音！果たして何が…『方舟』【#11】",
-      "url": "https://hon-hikidashi.jp/book-person/202681/",
-      "date": "2026-10-13T10:05:37.000Z",
-      "summary": "あなたのすぐそばにも、こんな恐怖が潜んでいるかも――。「ほんのひきだし」では、幽霊よりも怖い「人」の狂気や、何気ない日常に忍び寄る違和感を描いたヒトコワ＆ホラー漫画を厳選しました。背筋がゾクッとする物語を、試し読みでお楽しみください。 今回ご紹介するのは、水没寸前の地下建築に閉じ込められた9人が、脱出するために「殺人犯を生贄にしよう」とする極限のパニック・ミステリー 『方舟』 です。原作は夕木春央さんの同名ミステリー小説（講談社刊）で、",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "最先端の剣術と魔法を学べる学園は狭き門…入学の意志を問われた僕は…『転生聖騎士は二度目の人生で世界最強の魔剣士になる』【#5】",
-      "url": "https://hon-hikidashi.jp/book-person/205676/",
-      "date": "2026-10-13T10:00:13.000Z",
-      "summary": "実業之日本社より、 『転生聖騎士は二度目の人生で世界最強の魔剣士になる』第3巻 が10月15日（木）に発売されました。 剣技を極めて最年少で「聖騎士」となり現在の世で活躍していた一ノ瀬勇人は、刺客との闘いの最中に仲間をかばって絶命し、目覚めると貴族の子・リュカとして異世界に転生していました。奴隷の少女・エルと出会ったリュカは、彼女とともに剣術と魔法の訓練を積み、世界で唯一の学園である「ギャラリック学園」への入学、そして世界最強の魔剣士に",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "【オフィシャルレポ】shallm EP TOUR “ANTI AFTER SCHOOL” at Zepp Shinjuku──学生時代の想いを描いた、コンセプチュアルな一夜",
-      "url": "https://ototoy.jp/news/132247",
-      "date": "2026-10-13T10:00:00.000Z",
-      "summary": "作詞作曲を自ら行うlia（リア）によるバンドプロジェクト、shallm（シャルム）が10月８日（木）に東京・Zepp Shinjukuにて、全国ツアー「shallm EP TOUR “ANTI AFTER SCHOOL”」の初日公演を行った",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "ランジェリーや水着姿のグラビアアイドル写真集が10％OFFに！光文社＆ワニブックスのデジタル写真集特設サイトがオープン",
-      "url": "https://hon-hikidashi.jp/news/208370/",
-      "date": "2026-10-13T09:40:40.000Z",
-      "summary": "光文社は、創業80周年を記念し、ワニブックスと協業したデジタル写真集特設サイト「 グラビアセレクション（GRAVURE SELECTION） 」を10月13日（火）にオープンしました。光文社の公式ECサイト「kokode digital（ココデジ）」で購入することができます。 「グラビアセレクション」のオープンを記念して、10月13日（火）～10月26日（月）の期間、サイト内のデジタル写真集を全品10％OFFで購入することができます。さ",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "ショーン・レノン、異母兄ジュリアンと共にジョンから受け継いだ遺産に関する噂を否定",
-      "url": "https://amass.jp/192383/",
-      "date": "2026-10-13T09:39:00.000Z",
-      "summary": "ショーン・レノンは、Xのある投稿に反応し、異母兄ジュリアンに関する噂を否定。ジョンから受け継いだ遺産についてのもので「ジュリアンと僕は父から同じ額の遺産を相続した。信託財産も同額だった。彼のほうがほんの少し多かったけれど、誤差みたいなものだったよ」 https://amass.jp/192383/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "「びっくりしたよね…？」謝るいちごちゃんもかわいすぎるからノープロブレムにゃ！『デカ猫びっくらぶ 俺のオンナに手をだすにゃ』【#4】",
-      "url": "https://hon-hikidashi.jp/book-person/207725/",
-      "date": "2026-10-13T09:25:31.000Z",
-      "summary": "竹書房のコミックサイト「竹コミ！」で 『デカ猫びっくらぶ 俺のオンナに手をだすにゃ』 が好評発売中です。 本作は、普通の猫の2倍の大きさを誇るデカ猫・ゴンザレスと、天然ポンコツなアイドル・いちごちゃんの日常を描くコメディです。彼女を自分の恋人だと思い込むゴンザレスの、愛情も体格もずっしり重い毎日をぜひご覧ください。 (adsbygoogle = window.adsbygoogle || []).push({}); 試し読み【#4】 〉",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "うつろな眼で指をくわえる！ミスマガ出身女優・大島璃乃1st写真集『RiNo』の表紙カットが解禁",
-      "url": "https://hon-hikidashi.jp/news/208362/",
-      "date": "2026-10-13T09:20:57.000Z",
-      "summary": "「ミスマガジン2021」出身で、女優・モデル・グラビアアイドルとしてマルチに躍進する大島璃乃さんんの1st写真集『 RiNo 』の表紙カットが解禁されました。同写真集は11月4日（水）に講談社より発売されます。 表紙カット ©西條彰仁／講談社 同写真集のロケ地は、真夏の沖縄本島と、大島璃乃さんの出身地である群馬県桐生市。桐生市では織物の町として栄えた歴史を感じさせるレトロな街並みを舞台に、大島さん自身の行きつけであるコーヒーショップや、",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
     }
   ]
 }
