@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-10-20T17:19:19.790Z",
+  "generatedAt": "2026-10-20T21:43:00.102Z",
   "articleCount": 600,
   "feedStatus": [
+    {
+      "name": "NHKニュース（主要）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+      "errors": []
+    },
+    {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "errors": []
+    },
     {
       "name": "NHKニュース（国際）",
       "category": "news",
@@ -17,17 +31,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（科学・文化）",
-      "category": "news",
+      "name": "クックパッドニュース",
+      "category": "cooking",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（主要）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
       "errors": []
     },
     {
@@ -38,17 +45,10 @@
       "errors": []
     },
     {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
       "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
-      "errors": []
-    },
-    {
-      "name": "クックパッドニュース",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://news.cookpad.com/feeds/news.rss",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -101,13 +101,6 @@
       "errors": []
     },
     {
-      "name": "アニメ！アニメ！（乙女ゲーム関連）",
-      "category": "otome",
-      "ok": true,
-      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
       "name": "デイリーポータルZ",
       "category": "documentary",
       "ok": true,
@@ -115,24 +108,24 @@
       "errors": []
     },
     {
+      "name": "アニメ！アニメ！（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
+      "errors": []
+    },
+    {
       "name": "CINRA",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://www.cinra.net/feed",
-      "errors": []
-    },
-    {
-      "name": "和樂web",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://intojapanwaraku.com/feed",
-      "errors": []
-    },
-    {
-      "name": "カラパイア",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
       "errors": []
     },
     {
@@ -150,10 +143,17 @@
       "errors": []
     },
     {
-      "name": "ほんのひきだし（本・出版）",
+      "name": "和樂web",
       "category": "culture",
       "ok": true,
-      "usedUrl": "https://hon-hikidashi.jp/feed/",
+      "usedUrl": "https://intojapanwaraku.com/feed",
+      "errors": []
+    },
+    {
+      "name": "カラパイア",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://karapaia.com/index.rdf",
       "errors": []
     },
     {
@@ -164,21 +164,39 @@
       "errors": []
     },
     {
+      "name": "ほんのひきだし（本・出版）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://hon-hikidashi.jp/feed/",
+      "errors": []
+    },
+    {
       "name": "青い日記帳（美術展）",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
-    },
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
-      "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "新着MVランキング：M!LK、雨の『ロッキン』で示した「アイドルパワー」 人気トップ10に4作、映像でも際立つ地力",
+      "url": "https://realsound.jp/2026/10/post-2558019.html",
+      "date": "2026-10-21T05:50:41.000Z",
+      "summary": "毎週更新される「YouTube Music Charts」ウィークリー ミュージック ビデオ ランキングより、MVをはじめとした音楽関連の新着動画から上位10作品／楽曲を取り上げ、ランキング化＆レビューしていく連載「MV Chart Focus」。今週は首位を獲得した、M!LK「アイドルパワー」の『ROCK IN JAPAN FESTIVAL 2026』ライブ映像を取り上げる。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "木村拓哉、『クリア アサヒ＜生＞』新TVCM出演 “注ぎたて”の生ビールのおいしさを全身で表現",
+      "url": "https://realsound.jp/2026/10/post-2558384.html",
+      "date": "2026-10-21T04:00:21.000Z",
+      "summary": "木村拓哉が、10月27日より放送の『クリア アサヒ＜生＞』の新TVCM『クリア、Ready？』篇に出演する。 本CMは、木村が「クリア アサヒが生ビールになった」と話しながらビールサーバーから注ぐシーンからスタート。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
     {
       "title": "w.o.d. ニューアルバム『ふれる』収録楽曲公開 Instagramアカウントにて新企画スタートも",
       "url": "https://realsound.jp/2026/10/post-2559057.html",
@@ -205,6 +223,15 @@
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
+    },
+    {
+      "title": "2026年10月21日：本日発売のコミック新刊",
+      "url": "https://hon-hikidashi.jp/news/209887/",
+      "date": "2026-10-20T21:00:07.000Z",
+      "summary": "2026年10月21日（水）発売のコミック単行本をお知らせします。 〉 過去の日付のコミック新刊はこちら (adsbygoogle = window.adsbygoogle || []).push({}); 小学館 UMEZZ AUTHENTIC COLLECTION ・ ［定本］漂流教室（3） （楳図かずお） アルファポリス発行／星雲社発売 アルファポリスCOMICS ・ 前世は冷酷皇帝、今世は幼女（3） （遊喜じろう、まさキチ） ・",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
     },
     {
       "title": "スウェード 英TV番組で「Dancing With The Europeans」披露",
@@ -567,21 +594,21 @@
       "category": "documentary"
     },
     {
-      "title": "全長4mの威圧感。電動と油圧で動く巨大ロボットが中国でお披露目",
-      "url": "https://karapaia.com/archives/633817.html",
-      "date": "2026-10-20T09:00:00.000Z",
-      "summary": "まるでSF映画から飛び出してきたかのような、圧倒的な存在感を放つ巨大ロボットが中国で公開された。北京のロボット企業「NeodraDynamics」が開発した「Neo1」は、全高約4m、重量1.2トンに達する。電動と油圧を組み合わせたハイブリッド駆動により…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
       "title": "史上初の「緑色の星」を発見、白色矮星はカラフルだったと判明",
       "url": "https://nazology.kusuguru.co.jp/archives/202530",
       "date": "2026-10-20T09:00:00.000Z",
       "summary": "子どもの頃、夜空の星にも色があると聞いて、目を凝らして赤い星や青い星を探したことがある人もいるかもしれません。 夜空には、太陽のような星が一生の最後に残す「白色矮星(はくしょくわいせい)」という小さな星がたくさんあります。 名前からは白く光る星を思い浮かべますが、天文学の世界では、むしろ青みがかった星として語られることが多くありました。 しかし、すぐそばまで近づいて自分の目で見たらどんな色なのかは、誰も確かめたことがありません。 そこで",
       "source": "ナゾロジー",
       "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "全長4mの威圧感。電動と油圧で動く巨大ロボットが中国でお披露目",
+      "url": "https://karapaia.com/archives/633817.html",
+      "date": "2026-10-20T09:00:00.000Z",
+      "summary": "まるでSF映画から飛び出してきたかのような、圧倒的な存在感を放つ巨大ロボットが中国で公開された。北京のロボット企業「NeodraDynamics」が開発した「Neo1」は、全高約4m、重量1.2トンに達する。電動と油圧を組み合わせたハイブリッド駆動により…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
     },
     {
@@ -5551,33 +5578,6 @@
       "source": "クックパッドニュース",
       "sourceHomepage": "https://news.cookpad.com/",
       "category": "cooking"
-    },
-    {
-      "title": "2100年までに人類の生存を脅かす17の危機。AI悪用と核戦争は人類絶滅の可能性も",
-      "url": "https://karapaia.com/archives/632647.html",
-      "date": "2026-10-13T11:30:00.000Z",
-      "summary": "2101年から始まる22世紀まであと75年となった。すでに混沌とした世界情勢が続いているが、人類は22世紀を無事迎えることができるのだろうか？権威ある医学誌『The Lancet』の委員会を構成する世界の専門家たちが、21世紀中に人類の生存を脅かす17の「壊滅的な脅威」を特定し警告を発した…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
-      "title": "the bercedes menz、謎めく新曲リリース",
-      "url": "https://ototoy.jp/news/132241",
-      "date": "2026-10-13T11:00:00.000Z",
-      "summary": "the bercedes menzが2026年10月14日(水)にニューシングル「Next Satan’s Hint」をリリースした",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "AI開発で問題になっている「蒸留」という手口とは",
-      "url": "https://nazology.kusuguru.co.jp/archives/201261",
-      "date": "2026-10-13T10:30:00.000Z",
-      "summary": "資料作りをAIに任せて、画面の「思考中」の文字を眺めながらコーヒーをすする時間は、今やすっかりおなじみの光景です。 いまAI業界では、他社のAIの答えを大量に集めて、安くそっくりなAIを作る「蒸留」という手口が問題になっています。 米国のAI企業AnthropicとOpenAIは、中国のAI開発者がこの手口で自社のモデルをまねていると非難しました。 さらに大手各社は自社の技術を守るため、AIが答えの前に組み立てる「考えの道筋」を暗号にし",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
     }
   ]
 }
