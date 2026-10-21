@@ -1,15 +1,40 @@
 {
-  "generatedAt": "2026-10-21T12:01:42.778Z",
+  "generatedAt": "2026-10-21T17:21:33.102Z",
   "articleCount": 600,
   "feedStatus": [
     {
-      "name": "Art Annual online（美術）",
+      "name": "インサイド（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": false,
+      "usedUrl": null,
+      "errors": [
+        "https://www.inside-games.jp/rss20/index.rdf → HTTP 503"
+      ]
+    },
+    {
+      "name": "CINRA",
       "category": "culture",
       "ok": false,
       "usedUrl": null,
       "errors": [
-        "https://www.art-annual.jp/feed → fetch failed"
+        "https://www.cinra.net/feed → HTTP 503"
       ]
+    },
+    {
+      "name": "アニメ！アニメ！（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": false,
+      "usedUrl": null,
+      "errors": [
+        "https://animeanime.jp/rss20/index.rdf → HTTP 503"
+      ]
+    },
+    {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "errors": []
     },
     {
       "name": "NHKニュース（主要）",
@@ -23,6 +48,13 @@
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（社会）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
       "errors": []
     },
     {
@@ -40,13 +72,6 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（科学・文化）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-      "errors": []
-    },
-    {
       "name": "つくおき",
       "category": "cooking",
       "ok": true,
@@ -58,13 +83,6 @@
       "category": "music",
       "ok": true,
       "usedUrl": "https://mikiki.tokyo.jp/list/feed/rss",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（社会）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
       "errors": []
     },
     {
@@ -96,10 +114,10 @@
       "errors": []
     },
     {
-      "name": "インサイド（乙女ゲーム関連）",
-      "category": "otome",
+      "name": "デイリーポータルZ",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -110,17 +128,10 @@
       "errors": []
     },
     {
-      "name": "アニメ！アニメ！（乙女ゲーム関連）",
-      "category": "otome",
+      "name": "OTOTOY",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "usedUrl": "https://ototoy.jp/rss",
       "errors": []
     },
     {
@@ -131,17 +142,10 @@
       "errors": []
     },
     {
-      "name": "CINRA",
+      "name": "TOKION",
       "category": "culture",
       "ok": true,
-      "usedUrl": "https://www.cinra.net/feed",
-      "errors": []
-    },
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
+      "usedUrl": "https://tokion.jp/feed/",
       "errors": []
     },
     {
@@ -159,17 +163,17 @@
       "errors": []
     },
     {
-      "name": "TOKION",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
-      "errors": []
-    },
-    {
       "name": "ほんのひきだし（本・出版）",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://hon-hikidashi.jp/feed/",
+      "errors": []
+    },
+    {
+      "name": "Art Annual online（美術）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://www.art-annual.jp/feed",
       "errors": []
     },
     {
@@ -182,12 +186,39 @@
   ],
   "articles": [
     {
+      "title": "オフスプリングのヌードルズ「かなり深刻な健康上の問題に対処するため」、しばらくの間、ライヴ活動を休止すると発表",
+      "url": "https://amass.jp/192557/",
+      "date": "2026-10-22T01:27:00.000Z",
+      "summary": "オフスプリングは、ヌードルズが「突然の、かなり深刻な健康上の問題に対処するため、しばらくの間、ライヴ活動を休止しなければならなくなった」と発表しています。 https://amass.jp/192557/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "人気ミュージカル・ドラマ『glee/グリー』のリブート版が制作決定 米国ではHuluとDisney+で配信",
+      "url": "https://amass.jp/192556/",
+      "date": "2026-10-22T00:36:00.000Z",
+      "summary": "米国の人気ミュージカル・ドラマ『glee/グリー』のリブート版の制作が正式決定。米国ではHuluとDisney+で配信される予定 https://amass.jp/192556/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
       "title": "テキサス 『White on Blonde』30周年記念で新曲「Another Way To Cry」公開",
       "url": "https://amass.jp/192555/",
       "date": "2026-10-21T21:01:00.000Z",
       "summary": "スコットランドのロックバンド、テキサス。アルバム『White on Blonde』の発売30周年を記念して新曲「Another Way To Cry」をリリース。ミュージックビデオ公開。また同作の全曲演奏ライヴや30周年記念エディションの発売も発表 https://amass.jp/192555/",
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "やまもとはると、EP『みつけた気持ち』より「伝えにいくよ」先行配信 リリックビデオも公開",
+      "url": "https://realsound.jp/2026/10/post-2559991.html",
+      "date": "2026-10-21T21:00:41.000Z",
+      "summary": "やまもとはるとが、11月11日にリリースするEP『みつけた気持ち』の収録曲「伝えにいくよ」を本日先行配信リリース。あわせて、レコーディング時の映像を用いたリリックビデオがYouTubeにて公開された。 本楽曲は、同じ",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
       "category": "music"
     },
     {
@@ -279,6 +310,15 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "星々がきらめく美しき光の帯 ハッブル宇宙望遠鏡が観測した渦巻銀河「NGC 1827」",
+      "url": "https://sorae.info/astronomy/20261021-ngc-1827.html",
+      "date": "2026-10-21T14:49:53.000Z",
+      "summary": "こちらは、ハッブル宇宙望遠鏡が観測した渦巻銀河「NGC 1827」。はと座の方向、地球から約3700万光年先にあります。 輝く帯のように美しい真横から見た渦巻銀河 画像の右上から左下へ、斜めに横切る細長い光の帯として見え…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
     },
     {
       "title": "Creepy Nuts、新曲「トムとジェリーとヘイターと私」配信リリース YouTubeでフル尺音源も公開",
@@ -380,7 +420,7 @@
       "category": "music"
     },
     {
-      "title": "打ち上げ成功。日本の探査機MMXが火星の衛星ファボス目指していざ出陣！",
+      "title": "打ち上げ成功。日本の探査機MMXが火星の衛星フォボス目指していざ出陣！",
       "url": "https://karapaia.com/archives/634010.html",
       "date": "2026-10-21T11:30:00.000Z",
       "summary": "火星の衛星「フォボス」をめざして、日本の探査機がついに旅立った。2026年10月20日の夜明け前、JAXAの火星衛星探査機MMXが鹿児島県の種子島宇宙センターからH3ロケットで打ち上げられ、火星へ向かう軌道に乗せることに成功した。MMXは火フォボスに降り立って表面の砂を採取し…",
@@ -524,15 +564,6 @@
       "category": "documentary"
     },
     {
-      "title": "街路樹をペットのように世話をする。ドイツ・ベルリンの水やりアプリ",
-      "url": "https://karapaia.com/archives/633769.html",
-      "date": "2026-10-21T09:00:00.000Z",
-      "summary": "2026年、記録的な猛暑となったドイツ・ベルリンで、街路樹をまるでペットのように世話できるアプリが大活躍している。市民はアプリの地図上で自分が住む地域の木をペット（養子）として迎え、水分量のアドバイスに従って自らの手で水を与えていく…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
       "title": "【連載コラム】遊津場の関西アーティスト週報vol.128「10年代の邦ロック×現代の京阪神ライブハウスシーンを合わせたアルバム！mogari」",
       "url": "https://ototoy.jp/news/132362",
       "date": "2026-10-21T09:00:00.000Z",
@@ -558,6 +589,15 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
+    },
+    {
+      "title": "街路樹をペットのように世話をする。ドイツ・ベルリンの水やりアプリ",
+      "url": "https://karapaia.com/archives/633769.html",
+      "date": "2026-10-21T09:00:00.000Z",
+      "summary": "2026年、記録的な猛暑となったドイツ・ベルリンで、街路樹をまるでペットのように世話できるアプリが大活躍している。市民はアプリの地図上で自分が住む地域の木をペット（養子）として迎え、水分量のアドバイスに従って自らの手で水を与えていく…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
     },
     {
       "title": "「情報をエネルギーに変える」マクスウェルの悪魔、液体の“記憶”まで使えると実験で判明",
@@ -5544,42 +5584,6 @@
       "source": "青い日記帳（美術展）",
       "sourceHomepage": "https://bluediary2.jugem.jp/",
       "category": "culture"
-    },
-    {
-      "title": "HINONABE、1stフルアルバム『LOOP』リリース 「浮き輪」など収録曲のスタジオライブ映像も公開",
-      "url": "https://realsound.jp/2026/10/post-2552886.html",
-      "date": "2026-10-14T12:32:53.000Z",
-      "summary": "HINONABEが、1stフルアルバム『LOOP』を本日10月14日にリリースした。 本作には、過去にリリースされた「おさがり」「Need more Sleep」などを再レコーディングしたバージョン（Loop Sty",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "ちゃんみな、ニューアルバム『LEGEND』配信＆CDでリリース 誕生日の本日にタイトル曲を先行配信",
-      "url": "https://realsound.jp/2026/10/post-2552889.html",
-      "date": "2026-10-14T12:17:47.000Z",
-      "summary": "ちゃんみなが、最新アルバム『LEGEND』を11月11日に配信、12月16日にCDパッケージでリリースする。あわせて自身の誕生日である本日10月14日に、アルバムからの先行配信曲でタイトルトラックの「LEGEND」の配",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "乃木坂46 遠藤さくらが人を惹きつける理由とは 賀喜遥香らが明かした意外な素顔、自然体の奥にある優しさ",
-      "url": "https://realsound.jp/2026/10/post-2551498.html",
-      "date": "2026-10-14T12:10:32.000Z",
-      "summary": "乃木坂46の中心メンバーとして活躍する遠藤さくら。『乃木坂工事中』の「さくちゃん捜査会議」では、賀喜遥香らの証言から意外な素顔が次々と明らかに。本稿では、齋藤飛鳥から受け取った「さくらはさくらだから」という言葉も振り返りながら、自然体の遠藤が人を惹きつける理由を考える。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "YOASOBI、連続テレビ小説『ブラッサム』主題歌「咲き誇れ」MV公開 藍にいな＆刈谷暢秀が制作",
-      "url": "https://realsound.jp/2026/10/post-2552857.html",
-      "date": "2026-10-14T12:07:12.000Z",
-      "summary": "YOASOBIの新曲で連続テレビ小説『ブラッサム』主題歌の「咲き誇れ」MVが、配信リリース日である本日10月14日20時に公開される。 YOASOBI「咲き誇れ」Official Music Video / NHK連続",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
     }
   ]
 }
