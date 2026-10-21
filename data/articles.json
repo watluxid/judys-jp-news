@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-10-21T05:00:29.569Z",
+  "generatedAt": "2026-10-21T12:01:42.778Z",
   "articleCount": 600,
   "feedStatus": [
+    {
+      "name": "Art Annual online（美術）",
+      "category": "culture",
+      "ok": false,
+      "usedUrl": null,
+      "errors": [
+        "https://www.art-annual.jp/feed → fetch failed"
+      ]
+    },
     {
       "name": "NHKニュース（主要）",
       "category": "news",
@@ -17,17 +26,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（科学・文化）",
-      "category": "news",
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（社会）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -38,17 +40,17 @@
       "errors": []
     },
     {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "errors": []
+    },
+    {
       "name": "つくおき",
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://cookien.com/feed/",
-      "errors": []
-    },
-    {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -59,10 +61,10 @@
       "errors": []
     },
     {
-      "name": "メシ通（ホットペッパーグルメ）",
-      "category": "cooking",
+      "name": "NHKニュース（社会）",
+      "category": "news",
       "ok": true,
-      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
       "errors": []
     },
     {
@@ -73,6 +75,13 @@
       "errors": []
     },
     {
+      "name": "メシ通（ホットペッパーグルメ）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
+      "errors": []
+    },
+    {
       "name": "4Gamer（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
@@ -80,10 +89,10 @@
       "errors": []
     },
     {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
+      "name": "リアルサウンド",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://sorae.info/feed",
+      "usedUrl": "https://realsound.jp/atom.xml",
       "errors": []
     },
     {
@@ -91,6 +100,13 @@
       "category": "otome",
       "ok": true,
       "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -108,6 +124,13 @@
       "errors": []
     },
     {
+      "name": "カラパイア",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://karapaia.com/index.rdf",
+      "errors": []
+    },
+    {
       "name": "CINRA",
       "category": "culture",
       "ok": true,
@@ -115,17 +138,10 @@
       "errors": []
     },
     {
-      "name": "リアルサウンド",
+      "name": "OTOTOY",
       "category": "music",
       "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
-      "errors": []
-    },
-    {
-      "name": "カラパイア",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
+      "usedUrl": "https://ototoy.jp/rss",
       "errors": []
     },
     {
@@ -150,10 +166,10 @@
       "errors": []
     },
     {
-      "name": "Art Annual online（美術）",
+      "name": "ほんのひきだし（本・出版）",
       "category": "culture",
       "ok": true,
-      "usedUrl": "https://www.art-annual.jp/feed",
+      "usedUrl": "https://hon-hikidashi.jp/feed/",
       "errors": []
     },
     {
@@ -162,23 +178,108 @@
       "ok": true,
       "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
-    },
-    {
-      "name": "ほんのひきだし（本・出版）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://hon-hikidashi.jp/feed/",
-      "errors": []
-    },
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
-      "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "テキサス 『White on Blonde』30周年記念で新曲「Another Way To Cry」公開",
+      "url": "https://amass.jp/192555/",
+      "date": "2026-10-21T21:01:00.000Z",
+      "summary": "スコットランドのロックバンド、テキサス。アルバム『White on Blonde』の発売30周年を記念して新曲「Another Way To Cry」をリリース。ミュージックビデオ公開。また同作の全曲演奏ライヴや30周年記念エディションの発売も発表 https://amass.jp/192555/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ヘイルストームのリジー・ヘイル、バンドのツアーバス内部を自ら紹介 映像公開",
+      "url": "https://amass.jp/192554/",
+      "date": "2026-10-21T20:49:00.000Z",
+      "summary": "ヘイルストームのリジー・ヘイルがバンドのツアーバス内部の様子を自ら紹介。バンドのツアーバスをメンバー自ら紹介するDigital Tour Busの映像シリーズ「BUS INVADERS」の新作はヘイルストーム編 https://amass.jp/192554/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ジェーン・バーキンの娘ルー・ドワイヨン 新シングル「I try my best」のミュージックビデオ公開",
+      "url": "https://amass.jp/192553/",
+      "date": "2026-10-21T20:39:00.000Z",
+      "summary": "ジェーン・バーキンの娘で、シャルロット・ゲンズブールの異父妹にあたる、フランスの女優／シンガーソングライター／モデル、ルー・ドワイヨン。新シングル「I try my best」をリリース。ミュージックビデオも公開されています https://amass.jp/192553/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "リー・リトナー、クインシー・ジョーンズから真夜中に呼び出され、誤って消去されたジョージ・ベンソンが弾いたソロを内緒で録り直したことを回想",
+      "url": "https://amass.jp/192552/",
+      "date": "2026-10-21T20:30:00.000Z",
+      "summary": "リー・リトナーはクインシー・ジョーンズから真夜中に緊急事態だと呼び出されたことを回想。スタッフがジョージ・ベンソンが弾いたソロを誤って消去。リーは代役でそのソロをジョージには内緒で録り直す。以降20年間、秘密にしていたリーはある日、ジョージに打ち明ける https://amass.jp/192552/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "L'Arc-en-Ciel、Ado、THE STROKES、BUMP OF CHICKEN....『SUMMER SONIC 2026』豪華アクトを振り返る",
+      "url": "https://realsound.jp/2026/10/post-2550154.html",
+      "date": "2026-10-21T20:00:16.000Z",
+      "summary": "L'Arc-en-Ciel、サカナクション、BUMP OF CHICKEN、THE STROKESら『SUMMER SONIC 2026』のステージを振り返る。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "80年代のドイツ・アンダーグラウンド映画を紹介する上映プロジェクト『DUF』始動 開幕イベントが11月に東京・大阪で開催",
+      "url": "https://amass.jp/192551/",
+      "date": "2026-10-21T19:23:00.000Z",
+      "summary": "80年代のドイツ・アンダーグラウンド映画を紹介する上映プロジェクト『DUF』始動。ベルリン拠点のマガジン『RISIKO』が手掛ける映画プロジェクトで、開幕イベントが11月に東京・大阪で開催。初回のテーマは「79〜89年のベルリン・アンダーグラウンド」 https://amass.jp/192551/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "リック・ウェイクマン、スティーヴン・ホーキングのブラックホール講演を基に制作されたオーケストラ共演大曲をライヴ初披露",
+      "url": "https://amass.jp/192550/",
+      "date": "2026-10-21T18:58:00.000Z",
+      "summary": "リック・ウェイクマンは“車椅子の物理学者”スティーヴン・ホーキングがかつて行ったブラックホールに関する歴史的な講演を基に制作された、壮大なオーケストラ構成と宇宙をめぐる物語を融合させた大曲をライヴ初披露。さらにビートルズ名曲を大胆な再解釈で演奏。映像有 https://amass.jp/192550/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "アソビシステム、沖縄のColor'sと業務提携 共同レッスンコースを開設し次世代人材を育成",
+      "url": "https://realsound.jp/2026/10/post-2559782.html",
+      "date": "2026-10-21T18:18:12.000Z",
+      "summary": "アソビシステム株式会社と株式会社Color'sが業務提携し、沖縄県内で共同のレッスンコースを開設することが発表された。 本コースは、アーティスト、アイドル、モデル、タレントなど、エンターテインメントの世界で活躍を目指",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ずっと真夜中でいいのに。“古都の記憶”との美しい交差 平城宮跡での歴史的公演『文禍伝雷』をFM802 DJ 樋口大喜が振り返る",
+      "url": "https://realsound.jp/2026/10/post-2559095.html",
+      "date": "2026-10-21T18:00:12.000Z",
+      "summary": "ずっと真夜中でいいのに。が奈良県・平城宮跡歴史公園にて特別公演祭『LEGACY ZOMBIE LABO「文禍伝雷」』を開催した。公演2日目の10月11日、会場内「祭Area」のMCと開演前の影ナレーションを担当したFM802 DJ・樋口大喜が、当日の模様をライブレポートで振り返る。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "CoCo.Jee、the BL00M、mukeikaku、ZトN、SAEKI HOSHIYA……【TuneCore Japan コラボ】次世代アーティスト紹介 Vol.15",
+      "url": "https://realsound.jp/2026/10/post-2559261.html",
+      "date": "2026-10-21T18:00:11.000Z",
+      "summary": "TuneCore Japanとリアルサウンドがコラボレーションし、インディペンデントアーティストの楽曲プロモーションをサポートする企画「MEDIA NETWORK」が始動。本企画では、注目すべき次世代アーティストたちの独自性や魅力について、より音楽的な視点からレビューしていく。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "This is LASTが日本武道館へ忘れずに連れて行った“あの日の感覚” 今を生き、未来へ向かうバンドの通過点",
+      "url": "https://realsound.jp/2026/10/post-2558889.html",
+      "date": "2026-10-21T17:30:24.000Z",
+      "summary": "This is LASTが自身初となる日本武道館でのワンマンライブ『This is LAST one man live at 日本武道館 \"通過点\"』を10月15日に開催。注釈付指定席に至るまでチケットが完売した同公演の模様を振り返る。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
     {
       "title": "Creepy Nuts、新曲「トムとジェリーとヘイターと私」配信リリース YouTubeでフル尺音源も公開",
       "url": "https://realsound.jp/2026/10/post-2559565.html",
@@ -252,6 +353,15 @@
       "category": "music"
     },
     {
+      "title": "西川貴教、熱量溢れる新曲「残響≠ブラスター」MV公開",
+      "url": "https://ototoy.jp/news/132364",
+      "date": "2026-10-21T12:00:00.000Z",
+      "summary": "西川貴教が2026年10月4日(日)にリリースしたニューシングル「残響≠ブラスター」のミュージックビデオを公開した",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
       "title": "公式検定企画『バック・トゥ・ザ・フューチャー検定』2027年春開催",
       "url": "https://amass.jp/192539/",
       "date": "2026-10-21T11:54:00.000Z",
@@ -270,6 +380,60 @@
       "category": "music"
     },
     {
+      "title": "打ち上げ成功。日本の探査機MMXが火星の衛星ファボス目指していざ出陣！",
+      "url": "https://karapaia.com/archives/634010.html",
+      "date": "2026-10-21T11:30:00.000Z",
+      "summary": "火星の衛星「フォボス」をめざして、日本の探査機がついに旅立った。2026年10月20日の夜明け前、JAXAの火星衛星探査機MMXが鹿児島県の種子島宇宙センターからH3ロケットで打ち上げられ、火星へ向かう軌道に乗せることに成功した。MMXは火フォボスに降り立って表面の砂を採取し…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
+      "title": "トカゲが「しっぽ切り」をした瞬間が9900万年前の琥珀に残っていた――初の化石証拠",
+      "url": "https://nazology.kusuguru.co.jp/archives/203104",
+      "date": "2026-10-21T11:00:34.000Z",
+      "summary": "イスラエルのテルアビブ大学（TAU）などで行われた研究によって、9900万年前の琥珀に閉じ込められていたトカゲのしっぽが、身を守るために自分で切り離したものだったことが明らかになりました。 切り口に、トカゲが自分でしっぽを切ったときにしかできない、特徴的な筋肉の形が残っていたのです。 自分でしっぽを切ったと言い切れる化石が見つかったのは、トカゲに限らず、背骨のある動物でこれが初めてです。 責任著者のレオニダス＝ロマノス・ダヴラノグル氏は",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "昨日あんまり眠れなかったけど、安定剤も飲んだし大丈夫…今日も求められる自分を演じなきゃ『喫茶牢獄』【#11】",
+      "url": "https://hon-hikidashi.jp/book-person/209307/",
+      "date": "2026-10-21T10:45:57.000Z",
+      "summary": "集英社より、 『喫茶牢獄』第2巻 が10月19日（月）に発売されました。 引きこもり気味でメンタル療養中の小説家・コモリは、心を病んだ者しか入れないカフェ「喫茶牢獄」で、反逆罪により労働刑に処せられている悪魔・ダンと出会います。自分の境遇を話すダンの意味不明な説明に混乱するコモリでしたが、彼と話すとなぜか安心することに気づきます。 今回は、第1話～第3話の試し読みを配信します。作品が気になった方はぜひ、店頭でお買い求めください。 (ad",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "黄色ランジェリーの肌にペインティング？コスプレイヤー＆グラドルの小倉あずさが完璧な“黄金比ボディ”で魅せる『週刊SPA！』11月4号が本日10月21日に発売",
+      "url": "https://hon-hikidashi.jp/news/212598/",
+      "date": "2026-10-21T10:35:08.000Z",
+      "summary": "コスプレイヤー＆グラドルの小倉あずささんが完璧な“黄金比ボディ”で魅せる 『週刊SPA！』11月4日号 が本日10月21日（水）に発売されました。発売を記念して、表紙および誌面カットが公開されました。 誌面カット【6】 撮影／恵原祐二 ヘアメイク／塩田結香（JULLY） スタイリング／工藤沙恵（ミタケイショウ） 『週刊SPA！』11月4日号のほかの画像を見る コスプレイヤー＆グラドルの小倉あずささんが贈るのは、秋の芸術欲をかき立てる“ア",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "「いったい何が起きているの…？」女の子に人気の彼と出会うのは、2年後のはずだったのに…『やり直せるみたいなので、今度こそ憧れの侍女を目指します！』【#13】",
+      "url": "https://hon-hikidashi.jp/book-person/206237/",
+      "date": "2026-10-21T10:30:20.000Z",
+      "summary": "もし人生をもう一度やり直せるとしたら、あなたは何を変えますか？ 「ほんのひきだし」では、過去の後悔や失敗を抱えながらも、「今度こそ間違えない」と新たな人生に挑む主人公たちの物語を特集します。人生リベンジ、死に戻り、転生など、やり直しをテーマにした注目作を集めました。 今回ご紹介するのはキルタイムコミュニケーションの 『やり直せるみたいなので、今度こそ憧れの侍女を目指します！』 です。作品が気になった方はぜひお買い求めください。 (ads",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "メガネっ子の爆発美ボディ！コスプレイヤー＆グラドルの小倉あずさが完璧な“黄金比ボディ”で魅せる『週刊SPA！』11月4号が本日10月21日に発売",
+      "url": "https://hon-hikidashi.jp/news/212595/",
+      "date": "2026-10-21T10:30:07.000Z",
+      "summary": "コスプレイヤー＆グラドルの小倉あずささんが完璧な“黄金比ボディ”で魅せる 『週刊SPA！』11月4日号 が本日10月21日（水）に発売されました。発売を記念して、表紙および誌面カットが公開されました。 誌面カット【5】 撮影／恵原祐二 ヘアメイク／塩田結香（JULLY） スタイリング／工藤沙恵（ミタケイショウ） 『週刊SPA！』11月4日号のほかの画像を見る コスプレイヤー＆グラドルの小倉あずささんが贈るのは、秋の芸術欲をかき立てる“ア",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
       "title": "ジョン・ボン・ジョヴィ、声を取り戻すまでの4年間を回想／「今の声の調子は最高。歌うことに意識を集中しなくても自然に歌えるようになったのが嬉しい」",
       "url": "https://amass.jp/192537/",
       "date": "2026-10-21T10:27:00.000Z",
@@ -279,6 +443,204 @@
       "category": "music"
     },
     {
+      "title": "清純派の黒のハイレグランジェリー！「ミスFLASH2026」の清純派美女・美波那緒さんが「グラビアン魂」で魅せる『週刊SPA！』11月4号が本日10月21日に発売",
+      "url": "https://hon-hikidashi.jp/news/212592/",
+      "date": "2026-10-21T10:25:20.000Z",
+      "summary": "「ミスFLASH2026」の称号を持つ清純派美女・美波那緒さんが「グラビアン魂」で魅せる 『週刊SPA！』11月4日号 が本日10月21日（水）に発売されました。発売を記念して、表紙および誌面カットが公開されました。 誌面カット【4】 撮影／高橋慶佑 ヘアメイク／新井祐美子 スタイリング／KAN 『週刊SPA！』11月4日号のほかの画像を見る 今回初登場となる美波那緒さんは、「ミスFLASH2026」の称号を持つ清純派美女。20代の現役",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "赤いニットの上からでもわかる抜群のプロポーション！「ミスFLASH2026」の清純派美女・美波那緒さんが「グラビアン魂」で魅せる『週刊SPA！』11月4号が本日10月21日に発売",
+      "url": "https://hon-hikidashi.jp/news/212589/",
+      "date": "2026-10-21T10:20:50.000Z",
+      "summary": "「ミスFLASH2026」の称号を持つ清純派美女・美波那緒さんが「グラビアン魂」で魅せる 『週刊SPA！』11月4日号 が本日10月21日（水）に発売されました。発売を記念して、表紙および誌面カットが公開されました。 誌面カット【3】 撮影／高橋慶佑 ヘアメイク／新井祐美子 スタイリング／KAN 『週刊SPA！』11月4日号のほかの画像を見る 今回初登場となる美波那緒さんは、「ミスFLASH2026」の称号を持つ清純派美女。20代の現役",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "Mrs. GREEN APPLEがNHK「SONGSスペシャル」に登場! TV初披露の“共犯”“シンデレラ”含む5曲をフルサイズでパフォーマンス - ニュース",
+      "url": "https://mikiki.tokyo.jp/articles/-/46442",
+      "date": "2026-10-21T10:13:00.000Z",
+      "summary": "Mrs. GREEN APPLEがNHK「SONGSスペシャル」に登場! TV初披露の“共犯”“シンデレラ”含む5曲をフルサイズでパフォーマンス",
+      "source": "Mikiki（タワーレコード）",
+      "sourceHomepage": "https://mikiki.tokyo.jp/",
+      "category": "music"
+    },
+    {
+      "title": "甘辛×お酢で箸が止まらない！さつまいもとお肉の絶品おかず",
+      "url": "https://news.cookpad.com/articles/66664",
+      "date": "2026-10-21T10:00:00.000Z",
+      "summary": "秋に収穫を迎えるさつまいもは、収穫後に少し置くことで甘みが増してきます。10月〜1月は、さつまいもがさらにおいしくなる季節。クックパッドでは「さつまいもはレンジで先に2分加熱し、れんこん、鶏もも...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "m/lue.が新曲“シャイラ”をリリース、着想源は長尾謙一郎の漫画「クリームソーダシティ」 安田和弘の写真を用いたMVも公開 - ニュース",
+      "url": "https://mikiki.tokyo.jp/articles/-/46432",
+      "date": "2026-10-21T10:00:00.000Z",
+      "summary": "m/lue.が新曲“シャイラ”をリリース、着想源は長尾謙一郎の漫画「クリームソーダシティ」 安田和弘の写真を用いたMVも公開",
+      "source": "Mikiki（タワーレコード）",
+      "sourceHomepage": "https://mikiki.tokyo.jp/",
+      "category": "music"
+    },
+    {
+      "title": "世界初「鳥の言葉」を解明した動物言語学者・鈴木俊貴に迫る。『クローズアップ現代』10月27日放送",
+      "url": "https://www.cinra.net/article/202610-whn-gendai_edteam",
+      "date": "2026-10-21T09:25:00.000Z",
+      "summary": "『クローズアップ現代「鳥の言葉がわかった！ 身近に広がる小宇宙」』が10月27日19:30からNHK総合で放送される。",
+      "source": "CINRA",
+      "sourceHomepage": "https://www.cinra.net/",
+      "category": "culture"
+    },
+    {
+      "title": "Meg Bonus、本日「森を燃やす」がコンセプトのEPをリリース",
+      "url": "https://ototoy.jp/news/132365",
+      "date": "2026-10-21T09:15:00.000Z",
+      "summary": "野本慶によるソロプロジェクト・Meg Bonusの新作EP『3 Songs ＋ 4 Instrumentals』が10月21日配信リリース",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
+      "title": "天日干し不要！オーブンで焼くだけ、思い立ったらすぐ作れる「しっとり干し芋」",
+      "url": "https://news.cookpad.com/articles/66676",
+      "date": "2026-10-21T09:00:00.000Z",
+      "summary": "しっとりしていて、やさしい甘さがクセになる「干し芋」。手作りしてみたいけれど、さつまいもを茹でたり蒸したりしてから何日も天日干しするのは、天気にも左右されてなかなか大変ですよね。今回ご紹介するの...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "ナップサックのススメ（傑作選）",
+      "url": "https://dailyportalz.jp/kiji/knapsack-no-susume",
+      "date": "2026-10-21T09:00:00.000Z",
+      "summary": "ナップサックの最高ポイントは、軽い、チャックを閉めなくていい、チャックを開けなくていい。約2年間ナップサックを使い倒した人間によるナップサックの正直レビューを記す。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "街路樹をペットのように世話をする。ドイツ・ベルリンの水やりアプリ",
+      "url": "https://karapaia.com/archives/633769.html",
+      "date": "2026-10-21T09:00:00.000Z",
+      "summary": "2026年、記録的な猛暑となったドイツ・ベルリンで、街路樹をまるでペットのように世話できるアプリが大活躍している。市民はアプリの地図上で自分が住む地域の木をペット（養子）として迎え、水分量のアドバイスに従って自らの手で水を与えていく…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
+      "title": "【連載コラム】遊津場の関西アーティスト週報vol.128「10年代の邦ロック×現代の京阪神ライブハウスシーンを合わせたアルバム！mogari」",
+      "url": "https://ototoy.jp/news/132362",
+      "date": "2026-10-21T09:00:00.000Z",
+      "summary": "こんにちは",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
+      "title": "AVY & Cee Scotch、ジョイントALリリース",
+      "url": "https://ototoy.jp/news/132359",
+      "date": "2026-10-21T09:00:00.000Z",
+      "summary": "AVY & Cee Scotchが2026年10月21日(水)にジョイントアルバム『Module』をリリースした",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
+      "title": "忘れらんねえよ、TVアニメ「ヤニねこ」主題歌「なんもねえ」を引っ提げて「THE FIRST TAKE」再登場",
+      "url": "https://ototoy.jp/news/132358",
+      "date": "2026-10-21T09:00:00.000Z",
+      "summary": "忘れらんねえよが「THE FIRST TAKE」第718回に登場することが発表となった",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
+      "title": "「情報をエネルギーに変える」マクスウェルの悪魔、液体の“記憶”まで使えると実験で判明",
+      "url": "https://nazology.kusuguru.co.jp/archives/202985",
+      "date": "2026-10-21T09:00:00.000Z",
+      "summary": "ソファから立ち上がったあとも、クッションのへこみがしばらく戻らずに残っていることがあります。 こうした「さっきの名残」は、目に見えないほど小さな世界にもあります。 物理学には「マクスウェルの悪魔」と呼ばれる思考実験があります。 150年以上前に考え出され、情報とエネルギーの関係についての理解を大きく形づくってきた存在です。 ところが現実の悪魔には、周りの液体の中に隠れた情報までは見えません。 では、その隠れた情報、いわば液体の「記憶」を",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "アルテミス合意の署名国が77か国に トルコやウズベキスタンなどが新たに参加",
+      "url": "https://sorae.info/space/20261021-artemis-accords-77.html",
+      "date": "2026-10-21T08:23:21.000Z",
+      "summary": "アメリカ国務省は2026年10月19日、ウズベキスタンが「アルテミス合意」に署名したと発表しました。署名式は同国の都市サマルカンドで行われ、外務大臣のBakhtiyor Saidov氏が署名し、アメリカのルビオ国務長官が…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
+    },
+    {
+      "title": "Mrs. GREEN APPLEが『SONGSスペシャル』出演。“共犯”“シンデレラ”など5曲をフルサイズ披露",
+      "url": "https://www.cinra.net/article/202610-whn-songs_edteam",
+      "date": "2026-10-21T08:10:00.000Z",
+      "summary": "『SONGSスペシャル Mrs. GREEN APPLE』が10月29日22:00からNHK総合で放送される。",
+      "source": "CINRA",
+      "sourceHomepage": "https://www.cinra.net/",
+      "category": "culture"
+    },
+    {
+      "title": "これも家で作れるの！？昔ながらの保存食、失敗しない手作り干し柿のコツ",
+      "url": "https://news.cookpad.com/articles/66663",
+      "date": "2026-10-21T08:00:00.000Z",
+      "summary": "柿の旬は9月から12月。柿がたくさん手に入ったら、昔ながらの保存法、干し柿づくりに挑戦してみませんか。今回は、趣味で20年以上干し柿を作り続けているレシピ作者さんの「干し柿の作り方」をご紹介しま...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "とどろく“追い金”パワー！1泊2日の名古屋旅【2日目：徳川の名宝と金ピカ仏像を拝して、幸運もいただく！】",
+      "url": "https://intojapanwaraku.com/travel/318904/",
+      "date": "2026-10-21T07:00:44.000Z",
+      "summary": "「金パワー旅」in名古屋 1泊2日（理想の）コース【2日目】 さらに金！ 徳川の至宝と金の仏像巡りで“追い金”する 金をたっぷり浴び、金に包まれて眠った翌日も、金三昧。 朝の散歩がてら、地元の人おすすめの知る人ぞ知る「金 […]",
+      "source": "和樂web",
+      "sourceHomepage": "https://intojapanwaraku.com/",
+      "category": "culture"
+    },
+    {
+      "title": "材料3つ・レンチン3分で絶品かぼちゃケーキ──【第7話】え、毎日じぶん省エネ飯ですが？",
+      "url": "https://news.cookpad.com/articles/66668",
+      "date": "2026-10-21T07:00:00.000Z",
+      "summary": "料理家でありイラストレーターでもあるAkitchen（アキッチン）さんによる、クックパッドニュースオリジナル漫画連載第7話。今回はハロウィンがテーマ！手作りの仮装で「トリックオアトリート！」と迫る子どもたちにパド子が繰り出したのは、レンジだけで作れるかぼちゃのケーキでした。「手間をかけずにおいしい」を実現させた【じぶん省エネ飯】メソッドが今日も冴え渡ります。",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "スペースX、ライドシェアミッション「Bandwagon-5」を打ち上げ 再突入カプセル「Starfall」が2回目の飛行",
+      "url": "https://sorae.info/ssn/20261021-bandwagon-5.html",
+      "date": "2026-10-21T06:37:05.000Z",
+      "summary": "SpaceX（スペースX）は日本時間2026年10月20日、ケープカナベラル宇宙軍基地から「Falcon 9（ファルコン9）」ロケットを打ち上げ、小型衛星の相乗り（ライドシェア）ミッション「Bandwagon-5（バンド…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
+    },
+    {
+      "title": "年々太るのは体のサビのせい？管理栄養士が解説！酸化を遠ざける食べ方",
+      "url": "https://news.cookpad.com/articles/66168",
+      "date": "2026-10-21T06:00:00.000Z",
+      "summary": "アラフォーからのダイエットは、ちょっとしたコツと正しい知識で、ぐっとラクになります。年齢とともに太りやすく、痩せにくくなる原因を「代謝」「酸化」「糖化」「ホルモン」の観点から管理栄養士が解説する全4回のシリーズ。第2回のテーマは、体のサビとも呼ばれる「酸化」です。",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "ソロデビュー30周年を迎えたカジヒデキ、全曲英詞のEP『SMASHING TIME』リリース",
+      "url": "https://www.cinra.net/article/202610-whn-hidekikaji_edteam",
+      "date": "2026-10-21T05:51:00.000Z",
+      "summary": "カジヒデキの新作EP『SMASHING TIME』が本日10月21日にリリースされた。",
+      "source": "CINRA",
+      "sourceHomepage": "https://www.cinra.net/",
+      "category": "culture"
+    },
+    {
       "title": "新着MVランキング：M!LK、雨の『ロッキン』で示した「アイドルパワー」 人気トップ10に4作、映像でも際立つ地力",
       "url": "https://realsound.jp/2026/10/post-2558019.html",
       "date": "2026-10-21T05:50:41.000Z",
@@ -286,6 +648,24 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "NMB48、「ナギイチ ～all members 2026～」新衣装ライブ映像公開＆「ミステリー講座」ユニット曲収録決定",
+      "url": "https://ototoy.jp/news/132360",
+      "date": "2026-10-21T05:30:00.000Z",
+      "summary": "NMB48が、「ナギイチ ～all members 2026～」のライブ映像をYouTubeで公開した",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
+      "title": "300人以上が絶賛！◯◯するだけ！インスタントコーヒーが香り豊かになる裏ワザ",
+      "url": "https://news.cookpad.com/articles/66115",
+      "date": "2026-10-21T05:00:00.000Z",
+      "summary": "インスタントコーヒーはお湯を注ぐだけの手軽さが魅力ですが、香りの物足りなさを感じたことはありませんか？ そんなときに試してほしいのが、ひと手間で香りが立つこちらの裏ワザです。1.好みの濃さにした...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
     },
     {
       "title": "柳楽優弥×萩原利久×BE:FIRST・JUNON『RYUJI 竜二』鼎談映像到着。撮影秘話と現場で育まれた絆",
@@ -477,19 +857,19 @@
       "category": "culture"
     },
     {
-      "title": "海外一人旅は超計画派か？無計画派か？",
-      "url": "https://dailyportalz.jp/kiji/planned-vs-unplanned-solo-travel",
+      "title": "横須賀市にある「のの字坂」がまさかのリアル立体交差",
+      "url": "https://dailyportalz.jp/kiji/nonoji-saka_in_yokosuka",
       "date": "2026-10-21T02:00:00.000Z",
-      "summary": "身近に対極の旅行スタイルの人がいる。彼女はみっちりと計画を立てる「超計画派」、その一方で私はほとんど計画を立てない「無計画派」だ。",
+      "summary": "神奈川県の横須賀市に「のの字坂」と呼ばれる坂がある。",
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
     },
     {
-      "title": "横須賀市にある「のの字坂」がまさかのリアル立体交差",
-      "url": "https://dailyportalz.jp/kiji/nonoji-saka_in_yokosuka",
+      "title": "海外一人旅は超計画派か？無計画派か？",
+      "url": "https://dailyportalz.jp/kiji/planned-vs-unplanned-solo-travel",
       "date": "2026-10-21T02:00:00.000Z",
-      "summary": "神奈川県の横須賀市に「のの字坂」と呼ばれる坂がある。",
+      "summary": "身近に対極の旅行スタイルの人がいる。彼女はみっちりと計画を立てる「超計画派」、その一方で私はほとんど計画を立てない「無計画派」だ。",
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
@@ -522,15 +902,6 @@
       "category": "documentary"
     },
     {
-      "title": "【ハロウィンの季節が来た】かぼちゃもおばけも！かわいすぎて食べられない？ハロウィンクッキー",
-      "url": "https://news.cookpad.com/articles/66069",
-      "date": "2026-10-21T01:00:00.000Z",
-      "summary": "もうすぐやってくるハロウィン。パーティやイベントを企画していなくても、それらしいスイーツがあるとテンションが上がりますね。今回は、簡単にできるハロウィンクッキーをお届けします。レンチンしてフード...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
       "title": "Lienelにぴったりの神曲がきた! 中毒性抜群のメジャー2ndシングル『愛のダバダ』をメンバー6人が語る - インタビュー",
       "url": "https://mikiki.tokyo.jp/articles/-/46400",
       "date": "2026-10-21T01:00:00.000Z",
@@ -547,6 +918,15 @@
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
+    },
+    {
+      "title": "【ハロウィンの季節が来た】かぼちゃもおばけも！かわいすぎて食べられない？ハロウィンクッキー",
+      "url": "https://news.cookpad.com/articles/66069",
+      "date": "2026-10-21T01:00:00.000Z",
+      "summary": "もうすぐやってくるハロウィン。パーティやイベントを企画していなくても、それらしいスイーツがあるとテンションが上がりますね。今回は、簡単にできるハロウィンクッキーをお届けします。レンチンしてフード...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
     },
     {
       "title": "w.o.d. ニューアルバム『ふれる』収録楽曲公開 Instagramアカウントにて新企画スタートも",
@@ -990,15 +1370,6 @@
       "category": "music"
     },
     {
-      "title": "100円食材で大満足！ご飯がすすむ、絶品えのきおかず3選",
-      "url": "https://news.cookpad.com/articles/66662",
-      "date": "2026-10-20T09:00:00.000Z",
-      "summary": "「時間がない、でもご飯がすすむおかずをすぐに食べたい！」というときに頼りになるのが、100円食材のえのきのおかずです。クックパッドでは「えのきにしめじ、豚の薄切り肉、小松菜を炒めて、味付けはポン...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
       "title": "夏だけの貴重な味「メジカ」を食べに高知に行って驚く（傑作選）",
       "url": "https://dailyportalz.jp/kiji/mejika-in-Kouchi",
       "date": "2026-10-20T09:00:00.000Z",
@@ -1008,21 +1379,30 @@
       "category": "documentary"
     },
     {
-      "title": "全長4mの威圧感。電動と油圧で動く巨大ロボットが中国でお披露目",
-      "url": "https://karapaia.com/archives/633817.html",
-      "date": "2026-10-20T09:00:00.000Z",
-      "summary": "まるでSF映画から飛び出してきたかのような、圧倒的な存在感を放つ巨大ロボットが中国で公開された。北京のロボット企業「NeodraDynamics」が開発した「Neo1」は、全高約4m、重量1.2トンに達する。電動と油圧を組み合わせたハイブリッド駆動により…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
       "title": "史上初の「緑色の星」を発見、白色矮星はカラフルだったと判明",
       "url": "https://nazology.kusuguru.co.jp/archives/202530",
       "date": "2026-10-20T09:00:00.000Z",
       "summary": "子どもの頃、夜空の星にも色があると聞いて、目を凝らして赤い星や青い星を探したことがある人もいるかもしれません。 夜空には、太陽のような星が一生の最後に残す「白色矮星(はくしょくわいせい)」という小さな星がたくさんあります。 名前からは白く光る星を思い浮かべますが、天文学の世界では、むしろ青みがかった星として語られることが多くありました。 しかし、すぐそばまで近づいて自分の目で見たらどんな色なのかは、誰も確かめたことがありません。 そこで",
       "source": "ナゾロジー",
       "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "100円食材で大満足！ご飯がすすむ、絶品えのきおかず3選",
+      "url": "https://news.cookpad.com/articles/66662",
+      "date": "2026-10-20T09:00:00.000Z",
+      "summary": "「時間がない、でもご飯がすすむおかずをすぐに食べたい！」というときに頼りになるのが、100円食材のえのきのおかずです。クックパッドでは「えのきにしめじ、豚の薄切り肉、小松菜を炒めて、味付けはポン...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "全長4mの威圧感。電動と油圧で動く巨大ロボットが中国でお披露目",
+      "url": "https://karapaia.com/archives/633817.html",
+      "date": "2026-10-20T09:00:00.000Z",
+      "summary": "まるでSF映画から飛び出してきたかのような、圧倒的な存在感を放つ巨大ロボットが中国で公開された。北京のロボット企業「NeodraDynamics」が開発した「Neo1」は、全高約4m、重量1.2トンに達する。電動と油圧を組み合わせたハイブリッド駆動により…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
     },
     {
@@ -1080,19 +1460,19 @@
       "category": "documentary"
     },
     {
-      "title": "生食可能なクッキー生地",
-      "url": "https://dailyportalz.jp/koresugo/raw-edible-cookies",
+      "title": "本土から沖縄に帰ってきたとき、「帰ってきたな～」って感じる場面とかありますか？～ライター質問箱 2026.10.20",
+      "url": "https://dailyportalz.jp/kiji/question-20261020",
       "date": "2026-10-20T07:00:00.000Z",
-      "summary": "冷凍のクッキー生地です、オーブンで焼いて食べるだけでなく、生食可能です。",
+      "summary": "読者が質問し、ライターが答える質問箱。ライターとみなさまを1対1でつなぐコーナーです。",
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
     },
     {
-      "title": "本土から沖縄に帰ってきたとき、「帰ってきたな～」って感じる場面とかありますか？～ライター質問箱 2026.10.20",
-      "url": "https://dailyportalz.jp/kiji/question-20261020",
+      "title": "生食可能なクッキー生地",
+      "url": "https://dailyportalz.jp/koresugo/raw-edible-cookies",
       "date": "2026-10-20T07:00:00.000Z",
-      "summary": "読者が質問し、ライターが答える質問箱。ライターとみなさまを1対1でつなぐコーナーです。",
+      "summary": "冷凍のクッキー生地です、オーブンで焼いて食べるだけでなく、生食可能です。",
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
@@ -5200,384 +5580,6 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
-    },
-    {
-      "title": "RADWIMPS、映画『汝、星のごとく』に書き下ろしたもう1つの新曲「汝、星のごとく」配信リリース",
-      "url": "https://realsound.jp/2026/10/post-2552777.html",
-      "date": "2026-10-14T12:00:53.000Z",
-      "summary": "RADWIMPSが、新曲「汝、星のごとく」を10月16日に配信リリースする。 本作は、10月9日より全国公開中の映画『汝、星のごとく』のために製作した一曲。RADWIMPSは同映画の主題歌「夕星-ゆうづつ-」を書き下",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "Lienel『愛のダバダ』TOWER PLUS+特別号が発行! メジャー2ndシングルについて熱く語ったメンバーインタビューを掲載 - ニュース",
-      "url": "https://mikiki.tokyo.jp/articles/-/46399",
-      "date": "2026-10-14T11:43:00.000Z",
-      "summary": "Lienel『愛のダバダ』TOWER PLUS+特別号が発行! メジャー2ndシングルについて熱く語ったメンバーインタビューを掲載",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "音楽家は「腹話術の錯覚」にだまされにくい",
-      "url": "https://nazology.kusuguru.co.jp/archives/201924",
-      "date": "2026-10-14T11:30:12.000Z",
-      "summary": "オーストラリアのクイーンズランド工科大学（QUT）などで行われた研究によって、楽器の経験が豊富な人は「腹話術の錯覚」にだまされにくいことが示されました。 腹話術の錯覚とは、目に見えたものに引っ張られて、実際とは違う場所から音が聞こえたように感じる現象です。 音楽家なのだから耳がいいのだろう、と思うかもしれません。 ところが今回の違いは、「耳がいいから」では説明がつきませんでした。 では、音楽家の何が違うのでしょうか。 研究の詳細は『Jo",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "誰もが持つ3つのサイコパス特性。冷酷さが高い人ほど人生に前向きな文章を書く",
-      "url": "https://karapaia.com/archives/632746.html",
-      "date": "2026-10-14T11:30:00.000Z",
-      "summary": "「サイコパス」と聞くと、血も涙もない利己的な犯罪者を思い浮かべるかもしれない。だが、サイコパスを構成する「大胆さ」「冷酷さ」「衝動性」という3つの特性は、程度の差こそあれ誰もが持っている。アメリカのミシシッピ大学の研究チームは…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
-      "title": "まなつ、パンクな新曲「Verde」リリース&MV公開",
-      "url": "https://ototoy.jp/news/132266",
-      "date": "2026-10-14T11:00:00.000Z",
-      "summary": "まなつが2026年10月14日(水)にニューシングル「Verde」をリリースした",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "Ayumu Imazu、SNSで話題の新曲「結び」のMV公開",
-      "url": "https://ototoy.jp/news/132265",
-      "date": "2026-10-14T11:00:00.000Z",
-      "summary": "Ayumu Imazuが、SNSで話題の新曲「結び」のミュージックビデオを公開した",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "強い磁場が白色矮星の“限界”を超えさせる？ 明るすぎるIa型超新星の起源解明につながるか",
-      "url": "https://sorae.info/astronomy/20261014-super-chandrasekhar-white-dwarf.html",
-      "date": "2026-10-14T10:59:45.000Z",
-      "summary": "インド理科大学院（IISc）のZenia Zuraiq氏を筆頭とする研究チームは、磁場を持つ恒星が白色矮星へと進化し、さらに成長していく過程をシミュレーションで追跡した結果、白色矮星が従来考えられてきた質量の上限を大きく…",
-      "source": "sorae（宇宙・天文）",
-      "sourceHomepage": "https://sorae.info/",
-      "category": "documentary"
-    },
-    {
-      "title": "「痕跡はありません」不可解な事件を瞬時に解決！？令嬢の推理力がすごかった『富豪令嬢』【#3】",
-      "url": "https://hon-hikidashi.jp/book-person/205254/",
-      "date": "2026-10-14T10:45:55.000Z",
-      "summary": "キルタイムコミュニケーションの「ブリーゼコミックス」より、 『富豪令嬢』第2巻 が10月14日（水）に発売されました。 本作は、王国随一の資産を有する男爵家の跡取り娘パトリツィア・レッジが、「全ては推しのため」を信念にお金ですべてを解決する推し活ファンタジーです。 今回は第2巻の発売にあわせて、第1話と第2話の試し読みを配信します。作品が気になった方は、ぜひお近くの書店店頭でお買い求めください。 (adsbygoogle = windo",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "BE:FIRST、「It’s not a bad life」初披露映像公開",
-      "url": "https://ototoy.jp/news/132271",
-      "date": "2026-10-14T10:30:00.000Z",
-      "summary": "BE:FIRSTが〈BMSG FES’26〉にて初披露した「It’s not a bad life」のパフォーマンス映像を公開した",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "FictionJunction、THE FIRST TAKEに初登場",
-      "url": "https://ototoy.jp/news/132267",
-      "date": "2026-10-14T10:30:00.000Z",
-      "summary": "FictionJunctionがYouTubeチャンネル「THE FIRST TAKE」に初登場する",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "愛美、NEW EP「AIM STAR」をリリース&タイトル曲のMV公開",
-      "url": "https://ototoy.jp/news/132269",
-      "date": "2026-10-14T10:25:00.000Z",
-      "summary": "愛美が、2026年10月14日(水)に、NEW EP「AIM STAR」をリリース",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "「アラタん家見に行ってくれたかな…」あんなお人好しが弁護団にまぎれてるなんてラッキーだ『夏目アラタの結婚』【#17】",
-      "url": "https://hon-hikidashi.jp/book-person/201640/",
-      "date": "2026-10-14T10:10:44.000Z",
-      "summary": "あなたのすぐそばにも、こんな恐怖が潜んでいるかも――。「ほんのひきだし」では、幽霊よりも怖い「人」の狂気や、何気ない日常に忍び寄る違和感を描いたヒトコワ＆ホラー漫画を厳選しました。背筋がゾクッとする物語を、試し読みでお楽しみください。 今回ご紹介するのは、児童相談所に勤務する男性が連続殺人事件の死刑囚にプロポーズする 『夏目アラタの結婚』 です。 (adsbygoogle = window.adsbygoogle || []).push",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "目覚めると、洞窟の穴の中に落ちていた…脱出したと思った次の瞬間、目の前に現れたのは…『転生聖騎士は二度目の人生で世界最強の魔剣士になる』【#10】",
-      "url": "https://hon-hikidashi.jp/book-person/205679/",
-      "date": "2026-10-14T10:00:19.000Z",
-      "summary": "実業之日本社より、 『転生聖騎士は二度目の人生で世界最強の魔剣士になる』第3巻 が10月15日（木）に発売されました。 剣技を極めて最年少で「聖騎士」となり現在の世で活躍していた一ノ瀬勇人は、刺客との闘いの最中に仲間をかばって絶命し、目覚めると貴族の子・リュカとして異世界に転生していました。奴隷の少女・エルと出会ったリュカは、彼女とともに剣術と魔法の訓練を積み、世界で唯一の学園である「ギャラリック学園」への入学、そして世界最強の魔剣士に",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "トロトロ大根×お肉のうまみ！ご飯がすすむおかず4選",
-      "url": "https://news.cookpad.com/articles/66613",
-      "date": "2026-10-14T10:00:00.000Z",
-      "summary": "「時間がない、でもおいしくて満足いくものをすぐに食べたい！」というときに頼りになるのが、お肉の旨みをたっぷり吸ったトロトロ大根のおかずです。クックパッドでは「 大根を半月切りにしてフライパンで...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "清野研太朗、応援歌が詰まった配信アルバム『BLUE』リリース",
-      "url": "https://ototoy.jp/news/132268",
-      "date": "2026-10-14T10:00:00.000Z",
-      "summary": "“けんたあろは”としても活動する清野研太朗が配信アルバム『BLUE』をリリースした",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "「安物には興味ありません」静まり返る教室に現れた令嬢…その言葉に教師の顔色が変わる『富豪令嬢』【#2】",
-      "url": "https://hon-hikidashi.jp/book-person/205109/",
-      "date": "2026-10-14T09:45:50.000Z",
-      "summary": "キルタイムコミュニケーションの「ブリーゼコミックス」より、 『富豪令嬢』第2巻 が10月14日（水）に発売されました。 本作は、王国随一の資産を有する男爵家の跡取り娘パトリツィア・レッジが、「全ては推しのため」を信念にお金ですべてを解決する推し活ファンタジーです。 今回は第2巻の発売にあわせて、第1話と第2話の試し読みを配信します。作品が気になった方は、ぜひお近くの書店店頭でお買い求めください。 (adsbygoogle = windo",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "NASA「アルテミスIII」ミッション用のSLSブースター組み立て完了 射点で推進剤の充填試験へ",
-      "url": "https://sorae.info/space/20261014-artemis-iii.html",
-      "date": "2026-10-14T09:40:09.000Z",
-      "summary": "NASA（アメリカ航空宇宙局）は2026年10月13日付で、2027年に実施予定の「Artemis III（アルテミスIII）」ミッションの準備状況を発表しました。打ち上げに使われるロケットの組み立てが節目を迎え、機体が…",
-      "source": "sorae（宇宙・天文）",
-      "sourceHomepage": "https://sorae.info/",
-      "category": "documentary"
-    },
-    {
-      "title": "中森明菜の軌跡と現在地を描く特集3番組がNHKで放送。9月に行われたライブの模様も",
-      "url": "https://www.cinra.net/article/202610-whn-akinanakamori_edteam",
-      "date": "2026-10-14T09:37:00.000Z",
-      "summary": "中森明菜の特集3番組がNHKで放送される。",
-      "source": "CINRA",
-      "sourceHomepage": "https://www.cinra.net/",
-      "category": "culture"
-    },
-    {
-      "title": "イングリッシュブレックファストを食べに訪れた老舗店舗は、あの映画の撮影にも使われたらしい？『世界イケオジ・イケオバ紀行 ヨーロッパ＆アジア編』【#4】",
-      "url": "https://hon-hikidashi.jp/book-person/205805/",
-      "date": "2026-10-14T09:30:02.000Z",
-      "summary": "実業之日本社より、 『世界イケオジ・イケオバ紀行 ヨーロッパ＆アジア編』 が10月15日（木）に発売されました。 本作は、ロンドンでのワーキングホリデーをきっかけに世界を旅することになった著者が、ヨーロッパとアジアの旅先で見かけたイケオジ・イケオバたち描くイラスト＆コミックエッセイです。 今回は、作品の一部試し読みを配信します。作品が気になった方はぜひ、店頭でお買い求めください。 (adsbygoogle = window.adsbyg",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "『COUNTDOWN JAPAN 26/27』第1弾出演アーティスト97組発表",
-      "url": "https://www.cinra.net/article/202610-whn-countdownjapan_edteam",
-      "date": "2026-10-14T09:30:00.000Z",
-      "summary": "音楽イベント『COUNTDOWN JAPAN 26/27』の第1弾出演アーティストが発表された。",
-      "source": "CINRA",
-      "sourceHomepage": "https://www.cinra.net/",
-      "category": "culture"
-    },
-    {
-      "title": "「誤認逮捕をしたとでも？」あの獄中の女は、本当に品川真珠なのか？『夏目アラタの結婚』【#16】",
-      "url": "https://hon-hikidashi.jp/book-person/201639/",
-      "date": "2026-10-14T09:10:44.000Z",
-      "summary": "あなたのすぐそばにも、こんな恐怖が潜んでいるかも――。「ほんのひきだし」では、幽霊よりも怖い「人」の狂気や、何気ない日常に忍び寄る違和感を描いたヒトコワ＆ホラー漫画を厳選しました。背筋がゾクッとする物語を、試し読みでお楽しみください。 今回ご紹介するのは、児童相談所に勤務する男性が連続殺人事件の死刑囚にプロポーズする 『夏目アラタの結婚』 です。 (adsbygoogle = window.adsbygoogle || []).push",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "こんな怖いまんがみんな読んでんの？～ちいかわ（傑作選）",
-      "url": "https://dailyportalz.jp/kiji/book-review-hayashi02",
-      "date": "2026-10-14T09:00:00.000Z",
-      "summary": "デイリーポータルZのライター、関係者が愛読している本を語ります。今回はウェブマスター 林。レコメンドは「ちいかわ」（講談社）です。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "月って意外とカラフル！アルテミス2号の宇宙飛行士が肉眼で見た月の色を報告",
-      "url": "https://karapaia.com/archives/632768.html",
-      "date": "2026-10-14T09:00:00.000Z",
-      "summary": "我々が日常的に肉眼で見る月は、太陽の光に照らされて明るめの茶褐色に見えるが、近くでみる月はどんな色をしているのだろう。2026年4月、NASAの有人月探査ミッション「アルテミス2号」の宇宙飛行士たちは、月の間近を飛行し、月面の色を自分たちの目で確かめた…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
-      "title": "「アイナナ」ZOZOTOWNに”ササゲロ”…ŹOOĻとコラボ！ 撮り下ろしビジュグッズ＆アイドル着用アパレル発売",
-      "url": "https://animeanime.jp/article/2026/10/14/103793.html",
-      "date": "2026-10-14T08:15:03.000Z",
-      "summary": "『アイドリッシュセブン』より、4人組アイドルグループ「ŹOOĻ」とZOZOTOWNのコラボアイテムが登場。2026年10月20日より、撮り下ろしビジュアルを使用したグッズや、メンバーの衣装を再現したファッションアイテムが受注販売される。",
-      "source": "アニメ！アニメ！（乙女ゲーム関連）",
-      "sourceHomepage": "https://animeanime.jp/",
-      "category": "otome"
-    },
-    {
-      "title": "卵1個を直接フライパンに！？溶かずに作れる楽ちん！チーズ卵焼き",
-      "url": "https://news.cookpad.com/articles/66599",
-      "date": "2026-10-14T08:00:00.000Z",
-      "summary": "あと1品足りないとき、卵焼きを作るのも意外とひと手間ですよね。今回ご紹介するのは、卵を混ぜずに作る楽ちんレシピ。なんと、フライパンへ直接卵を割り落として作ります。中にチーズが入っているので、卵1...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "COUNTDOWN JAPAN 26/27の第1弾出演アーティスト発表! Creepy Nuts、羊文学、SiM、TAKU INOUE × 超かぐや姫!など97組 - ニュース",
-      "url": "https://mikiki.tokyo.jp/articles/-/46397",
-      "date": "2026-10-14T07:55:00.000Z",
-      "summary": "COUNTDOWN JAPAN 26/27の第1弾出演アーティスト発表! Creepy Nuts、羊文学、SiM、TAKU INOUE × 超かぐや姫!など97組",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "ジョニ・ミッチェル アメリカ市民権を取得",
-      "url": "https://amass.jp/192402/",
-      "date": "2026-10-14T07:47:00.000Z",
-      "summary": "カナダからアメリカへ渡ってから60年以上を経て、ジョニ・ミッチェル（Joni Mitchell）は新たにアメリカ市民権を取得しました。小さなアメリカ国旗を持って笑顔で写った自身の写真を投稿し「62年前に始まった旅」というキャプションを添えています https://amass.jp/192402/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "QPS研究所の小型SAR衛星「ワダツミ-II」「ヤマツミ-II」 2026年11月に相次ぎ打ち上げ予定",
-      "url": "https://sorae.info/biz/20261014-qps-sar-19-20.html",
-      "date": "2026-10-14T07:43:57.000Z",
-      "summary": "株式会社QPS研究所は2026年10月13日、同社の小型SAR（合成開口レーダー）衛星「QPS-SAR 20号機」（愛称「ワダツミ-II」）と「QPS-SAR 19号機」（愛称「ヤマツミ-II」）の打ち上げ予定を発表しま…",
-      "source": "sorae（宇宙・天文）",
-      "sourceHomepage": "https://sorae.info/",
-      "category": "documentary"
-    },
-    {
-      "title": "クインシー・ジョーンズの歩みや功績を貴重な映像とインタビューでたどるドキュメンタリー NHK BSで10月21日再放送",
-      "url": "https://amass.jp/192401/",
-      "date": "2026-10-14T07:28:00.000Z",
-      "summary": "クインシー・ジョーンズの歩みや功績を貴重な映像とインタビューでたどるドキュメンタリー『ミュージックマン クインシー・ジョーンズ』（フランス 2025年）がアンコール放送決定。NHK BSで10月21日放送 https://amass.jp/192401/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "ダイソーの隣にダイソー",
-      "url": "https://dailyportalz.jp/koresugo/daiso-next-daiso",
-      "date": "2026-10-14T07:00:00.000Z",
-      "summary": "ダイソーの入った建物の隣の建物にダイソーが入っています。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "エッグイーターの「真っ黒で喉の白い新種ヘビ」をエチオピアで発見",
-      "url": "https://nazology.kusuguru.co.jp/archives/201680",
-      "date": "2026-10-14T06:00:00.000Z",
-      "summary": "草むらで細長い影がするりと動くと、正体を確かめる前に足が一歩うしろへ下がってしまいます。 エチオピア南部の山あいの森に、インクのように真っ黒な体と、真っ白な喉をもつヘビがすんでいます。 研究者たちは初めて出会ったとき、これをすでに知られている黒いヘビの一種だと考えていました。 ところが、よく見るとウロコや色にどこか変わったところがあったのです。 見るからに危なそうなこの黒いヘビは、いったい何者で、森で何を食べて暮らしているのでしょうか。",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "食べてないのに太るのはなぜ？管理栄養士おすすめ！代謝を上げる食べ方",
-      "url": "https://news.cookpad.com/articles/66167",
-      "date": "2026-10-14T06:00:00.000Z",
-      "summary": "年齢とともに「太りやすくなった」「痩せにくくなった」と感じることはありませんか？アラフォーからのダイエットは、ちょっとしたコツと正しい知識で、ぐっとラクになります。今回から全4回のシリーズで、年齢とともに太りやすく、痩せにくくなる原因を「代謝」「酸化」「糖化」「ホルモン」の観点から、ひとつずつ解説していきます。第1回のテーマは「代謝」です。",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "新着MVランキング：Mrs. GREEN APPLE「共犯」首位 華やかな“幸福”の舞台裏、陰と陽が交差する映像世界",
-      "url": "https://realsound.jp/2026/10/post-2551563.html",
-      "date": "2026-10-14T05:50:17.000Z",
-      "summary": "毎週更新される「YouTube Music Charts」ウィークリー ミュージック ビデオ ランキングより、MVをはじめとした音楽関連の新着動画から上位10作品／楽曲を取り上げ、ランキング化＆レビューしていく連載「MV Chart Focus」。今週は、1位を獲得したMrs. GREEN APPLE「共犯」を取り上げる。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "空山基、友沢こたお、長場雄、Haroshiらが参加。『WAVE 2026』後期「YELLOW」が10月17日より開催",
-      "url": "https://www.cinra.net/article/202610-whn-wave_edteam",
-      "date": "2026-10-14T05:46:00.000Z",
-      "summary": "アート展『WAVE 2026』後期「YELLOW」が10月17日より代官山のLURF GALLERY 1・2Fで開催される。",
-      "source": "CINRA",
-      "sourceHomepage": "https://www.cinra.net/",
-      "category": "culture"
-    },
-    {
-      "title": "農家直伝！芋掘りした「さつまいも」を長持ちさせる保存テク",
-      "url": "https://news.cookpad.com/articles/66108",
-      "date": "2026-10-14T05:00:00.000Z",
-      "summary": "芋掘りシーズンですね。今日は、掘ったばかりのさつまいもを長くおいしく楽しむための保存方法をご紹介します。この方法を知っておけば、「なんとなく保存していたら、傷んでしまった」という失敗を防げますよ...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "映画「星の教室」ムビチケカードやオリジナルグッズが当たる！全国の書店で映画公開記念キャンペーンを実施",
-      "url": "https://hon-hikidashi.jp/event/204002/",
-      "date": "2026-10-14T04:00:57.000Z",
-      "summary": "日本映画界の伝説 角川春樹 最後の総監督作品 11月6日（金）に、中川龍太郎監督・角川春樹総監督作品の映画「星の教室」が公開されます。 「星の教室」は、「みをつくし料理帖」シリーズなどで知られる小説家・髙田郁さんの同名小説を原作とする、さまざまな事情で義務教育を修了できなかった大人たちが学ぶ夜間中学を舞台に、人生の新たな一歩を描く物語です。 角川春樹さんは、市川崑監督「犬神家の一族」、大林宣彦監督「時をかける少女」など、数々の名作を送り",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "「桜のように咲き誇れ」宇野千代の人生は超ポジティブ！情熱の赴くままに人を愛し、人に愛された生涯",
-      "url": "https://intojapanwaraku.com/culture/315412/",
-      "date": "2026-10-14T04:00:33.000Z",
-      "summary": "宇野千代には生涯愛した心の花があった。それは桜。1967（昭和42）年には岐阜県の「根尾谷（ねおだに）淡墨（うすずみ）ザクラ ※以下淡墨桜」を訪ねている。福島県の三春滝桜、山梨県の山高神代桜と共に、日本三大桜のひとつに数 […]",
-      "source": "和樂web",
-      "sourceHomepage": "https://intojapanwaraku.com/",
-      "category": "culture"
-    },
-    {
-      "title": "映画「すべて真夜中の恋人たち」ムビチケカードや監督&キャストサイン入り映画ポスターが当たる！全国の書店で映画公開記念キャンペーンを実施",
-      "url": "https://hon-hikidashi.jp/event/204034/",
-      "date": "2026-10-14T04:00:07.000Z",
-      "summary": "川上未映子による不朽の名作から生まれた、究極の恋愛映画 11月13日（金）に、小説家・川上未映子さんの同名小説を原作とした映画「すべて真夜中の恋人たち」が公開されます。 川上未映子さんは、芥川賞を始め国内の主要文学賞を数多く受賞し、イギリスで最も権威ある文学賞・ブッカー賞の翻訳部門最終候補に著作が選出されるなど、世界的に高く評価されている小説家です。 本作は、第79回カンヌ国際映画祭 「ある視点」部門に選出されており、川上さんが描く繊細",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "もちもち好きにはたまらない…！水切りヨーグルトで作れる簡単おやつを作ってみた",
-      "url": "https://news.cookpad.com/articles/66179",
-      "date": "2026-10-14T04:00:00.000Z",
-      "summary": "スーパーやコンビニでいつでも手軽に買えるヨーグルト。朝ごはんやおやつにそのまま食べるのはもちろん、最近はキッチンペーパーなどに包んで水を切り、スイーツに使うアレンジも盛り上がっています。少し前に...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "EBiDANの新グループiiONDOがCDデビュー! 笑顔と元気を届ける1stシングル『はつ恋ONDO』に込めた想いをメンバー8人が綴る - コラム",
-      "url": "https://mikiki.tokyo.jp/articles/-/46352",
-      "date": "2026-10-14T04:00:00.000Z",
-      "summary": "EBiDANの新グループiiONDOがCDデビュー! 笑顔と元気を届ける1stシングル『はつ恋ONDO』に込めた想いをメンバー8人が綴る",
-      "source": "Mikiki（タワーレコード）",
-      "sourceHomepage": "https://mikiki.tokyo.jp/",
-      "category": "music"
-    },
-    {
-      "title": "まるで映画の中みたい！パリの書店で出会ったイケオジ2人の立ち姿に胸を射抜かれる！『世界イケオジ・イケオバ紀行 ヨーロッパ＆アジア編』【#1】",
-      "url": "https://hon-hikidashi.jp/book-person/205649/",
-      "date": "2026-10-14T03:30:32.000Z",
-      "summary": "実業之日本社より、 『世界イケオジ・イケオバ紀行 ヨーロッパ＆アジア編』 が10月15日（木）に発売されました。 本作は、ロンドンでのワーキングホリデーをきっかけに世界を旅することになった著者が、ヨーロッパとアジアの旅先で見かけたイケオジ・イケオバたち描くイラスト＆コミックエッセイです。 今回は、作品の一部試し読みを配信します。作品が気になった方はぜひ、店頭でお買い求めください。 (adsbygoogle = window.adsbyg",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "夜、部屋に呼ばれる理由は「そういうこと」？部屋に現れた少女の恰好に驚愕！『転生聖騎士は二度目の人生で世界最強の魔剣士になる』【#6】",
-      "url": "https://hon-hikidashi.jp/book-person/205675/",
-      "date": "2026-10-14T03:00:15.000Z",
-      "summary": "実業之日本社より、 『転生聖騎士は二度目の人生で世界最強の魔剣士になる』第3巻 が10月15日（木）に発売されました。 剣技を極めて最年少で「聖騎士」となり現在の世で活躍していた一ノ瀬勇人は、刺客との闘いの最中に仲間をかばって絶命し、目覚めると貴族の子・リュカとして異世界に転生していました。奴隷の少女・エルと出会ったリュカは、彼女とともに剣術と魔法の訓練を積み、世界で唯一の学園である「ギャラリック学園」への入学、そして世界最強の魔剣士に",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
     }
   ]
 }
