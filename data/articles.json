@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T17:21:33.102Z",
+  "generatedAt": "2026-10-21T21:49:09.687Z",
   "articleCount": 600,
   "feedStatus": [
     {
@@ -12,15 +12,6 @@
       ]
     },
     {
-      "name": "CINRA",
-      "category": "culture",
-      "ok": false,
-      "usedUrl": null,
-      "errors": [
-        "https://www.cinra.net/feed → HTTP 503"
-      ]
-    },
-    {
       "name": "アニメ！アニメ！（乙女ゲーム関連）",
       "category": "otome",
       "ok": false,
@@ -30,10 +21,19 @@
       ]
     },
     {
-      "name": "NHKニュース（科学・文化）",
+      "name": "CINRA",
+      "category": "culture",
+      "ok": false,
+      "usedUrl": null,
+      "errors": [
+        "https://www.cinra.net/feed → HTTP 503"
+      ]
+    },
+    {
+      "name": "NHKニュース（国際）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
       "errors": []
     },
     {
@@ -44,13 +44,6 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-      "errors": []
-    },
-    {
       "name": "NHKニュース（社会）",
       "category": "news",
       "ok": true,
@@ -58,10 +51,10 @@
       "errors": []
     },
     {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
       "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -79,6 +72,13 @@
       "errors": []
     },
     {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "errors": []
+    },
+    {
       "name": "Mikiki（タワーレコード）",
       "category": "music",
       "ok": true,
@@ -86,17 +86,17 @@
       "errors": []
     },
     {
-      "name": "amass",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://amass.jp/rss/new",
-      "errors": []
-    },
-    {
       "name": "メシ通（ホットペッパーグルメ）",
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
+      "errors": []
+    },
+    {
+      "name": "amass",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://amass.jp/rss/new",
       "errors": []
     },
     {
@@ -114,17 +114,17 @@
       "errors": []
     },
     {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
-      "errors": []
-    },
-    {
       "name": "sorae（宇宙・天文）",
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://sorae.info/feed",
+      "errors": []
+    },
+    {
+      "name": "デイリーポータルZ",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -135,17 +135,17 @@
       "errors": []
     },
     {
+      "name": "和樂web",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://intojapanwaraku.com/feed",
+      "errors": []
+    },
+    {
       "name": "カラパイア",
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://karapaia.com/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "TOKION",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
       "errors": []
     },
     {
@@ -156,10 +156,10 @@
       "errors": []
     },
     {
-      "name": "和樂web",
+      "name": "TOKION",
       "category": "culture",
       "ok": true,
-      "usedUrl": "https://intojapanwaraku.com/feed",
+      "usedUrl": "https://tokion.jp/feed/",
       "errors": []
     },
     {
@@ -185,6 +185,33 @@
     }
   ],
   "articles": [
+    {
+      "title": "今井寿 61歳の誕生日 岡村靖幸、奥田民生、吉川晃司……表現の場を広げ続ける1965年生まれアーティストたち",
+      "url": "https://realsound.jp/2026/10/post-2559259.html",
+      "date": "2026-10-22T05:50:42.000Z",
+      "summary": "BUCK∞TICKの今井寿が、10月21日に61歳を迎えた。本稿では、今井と同じ1965年生まれの岡村靖幸、奥田民生、吉川晃司ら表現の場を広げ続ける1965年生まれアーティストたちの活躍を振り返っていく。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "KEY TO LIT、デビュー曲で何を歌う？ 少年隊、SMAP、嵐……磨かれたDNA、矛盾なく同居する敬意と野心",
+      "url": "https://realsound.jp/2026/10/post-2559504.html",
+      "date": "2026-10-22T05:50:17.000Z",
+      "summary": "10月22日にKEY TO LITがYouTubeチャンネルを開設。その翌日、10月23日放送の『ミュージックステーション』（テレビ朝日系）で、デビュー曲「KEY TERUYA2 ～キテルヤツ～」をテレビで初めて披露する。これまでのKEY TO LITのオリジナル楽曲やカバーパフォーマンスを振り返り、デビュー曲でどんなメッセージが歌われるのか、考える。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "Snow Man 目黒蓮、キリン『晴れ風』新CMに出演 内村光良との“帰国後初の再会”の様子を描く",
+      "url": "https://realsound.jp/2026/10/post-2559917.html",
+      "date": "2026-10-22T04:00:02.000Z",
+      "summary": "Snow Manの目黒蓮が出演する『キリンビール 晴れ風』新TVCM『晴れやかな乾杯』篇が、10月23日より全国で順次放映される。 本CMには内村光良と目黒が出演し、海外での撮影を終えて帰国したばかりの目黒を内村が出",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
     {
       "title": "オフスプリングのヌードルズ「かなり深刻な健康上の問題に対処するため」、しばらくの間、ライヴ活動を休止すると発表",
       "url": "https://amass.jp/192557/",
@@ -220,6 +247,15 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "2026年10月22日：本日発売のコミック新刊",
+      "url": "https://hon-hikidashi.jp/news/209817/",
+      "date": "2026-10-21T21:00:21.000Z",
+      "summary": "2026年10月22日（木）発売のコミック単行本をお知らせします。 〉 過去の日付のコミック新刊はこちら (adsbygoogle = window.adsbygoogle || []).push({}); 一迅社 comic POOL ・ カワイイ恋は着飾らない （4） （直正也） KADOKAWA MFコミックスアライブシリーズ ・ 新・魔法科高校の劣等生 キグナスの乙女たち（7） （La-na、佐島勤ほか） ・ Re:ゼロから始め",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
     },
     {
       "title": "ヘイルストームのリジー・ヘイル、バンドのツアーバス内部を自ら紹介 映像公開",
@@ -555,15 +591,6 @@
       "category": "cooking"
     },
     {
-      "title": "ナップサックのススメ（傑作選）",
-      "url": "https://dailyportalz.jp/kiji/knapsack-no-susume",
-      "date": "2026-10-21T09:00:00.000Z",
-      "summary": "ナップサックの最高ポイントは、軽い、チャックを閉めなくていい、チャックを開けなくていい。約2年間ナップサックを使い倒した人間によるナップサックの正直レビューを記す。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
       "title": "【連載コラム】遊津場の関西アーティスト週報vol.128「10年代の邦ロック×現代の京阪神ライブハウスシーンを合わせたアルバム！mogari」",
       "url": "https://ototoy.jp/news/132362",
       "date": "2026-10-21T09:00:00.000Z",
@@ -606,6 +633,15 @@
       "summary": "ソファから立ち上がったあとも、クッションのへこみがしばらく戻らずに残っていることがあります。 こうした「さっきの名残」は、目に見えないほど小さな世界にもあります。 物理学には「マクスウェルの悪魔」と呼ばれる思考実験があります。 150年以上前に考え出され、情報とエネルギーの関係についての理解を大きく形づくってきた存在です。 ところが現実の悪魔には、周りの液体の中に隠れた情報までは見えません。 では、その隠れた情報、いわば液体の「記憶」を",
       "source": "ナゾロジー",
       "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "ナップサックのススメ（傑作選）",
+      "url": "https://dailyportalz.jp/kiji/knapsack-no-susume",
+      "date": "2026-10-21T09:00:00.000Z",
+      "summary": "ナップサックの最高ポイントは、軽い、チャックを閉めなくていい、チャックを開けなくていい。約2年間ナップサックを使い倒した人間によるナップサックの正直レビューを記す。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
     },
     {
@@ -1500,19 +1536,19 @@
       "category": "documentary"
     },
     {
-      "title": "本土から沖縄に帰ってきたとき、「帰ってきたな～」って感じる場面とかありますか？～ライター質問箱 2026.10.20",
-      "url": "https://dailyportalz.jp/kiji/question-20261020",
+      "title": "生食可能なクッキー生地",
+      "url": "https://dailyportalz.jp/koresugo/raw-edible-cookies",
       "date": "2026-10-20T07:00:00.000Z",
-      "summary": "読者が質問し、ライターが答える質問箱。ライターとみなさまを1対1でつなぐコーナーです。",
+      "summary": "冷凍のクッキー生地です、オーブンで焼いて食べるだけでなく、生食可能です。",
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
     },
     {
-      "title": "生食可能なクッキー生地",
-      "url": "https://dailyportalz.jp/koresugo/raw-edible-cookies",
+      "title": "本土から沖縄に帰ってきたとき、「帰ってきたな～」って感じる場面とかありますか？～ライター質問箱 2026.10.20",
+      "url": "https://dailyportalz.jp/kiji/question-20261020",
       "date": "2026-10-20T07:00:00.000Z",
-      "summary": "冷凍のクッキー生地です、オーブンで焼いて食べるだけでなく、生食可能です。",
+      "summary": "読者が質問し、ライターが答える質問箱。ライターとみなさまを1対1でつなぐコーナーです。",
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
@@ -1752,15 +1788,6 @@
       "category": "documentary"
     },
     {
-      "title": "大根をコロコロに切ってみて！新食感に驚き！角切り大根の絶品副菜レシピ",
-      "url": "https://news.cookpad.com/articles/66067",
-      "date": "2026-10-20T01:00:00.000Z",
-      "summary": "大根といえば、輪切りやいちょう切りで煮物やおでんに入れるイメージがありますが、コロコロと角切りにするだけで新食感の副菜に大変身します。今回は、組み合わせる具材や味つけで印象が変わる3品をご紹介し...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
       "title": "映画のムービングロゴだけで2時間（2026.10.20朝エッセイと更新情報）",
       "url": "https://dailyportalz.jp/dpq/midokoro-20261020",
       "date": "2026-10-20T01:00:00.000Z",
@@ -1768,6 +1795,15 @@
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
+    },
+    {
+      "title": "大根をコロコロに切ってみて！新食感に驚き！角切り大根の絶品副菜レシピ",
+      "url": "https://news.cookpad.com/articles/66067",
+      "date": "2026-10-20T01:00:00.000Z",
+      "summary": "大根といえば、輪切りやいちょう切りで煮物やおでんに入れるイメージがありますが、コロコロと角切りにするだけで新食感の副菜に大変身します。今回は、組み合わせる具材や味つけで印象が変わる3品をご紹介し...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
     },
     {
       "title": "お腹に巨大爆弾！自分より大きな獲物を飲み込み、胃袋をパンパンにして泳ぐ深海魚",
@@ -2121,21 +2157,21 @@
       "category": "culture"
     },
     {
-      "title": "「世界初」宙に浮くダイヤを「量子の力」で揺らすことに成功",
-      "url": "https://nazology.kusuguru.co.jp/archives/202351",
-      "date": "2026-10-19T09:00:00.000Z",
-      "summary": "私たちの身の回りには、量子力学のおかげで成り立っている技術がたくさんあります。 レーザーやMRI、半導体、量子コンピューターも、その仲間です。 ところが、量子力学の不思議な予言を大きな物体で確かめるのは、とても難しいことです。 熱や振動といった周りの乱れが、繊細な量子のふるまいをかき消してしまうからです。 アインシュタインも晩年まで量子力学の土台に向き合いましたが、量子力学と重力の関係は今も解けていません。 では、ダイヤモンドの中にある",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
       "title": "読んでも読んでも人類は魚を食べない〜人類が魚をどう食べてきたのか解説した本「魚食の人類史」（傑作選）",
       "url": "https://dailyportalz.jp/kiji/book-review-makomako02",
       "date": "2026-10-19T09:00:00.000Z",
       "summary": "人類が魚をどう食べてきたのを解説した本……ですが、人類がなかなか魚を食べ始めない！「でも、釣り針はまだ見つかっていない」が癖になります。",
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "「世界初」宙に浮くダイヤを「量子の力」で揺らすことに成功",
+      "url": "https://nazology.kusuguru.co.jp/archives/202351",
+      "date": "2026-10-19T09:00:00.000Z",
+      "summary": "私たちの身の回りには、量子力学のおかげで成り立っている技術がたくさんあります。 レーザーやMRI、半導体、量子コンピューターも、その仲間です。 ところが、量子力学の不思議な予言を大きな物体で確かめるのは、とても難しいことです。 熱や振動といった周りの乱れが、繊細な量子のふるまいをかき消してしまうからです。 アインシュタインも晩年まで量子力学の土台に向き合いましたが、量子力学と重力の関係は今も解けていません。 では、ダイヤモンドの中にある",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
       "category": "documentary"
     },
     {
@@ -5548,42 +5584,6 @@
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
-    },
-    {
-      "title": "ボン・スコットの遺産管理団体、サミー・ヘイガーがAC/DCの前後に演奏することを常に拒否してきた理由を語る動画公開",
-      "url": "https://amass.jp/192414/",
-      "date": "2026-10-14T19:21:00.000Z",
-      "summary": "AC/DCのシンガーだったボン・スコットの遺産管理団体は、サミー・ヘイガーの新しいインタビュー動画を公開。ヘイガーはAC/DCの前後に演奏することを常に拒否してきた理由を語る。「彼らが前座を務めれば、いつだって厄介なことになる」。スコットの魅力も語る https://amass.jp/192414/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "PKCZ®、新曲「PEACE UP」配信リリース Z3QUE BEATZ、ZEROら参加のフェスビッグチューンに",
-      "url": "https://realsound.jp/2026/10/post-2552948.html",
-      "date": "2026-10-14T19:00:59.000Z",
-      "summary": "PKCZ®が、10月16日にリリースする新曲「PEACE UP」のジャケット写真と楽曲情報を公開した。 新曲「PEACE UP」は、重低音と高揚感を軸にしたフェスビッグチューン。BPM150で駆け抜けるビートと重低音",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "渡辺美里、ビルボードライブ大阪＆横浜公演開催 西武ドームでのライブ経て11月、12月に登場",
-      "url": "https://realsound.jp/2026/10/post-2553501.html",
-      "date": "2026-10-14T18:30:36.000Z",
-      "summary": "渡辺美里が、ビルボードライブ公演『渡辺美里 Billboard Live スタジアムのその先へ』を11月より開催する。 本公演は、11月27日にビルボードライブ大阪、12月15日に横浜にて開催。11月8日に行われる自",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "「ザ・ベスト・オブ・山種コレクション?」",
-      "url": "https://bluediary2.jugem.jp/?eid=8219",
-      "date": "2026-10-14T13:47:00.000Z",
-      "summary": "山種美術館で開催中の 開館60周年記念特別展3「ザ・ベスト・オブ・山種コレクション? ―横山大観、竹内栖鳳から上村松園、速水御舟へ―」へ行って来ました。 https://www.yamatane-museum.jp/ 1966年に日本初の日本画専門美術館として開館した山種美術館。 今年...",
-      "source": "青い日記帳（美術展）",
-      "sourceHomepage": "https://bluediary2.jugem.jp/",
-      "category": "culture"
     }
   ]
 }
