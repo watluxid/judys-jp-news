@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T17:19:09.148Z",
+  "generatedAt": "2026-10-22T21:44:36.170Z",
   "articleCount": 600,
   "feedStatus": [
     {
@@ -10,13 +10,6 @@
       "errors": [
         "https://www.cinra.net/feed → HTTP 503"
       ]
-    },
-    {
-      "name": "NHKニュース（科学・文化）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-      "errors": []
     },
     {
       "name": "NHKニュース（主要）",
@@ -33,10 +26,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（社会）",
+      "name": "NHKニュース（科学・文化）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -54,6 +47,13 @@
       "errors": []
     },
     {
+      "name": "NHKニュース（社会）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "errors": []
+    },
+    {
       "name": "つくおき",
       "category": "cooking",
       "ok": true,
@@ -68,17 +68,17 @@
       "errors": []
     },
     {
-      "name": "amass",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://amass.jp/rss/new",
-      "errors": []
-    },
-    {
       "name": "メシ通（ホットペッパーグルメ）",
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
+      "errors": []
+    },
+    {
+      "name": "amass",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://amass.jp/rss/new",
       "errors": []
     },
     {
@@ -131,13 +131,6 @@
       "errors": []
     },
     {
-      "name": "カラパイア",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
-      "errors": []
-    },
-    {
       "name": "和樂web",
       "category": "culture",
       "ok": true,
@@ -149,6 +142,13 @@
       "category": "culture",
       "ok": true,
       "usedUrl": "https://tokion.jp/feed/",
+      "errors": []
+    },
+    {
+      "name": "カラパイア",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://karapaia.com/index.rdf",
       "errors": []
     },
     {
@@ -181,6 +181,15 @@
     }
   ],
   "articles": [
+    {
+      "title": "中川翔子、双子の1歳誕生日を盛大に祝福 「素敵なお祝い」「すっかり母の顔」「しっかりと準備する翔子ちゃん尊敬」",
+      "url": "https://realsound.jp/2026/10/post-2560588.html",
+      "date": "2026-10-23T05:50:19.000Z",
+      "summary": "中川翔子が自身のYouTubeを更新。1歳を迎えた双子の誕生日を祝福する様子を公開した。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
     {
       "title": "マニック・ストリート・プリーチャーズ『The Holy Bible』20周年記念の全曲演奏公演 ライヴ盤が全曲公開",
       "url": "https://amass.jp/192589/",
@@ -243,6 +252,15 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "2026年10月23日：本日発売のコミック新刊",
+      "url": "https://hon-hikidashi.jp/news/209818/",
+      "date": "2026-10-22T21:00:19.000Z",
+      "summary": "2026年10月23日（金）発売のコミック単行本をお知らせします。 〉 過去の日付のコミック新刊はこちら (adsbygoogle = window.adsbygoogle || []).push({}); 一迅社 ・ 「あのとき助けていただいたモンスター娘です。」異世界おっさん教師 突然のモテ期に困惑する （5） （沖ノ輔） comic POOL ・ 男子校の姫 （4） （いくたはな） KADOKAWA MFC ・ 勇者に全部奪われた",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
     },
     {
       "title": "iri、デビュー10周年を記念したアニバーサリーライブ10公演目としてビルボードライブ東京に初登場",
@@ -5559,24 +5577,6 @@
       "url": "https://amass.jp/192440/",
       "date": "2026-10-15T19:34:00.000Z",
       "summary": "モーターヘッド『Orgasmatron』40周年記念エディションから、モーターヘッドの長年のコラボレーターであるキャメロン・ウェッブによる「Built for Speed」の新しい2026年リミックス・ヴァージョン公開 https://amass.jp/192440/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "オービタル 新アルバム『Other』発売",
-      "url": "https://amass.jp/192439/",
-      "date": "2026-10-15T19:19:00.000Z",
-      "summary": "オービタル（Orbital）は新スタジオ・アルバム『Other』を海外で2027年3月19日発売 https://amass.jp/192439/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "オージー・ロックの始祖イージービーツの伝記映画『フライデイ・オン・マイ・マインド／イージービーツ物語』日本初上映決定",
-      "url": "https://amass.jp/192438/",
-      "date": "2026-10-15T19:05:00.000Z",
-      "summary": "オーストラリアの伝説的ロック・バンド、イージービーツの伝記映画『フライデイ・オン・マイ・マインド／イージービーツ物語』が日本初上映決定。前後編の一挙上映が2027年4月18日に東京・渋谷のユーロライブで行われます https://amass.jp/192438/",
       "source": "amass",
       "sourceHomepage": "https://amass.jp/",
       "category": "music"
