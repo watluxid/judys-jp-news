@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T17:16:48.888Z",
+  "generatedAt": "2026-10-23T21:30:15.697Z",
   "articleCount": 600,
   "feedStatus": [
     {
@@ -26,17 +26,17 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-      "errors": []
-    },
-    {
       "name": "NHKニュース（社会）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（国際）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
       "errors": []
     },
     {
@@ -68,6 +68,13 @@
       "errors": []
     },
     {
+      "name": "amass",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://amass.jp/rss/new",
+      "errors": []
+    },
+    {
       "name": "メシ通（ホットペッパーグルメ）",
       "category": "cooking",
       "ok": true,
@@ -75,10 +82,10 @@
       "errors": []
     },
     {
-      "name": "amass",
-      "category": "music",
+      "name": "4Gamer（乙女ゲーム関連）",
+      "category": "otome",
       "ok": true,
-      "usedUrl": "https://amass.jp/rss/new",
+      "usedUrl": "https://www.4gamer.net/rss/index.xml",
       "errors": []
     },
     {
@@ -89,10 +96,17 @@
       "errors": []
     },
     {
-      "name": "4Gamer（乙女ゲーム関連）",
-      "category": "otome",
+      "name": "リアルサウンド",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://www.4gamer.net/rss/index.xml",
+      "usedUrl": "https://realsound.jp/atom.xml",
+      "errors": []
+    },
+    {
+      "name": "デイリーポータルZ",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -110,17 +124,10 @@
       "errors": []
     },
     {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
-      "errors": []
-    },
-    {
-      "name": "リアルサウンド",
+      "name": "OTOTOY",
       "category": "music",
       "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
+      "usedUrl": "https://ototoy.jp/rss",
       "errors": []
     },
     {
@@ -145,17 +152,17 @@
       "errors": []
     },
     {
-      "name": "カラパイア",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://karapaia.com/index.rdf",
-      "errors": []
-    },
-    {
       "name": "ほんのひきだし（本・出版）",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://hon-hikidashi.jp/feed/",
+      "errors": []
+    },
+    {
+      "name": "カラパイア",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://karapaia.com/index.rdf",
       "errors": []
     },
     {
@@ -170,13 +177,6 @@
       "category": "culture",
       "ok": true,
       "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
-      "errors": []
-    },
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
       "errors": []
     }
   ],
@@ -623,24 +623,6 @@
       "category": "documentary"
     },
     {
-      "title": "冷蔵庫でビールを冷やす速さには「限界」があると判明",
-      "url": "https://nazology.kusuguru.co.jp/archives/203073",
-      "date": "2026-10-23T09:00:00.000Z",
-      "summary": "暑い日に帰ってきて、冷蔵庫に入れたばかりの缶ビールを何度も触って確かめてしまう人は多いでしょう。 冷蔵庫ややかんがどれだけ早く仕事を終えるかは、ふつうは機械の性能しだいだと考えられています。 では、性能をどこまでも上げていけば、ビールは一瞬で冷え、湯は一瞬で沸くのでしょうか？ 物理学者の間では以前から、そこには越えられない「最短の待ち時間」があるのではないかと考えられてきました。 この疑問に、スペインやオーストリア、スイスの研究チームが",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "トウモロコシ畑でつかまえて？空から降ってきた直径3mを超える巨大な宇宙ゴミ",
-      "url": "https://karapaia.com/archives/634272.html",
-      "date": "2026-10-23T09:00:00.000Z",
-      "summary": "「ライ麦畑でつかまえて」ならぬ「トウモロコシ畑」で見つかっちゃったのは、巨大な金属の塊だ。アメリカのミネソタ州の住民たちが発見したのは、直径約3.3mにもなる見たこともない物体だった。調査の結果、大気圏に再突入して燃え残った宇宙ゴミである可能性が高いことが判明した…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
       "title": "Wang One、最新シングル「Dragon Blood」10/30配信リリース",
       "url": "https://ototoy.jp/news/132409",
       "date": "2026-10-23T09:00:00.000Z",
@@ -657,6 +639,24 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
+    },
+    {
+      "title": "冷蔵庫でビールを冷やす速さには「限界」があると判明",
+      "url": "https://nazology.kusuguru.co.jp/archives/203073",
+      "date": "2026-10-23T09:00:00.000Z",
+      "summary": "暑い日に帰ってきて、冷蔵庫に入れたばかりの缶ビールを何度も触って確かめてしまう人は多いでしょう。 冷蔵庫ややかんがどれだけ早く仕事を終えるかは、ふつうは機械の性能しだいだと考えられています。 では、性能をどこまでも上げていけば、ビールは一瞬で冷え、湯は一瞬で沸くのでしょうか？ 物理学者の間では以前から、そこには越えられない「最短の待ち時間」があるのではないかと考えられてきました。 この疑問に、スペインやオーストリア、スイスの研究チームが",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "トウモロコシ畑でつかまえて？空から降ってきた直径3mを超える巨大な宇宙ゴミ",
+      "url": "https://karapaia.com/archives/634272.html",
+      "date": "2026-10-23T09:00:00.000Z",
+      "summary": "「ライ麦畑でつかまえて」ならぬ「トウモロコシ畑」で見つかっちゃったのは、巨大な金属の塊だ。アメリカのミネソタ州の住民たちが発見したのは、直径約3.3mにもなる見たこともない物体だった。調査の結果、大気圏に再突入して燃え残った宇宙ゴミである可能性が高いことが判明した…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
     },
     {
       "title": "a-haのモートン・ハルケット、12年ぶりの新ソロ・スタジオ・アルバムから「If I Ever See Your Face Again」のMV公開",
