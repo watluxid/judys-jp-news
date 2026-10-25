@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T20:58:05.849Z",
+  "generatedAt": "2026-10-25T04:55:32.605Z",
   "articleCount": 600,
   "feedStatus": [
     {
@@ -10,6 +10,20 @@
       "errors": [
         "https://www.cinra.net/feed → HTTP 503"
       ]
+    },
+    {
+      "name": "NHKニュース（主要）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（社会）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "errors": []
     },
     {
       "name": "NHKニュース（科学・文化）",
@@ -26,10 +40,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（主要）",
-      "category": "news",
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -40,24 +54,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（社会）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
-      "errors": []
-    },
-    {
       "name": "つくおき",
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://cookien.com/feed/",
-      "errors": []
-    },
-    {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -89,17 +89,17 @@
       "errors": []
     },
     {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://sorae.info/feed",
-      "errors": []
-    },
-    {
       "name": "リアルサウンド",
       "category": "music",
       "ok": true,
       "usedUrl": "https://realsound.jp/atom.xml",
+      "errors": []
+    },
+    {
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -110,13 +110,6 @@
       "errors": []
     },
     {
-      "name": "アニメ！アニメ！（乙女ゲーム関連）",
-      "category": "otome",
-      "ok": true,
-      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
       "name": "ナゾロジー",
       "category": "documentary",
       "ok": true,
@@ -124,24 +117,17 @@
       "errors": []
     },
     {
+      "name": "アニメ！アニメ！（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
+      "errors": []
+    },
+    {
       "name": "デイリーポータルZ",
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://dailyportalz.jp/feed/headline",
-      "errors": []
-    },
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
-      "errors": []
-    },
-    {
-      "name": "TOKION",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
       "errors": []
     },
     {
@@ -156,6 +142,13 @@
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://karapaia.com/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "TOKION",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://tokion.jp/feed/",
       "errors": []
     },
     {
@@ -178,9 +171,25 @@
       "ok": true,
       "usedUrl": "https://hon-hikidashi.jp/feed/",
       "errors": []
+    },
+    {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
+      "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "eyedはなぜ“余白”を選ぶのか――「silence」に宿る引きの美学、新鋭ガールズグループが描く新たな地平",
+      "url": "https://realsound.jp/2026/10/post-2559221.html",
+      "date": "2026-10-25T12:00:42.000Z",
+      "summary": "モノクロームの映像、情報を絞ったプロモーション、そして音数を削ぎ落とした「silence」。eyedは、あえて“足さない”ことで5人の輪郭を浮かび上がらせている。テクノ／ハウスを軸にしたサウンドとビジュアルから、新鋭ガールズグループの可能性を探る。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
     {
       "title": "渡辺真知子70歳に 岩崎宏美、松任谷由実、庄野真代、八神純子……半世紀近く歌い続ける女性シンガーたち",
       "url": "https://realsound.jp/2026/10/post-2559223.html",
@@ -191,6 +200,141 @@
       "category": "music"
     },
     {
+      "title": "ガリレオもニュートンも「トンデモ科学者」だった!? 科学の常識が覆る驚きの歴史『トンデモと科学のあいだ』",
+      "url": "https://hon-hikidashi.jp/book-person/213096/",
+      "date": "2026-10-25T04:30:57.000Z",
+      "summary": "かつて「トンデモ」だと思われていた学説が、現在では立派な「科学」として広く受け入れられている……あるいはその逆のケースも。本書はそんな事例の数々を紹介する一冊である。 この本ではわかりやすいように、「昔トンデモだと思われたものが後で正しいとわかった」、または「今はトンデモだと思えるものが昔は正しいと思われていた」の２パターンに絞って例を挙げてはいるが、実際はそこまで話は単純ではない。トンデモ理論が別のトンデモ理論を生み、紆余曲折の結果、",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "「人工知能の父」は偏屈で孤独な天才だった！ チューリングの知られざる生涯と思想",
+      "url": "https://hon-hikidashi.jp/book-person/213089/",
+      "date": "2026-10-25T04:00:43.000Z",
+      "summary": "あなたの知っているチューリングは？ あなたがアラン・チューリングの名前を知っているならば、それは「コンピュータの礎を作った人」「ナチス・ドイツの暗号機エニグマを解読した人」、もしくは「機械が人間と同等の知能を持っているかを判断するチューリング・テストを考えた人」として記憶されているはず。それ、全部正解。 または、ベネディクト・カンバーバッチ主演のアカデミー賞も受賞した映画『イミテーション・ゲーム／エニグマと天才数学者の秘密』を観た人もい",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "ホットケーキミックスで！材料2つで「もちもち」かぼちゃドーナツ",
+      "url": "https://news.cookpad.com/articles/66862",
+      "date": "2026-10-25T04:00:00.000Z",
+      "summary": "材料はかぼちゃとホットケーキミックスの2つだけ！ コロコロしたひとくちサイズがかわいい「かぼちゃドーナツ」をご紹介します。もちもちの食感とやさしい甘さで、子どもにも喜ばれそう。生地を丸める作業は...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "【オフィシャルレポ】〈ナインティナインのオールナイトニッポン歌謡祭〉リスナーが豪華パフォーマンスに歓喜",
+      "url": "https://ototoy.jp/news/132446",
+      "date": "2026-10-25T03:45:00.000Z",
+      "summary": "ナインティナイン（岡村隆史・矢部浩之）がパーソナリティを務めるラジオ番組、ニッポン放送『ナインティナインのオールナイトニッポン』（木曜25時～27時）の番組イベント「ナインティナインのオールナイトニッポン歌謡祭」が10月24日（土）に横浜アリーナで開催された",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
+      "title": "ただのおっさんとして旅立つリヒト――待ち受けていたのは新たな出会いで……！？『旅人のおっさん、自由気ままなスローライフを送りたいのに世界を救った真の英雄だとバレる』【#4】",
+      "url": "https://hon-hikidashi.jp/book-person/214102/",
+      "date": "2026-10-25T03:40:37.000Z",
+      "summary": "竹書房のコミックサイト「 竹コミ！ 」で連載中の 『旅人のおっさん、自由気ままなスローライフを送りたいのに世界を救った真の英雄だとバレる』第1巻 が好評発売中です。 「これから俺は、一体何をしていけばいいんだろう…」転生し、魔王討伐を果たした勇者リヒトですが、10年に及ぶ勇者の旅で、おっさんになっていました。「よし。異世界のんびり観光の旅に出かけよう――！！」平和を取り戻し引退した勇者が、身分を隠しながら可愛らしいケモミミ少女と共に異世",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "「今からでも遅くないじゃないか！」リヒトが決意した「自分の人生」の始め方とは『旅人のおっさん、自由気ままなスローライフを送りたいのに世界を救った真の英雄だとバレる』【#3】",
+      "url": "https://hon-hikidashi.jp/book-person/214088/",
+      "date": "2026-10-25T03:30:52.000Z",
+      "summary": "竹書房のコミックサイト「 竹コミ！ 」で連載中の 『旅人のおっさん、自由気ままなスローライフを送りたいのに世界を救った真の英雄だとバレる』第1巻 が好評発売中です。 「これから俺は、一体何をしていけばいいんだろう…」転生し、魔王討伐を果たした勇者リヒトですが、10年に及ぶ勇者の旅で、おっさんになっていました。「よし。異世界のんびり観光の旅に出かけよう――！！」平和を取り戻し引退した勇者が、身分を隠しながら可愛らしいケモミミ少女と共に異世",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "小指が動かない少年がピアノで世界へ――孤独な天才と新しい母の物語『ラブソング』",
+      "url": "https://hon-hikidashi.jp/book-person/212988/",
+      "date": "2026-10-25T03:30:09.000Z",
+      "summary": "小指の動かないピアニスト ピアニストにとって、右手の小指が動かないことは、どれくらい絶望的なことなのだろう。 本作『ラブソング』の主人公・陣は、日常的に暴力を振るうロクデナシの父親に踏みつけられ、小指が動かなくなった。天涯孤独となった陣は、思わぬ人の養子となり、その人を母と呼ぶことになる。 女性にだらしなく、四股生活を送っていた父が、最後まで選ばなかった女性・春海来冬。彼女が、なにをどう思って「母親になる」と名乗り出たのか分からない。同",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "村人たちは新たな一歩へ――しかしリヒトは今後の人生に悩んでいて……『旅人のおっさん、自由気ままなスローライフを送りたいのに世界を救った真の英雄だとバレる』【#2】",
+      "url": "https://hon-hikidashi.jp/book-person/214056/",
+      "date": "2026-10-25T03:20:32.000Z",
+      "summary": "竹書房のコミックサイト「 竹コミ！ 」で連載中の 『旅人のおっさん、自由気ままなスローライフを送りたいのに世界を救った真の英雄だとバレる』第1巻 が好評発売中です。 「これから俺は、一体何をしていけばいいんだろう…」転生し、魔王討伐を果たした勇者リヒトですが、10年に及ぶ勇者の旅で、おっさんになっていました。「よし。異世界のんびり観光の旅に出かけよう――！！」平和を取り戻し引退した勇者が、身分を隠しながら可愛らしいケモミミ少女と共に異世",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "【オフィシャルレポ】YOASOBI、国内・アジアドーム＆スタジアムツアー〈超惑星〉大阪で開幕 新曲「KILLA」初披露",
+      "url": "https://ototoy.jp/news/132445",
+      "date": "2026-10-25T03:15:00.000Z",
+      "summary": "YOASOBIが、日本人アーティスト最大級の国内・アジアドーム＆スタジアムツアー〈YOASOBI ASIA 10-CITY DOME & STADIUM TOUR 2026-2027 “超惑星”〉の幕開けを飾る大阪公演を、京セラドーム大阪にて開催した",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
+    },
+    {
+      "title": "コレで包むのが正解！一口サイズで食べやすくなる「餃子」の作り方",
+      "url": "https://news.cookpad.com/articles/66080",
+      "date": "2026-10-25T03:00:00.000Z",
+      "summary": "餃子を作るとき、皮のひだを作るのを面倒に思うことはありませんか。そんな悩みを解決してくれるのが、ワンタンの皮を使ったこちらのレシピです。餃子の皮は丸いため包む工程にコツが必要ですが、ワンタンの皮...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "忘れてないよ！尻尾ピーンで駆け寄ってきた猫と3カ月ぶりの感動の再会",
+      "url": "https://karapaia.com/archives/634533.html",
+      "date": "2026-10-25T03:00:00.000Z",
+      "summary": "3年にもわたりお世話を続け、ようやく心を開いてくれた地域の茶トラ猫を置いて引っ越さなければならなかったオーストラリアの女性は、どうしてもその猫のことを忘れることができなかった。3か月後、かつて住んでいた街を訪れると、そこには彼女の帰りを待ち続けていた猫の姿があった…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
+      "title": "AIもネットのジャンク情報を学ぶと「脳が腐る」と判明",
+      "url": "https://nazology.kusuguru.co.jp/archives/203428",
+      "date": "2026-10-25T01:30:00.000Z",
+      "summary": "翌朝、昨夜あれほど眺めた投稿を一つも思い出せないまま、ぼんやりした頭で駅へ向かう。 ネット上の軽くて刺激の強い情報を大量に浴びる人には、集中が続かないといった頭の変化が見られることがあります。 こうした変化は、「ブレインロット(脳の腐敗)」と呼ばれるようになりました。 この言葉は2024年に、オックスフォード大学出版局が選ぶ「今年の言葉」にも選ばれています。 一方で、文章を作るAI(大規模言語モデル)も、ネット上の膨大な文章を読んで言葉",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "揚げずにサクサクほくほく！手作りフライドポテト",
+      "url": "https://news.cookpad.com/articles/66079",
+      "date": "2026-10-25T01:00:00.000Z",
+      "summary": "じゃがいもがおいしい季節、家で手作りフライドポテトを楽しんでみませんか？ 油で揚げないレシピなら、準備もあと片づけもラクラク。今回は、オーブンやトースターを使ってサクサクほくほくに仕上げる、おす...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "目指せマインドフルネス（2026.10.25 朝エッセイと更新情報）",
+      "url": "https://dailyportalz.jp/dpq/midokoro-20261025",
+      "date": "2026-10-25T01:00:00.000Z",
+      "summary": "先日、西村さんとディズニーランドの話になりました。西村さんは行ったことがないそうです。でも私は2回あるので自慢しました。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "『刀剣乱舞ONLINE』刀剣男士たちがめじるしアクセサリーに！クリアでかわいい「三日月宗近」ら全6種",
+      "url": "https://www.inside-games.jp/article/2026/10/25/189785.html",
+      "date": "2026-10-25T00:50:03.000Z",
+      "summary": "ガシャポン「刀剣乱舞ONLINE めじるしアクセサリー」が10月第5週より発売！",
+      "source": "インサイド（乙女ゲーム関連）",
+      "sourceHomepage": "https://www.inside-games.jp/",
+      "category": "otome"
+    },
+    {
       "title": "目黒蓮、爽やかなCMオフショ 内村光良との温かなツーショットも「本当の親子みたい」「良い笑顔」",
       "url": "https://realsound.jp/2026/10/post-2563472.html",
       "date": "2026-10-24T23:11:14.000Z",
@@ -198,6 +342,33 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "洗い物を減らせる！今夜はやわらかおいしい「鶏むねホイル焼き」にしない？",
+      "url": "https://news.cookpad.com/articles/66120",
+      "date": "2026-10-24T23:00:00.000Z",
+      "summary": "お財布にやさしい「鶏むね肉」をメインに、ホイル焼きを作ってみませんか。ホイル焼きは魚のイメージがありますが、じつはむね肉もおすすめ。蒸し焼きにするので、パサつきがちなむね肉もしっとりやわらかく仕...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "うれしいニュース。1世紀前に絶滅したと考えられていたスローロリスが生き延びていた！",
+      "url": "https://karapaia.com/archives/634599.html",
+      "date": "2026-10-24T23:00:00.000Z",
+      "summary": "1930年代を最後に記録が途絶え、絶滅したと考えられていた霊長類「バンカ・スローロリス」が、インドネシアのバンカ島に生存していることが確認された。インドネシアとオーストリアの研究チームによると、人為的な森林破壊で住む場所を失い、人間の家屋や庭に迷い込んだ個体が…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
+      "title": "愛犬をなでた飼い主ほど「次のストレス」に体が落ち着いて反応すると判明",
+      "url": "https://nazology.kusuguru.co.jp/archives/203283",
+      "date": "2026-10-24T22:30:00.000Z",
+      "summary": "仕事で疲れて帰った夜、玄関で出迎えた愛犬の背中を、つい長めになでてしまう。 犬と暮らすと心と体によい、という話はよく聞きます。 これまでの研究をまとめた分析では、ペットを飼う人は、死因を問わない死亡のリスクが24%低いとも報告されています。 ただ、犬との触れ合いのどの部分が効いているのかは、はっきりしていませんでした。 オーストリアの研究チームは、飼い主64人に愛犬を連れて実験室へ来てもらいました。 そして触れ合いの中から「なでる」こと",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
     },
     {
       "title": "ラムシュタインのライヴ・フィルム『Live In Mexico City』から「Deutschland」のライヴ映像公開",
@@ -524,15 +695,6 @@
       "category": "documentary"
     },
     {
-      "title": "伊波ライ、1stミニAL『Hero』配信リリース",
-      "url": "https://ototoy.jp/news/132444",
-      "date": "2026-10-24T09:00:00.000Z",
-      "summary": "伊波ライが自身初となるミニアルバム『Hero』を配信リリースした",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
       "title": "アメリカ人が恐れるものトップ10、AIへの不安が初めてランクイン",
       "url": "https://karapaia.com/archives/634444.html",
       "date": "2026-10-24T09:00:00.000Z",
@@ -540,6 +702,15 @@
       "source": "カラパイア",
       "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
+    },
+    {
+      "title": "伊波ライ、1stミニAL『Hero』配信リリース",
+      "url": "https://ototoy.jp/news/132444",
+      "date": "2026-10-24T09:00:00.000Z",
+      "summary": "伊波ライが自身初となるミニアルバム『Hero』を配信リリースした",
+      "source": "OTOTOY",
+      "sourceHomepage": "https://ototoy.jp/news/",
+      "category": "music"
     },
     {
       "title": "京都の四季を映す宝箱！亀末廣「京の十二月」の干菓子と半生菓子【京の和菓子帖2026】",
@@ -677,15 +848,6 @@
       "category": "culture"
     },
     {
-      "title": "【赤い＝傷んでる!?】芯が赤く変色したレタス、食べても大丈夫？野菜ソムリエプロ・緒方湊さんに聞いてみた",
-      "url": "https://news.cookpad.com/articles/66673",
-      "date": "2026-10-24T03:00:00.000Z",
-      "summary": "冷蔵庫のレタスの芯が赤っぽく変色していて、驚いたことはありませんか？「傷んでいるのかも…」と悩んでしまいますよね。食べても大丈夫なのか、野菜ソムリエプロの緒方湊さんに聞いてみました。ーーレタスの...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
       "title": "白馬が好きすぎる2匹のドーベルマン。キスしたくて奪い合いが勃発",
       "url": "https://karapaia.com/archives/634414.html",
       "date": "2026-10-24T03:00:00.000Z",
@@ -693,6 +855,15 @@
       "source": "カラパイア",
       "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
+    },
+    {
+      "title": "【赤い＝傷んでる!?】芯が赤く変色したレタス、食べても大丈夫？野菜ソムリエプロ・緒方湊さんに聞いてみた",
+      "url": "https://news.cookpad.com/articles/66673",
+      "date": "2026-10-24T03:00:00.000Z",
+      "summary": "冷蔵庫のレタスの芯が赤っぽく変色していて、驚いたことはありませんか？「傷んでいるのかも…」と悩んでしまいますよね。食べても大丈夫なのか、野菜ソムリエプロの緒方湊さんに聞いてみました。ーーレタスの...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
     },
     {
       "title": "w.o.d.、自由に楽しむ人々で描かれた「Feelin’」MV公開",
@@ -740,15 +911,6 @@
       "category": "documentary"
     },
     {
-      "title": "ボソボソりんごを救済！残念なりんごを極上スイーツに変える神ワザ3選",
-      "url": "https://news.cookpad.com/articles/66077",
-      "date": "2026-10-24T02:00:00.000Z",
-      "summary": "りんごのシーズンが到来して、買う機会も増えるこの時期。せっかくゲットしたのに味が落ちてしまったり、スカスカだったりするとガッカリしますよね。今回は、そんな残念なりんごを救済して、極上スイーツに変...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
       "title": "近所の地図を戦国時代にする",
       "url": "https://dailyportalz.jp/kiji/sengoku-style-local-map",
       "date": "2026-10-24T02:00:00.000Z",
@@ -767,12 +929,30 @@
       "category": "documentary"
     },
     {
+      "title": "ボソボソりんごを救済！残念なりんごを極上スイーツに変える神ワザ3選",
+      "url": "https://news.cookpad.com/articles/66077",
+      "date": "2026-10-24T02:00:00.000Z",
+      "summary": "りんごのシーズンが到来して、買う機会も増えるこの時期。せっかくゲットしたのに味が落ちてしまったり、スカスカだったりするとガッカリしますよね。今回は、そんな残念なりんごを救済して、極上スイーツに変...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
       "title": "人はルールを守る人より「破る人」をまねしやすいと判明",
       "url": "https://nazology.kusuguru.co.jp/archives/203444",
       "date": "2026-10-24T01:30:00.000Z",
       "summary": "高速道路では、多くの車が制限速度を少しだけ上回る速さで流れることは普通の光景です。 ルールは、人が集まって暮らすうえで、ふるまいをそろえ、協力を保つための土台です。 けれども、取り締まりがゆるい場で他人が破るのを目にすると、ルールを守る気持ちは揺らぎやすくなります。 これまでの研究でも、ルール違反のような迷惑なふるまいが、人から人へ広がりうると示されてきました。 ただ、現実の違反には、ちょっとした速度超過から大きな違反まで「程度」があり",
       "source": "ナゾロジー",
       "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "カメムシ警報（2026.10.23 朝エッセイと更新情報）",
+      "url": "https://dailyportalz.jp/dpq/midokoro-20261024",
+      "date": "2026-10-24T01:00:00.000Z",
+      "summary": "僕がいま住んでいる静岡にカメムシの警報が出ました。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
     },
     {
@@ -783,15 +963,6 @@
       "source": "クックパッドニュース",
       "sourceHomepage": "https://news.cookpad.com/",
       "category": "cooking"
-    },
-    {
-      "title": "カメムシ警報（2026.10.23 朝エッセイと更新情報）",
-      "url": "https://dailyportalz.jp/dpq/midokoro-20261024",
-      "date": "2026-10-24T01:00:00.000Z",
-      "summary": "僕がいま住んでいる静岡にカメムシの警報が出ました。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
     },
     {
       "title": "屋敷に着くと私を置いて出て行こうとする彼…未来を変えるために、勇気を出した私は…『死に戻りの薔薇姫は敵国の公爵に溺愛される』【#9】",
@@ -1244,15 +1415,6 @@
       "category": "music"
     },
     {
-      "title": "冷蔵庫でビールを冷やす速さには「限界」があると判明",
-      "url": "https://nazology.kusuguru.co.jp/archives/203073",
-      "date": "2026-10-23T09:00:00.000Z",
-      "summary": "暑い日に帰ってきて、冷蔵庫に入れたばかりの缶ビールを何度も触って確かめてしまう人は多いでしょう。 冷蔵庫ややかんがどれだけ早く仕事を終えるかは、ふつうは機械の性能しだいだと考えられています。 では、性能をどこまでも上げていけば、ビールは一瞬で冷え、湯は一瞬で沸くのでしょうか？ 物理学者の間では以前から、そこには越えられない「最短の待ち時間」があるのではないかと考えられてきました。 この疑問に、スペインやオーストリア、スイスの研究チームが",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
       "title": "ごみか宝か判定 ライターとりもちうずら「チョコレートの包装紙12年分」",
       "url": "https://dailyportalz.jp/dpq/gomi-or-takara-torimochi-01",
       "date": "2026-10-23T09:00:00.000Z",
@@ -1268,6 +1430,15 @@
       "summary": "我が家で一大ムーブメントを起こした調味料がある。カルディコーヒーファームで売られている『オマール海老めんつゆ』だ。",
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "冷蔵庫でビールを冷やす速さには「限界」があると判明",
+      "url": "https://nazology.kusuguru.co.jp/archives/203073",
+      "date": "2026-10-23T09:00:00.000Z",
+      "summary": "暑い日に帰ってきて、冷蔵庫に入れたばかりの缶ビールを何度も触って確かめてしまう人は多いでしょう。 冷蔵庫ややかんがどれだけ早く仕事を終えるかは、ふつうは機械の性能しだいだと考えられています。 では、性能をどこまでも上げていけば、ビールは一瞬で冷え、湯は一瞬で沸くのでしょうか？ 物理学者の間では以前から、そこには越えられない「最短の待ち時間」があるのではないかと考えられてきました。 この疑問に、スペインやオーストリア、スイスの研究チームが",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
       "category": "documentary"
     },
     {
@@ -5409,177 +5580,6 @@
       "source": "クックパッドニュース",
       "sourceHomepage": "https://news.cookpad.com/",
       "category": "cooking"
-    },
-    {
-      "title": "恐竜絶滅直後に起源をもつ新種の巨大キノコが発見される",
-      "url": "https://karapaia.com/archives/633262.html",
-      "date": "2026-10-17T23:00:00.000Z",
-      "summary": "約6600万年前の小惑星衝突による恐竜の絶滅後、地球は暗く寒冷化した。大量の木が枯れて倒れたこの時期は、菌類にとって絶好の繁殖環境となった。中国雲南省の森で、恐竜絶滅の直後に誕生した未知の系統に属する、新種の巨大なキノコが見つかったことが…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
-      "title": "風車の羽根にペンキを塗ると、鳥の衝突が大きく減ると判明",
-      "url": "https://nazology.kusuguru.co.jp/archives/202040",
-      "date": "2026-10-17T22:30:00.000Z",
-      "summary": "扇風機のスイッチを入れると、さっきまで見えていた羽根が、向こうが透けて見える薄い円盤のようになっていきます。 風力発電は、気候変動に立ち向かうための大切な手段です。 ところが鳥にとっては、回る巨大な羽根が命取りになることがあります。 米国だけでも、風車にぶつかって死ぬ鳥は年に最大100万羽にのぼるとされます。 この問題に対して、スペイン南部の風力発電所で、安くて単純な工夫が試されました。 使ったのは、高価な装置ではなく、ペンキです。 3",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "佐久間大介、溺愛する姪っ子の成長に驚き 手を繋いで歩く姿に「パパみたい」「こんな叔父さんいいな」",
-      "url": "https://realsound.jp/2026/10/post-2556595.html",
-      "date": "2026-10-17T22:11:56.000Z",
-      "summary": "佐久間大介（Snow Man）が、現在公開中の映画『マッチング TRUE LOVE』のオフショットを自身のInstagramに公開している。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "ブームタウン・ラッツのボブ・ゲルドフ＆スパンダー・バレエのゲイリー・ケンプ TV番組で「Rat Trap」披露",
-      "url": "https://amass.jp/192487/",
-      "date": "2026-10-17T22:01:00.000Z",
-      "summary": "ブームタウン・ラッツのボブ・ゲルドフと、スパンダー・バレエのゲイリー・ケンプがアイルランドのTV番組『The Late Late Show』で共演。ブームタウン・ラッツの「Rat Trap」を披露しています。パフォーマンス映像あり https://amass.jp/192487/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "SYAYOS、スピードスターレコーズよりメジャーデビュー 2カ月連続シングルリリース＆全国ツアー開催",
-      "url": "https://realsound.jp/2026/10/post-2556463.html",
-      "date": "2026-10-17T22:00:43.000Z",
-      "summary": "バンド SYAYOSが、ビクターエンタテインメント スピードスターレコーズよりメジャーデビューする。 SYAYOSは、2024年7月に長野県伊那市で結成された4人組バンド。太宰治の小説『斜陽』に由来するバンド名を掲げ",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "グレン・ヒューズ、10時間に及ぶ開胸手術を受けた後「一日一日、回復に向かうにつれて、少しずつ活力が戻ってきている」",
-      "url": "https://amass.jp/192486/",
-      "date": "2026-10-17T21:52:00.000Z",
-      "summary": "グレン・ヒューズは先日に「10時間に及ぶ開胸手術を受けた」ことを報告していましたが、新たにSNSに現在の心境を投稿。「一日一日、回復に向かうにつれて、少しずつ活力が戻ってきている。たとえ人生がひどい状況にあるように思えても、その経験に感謝するんだ」 https://amass.jp/192486/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "シン・リジィのフィル・ライノット ソロ・キャリアを網羅したボックスセットから「Dirty Old Town - Monitor Mix」公開",
-      "url": "https://amass.jp/192485/",
-      "date": "2026-10-17T21:19:00.000Z",
-      "summary": "シン・リジィのフィル・ライノットのソロ・キャリアを網羅したボックスセットから「Dirty Old Town - Monitor Mix」公開。85年にザ・ポーグスがカヴァーしたこと広く知られる楽曲でライノット版は81年録音。シン・リジィのメンバーも参加 https://amass.jp/192485/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "スティーヴィー・ワンダーの最新ライヴにレニー・クラヴィッツがゲスト参加 「Superstition」演奏",
-      "url": "https://amass.jp/192484/",
-      "date": "2026-10-17T21:06:00.000Z",
-      "summary": "スティーヴィー・ワンダーの『Songs in the Key of Life』50周年記念ツアーの2日目、10月15日のパリ公演にレニー・クラヴィッツがゲスト参加しました。公演の最後を飾った「Superstition」を一緒に演奏。映像あり https://amass.jp/192484/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "『エリック・クラプトン アクロス24ナイツ』 BS10プレミアムで10月25日に無料放送",
-      "url": "https://amass.jp/192483/",
-      "date": "2026-10-17T20:51:00.000Z",
-      "summary": "エリック・クラプトンのライヴ映像作品『エリック・クラプトン アクロス24ナイツ』が、BS10プレミアムの無料放送枠で放送決定。10月25日放送。1990年～91年にかけてロンドンのロイヤル・アルバート・ホールで行ったコンサートより https://amass.jp/192483/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "キッス『Rock and Roll Over』50周年記念エディションから「Mr. Speed (Eddie Kramer 2026 Mix)」公開",
-      "url": "https://amass.jp/192482/",
-      "date": "2026-10-17T20:49:00.000Z",
-      "summary": "キッス『Rock and Roll Over』50周年記念スーパーデラックスエディションにはエディ・クレイマーによる2026年ステレオミックスも収録。この新ミックスから「Mr. Speed (Eddie Kramer 2026 Mix)」が先行公開 https://amass.jp/192482/",
-      "source": "amass",
-      "sourceHomepage": "https://amass.jp/",
-      "category": "music"
-    },
-    {
-      "title": "FRUITS ZIPPER、新曲「じょい！×３」配信リリース ファンクラブ限定の無料招待ライブ開催も",
-      "url": "https://realsound.jp/2026/10/post-2556545.html",
-      "date": "2026-10-17T18:38:19.000Z",
-      "summary": "FRUITS ZIPPERが、新曲「じょい！×３」（じょいじょいじょい）を11月8日に配信リリースする。 本楽曲は、自分らしさや人々の“かわいい”を肯定するだけでなく、「やってみよう！」「楽しんじゃおう！」というポジ",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "GANG PARADE THE LAST ROAD Vol.10：ユメノユア「代わりとなるものを探す旅をしなきゃいけない」 愛と悔しさ、静かな眼差し",
-      "url": "https://realsound.jp/2026/10/post-2556242.html",
-      "date": "2026-10-17T18:00:55.000Z",
-      "summary": "2026年にGANG PARADEは解散する。リアルサウンドでは、その解散を前にメンバー11人のインタビューをリアルサウンドでは連載。Vol.10に登場するのはユメノユア。どのような幼少期をたどり、WACK、そしてGANG PARADEに行き着いたのか。解散を目前に控えた今、赤裸々に語る。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "Hilcrhyme流ポップスの新たな形 20周年に輝きを増していく“現役感”、TOCが『2026』に刻んだ意味",
-      "url": "https://realsound.jp/2026/10/post-2555688.html",
-      "date": "2026-10-17T18:00:55.000Z",
-      "summary": "Hilcrhymeが10月7日にリリースしたニューアルバム『2026』をレビューする。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "戌亥とこ、2ndミニアルバム収録曲「トウキョー・シティ・ナイト」がドラマ『女帝』OP主題歌に起用",
-      "url": "https://realsound.jp/2026/10/post-2556446.html",
-      "date": "2026-10-17T17:00:50.000Z",
-      "summary": "戌亥とこの楽曲「トウキョー・シティ・ナイト」が、10月22日より放送のドラマ『女帝』のオープニング主題歌に起用される。 本楽曲は、10月7日にリリースした2ndミニアルバム『One day』の収録曲。1980年代シテ",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "Mrs. GREEN APPLE『POPS』評 Vol.3：青木優 バンドへの野心と遊び心が詰まった圧倒的な16曲、3人だから歩める挑戦の道",
-      "url": "https://realsound.jp/2026/10/post-2555873.html",
-      "date": "2026-10-17T17:00:23.000Z",
-      "summary": "Mrs. GREEN APPLEのアルバム『POPS』をライター 青木優がレビューする。",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "高橋李依、1stアルバム『アンプリファイア』リリース リード曲「ハジマリノヒ」先行配信も",
-      "url": "https://realsound.jp/2026/10/post-2556440.html",
-      "date": "2026-10-17T13:15:01.000Z",
-      "summary": "高橋李依が、1stアルバム『アンプリファイア』を2027年2月24日にリリース。また、新たなアーティスト写真も公開となった。 本情報は、本日10月17日に開催された3rd EP『黄身加熱中』のリリースイベントにて発表",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "Sydney Rose、パーソナルな新EPリリース",
-      "url": "https://ototoy.jp/news/132320",
-      "date": "2026-10-17T13:00:00.000Z",
-      "summary": "Sydney Roseが2026年10月16日(金)にニューEP『It Was My First Time』をリリースした",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "Uru、榮倉奈々＆赤楚衛二W主演ドラマ『あにいもうと』主題歌「それなのに」CDリリース MV公開も",
-      "url": "https://realsound.jp/2026/10/post-2556433.html",
-      "date": "2026-10-17T12:55:00.000Z",
-      "summary": "Uruが、10月21日に配信する新曲「それなのに」を12月9日にCDリリース。また、10月23日にMVが公開されることも決定した。 本楽曲は、本日10月17日よりスタートの榮倉奈々＆赤楚衛二がW主演を務めるドラマ『あ",
-      "source": "リアルサウンド",
-      "sourceHomepage": "https://realsound.jp/",
-      "category": "music"
-    },
-    {
-      "title": "美術館へ自分から行く人は16.5％！ 最新調査から見えてきた鑑賞の実態",
-      "url": "https://bluediary2.jugem.jp/?eid=8222",
-      "date": "2026-10-17T12:45:50.000Z",
-      "summary": "株式会社クロス・マーケティングが「美術館・博物館に関する調査（2026年）」を発表しました。 全国の20〜69歳の男女1100人を対象に、2026年10月9日から12日まで実施したインターネット調査です。美術館や博物館へ行く頻度をはじめ、興味のある展示、鑑賞の楽しみ方、...",
-      "source": "青い日記帳（美術展）",
-      "sourceHomepage": "https://bluediary2.jugem.jp/",
-      "category": "culture"
     }
   ]
 }
