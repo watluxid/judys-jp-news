@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T11:45:07.253Z",
+  "generatedAt": "2026-10-25T16:33:59.180Z",
   "articleCount": 600,
   "feedStatus": [
     {
@@ -10,6 +10,13 @@
       "errors": [
         "https://www.cinra.net/feed → HTTP 503"
       ]
+    },
+    {
+      "name": "NHKニュース（社会）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "errors": []
     },
     {
       "name": "NHKニュース（主要）",
@@ -26,24 +33,17 @@
       "errors": []
     },
     {
-      "name": "樋口直哉（TravelingFoodLab.）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://note.com/travelingfoodlab/rss",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（社会）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
-      "errors": []
-    },
-    {
       "name": "NHKニュース（科学・文化）",
       "category": "news",
       "ok": true,
       "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "errors": []
+    },
+    {
+      "name": "樋口直哉（TravelingFoodLab.）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://note.com/travelingfoodlab/rss",
       "errors": []
     },
     {
@@ -75,10 +75,24 @@
       "errors": []
     },
     {
+      "name": "amass",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://amass.jp/rss/new",
+      "errors": []
+    },
+    {
       "name": "4Gamer（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://www.4gamer.net/rss/index.xml",
+      "errors": []
+    },
+    {
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -96,38 +110,10 @@
       "errors": []
     },
     {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://sorae.info/feed",
-      "errors": []
-    },
-    {
-      "name": "amass",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://amass.jp/rss/new",
-      "errors": []
-    },
-    {
-      "name": "デイリーポータルZ",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
-      "errors": []
-    },
-    {
       "name": "アニメ！アニメ！（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
       "usedUrl": "https://animeanime.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
       "errors": []
     },
     {
@@ -138,10 +124,10 @@
       "errors": []
     },
     {
-      "name": "TOKION",
-      "category": "culture",
+      "name": "デイリーポータルZ",
+      "category": "documentary",
       "ok": true,
-      "usedUrl": "https://tokion.jp/feed/",
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -152,17 +138,24 @@
       "errors": []
     },
     {
-      "name": "ほんのひきだし（本・出版）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://hon-hikidashi.jp/feed/",
-      "errors": []
-    },
-    {
       "name": "カラパイア",
       "category": "documentary",
       "ok": true,
       "usedUrl": "https://karapaia.com/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "TOKION",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://tokion.jp/feed/",
+      "errors": []
+    },
+    {
+      "name": "ほんのひきだし（本・出版）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://hon-hikidashi.jp/feed/",
       "errors": []
     },
     {
@@ -178,9 +171,61 @@
       "ok": true,
       "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
       "errors": []
+    },
+    {
+      "name": "OTOTOY",
+      "category": "music",
+      "ok": true,
+      "usedUrl": "https://ototoy.jp/rss",
+      "errors": []
     }
   ],
   "articles": [
+    {
+      "title": "元サクソンのドラマー ナイジェル・ダラム死去 88年アルバム『Destiny』参加",
+      "url": "https://amass.jp/192623/",
+      "date": "2026-10-26T00:45:00.000Z",
+      "summary": "英へヴィメタル・バンド、サクソン（Saxon）での活躍で知られるドラマーのナイジェル・ダラム（Nigel Durham）が死去。61歳でした。1988年アルバム『Destiny』に参加した https://amass.jp/192623/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "キングスXのダグ・ピニック 新ソロ・アルバム『Abracadabra』発売",
+      "url": "https://amass.jp/192622/",
+      "date": "2026-10-25T21:48:00.000Z",
+      "summary": "キングスX（King's X）のベーシスト／ヴォーカリスト、ダグ・ピニック（Doug \"Dug\" Pinnick）は新ソロ・アルバム『Abracadabra』を海外で11月27日発売 https://amass.jp/192622/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ロックステディとレゲエのアイコン ジャマイカを代表する歌手／プロデューサーのデリック・ハリオット死去",
+      "url": "https://amass.jp/192621/",
+      "date": "2026-10-25T21:41:00.000Z",
+      "summary": "ロックステディとレゲエのアイコン。ジャマイカを代表する歌手／プロデューサーのデリック・ハリオット（Derrick Harriott）が死去。87歳でした。 https://amass.jp/192621/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "ロバート・フリップ＆トーヤ、ハロウィンにあわせてドノヴァン「Season of the Witch」をカヴァー",
+      "url": "https://amass.jp/192620/",
+      "date": "2026-10-25T21:14:00.000Z",
+      "summary": "キング・クリムゾンのロバート・フリップ＆妻トーヤによる映像シリーズ「Sunday Lunch」。最新エピソードは新作で、2人はハロウィンにあわせ、ドノヴァンの「Season of the Witch」をカヴァー。フリップはマスク姿でギターを演奏 https://amass.jp/192620/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
+    {
+      "title": "トニー・アイオミ、『スター・トレック』カーク船長役ウィリアム・シャトナーのメタルアルバムに参加／『ひつじのショーン!』最新映画参加を多忙のため断る",
+      "url": "https://amass.jp/192619/",
+      "date": "2026-10-25T21:04:00.000Z",
+      "summary": "ブラック・サバスのトニー・アイオミは、『スター・トレック』カーク船長役ウィリアム・シャトナーが制作中のメタルアルバムに参加していること、『ひつじのショーン!』最新映画の音楽制作を多忙のため断ったこと、『Born Again』のリミックス版について語る https://amass.jp/192619/",
+      "source": "amass",
+      "sourceHomepage": "https://amass.jp/",
+      "category": "music"
+    },
     {
       "title": "ビンテージギターのお宝を探し出す敏腕ハンターに密着 NHK BS『スゴ腕！お宝ハンターズ』11月1日再放送",
       "url": "https://amass.jp/192618/",
@@ -245,6 +290,15 @@
       "category": "music"
     },
     {
+      "title": "2026年のノーベル化学賞は非線形効果と硤合反応 生命のホモキラリティーとの関連も解説",
+      "url": "https://sorae.info/science/20261025-nobel-prize-in-chemistry-2026.html",
+      "date": "2026-10-25T12:29:12.000Z",
+      "summary": "化学分子の世界には、全く同じ形をしていながら鏡映しの関係にあるという「鏡像異性体」が存在します。生命を構成する分子は、そのほとんどが鏡像異性体の片方だけを使っているという「ホモキラリティー」という性質を持ちます。なぜこの…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
+    },
+    {
       "title": "eyedはなぜ“余白”を選ぶのか――「silence」に宿る引きの美学、新鋭ガールズグループが描く新たな地平",
       "url": "https://realsound.jp/2026/10/post-2559221.html",
       "date": "2026-10-25T12:00:42.000Z",
@@ -252,6 +306,15 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "「きもののヒミツ」",
+      "url": "https://bluediary2.jugem.jp/?eid=8230",
+      "date": "2026-10-25T12:00:00.000Z",
+      "summary": "新潟県立近代美術館で開催中の 「きもののヒミツ 友禅のうまれるところ ―京都 千總コレクションを中心に―」展へ行って来ました。 https://kinbi.pref.niigata.lg.jp/ 色鮮やかなきものが並ぶ展覧会と聞くと、染めや織りの技術、華やかな模様を紹介するものと思...",
+      "source": "青い日記帳（美術展）",
+      "sourceHomepage": "https://bluediary2.jugem.jp/",
+      "category": "culture"
     },
     {
       "title": "北極点と南極点の位置は恐竜時代に何度もずれていた。古代の海の跡が証拠に",
@@ -911,6 +974,15 @@
       "category": "culture"
     },
     {
+      "title": "−150℃で1年眠ったブタの腎臓、移植するとすぐに尿を作った",
+      "url": "https://nazology.kusuguru.co.jp/archives/203063",
+      "date": "2026-10-24T09:00:00.000Z",
+      "summary": "作りすぎたおかずを冷凍しておき、忙しい日に温め直して食べるのは、多くの家庭でおなじみの光景です。 ところが、移植に使う臓器は、そう簡単には凍らせておけません。 いまの技術で人の臓器を保存できるのは24〜36時間、つまり1日から1日半ほどが限界とされています。 臓器が見つかっても、その短い時間のうちに、ふさわしい患者のもとへ届けなければならないのです。 では、人の臓器ほどの大きさの腎臓を長いあいだ「凍らせて」おき、温め直して再び働かせるこ",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
       "title": "下関で町全体をバイキング会場とする（傑作選）",
       "url": "https://dailyportalz.jp/kiji/shimonoseki-machi-viking",
       "date": "2026-10-24T09:00:00.000Z",
@@ -927,15 +999,6 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
-    },
-    {
-      "title": "−150℃で1年眠ったブタの腎臓、移植するとすぐに尿を作った",
-      "url": "https://nazology.kusuguru.co.jp/archives/203063",
-      "date": "2026-10-24T09:00:00.000Z",
-      "summary": "作りすぎたおかずを冷凍しておき、忙しい日に温め直して食べるのは、多くの家庭でおなじみの光景です。 ところが、移植に使う臓器は、そう簡単には凍らせておけません。 いまの技術で人の臓器を保存できるのは24〜36時間、つまり1日から1日半ほどが限界とされています。 臓器が見つかっても、その短い時間のうちに、ふさわしい患者のもとへ届けなければならないのです。 では、人の臓器ほどの大きさの腎臓を長いあいだ「凍らせて」おき、温め直して再び働かせるこ",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
     },
     {
       "title": "アメリカ人が恐れるものトップ10、AIへの不安が初めてランクイン",
@@ -5517,69 +5580,6 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
-    },
-    {
-      "title": "深海で採取した鉱物が研究室で自然発火！海底に潜む予期せぬリスク",
-      "url": "https://karapaia.com/archives/633364.html",
-      "date": "2026-10-18T11:30:00.000Z",
-      "summary": "深海の底に眠っていた岩石が、地上に持ち帰られた後に自ら燃えだした。アメリカ地質調査所の研究チームが深海底から採取した岩石を研究室に持ち帰ったところ、岩石に含まれる硫化鉱物が空気に触れたとたん、自然発火したのだ。銅や亜鉛、金などの金属を狙う深海採掘への期待が高まる中…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
-      "title": "ハッブルとウェッブとチャンドラ 3つの宇宙望遠鏡が観測した棒渦巻銀河「NGC 1385」",
-      "url": "https://sorae.info/astronomy/20261018-ngc-1385.html",
-      "date": "2026-10-18T11:19:16.000Z",
-      "summary": "こちらは、NASA（アメリカ航空宇宙局）のチャンドラX線宇宙望遠鏡などが観測した棒渦巻銀河「NGC 1385」。ろ座（炉座）の方向、地球から約3000万光年先にあります。 棒渦巻銀河とは、星、ガス、塵（ダスト）が棒状に集…",
-      "source": "sorae（宇宙・天文）",
-      "sourceHomepage": "https://sorae.info/",
-      "category": "documentary"
-    },
-    {
-      "title": "「僕たちの結婚は……取りやめにしないか」突然、婚約者から告げられた言葉…その理由は幼馴染！？『やり直せるみたいなので、今度こそ憧れの侍女を目指します！』【#6】",
-      "url": "https://hon-hikidashi.jp/book-person/206230/",
-      "date": "2026-10-18T10:30:10.000Z",
-      "summary": "もし人生をもう一度やり直せるとしたら、あなたは何を変えますか？ 「ほんのひきだし」では、過去の後悔や失敗を抱えながらも、「今度こそ間違えない」と新たな人生に挑む主人公たちの物語を特集します。人生リベンジ、死に戻り、転生など、やり直しをテーマにした注目作を集めました。 今回ご紹介するのはキルタイムコミュニケーションの 『やり直せるみたいなので、今度こそ憧れの侍女を目指します！』 です。作品が気になった方はぜひお買い求めください。 (ads",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "10年前、彼女が事故にあった日に戻った俺…今度こそ助けようと現場へ向かうが…『10年前にタイムリープして幼馴染のお嬢様を助けたら許嫁になりました』【#8】",
-      "url": "https://hon-hikidashi.jp/book-person/206791/",
-      "date": "2026-10-18T10:00:00.000Z",
-      "summary": "もし人生をもう一度やり直せるとしたら、あなたは何を変えますか？ 「ほんのひきだし」では、過去の後悔や失敗を抱えながらも、「今度こそ間違えない」と新たな人生に挑む主人公たちの物語を特集します。人生リベンジ、死に戻り、転生など、やり直しをテーマにした注目作を集めました。 今回ご紹介するのはキルタイムコミュニケーションの 『10年前にタイムリープして幼馴染のお嬢様を助けたら許嫁になりました』 です。11月10日には2巻も発売されます。作品が気",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "【連載コラム】AFAMooのCreative Life―第171回 “明るいダンスポップナンバー” Hearts2Hearts「Next Chapter」",
-      "url": "https://ototoy.jp/news/132327",
-      "date": "2026-10-18T10:00:00.000Z",
-      "summary": "みなさんこんばんは",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "突然、令嬢剣士の体に触れだす研ぎ士…！気付けば彼女の上に乗っていて…！？『研ぎ士のおっさん、異世界を輝かす』【#4】",
-      "url": "https://hon-hikidashi.jp/book-person/210626/",
-      "date": "2026-10-18T09:45:04.000Z",
-      "summary": "竹書房のコミックサイト「 竹コミ！ 」で連載中の 『研ぎ士のおっさん、異世界を輝かす』第1巻 が発売中です。 本作は、利き腕を損傷した令嬢騎士・リルダが伝説の研ぎ士・ウルシを訪ねるところから始まります。神の手を持つ研ぎ士の業は、武器だけでなく、その使い手までをも研ぐもので––––！？寡黙すぎる研ぎ士のおっさんと、まっすぐアツい令嬢騎士の異世界冒険譚です。 作品が気になった方はぜひお買い求めください。 (adsbygoogle = win",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "謎の美女は英国の公爵家の娘！？御礼にチークキス？「口にすればいいですか！？」『クールな英国美少女は俺ん家に異文化同棲したいらしい』【#4】",
-      "url": "https://hon-hikidashi.jp/book-person/210752/",
-      "date": "2026-10-18T09:40:41.000Z",
-      "summary": "国境を越えたドキドキだらけの同棲ラブコメディ 『クールな英国美少女は俺ん家に異文化同棲したいらしい』 の連載が、竹書房のコミックサイト「 竹コミ！ 」でスタートしました。 高校生・宮本将兵の家は、代々続く由緒正しき侍の家系。そんな宮本家にある日、イギリスからやってきた留学生――エレノアがホームステイすることに。クールで日本語も堪能なエレノアだが、来日したのは日本文化を知る以外にも何やら狙いがあるようで…？ 本作は、クールな英国美少女との",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
     }
   ]
 }
