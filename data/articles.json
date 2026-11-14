@@ -1,12 +1,21 @@
 {
-  "generatedAt": "2026-11-14T18:16:42.968Z",
+  "generatedAt": "2026-11-14T22:34:05.975Z",
   "articleCount": 600,
   "feedStatus": [
     {
-      "name": "NHKニュース（社会）",
+      "name": "sorae（宇宙・天文）",
+      "category": "documentary",
+      "ok": false,
+      "usedUrl": null,
+      "errors": [
+        "https://sorae.info/feed → HTTP 403"
+      ]
+    },
+    {
+      "name": "NHKニュース（国際）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
       "errors": []
     },
     {
@@ -17,24 +26,24 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（科学・文化）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
-      "errors": []
-    },
-    {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-      "errors": []
-    },
-    {
       "name": "樋口直哉（TravelingFoodLab.）",
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（社会）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat1.xml",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -45,17 +54,17 @@
       "errors": []
     },
     {
-      "name": "つくおき",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://cookien.com/feed/",
-      "errors": []
-    },
-    {
       "name": "Mikiki（タワーレコード）",
       "category": "music",
       "ok": true,
       "usedUrl": "https://mikiki.tokyo.jp/list/feed/rss",
+      "errors": []
+    },
+    {
+      "name": "つくおき",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://cookien.com/feed/",
       "errors": []
     },
     {
@@ -80,17 +89,10 @@
       "errors": []
     },
     {
-      "name": "インサイド（乙女ゲーム関連）",
-      "category": "otome",
+      "name": "リアルサウンド",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://sorae.info/feed",
+      "usedUrl": "https://realsound.jp/atom.xml",
       "errors": []
     },
     {
@@ -101,38 +103,10 @@
       "errors": []
     },
     {
-      "name": "リアルサウンド",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
-      "errors": []
-    },
-    {
-      "name": "アニメ！アニメ！（乙女ゲーム関連）",
+      "name": "インサイド（乙女ゲーム関連）",
       "category": "otome",
       "ok": true,
-      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
-      "errors": []
-    },
-    {
-      "name": "CINRA",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://www.cinra.net/feed",
-      "errors": []
-    },
-    {
-      "name": "ナゾロジー",
-      "category": "documentary",
-      "ok": true,
-      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
-      "errors": []
-    },
-    {
-      "name": "OTOTOY",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://ototoy.jp/rss",
+      "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
       "errors": []
     },
     {
@@ -143,10 +117,24 @@
       "errors": []
     },
     {
-      "name": "和樂web",
+      "name": "CINRA",
       "category": "culture",
       "ok": true,
-      "usedUrl": "https://intojapanwaraku.com/feed",
+      "usedUrl": "https://www.cinra.net/feed",
+      "errors": []
+    },
+    {
+      "name": "アニメ！アニメ！（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "ナゾロジー",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://nazology.kusuguru.co.jp/feed",
       "errors": []
     },
     {
@@ -157,10 +145,24 @@
       "errors": []
     },
     {
+      "name": "和樂web",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://intojapanwaraku.com/feed",
+      "errors": []
+    },
+    {
       "name": "ほんのひきだし（本・出版）",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://hon-hikidashi.jp/feed/",
+      "errors": []
+    },
+    {
+      "name": "Art Annual online（美術）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://www.art-annual.jp/feed",
       "errors": []
     },
     {
@@ -171,10 +173,10 @@
       "errors": []
     },
     {
-      "name": "Art Annual online（美術）",
-      "category": "culture",
+      "name": "OTOTOY",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://www.art-annual.jp/feed",
+      "usedUrl": "https://ototoy.jp/rss",
       "errors": []
     }
   ],
@@ -186,6 +188,33 @@
       "summary": "パイ インターナショナル『世界の美しい寺院』 世界各地にある93か所の祈りの場を美しい写真で巡る一冊です。 『世界の美しい寺院』 パイ インターナショナル (編集) 寺院と聞いて、どんな建物を思い浮かべるでしょうか。木造のお堂に瓦屋根、静かな境内。 ...",
       "source": "青い日記帳（美術展）",
       "sourceHomepage": "https://bluediary2.jugem.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "Fujii Kaze、場所と編成で変わるライブの表情 『コーチェラ』、『フジロック』、ツアーへ続く2026年の歩み",
+      "url": "https://realsound.jp/2026/11/post-2583056.html",
+      "date": "2026-11-15T05:50:49.000Z",
+      "summary": "『Lollapalooza India』『Coachella』、Suchmosとの対バン、『FUJI ROCK FESTIVAL ’26』、国内アリーナツアーと、多様なステージに立ってきたFujii Kaze。会場の規模や編成に応じてライブの表情を変えてきた2026年の歩みから、『Prema World Tour』、そして東京ドームでのピアノリサイタルへと続く表現の広がりを追う。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "盛り上がる会話には数式で表せる「ゆらぎのリズム」があった",
+      "url": "https://nazology.kusuguru.co.jp/archives/206844",
+      "date": "2026-11-14T22:30:00.000Z",
+      "summary": "会話が弾む相手と、なぜか話が続かない相手がいます。 その差は、ふつう「話が合うかどうか」で説明されます。 2人の言葉や考えが似ているほど会話はうまくいく、という考え方です。 ところが、意見がぴったり合うだけの会話は、かえって退屈になることもあります。 同意と相づちばかりが続くと、話はその場で足踏みしてしまうからです。 では、楽しい会話の中で、2人の話は実際にどう動いているのでしょうか？ 研究チームは、1600件を超える会話の中身を数字に",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "自分を下げずに賢く反撃するエレガントな毒の吐き方 『品格のあるマウントのとり方』【総合3.7】",
+      "url": "https://hon-hikidashi.jp/book-person/222185/",
+      "date": "2026-11-14T22:00:27.000Z",
+      "summary": "『ロンドン紳士と脳科学に学ぶ 品格のあるマウントのとり方』 著者：中野信子 発売日：2026年8月 発行所：日経BP発行／日経BPマーケティング発売 定価：1,540円（税込） ISBN：9784296002214 『品格のあるマウントのとり方』の要点 1．人間の脳には霊長類としての本能が残っており、それが相手より優位に立とうとする「マウンティング」につながっている。マウンティングには、脳の報酬系も関係している。 2．相手を打ち負かすの",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
       "category": "culture"
     },
     {
@@ -504,6 +533,15 @@
       "category": "documentary"
     },
     {
+      "title": "2026年のの気候は「桁外れ」。 最強エルニーニョで2027年は未知の領域に",
+      "url": "https://karapaia.com/archives/638064.html",
+      "date": "2026-11-14T09:00:00.000Z",
+      "summary": "2026年の地球の気温は、これまでの想定をはるかに超える「桁違い」の熱に包まれた。日本の気象庁も過去最大と認めた史上最強クラスのエルニーニョ現象が太平洋で猛威を振るい、海がため込んでいた莫大な熱を大気へと放出している。世界気象機関（WMO）によると…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
       "title": "地球の微生物が「火星の地下に似た環境」で増えることが判明",
       "url": "https://nazology.kusuguru.co.jp/archives/206600",
       "date": "2026-11-14T09:00:00.000Z",
@@ -520,15 +558,6 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
-    },
-    {
-      "title": "2026年のの気候は「桁外れ」。 最強エルニーニョで2027年は未知の領域に",
-      "url": "https://karapaia.com/archives/638064.html",
-      "date": "2026-11-14T09:00:00.000Z",
-      "summary": "2026年の地球の気温は、これまでの想定をはるかに超える「桁違い」の熱に包まれた。日本の気象庁も過去最大と認めた史上最強クラスのエルニーニョ現象が太平洋で猛威を振るい、海がため込んでいた莫大な熱を大気へと放出している。世界気象機関（WMO）によると…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
     },
     {
       "title": "行為後の触れ合いを学ぶと、女性の「完全に満足」が9割に達した",
@@ -5551,33 +5580,6 @@
       "source": "sorae（宇宙・天文）",
       "sourceHomepage": "https://sorae.info/",
       "category": "documentary"
-    },
-    {
-      "title": "「フォーク！？なにする気ですか！？」打つ手なし……と思われたその時、クロノが手にしたのは――『運命の巻戻士」【#16】",
-      "url": "https://hon-hikidashi.jp/book-person/215788/",
-      "date": "2026-11-08T03:15:51.000Z",
-      "summary": "もし人生をもう一度やり直せるとしたら、あなたは何を変えますか？ 「ほんのひきだし」では、過去の後悔や失敗を抱えながらも、「今度こそ間違えない」と新たな人生に挑む主人公たちの物語を特集します。人生リベンジ、死に戻り、転生など、やり直しをテーマにした注目作を集めました。 今回ご紹介するのは小学館の 『運命の巻戻士』 です。作品が気になった方はぜひお買い求めください。 試し読み【#16】 〉〉最初から読む ©木村風太／小学館 〉〉続きを読む ",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "道端で動けないタカを発見。太りすぎて飛べなくなっていた！",
-      "url": "https://karapaia.com/archives/636923.html",
-      "date": "2026-11-08T03:00:00.000Z",
-      "summary": "野生動物は適量をわきまえているのかと思いきや、そこに食べ放題のバイキングがあれば、許容範囲を超えてしまうこともあるようだ。アメリカで、地面から動けなくなっている野生のタカが発見された。本来なら素早く飛んで獲物を一瞬でとらえる、空の捕食上位者である猛禽類なのに…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
-      "title": "シャキシャキ食感で大満足！れんこん×ひき肉のご飯どろぼうおかず",
-      "url": "https://news.cookpad.com/articles/66451",
-      "date": "2026-11-08T03:00:00.000Z",
-      "summary": "れんこんとひき肉の組み合わせは、工夫次第で食べ応え満点のボリュームおかずに変身するんです。今回は、身近な調味料と材料で簡単に作れる3つのレシピを紹介します。つくね人気検索1位になったこともある実...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
     }
   ]
 }
