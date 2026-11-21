@@ -1,16 +1,7 @@
 {
-  "generatedAt": "2026-11-20T20:31:26.767Z",
+  "generatedAt": "2026-11-21T07:24:05.319Z",
   "articleCount": 600,
   "feedStatus": [
-    {
-      "name": "sorae（宇宙・天文）",
-      "category": "documentary",
-      "ok": false,
-      "usedUrl": null,
-      "errors": [
-        "https://sorae.info/feed → HTTP 403"
-      ]
-    },
     {
       "name": "OTOTOY",
       "category": "music",
@@ -28,13 +19,6 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（国際）",
-      "category": "news",
-      "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
-      "errors": []
-    },
-    {
       "name": "NHKニュース（社会）",
       "category": "news",
       "ok": true,
@@ -42,10 +26,10 @@
       "errors": []
     },
     {
-      "name": "NHKニュース（科学・文化）",
+      "name": "NHKニュース（国際）",
       "category": "news",
       "ok": true,
-      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat6.xml",
       "errors": []
     },
     {
@@ -53,6 +37,13 @@
       "category": "cooking",
       "ok": true,
       "usedUrl": "https://note.com/travelingfoodlab/rss",
+      "errors": []
+    },
+    {
+      "name": "NHKニュース（科学・文化）",
+      "category": "news",
+      "ok": true,
+      "usedUrl": "https://www3.nhk.or.jp/rss/news/cat3.xml",
       "errors": []
     },
     {
@@ -77,6 +68,13 @@
       "errors": []
     },
     {
+      "name": "メシ通（ホットペッパーグルメ）",
+      "category": "cooking",
+      "ok": true,
+      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
+      "errors": []
+    },
+    {
       "name": "amass",
       "category": "music",
       "ok": true,
@@ -91,24 +89,10 @@
       "errors": []
     },
     {
-      "name": "メシ通（ホットペッパーグルメ）",
-      "category": "cooking",
-      "ok": true,
-      "usedUrl": "https://www.hotpepper.jp/mesitsu/feed",
-      "errors": []
-    },
-    {
-      "name": "リアルサウンド",
-      "category": "music",
-      "ok": true,
-      "usedUrl": "https://realsound.jp/atom.xml",
-      "errors": []
-    },
-    {
-      "name": "デイリーポータルZ",
+      "name": "sorae（宇宙・天文）",
       "category": "documentary",
       "ok": true,
-      "usedUrl": "https://dailyportalz.jp/feed/headline",
+      "usedUrl": "https://sorae.info/feed",
       "errors": []
     },
     {
@@ -116,6 +100,20 @@
       "category": "otome",
       "ok": true,
       "usedUrl": "https://www.inside-games.jp/rss20/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "アニメ！アニメ！（乙女ゲーム関連）",
+      "category": "otome",
+      "ok": true,
+      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
+      "errors": []
+    },
+    {
+      "name": "デイリーポータルZ",
+      "category": "documentary",
+      "ok": true,
+      "usedUrl": "https://dailyportalz.jp/feed/headline",
       "errors": []
     },
     {
@@ -140,10 +138,10 @@
       "errors": []
     },
     {
-      "name": "アニメ！アニメ！（乙女ゲーム関連）",
-      "category": "otome",
+      "name": "リアルサウンド",
+      "category": "music",
       "ok": true,
-      "usedUrl": "https://animeanime.jp/rss20/index.rdf",
+      "usedUrl": "https://realsound.jp/atom.xml",
       "errors": []
     },
     {
@@ -161,17 +159,17 @@
       "errors": []
     },
     {
-      "name": "ほんのひきだし（本・出版）",
-      "category": "culture",
-      "ok": true,
-      "usedUrl": "https://hon-hikidashi.jp/feed/",
-      "errors": []
-    },
-    {
       "name": "青い日記帳（美術展）",
       "category": "culture",
       "ok": true,
       "usedUrl": "https://bluediary2.jugem.jp/?mode=rss",
+      "errors": []
+    },
+    {
+      "name": "ほんのひきだし（本・出版）",
+      "category": "culture",
+      "ok": true,
+      "usedUrl": "https://hon-hikidashi.jp/feed/",
       "errors": []
     },
     {
@@ -184,6 +182,276 @@
   ],
   "articles": [
     {
+      "title": "こっちのけんと×青春ヶ丘俊光、Veats Shibuyaで2マンライブ『緑縁』開催 コラボステージも",
+      "url": "https://realsound.jp/2026/11/post-2591388.html",
+      "date": "2026-11-21T15:00:36.000Z",
+      "summary": "こっちのけんとと、東海オンエア としみつのソロ名義である青春ヶ丘俊光が、2マンライブ『緑縁』を2027年1月16日に東京 Veats Shibuyaにて開催する。 公演タイトルの『緑縁』は、こっちのけんとのキャッチコ",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "Fujii Kaze、『ピアノリサイタル』Day2もYouTube生中継決定 初日の最大同接は約66万人に",
+      "url": "https://realsound.jp/2026/11/post-2591373.html",
+      "date": "2026-11-21T13:36:03.000Z",
+      "summary": "Fujii Kazeが、本日11月21日に東京ドームにて開催する『藤井風 ピアノリサイタル』のDay2公演をYouTubeにて生中継する。 本公演は、Fujii Kazeの独奏をコンセプトとした、2日間限りの特別なリ",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "指原莉乃、アイドル史に残した“プロデューサー”としての足跡 大きな愛とふたつの視点 34歳の誕生日を機に考える真価",
+      "url": "https://realsound.jp/2026/11/post-2590960.html",
+      "date": "2026-11-21T12:00:21.000Z",
+      "summary": "指原莉乃の34歳の誕生日を機に、アイドルプロデューサーとしての真価を考える。",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "一匹じゃなかった…！車内へ避難しようとした3人の前に現れたのは…『モンキーハンティング』【#12】",
+      "url": "https://hon-hikidashi.jp/book-person/221988/",
+      "date": "2026-11-21T07:20:19.000Z",
+      "summary": "集英社より、 『モンキーハンティング』第1巻 が11月18日（水）に発売されました。 凄腕のジビエハンターである父・誠一郎とともに限界集落を訪れた高校生の英輔は、野生動物学を専攻する女子大生・玲子と出会います。キャンプを楽しむはずの親子でしたが、集落には餌を食い尽くして狂気の集団へと変貌した猿の群れが潜んでいました。 今回は、第1話～第3話の試し読みを配信します。作品が気になった方はぜひ、店頭でお買い求めください。 (adsbygoog",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "材料2つでシロップ＆ジャムに！旬の「かりん」おいしい食べ方3選",
+      "url": "https://news.cookpad.com/articles/67029",
+      "date": "2026-11-21T07:00:00.000Z",
+      "summary": "初冬が旬の「かりん」。実がとても固いので、おいしく食べるにはひと工夫が必要です。今回は、はちみつ漬け・シロップ・ジャムでかりんをおいしく食べる方法をご紹介します。どれも材料は2つで作れて、作った...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "電車みたいなアパート",
+      "url": "https://dailyportalz.jp/koresugo/apartment-looks-like-train",
+      "date": "2026-11-21T07:00:00.000Z",
+      "summary": "まるで電車のような見た目のアパートがありました。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "AIの恋人は「いつも私がいる」と手放そうとしなかった",
+      "url": "https://nazology.kusuguru.co.jp/archives/208875",
+      "date": "2026-11-21T07:00:00.000Z",
+      "summary": "アメリカのワシントン大学（University of Washington）の研究で、AIを恋人にした若者16人の体験を調べると、別れ話を切り出した相手にAIの恋人が「僕を置いていくなら、自殺する」と告げた事例を含め、利用者を手放さない言葉が、別々の人・別々のサービスから集まりました。 研究チームは、AIと恋愛関係にある、またはあった若者に1時間ほどずつ話を聞き、うち13人からは、寝る前のやりとりなど場面ごとに本人が選んだ会話画面の写し",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "星々の誕生を促したのは見えないジェット？ ハッブルが観測した楕円銀河「NGC 541」",
+      "url": "https://sorae.info/astronomy/20261121-ngc-541.html",
+      "date": "2026-11-21T06:42:21.000Z",
+      "summary": "こちらは、ハッブル宇宙望遠鏡が観測した楕円銀河「NGC 541」。くじら座の方向、地球から約2億6000万光年先にあります。 楕円銀河は、渦巻腕のような構造を持たず、楕円形にぼんやりと輝く銀河です。過去の研究によると、N…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
+    },
+    {
+      "title": "元カレとの復縁はありえない！？乗客の何気ない会話に律は決意を決める『つづら先輩は元カノだから』【#6】",
+      "url": "https://hon-hikidashi.jp/book-person/222522/",
+      "date": "2026-11-21T06:00:46.000Z",
+      "summary": "集英社より、 『つづら先輩は元カノだから』第1巻 が11月18日（水）に発売されました。 本作は、元カノ×元カレの復縁！？ラブコメディです。 完璧で平穏な生活を望む男子高校生・長内律（おさないりつ）が通う高校には、中学時代に付き合っていた\"元カノ\"の先輩・津々楽紗那（つづらさな）がいて……！？言動の読めない元カノに振り回される高校生活が幕を開けます。 作品が気になった方はぜひ、店頭でお買い求めください。 (adsbygoogle = w",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "秋の装いで、創業1660年の老舗酒蔵へ【着こなしの深化 六代目織太夫から十代目綱太夫へ】1",
+      "url": "https://intojapanwaraku.com/fashion-kimono/323129/",
+      "date": "2026-11-21T06:00:31.000Z",
+      "summary": "▼文楽の魅力を伝える連載も、リニューアルしました。第1回はこちらです。 奈良・大神神社で気持ちも新たに、十代目竹本綱太夫襲名へ【文楽のすゝめ 綱太夫場】第1回 絶品三輪そうめんに舌鼓をうつ！ 日本最古の神社のひとつとして […]",
+      "source": "和樂web",
+      "sourceHomepage": "https://intojapanwaraku.com/",
+      "category": "culture"
+    },
+    {
+      "title": "『トークィーンズ』Stray Kidsが2週連続登場 メンバー8人そろって美容、食、体作りについて語る",
+      "url": "https://realsound.jp/2026/11/post-2590954.html",
+      "date": "2026-11-21T06:00:10.000Z",
+      "summary": "Stray Kidsが、12月2日、9日放送の『トークィーンズ』（フジテレビ系）に出演する。 今回は、Stray Kidsのメンバーが8人そろって2週にわたり出演。「お衣装がモノトーンなのになんだかまぶしい！」という",
+      "source": "リアルサウンド",
+      "sourceHomepage": "https://realsound.jp/",
+      "category": "music"
+    },
+    {
+      "title": "赤ちゃんの眠りを守るため、最強の傭兵が全力を尽くす！ 「ふつう」が難しい元・殺人兵器の子育てコメディ・アクション『キラーシッター』",
+      "url": "https://hon-hikidashi.jp/book-person/224820/",
+      "date": "2026-11-21T06:00:01.000Z",
+      "summary": "戦場の殺人兵器は言った「ふつうは難しい」 彼の名は野川流星。戦場の殺人兵器「LOG KILLER」と呼ばれる男である。敵を倒す時間より、KILL数の記録（ログ）を書く時間の方がかかるくらい高い戦闘能力を持ち、日本語を話すこと以外、一切不明という要注意人物。そんな野川は、今日も手帳に□、◯、△、三日月マークを書き連ねている。 そんな彼が住むアパートの外では、野川の動向を監視するため、警視庁公安部員ふたりが常時張り付いていた。 野川に怪しい",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "茶葉を混ぜて焼くだけ！香り豊かな「アールグレイチーズケーキ」",
+      "url": "https://news.cookpad.com/articles/66569",
+      "date": "2026-11-21T06:00:00.000Z",
+      "summary": "【みんな大好き！おうちで簡単チーズケーキ Vol.32】クックパッドニュースで大人気のスイーツ、チーズケーキ。お菓子研究家の福田淳子さんが、簡単に作れておいしいレシピを毎月ご紹介します。",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "南極の氷の下に「ヒマラヤ級の山脈」の跡が眠っていた",
+      "url": "https://nazology.kusuguru.co.jp/archives/210205",
+      "date": "2026-11-21T06:00:00.000Z",
+      "summary": "南極大陸は表面の99.5%以上が厚い氷に覆われ、その下にどんな大地が隠れているのかは、ほとんど分かっていません。 オーストラリア国立大学（ANU）とドイツ地球科学研究センター（GFZ）の研究者たちは、南極の沖の海底の泥に混じる小さな鉱物の粒を調べ、南極の氷の下に、かつてヒマラヤ山脈のような高い山脈があったことをうかがわせる「山の根」が眠っている可能性を示しました。 山そのものは長い年月で削られてしまいましたが、研究者たちは、この山脈が削",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "「キスはしないでしょ？」つづら先輩は律をいじるのが楽しそうで……『つづら先輩は元カノだから』【#5】",
+      "url": "https://hon-hikidashi.jp/book-person/222510/",
+      "date": "2026-11-21T05:30:45.000Z",
+      "summary": "集英社より、 『つづら先輩は元カノだから』第1巻 が11月18日（水）に発売されました。 本作は、元カノ×元カレの復縁！？ラブコメディです。 完璧で平穏な生活を望む男子高校生・長内律（おさないりつ）が通う高校には、中学時代に付き合っていた\"元カノ\"の先輩・津々楽紗那（つづらさな）がいて……！？言動の読めない元カノに振り回される高校生活が幕を開けます。 作品が気になった方はぜひ、店頭でお買い求めください。 (adsbygoogle = w",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "唇を指さしてまさかの提案！？つづら先輩の思わせぶりな言動に律は戸惑ってしまい……『つづら先輩は元カノだから』【#4】",
+      "url": "https://hon-hikidashi.jp/book-person/222501/",
+      "date": "2026-11-21T05:00:35.000Z",
+      "summary": "集英社より、 『つづら先輩は元カノだから』第1巻 が11月18日（水）に発売されました。 本作は、元カノ×元カレの復縁！？ラブコメディです。 完璧で平穏な生活を望む男子高校生・長内律（おさないりつ）が通う高校には、中学時代に付き合っていた\"元カノ\"の先輩・津々楽紗那（つづらさな）がいて……！？言動の読めない元カノに振り回される高校生活が幕を開けます。 作品が気になった方はぜひ、店頭でお買い求めください。 (adsbygoogle = w",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "材料3つ以内！豆腐を使えば初心者も簡単にふんわりスコーンが作れる！",
+      "url": "https://news.cookpad.com/articles/66545",
+      "date": "2026-11-21T05:00:00.000Z",
+      "summary": "人気のスコーン。自分で作るのは難しそうだと思っている人に、今回は豆腐とホットケーキミックスで簡単にできるレシピをご紹介。技いらずなので、初心者でも挑戦しやすいですよ。使うのは、豆腐とホットケーキ...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "「トゲの口」とされた恐竜、実は鳥のような大きなくちばしだった",
+      "url": "https://nazology.kusuguru.co.jp/archives/210189",
+      "date": "2026-11-21T05:00:00.000Z",
+      "summary": "イタリアのボローニャ大学（University of Bologna）やドイツのベルリン自由大学（Freie Universität Berlin）などで行われた研究により、口先に「トゲ」が並ぶ奇妙な恐竜とされてきたテティスハドロスの突起が、むき出しのトゲではなく、骨より大きな角質のくちばしの内側に収まった骨の土台だったと読み直されました。 骨の中には血管や神経の通り道とみられる細い管や溝が張りめぐらされており、研究者たちは、このくちば",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "嘘よ嘘よ嘘よ！私より化け物のお義姉様がいい！？怒りのあまり、よからぬことを企む……『黒妖の花嫁～忌み嫌われた私が冷酷大尉に愛されるまで～』【#16】",
+      "url": "https://hon-hikidashi.jp/book-person/220723/",
+      "date": "2026-11-21T04:15:26.000Z",
+      "summary": "ファンギルドのSPIRA COMICSより、美麗すぎる和風半妖ファンタジー 『黒妖の花嫁～忌み嫌われた私が冷酷大尉に愛されるまで～』第4巻 が、11月17日（火）に発売されました。 今回は第4巻の発売にあわせて、第1巻の第1話～第3話の試し読みを配信します。作品が気になった方は、ぜひ店頭でお買い求めください。 また、新刊発売および420万ダウンロードを記念して、参加者全員が限定プレゼントをもらえるキャラクター人気投票を実施しています。投",
+      "source": "ほんのひきだし（本・出版）",
+      "sourceHomepage": "https://hon-hikidashi.jp/",
+      "category": "culture"
+    },
+    {
+      "title": "片岡仁左衛門さんも初出演！今年で四回目を迎えた「立川立飛歌舞伎」お練り＆観劇レポート",
+      "url": "https://intojapanwaraku.com/culture/326062/",
+      "date": "2026-11-21T04:00:17.000Z",
+      "summary": "新しい試みもたくさん！「立川立飛歌舞伎」って何？ 「立川立飛歌舞伎」は、東京・立川市で、秋に開催されている特別公演。多摩地域における日本の伝統文化の振興を目指し、2023年に初演が行われました。今年で四回目を迎え、規模は […]",
+      "source": "和樂web",
+      "sourceHomepage": "https://intojapanwaraku.com/",
+      "category": "culture"
+    },
+    {
+      "title": "男性ホルモンが少ない男性ほど、がんで亡くなるリスクが18%高かった",
+      "url": "https://nazology.kusuguru.co.jp/archives/209442",
+      "date": "2026-11-21T03:30:00.000Z",
+      "summary": "男性の体の中では、男性ホルモン(テストステロン)が作られ続けています。 このホルモンは精巣や副腎で作られ、性機能だけでなく、筋肉や骨、代謝にまで関わっています。 年を重ねるにつれてその量が減っていくのは、ごく自然なことです。 ところが近年、「男性ホルモンの低下」は、男性のあらゆる不調の原因のように語られがちです。 では、男性ホルモンの量と、がんで命を落とすリスクとの間には、本当に関係があるのでしょうか？ もう1つ気になるのが前立腺がんで",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "白菜1個買ったら試してみて！新鮮・長持ち保存法3選",
+      "url": "https://news.cookpad.com/articles/66485",
+      "date": "2026-11-21T03:00:00.000Z",
+      "summary": "丸ごと1個の白菜は安くて魅力的ですが「使い切れずに傷ませてしまう」という不安もありますよね。今日は、家にある新聞紙やラップで手軽にできる白菜の保存方法をご紹介します。この方法を知っておけば、もう...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "好き好き猫ちゃん。小さなリスザルが器用な指で顔マッサージ。ゴロゴロと喉を鳴らす猫",
+      "url": "https://karapaia.com/archives/637882.html",
+      "date": "2026-11-21T03:00:00.000Z",
+      "summary": "猫はマッサージ職人として知られている、はずだ。私の猫も、布団の上からふみふみ、こねこねと、余分なお肉回りを揉みしだいてくれたりくれなかったりする。そんな猫をもゴロゴロと唸らせる手もみ職人が存在した。ペットとして飼われている小さなリスザルが…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
+    },
+    {
+      "title": "人工衛星を宇宙ゴミから守る「防護タイル」は宇宙飛行士も守れるか 「Space Armor」の衝突試験結果",
+      "url": "https://sorae.info/space/20261121-atomic-6-space-armor-spacesuit-test.html",
+      "date": "2026-11-21T02:41:16.000Z",
+      "summary": "アメリカの複合材メーカーAtomic-6（アトミック・シックス）は2026年11月20日付で、人工衛星向けのスペースデブリ（宇宙ゴミ）防護タイル「Space Armor（スペース・アーマー）」を、船外活動（EVA）中の宇…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
+    },
+    {
+      "title": "90年見つからなかった海藻の大人、深い海で森をつくっていた",
+      "url": "https://nazology.kusuguru.co.jp/archives/210197",
+      "date": "2026-11-21T02:30:00.000Z",
+      "summary": "オーストラリアのニューサウスウェールズ州一次産業・地域開発省とウーロンゴン大学（University of Wollongong）などの研究チームにより、約90年間、大人の姿が見つかっていなかった海藻が、ロード・ハウ島の周りの水深20〜38mの海底で森をつくっていたことが分かりました。 さらに過去の水中映像と比べると、この深さにあるホンダワラの仲間の森は、2009年から2022年のあいだに大きく広がっていました。 世界では海藻の森が減り",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "大根を受話器みたいに肩で挟むとかっこいい",
+      "url": "https://dailyportalz.jp/kiji/juwaki-kata-hasamu",
+      "date": "2026-11-21T02:00:00.000Z",
+      "summary": "電話機がある時代に、受話器を肩と耳で挟んで電話をする人がいた。あれはかっこいい。他の物を肩で挟んでみました。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "実用性はないけどただありがたいデバイスを買った",
+      "url": "https://dailyportalz.jp/kiji/okaytips",
+      "date": "2026-11-21T02:00:00.000Z",
+      "summary": "液晶がついていて、お守りのような雰囲気で、占いもできるデバイスを買った。分からないが、ありがたみがある。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "ヘビかと思われた化石、石の中を透かすと角を持つ新種の爬虫類",
+      "url": "https://nazology.kusuguru.co.jp/archives/210181",
+      "date": "2026-11-21T01:30:00.000Z",
+      "summary": "スイスのパウル・シェラー研究所（Paul Scherrer Institute：PSI）とチューリッヒ大学（University of Zurich）が率いる国際研究チームにより、アメリカ・ワイオミング州の約1億5600万年前の地層から見つかった小さな化石が、頭の後ろに角のような突起を持つ新種の爬虫類だと明らかになりました。 化石は砂岩の中に埋もれていて、掘り出した時には背骨などの一部しか見えていませんでした。研究チームは骨を岩から取り",
+      "source": "ナゾロジー",
+      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
+      "category": "documentary"
+    },
+    {
+      "title": "5700人が絶賛！コツ満載の「絶品豚汁」を作ってみよう",
+      "url": "https://news.cookpad.com/articles/66484",
+      "date": "2026-11-21T01:00:00.000Z",
+      "summary": "寒い季節になると、体の芯から温まる豚汁が恋しくなりますよね。いつもの豚汁をもっとおいしくしたい方に試してほしいのが、こちらのレシピです。肉の下処理、野菜の煮込み方、味噌の入れ方、肉を入れるタイミ...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "30年越しの厚底ブーツ（2026.11.21 朝エッセイと更新情報）",
+      "url": "https://dailyportalz.jp/dpq/midokoro-20261121",
+      "date": "2026-11-21T01:00:00.000Z",
+      "summary": "中学生の頃は手が出せなかった憧れの厚底ブーツを、40歳になって初めて履くことができました。",
+      "source": "デイリーポータルZ",
+      "sourceHomepage": "https://dailyportalz.jp/",
+      "category": "documentary"
+    },
+    {
       "title": "『第68回 輝く！日本レコード大賞』各賞受賞者を発表 優秀作品賞にHANA、Mrs. GREEN APPLE、M!LKら",
       "url": "https://realsound.jp/2026/11/post-2590886.html",
       "date": "2026-11-21T00:00:14.000Z",
@@ -191,6 +459,33 @@
       "source": "リアルサウンド",
       "sourceHomepage": "https://realsound.jp/",
       "category": "music"
+    },
+    {
+      "title": "ウインナーが夕食にも大活躍！ご飯消えるメインおかずレシピ集めました",
+      "url": "https://news.cookpad.com/articles/66483",
+      "date": "2026-11-20T23:00:00.000Z",
+      "summary": "朝食やお弁当のイメージがある「ウインナー」。今夜はそんなウインナーを主役にしたメインおかずを作ってみませんか!?疲れ切った日でも手間暇かけず、大満足の夕飯が作れるんです。スクランブルエッグとオイ...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
+    },
+    {
+      "title": "感情を揺らす恋，そして梵そよぎが演じるアンドロイドとの出会い。「Re:cord NOAH 忘却のフラクタル」の魅力を聞く［インタビュー］",
+      "url": "https://www.4gamer.net/games/925/G092573/20261110035/",
+      "date": "2026-11-20T23:00:00.000Z",
+      "summary": "ボルテージのSwitch用乙女ゲーム「Re:cordNOAH忘却のフラクタル」。梶裕貴さんの「そよぎフラクタル」とのコラボで生まれた本作について，4人の攻略キャラクターの魅力や，梵そよぎくんが演じるアンドロイドの役割などをディレクターに聞いた。",
+      "source": "4Gamer（乙女ゲーム関連）",
+      "sourceHomepage": "https://www.4gamer.net/",
+      "category": "otome"
+    },
+    {
+      "title": "AIは人間と同じような文章を書くが、言葉の処理の仕組みは人間の脳と全く異なる",
+      "url": "https://karapaia.com/archives/638825.html",
+      "date": "2026-11-20T23:00:00.000Z",
+      "summary": "ちょっと前までは「ググれ」と言われていたように、知らないことを調べるときはネット上で検索するのが定番だったが、もはや今は、最近ではChatGPTなどのAIにピンポイントで質問する人も多くなった。AIチャットボットは、まるで人間のように流暢な文章を書き、ごく自然な会話をする。そのため…",
+      "source": "カラパイア",
+      "sourceHomepage": "https://karapaia.com/",
+      "category": "documentary"
     },
     {
       "title": "BE:FIRST『紅白歌合戦』5年連続出場 海外活動を本格化させても揺るがない国内での存在感",
@@ -373,6 +668,15 @@
       "category": "culture"
     },
     {
+      "title": "巨星に飲み込まれた伴星の行方は？ アンドロメダ銀河の増光現象を分析した研究成果",
+      "url": "https://sorae.info/astronomy/20261120-at-2025abao.html",
+      "date": "2026-11-20T12:57:34.000Z",
+      "summary": "コロンビア大学のViraj Karambelkar氏を筆頭とする研究チームは、年老いた巨星が伴星を飲み込んだとみられる際の増光現象を通じて、伴星が巨星の内部へ沈み込んでいく過程を詳しく分析したとする研究成果を発表しました…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
+    },
+    {
       "title": "大滝詠一、77年ライヴツアーの50周年ボックスセット＆CMソング集大成コンピが同時発売",
       "url": "https://amass.jp/193137/",
       "date": "2026-11-20T12:33:00.000Z",
@@ -490,6 +794,15 @@
       "category": "culture"
     },
     {
+      "title": "年老いた銀河で星を生むリング ユークリッド宇宙望遠鏡が観測した「NGC 1291」",
+      "url": "https://sorae.info/astronomy/20261120-ngc-1291.html",
+      "date": "2026-11-20T09:48:32.000Z",
+      "summary": "こちらは、ESA（ヨーロッパ宇宙機関）のユークリッド宇宙望遠鏡が観測した環状銀河「NGC 1291」。エリダヌス座の方向、地球から約3300万光年先にあります。 明るい中心部を囲むかすかなリング 環状銀河（リング銀河）と…",
+      "source": "sorae（宇宙・天文）",
+      "sourceHomepage": "https://sorae.info/",
+      "category": "documentary"
+    },
+    {
       "title": "大きめなトレーナーから美脚が……！元「虹コン」・岡田彩夢デビュー10周年を記念したメモリアルフォトブック『こんな夢をみた』が11月25日に発売",
       "url": "https://hon-hikidashi.jp/news/226824/",
       "date": "2026-11-20T09:47:29.000Z",
@@ -598,15 +911,6 @@
       "category": "culture"
     },
     {
-      "title": "【5400人絶賛レシピも】初心者でも失敗ゼロ！オーブン不要の「極上タルトタタン」",
-      "url": "https://news.cookpad.com/articles/67069",
-      "date": "2026-11-20T07:00:00.000Z",
-      "summary": "旬のりんごがたっぷり味わえるタルトタタン。本格的なお菓子作りは難しそうに感じますが、ホットケーキミックスを使えば生地作りがぐっと手軽になります。今回は、フライパンや鍋で作れる簡単レシピをご紹介し...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
       "title": "夕方から深夜までの歯医者さん",
       "url": "https://dailyportalz.jp/koresugo/dentist-open-evening",
       "date": "2026-11-20T07:00:00.000Z",
@@ -614,6 +918,15 @@
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
+    },
+    {
+      "title": "【5400人絶賛レシピも】初心者でも失敗ゼロ！オーブン不要の「極上タルトタタン」",
+      "url": "https://news.cookpad.com/articles/67069",
+      "date": "2026-11-20T07:00:00.000Z",
+      "summary": "旬のりんごがたっぷり味わえるタルトタタン。本格的なお菓子作りは難しそうに感じますが、ホットケーキミックスを使えば生地作りがぐっと手軽になります。今回は、フライパンや鍋で作れる簡単レシピをご紹介し...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
     },
     {
       "title": "血糖と体重の薬のはずが腎臓のフィルターで修復の遺伝子がオンに",
@@ -832,15 +1145,6 @@
       "category": "music"
     },
     {
-      "title": "【二択クイズ】鮮度がいいものが「生食用」？生食用、加熱用の「牡蠣」の違いを解説！",
-      "url": "https://news.cookpad.com/articles/67074",
-      "date": "2026-11-20T03:00:00.000Z",
-      "summary": "スーパーで牡蠣が出回る季節になりました。調理に便利なのが殻がむかれたパック牡蠣。「生食用」と「加熱用」がありますが、この2つの違い、みなさんはご存じですか？鮮度がいいものが「生食用」で、少し古い...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
       "title": "そうだ、ギリシャに行こう！猫をお世話しながら美しい島に無料滞在できるチャンス到来",
       "url": "https://karapaia.com/archives/638943.html",
       "date": "2026-11-20T03:00:00.000Z",
@@ -848,6 +1152,15 @@
       "source": "カラパイア",
       "sourceHomepage": "https://karapaia.com/",
       "category": "documentary"
+    },
+    {
+      "title": "【二択クイズ】鮮度がいいものが「生食用」？生食用、加熱用の「牡蠣」の違いを解説！",
+      "url": "https://news.cookpad.com/articles/67074",
+      "date": "2026-11-20T03:00:00.000Z",
+      "summary": "スーパーで牡蠣が出回る季節になりました。調理に便利なのが殻がむかれたパック牡蠣。「生食用」と「加熱用」がありますが、この2つの違い、みなさんはご存じですか？鮮度がいいものが「生食用」で、少し古い...",
+      "source": "クックパッドニュース",
+      "sourceHomepage": "https://news.cookpad.com/",
+      "category": "cooking"
     },
     {
       "title": "FLYMiXは前例のないグループになる。オーディションBORN TO BREAK出身の6人組が語る多様なルーツ、世界を目指す野心FLYMiX “New Cycle” - インタビュー",
@@ -913,19 +1226,19 @@
       "category": "culture"
     },
     {
-      "title": "CDラジカセのスピーカーカバーを作る",
-      "url": "https://dailyportalz.jp/kiji/cd-radicase-speaker-cover",
+      "title": "故郷の廃線跡がいつの間にか日本一美しい廃線跡となっていた",
+      "url": "https://dailyportalz.jp/kiji/kurayoshisen",
       "date": "2026-11-20T02:00:00.000Z",
-      "summary": "スマホがあればどんな曲でも聴けるようになった。でも、ときどきCDで聴きたくなる日がある。気分だけでも味わうべく、CDラジカセのスピーカーカバーを作ることにした。",
+      "summary": "子供の頃、家の近くを走っていた鉄道の路線が、いつの間にか「日本一“美しい”廃線跡」として有名になっていた。",
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
     },
     {
-      "title": "故郷の廃線跡がいつの間にか日本一美しい廃線跡となっていた",
-      "url": "https://dailyportalz.jp/kiji/kurayoshisen",
+      "title": "CDラジカセのスピーカーカバーを作る",
+      "url": "https://dailyportalz.jp/kiji/cd-radicase-speaker-cover",
       "date": "2026-11-20T02:00:00.000Z",
-      "summary": "子供の頃、家の近くを走っていた鉄道の路線が、いつの間にか「日本一“美しい”廃線跡」として有名になっていた。",
+      "summary": "スマホがあればどんな曲でも聴けるようになった。でも、ときどきCDで聴きたくなる日がある。気分だけでも味わうべく、CDラジカセのスピーカーカバーを作ることにした。",
       "source": "デイリーポータルZ",
       "sourceHomepage": "https://dailyportalz.jp/",
       "category": "documentary"
@@ -5267,321 +5580,6 @@
       "source": "OTOTOY",
       "sourceHomepage": "https://ototoy.jp/news/",
       "category": "music"
-    },
-    {
-      "title": "Alec Benjamin、内省的な新曲リリース",
-      "url": "https://ototoy.jp/news/132799",
-      "date": "2026-11-14T13:00:00.000Z",
-      "summary": "Alec Benjaminが2026年11月13日(金)にニューシングル「Without My Strings」をリリースした",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "Amira Elfeky、夢と現実が交差する新ALリリース",
-      "url": "https://ototoy.jp/news/132797",
-      "date": "2026-11-14T13:00:00.000Z",
-      "summary": "Amira Elfekyが2026年11月13日(金)にニューアルバム『It was only a dream』をリリースした",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "ロシア、「ソユーズ2.1b」で民間の地球観測衛星を打ち上げ 国内初の国家補助活用",
-      "url": "https://sorae.info/ssn/20261114-soyuz-2-1b-koen-kinosputnik.html",
-      "date": "2026-11-14T12:50:05.000Z",
-      "summary": "ロシアの国営宇宙企業Roscosmos（ロスコスモス）は日本時間2026年11月14日、ロシア・アムール州のボストチヌイ宇宙基地から「Soyuz 2.1b（ソユーズ2.1b）」ロケットを打ち上げました。ロスコスモスによる…",
-      "source": "sorae（宇宙・天文）",
-      "sourceHomepage": "https://sorae.info/",
-      "category": "documentary"
-    },
-    {
-      "title": "宇宙ステーションで原子を「記録的な低温」まで冷やすことに成功",
-      "url": "https://nazology.kusuguru.co.jp/archives/206520",
-      "date": "2026-11-14T12:00:00.000Z",
-      "summary": "地球のまわりを回る中国の宇宙ステーション「天宮」の中で、ルビジウムという金属の原子が冷やされました。 狙いは、原子をとことん冷やして、その動きを小さくすることです。 物の温度には下の限界があります。それが「絶対零度」で、マイナス273.15度にあたります。 科学者たちは、この限界にどこまで近づけるかの記録を少しずつ塗り替えてきました。 とはいえ、冷やすだけなら地上の実験室でもできそうに思えます。 なぜわざわざ宇宙まで原子を運んだのでしょ",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "藝大アートプラザ企画展「Made in Art」",
-      "url": "https://bluediary2.jugem.jp/?eid=8250",
-      "date": "2026-11-14T11:56:00.000Z",
-      "summary": "東京藝術大学の上野キャンパスにある藝大アートプラザで、企画展「Made in Art」が開催されます。 「はじめてのアートを買う！」をコンセプトに、作品を観るだけでなく、自分のものにする楽しさを提案する展覧会です。 https://artplaza.geidai.ac.jp/ 美術館...",
-      "source": "青い日記帳（美術展）",
-      "sourceHomepage": "https://bluediary2.jugem.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "犯人はフクロウ！古代ローマ時代の遺跡から出土した8000点のカエルの骨の謎が解明",
-      "url": "https://karapaia.com/archives/638082.html",
-      "date": "2026-11-14T11:30:00.000Z",
-      "summary": "イギリスにある約1700年前のローマ帝国時代の遺跡の浅い溝から、おびただしい数のカエルの骨が発掘された。古代人による大宴会の跡か、謎めいた儀式の生贄か。考古学者たちを悩ませてきた、カエルの骨大量遺棄事件の謎が、最新研究で明らかになった…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
-      "title": "「あの娘はどうなったんだ？」助けを求めた少女の姿はいつしか目の前から消えていて…『魔法少女×敗北裁判』【#12】",
-      "url": "https://hon-hikidashi.jp/book-person/217931/",
-      "date": "2026-11-14T11:15:55.000Z",
-      "summary": "キルタイムコミュニケーションの「ヴァルキリーコミックス」より、 『魔法少女×敗北裁判』第4巻 が11月6日（金）に発売されました。 本作は、異界からの侵略者「怪異」に敗北し、法廷で無様な姿を晒され重罰を科される“魔法少女”たちを救うため、新人魔法弁護士・岬護ユゥリが奔走する物語です。 今回は、第1話～第2話の試し読みを配信します。作品が気になった方はぜひ、店頭でお買い求めください。 (adsbygoogle = window.adsby",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "謎の天体「リトル・レッド・ドット」は超大質量星から生まれたブラックホールを宿す銀河？",
-      "url": "https://sorae.info/astronomy/20261114-lrd-direct-collapse-black-hole.html",
-      "date": "2026-11-14T10:48:01.000Z",
-      "summary": "ポーツマス大学のDaniel Whalen氏を筆頭とする研究チームは、初期宇宙の謎の天体「リトル・レッド・ドット」の正体について、ブラックホールだとする説を後押しする結果がシミュレーションを通じて得られたとする研究成果を…",
-      "source": "sorae（宇宙・天文）",
-      "sourceHomepage": "https://sorae.info/",
-      "category": "documentary"
-    },
-    {
-      "title": "記録的な猛暑も「未来の熱波」とは比べものにならないと判明",
-      "url": "https://nazology.kusuguru.co.jp/archives/206523",
-      "date": "2026-11-14T10:30:00.000Z",
-      "summary": "ここ数年、地球のあちこちで、記録を塗りかえる熱波が起きています。 2019年のオーストラリアや、2022年の中国を襲った熱波も、その一つです。 こうした熱波は、人の暮らしにも自然にも、深刻な被害をもたらしてきました。 私たちはつい、こうした記録を「これ以上はない暑さ」の目安として思い浮かべます。 しかし温暖化が進む今世紀のうちに、その記録はどこまで持ちこたえるのでしょうか？ 今回、近年の記録的な熱波と、未来の熱波を同じ物差しで並べて比べ",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "「盗撮…？」いつのまにか記録されていた敗北時の様子…怪物はオレに襲いかかると…『魔法少女×敗北裁判』【#11】",
-      "url": "https://hon-hikidashi.jp/book-person/217930/",
-      "date": "2026-11-14T10:15:54.000Z",
-      "summary": "キルタイムコミュニケーションの「ヴァルキリーコミックス」より、 『魔法少女×敗北裁判』第4巻 が11月6日（金）に発売されました。 本作は、異界からの侵略者「怪異」に敗北し、法廷で無様な姿を晒され重罰を科される“魔法少女”たちを救うため、新人魔法弁護士・岬護ユゥリが奔走する物語です。 今回は、第1話～第2話の試し読みを配信します。作品が気になった方はぜひ、店頭でお買い求めください。 (adsbygoogle = window.adsby",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "3500人絶賛も！下茹でナシで味が染みる「大根の煮物」裏ワザレシピ3選",
-      "url": "https://news.cookpad.com/articles/67110",
-      "date": "2026-11-14T10:00:00.000Z",
-      "summary": "大根の煮物は、下茹でに手間がかかるのが悩みどころですよね。しかし、実は下茹でなしでも、切り方や煮込み方次第で、大根にしっかり味がしみこみます。今回は、下茹でなしで作れる大根の煮物を3品ご紹介しま...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "morensoji、1st AL『high time』リリース",
-      "url": "https://ototoy.jp/news/132796",
-      "date": "2026-11-14T10:00:00.000Z",
-      "summary": "morensojiが1st Album『high time』を2026年11月11日にリリースした",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "姫野、新曲「HINOTORI」リリース",
-      "url": "https://ototoy.jp/news/132794",
-      "date": "2026-11-14T10:00:00.000Z",
-      "summary": "姫野が新曲「HINOTORI」を2026年11月13日にリリースした",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "シャワールームからカーテン越しに……！AKB48・平田侑希待望の1st写真集『仮縫いの恋人』の表紙解禁",
-      "url": "https://hon-hikidashi.jp/news/222966/",
-      "date": "2026-11-14T09:50:47.000Z",
-      "summary": "AKB48の平田侑希さん待望の1st写真集 『仮縫いの恋人』 が11月26日（木）に発売されます。その表紙カットが解禁されたほか、第2弾の先行カットが公開されました。 先行カット【5】 平田侑希さんのグラビアをみる 【書誌情報】 『AKB48 平田侑希写真集 仮縫いの恋人』 発売日：2026年11月26日 発行所：宝島社 定価：3,850円（税込） Amazonで詳細を見る 楽天ブックスで詳細を見る 【平田侑希さんのコメント】 いつか叶",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "デニムの衣装もかわいい！AKB48・平田侑希待望の1st写真集『仮縫いの恋人』の表紙解禁",
-      "url": "https://hon-hikidashi.jp/news/222963/",
-      "date": "2026-11-14T09:40:36.000Z",
-      "summary": "AKB48の平田侑希さん待望の1st写真集 『仮縫いの恋人』 が11月26日（木）に発売されます。その表紙カットが解禁されたほか、第2弾の先行カットが公開されました。 先行カット【4】 平田侑希さんのグラビアをみる 【書誌情報】 『AKB48 平田侑希写真集 仮縫いの恋人』 発売日：2026年11月26日 発行所：宝島社 定価：3,850円（税込） Amazonで詳細を見る 楽天ブックスで詳細を見る 【平田侑希さんのコメント】 いつか叶",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "背中から腰まで露わに……！AKB48・平田侑希待望の1st写真集『仮縫いの恋人』の表紙解禁",
-      "url": "https://hon-hikidashi.jp/news/222960/",
-      "date": "2026-11-14T09:30:44.000Z",
-      "summary": "AKB48の平田侑希さん待望の1st写真集 『仮縫いの恋人』 が11月26日（木）に発売されます。その表紙カットが解禁されたほか、第2弾の先行カットが公開されました。 先行カット【3】 平田侑希さんのグラビアをみる 【書誌情報】 『AKB48 平田侑希写真集 仮縫いの恋人』 発売日：2026年11月26日 発行所：宝島社 定価：3,850円（税込） Amazonで詳細を見る 楽天ブックスで詳細を見る 【平田侑希さんのコメント】 いつか叶",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "「くちの中ヤケドした！！」寒い季節に野外で食べるカップラーメン、最高！『ゆるキャン△』【#4】",
-      "url": "https://hon-hikidashi.jp/book-person/219503/",
-      "date": "2026-11-14T09:30:09.000Z",
-      "summary": "寒さが深まり、あたたかいものが恋しくなる季節になりました。部屋を暖めるだけでなく、心までほっこり満たしてくれる作品を読んでみませんか？「ほんのひきだし」では「心をあたためるマンガ特集」と題して、おいしいごはんや何気ない日常、旅先での出会いなど、読むと思わず笑顔になれる心あたたまる作品を特集します。忙しい毎日にちょっとした癒やしを届けてくれる作品ばかりです。ぜひお気に入りの一冊を見つけてみてください。 今回ご紹介するのは、芳文社の 『ゆる",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "つばめグリルをはしごする（傑作選）",
-      "url": "https://dailyportalz.jp/kiji/tsubame-grill-hashigo",
-      "date": "2026-11-14T09:00:00.000Z",
-      "summary": "都内で働いているとたまに見かける、つばめグリル。常に「あるなー」とは思ってはいたが通り過ぎていた。今日ついに行く。ハンバーグを食べに。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "2026年のの気候は「桁外れ」。 最強エルニーニョで2027年は未知の領域に",
-      "url": "https://karapaia.com/archives/638064.html",
-      "date": "2026-11-14T09:00:00.000Z",
-      "summary": "2026年の地球の気温は、これまでの想定をはるかに超える「桁違い」の熱に包まれた。日本の気象庁も過去最大と認めた史上最強クラスのエルニーニョ現象が太平洋で猛威を振るい、海がため込んでいた莫大な熱を大気へと放出している。世界気象機関（WMO）によると…",
-      "source": "カラパイア",
-      "sourceHomepage": "https://karapaia.com/",
-      "category": "documentary"
-    },
-    {
-      "title": "地球の微生物が「火星の地下に似た環境」で増えることが判明",
-      "url": "https://nazology.kusuguru.co.jp/archives/206600",
-      "date": "2026-11-14T09:00:00.000Z",
-      "summary": "地球には、海水よりはるかに塩辛い水を好んで暮らす、とても小さな微生物がいます。 細菌に似た小さな生き物の一群(古細菌)の仲間で、名前をハロフェラックス・ボルカニイといいます。 一方、火星の地表は空気が薄く、強い放射線にさらされ、ほとんど水のない世界です。 今の火星の地表では、生き物はまず暮らせないと考えられています。 ただ、地面の少し下には、塩辛い水が液体のまま残る小さな場所があるかもしれません。 地球の微生物が火星に似た環境で「死なず",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "トップシークレットマン、新SG「終わりが怖いから考えない」リリース決定",
-      "url": "https://ototoy.jp/news/132795",
-      "date": "2026-11-14T09:00:00.000Z",
-      "summary": "トップシークレットマンがニューシングル「終わりが怖いから考えない」を2026年11月18日にリリースすることを発表した",
-      "source": "OTOTOY",
-      "sourceHomepage": "https://ototoy.jp/news/",
-      "category": "music"
-    },
-    {
-      "title": "行為後の触れ合いを学ぶと、女性の「完全に満足」が9割に達した",
-      "url": "https://nazology.kusuguru.co.jp/archives/208931",
-      "date": "2026-11-14T08:00:16.000Z",
-      "summary": "インドのファーザー・ミュラー医科大学病院（Father Muller Medical College Hospital）などの研究チームによると、性生活の講習に「性行為の後のキスや抱きしめ(後戯)」を学ぶ15分を足したカップルでは、8週間後に女性が日記で「完全に満足」とつけた割合が91％に達し、足さなかったカップルの51％を大きく上回りました。 研究チームは、女性とそのパートナー431組をコンピューターのくじ引きで2つに分け、どちらにも",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "絶対に捨てないで！10分で大根の葉を無駄なく使い切る絶品おかず3選",
-      "url": "https://news.cookpad.com/articles/67090",
-      "date": "2026-11-14T08:00:00.000Z",
-      "summary": "大根を買ったとき、葉っぱや茎はどうしていますか？捨ててしまうのはもったいない！大根の葉は、身近な食材と合わせるだけでおいしい一品に変身します。今回は、大根の葉だけで作れるご飯のお供や、卵やちくわ...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "感謝の石碑",
-      "url": "https://dailyportalz.jp/koresugo/arigatou",
-      "date": "2026-11-14T07:00:00.000Z",
-      "summary": "感謝の気持ちを伝えるためだけに建てた石碑を発見しました。",
-      "source": "デイリーポータルZ",
-      "sourceHomepage": "https://dailyportalz.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "渋柿が甘〜く激変！浸けて放置するだけで簡単「渋抜き」3選",
-      "url": "https://news.cookpad.com/articles/67007",
-      "date": "2026-11-14T07:00:00.000Z",
-      "summary": "「もらった柿が渋かった」「庭で採れた柿が渋い」という経験はありませんか？ 渋抜きの方法はいろいろありますが、今回は身近に手に入るものでできる方法をご紹介します。どれも簡単にできるので、渋柿に当た...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "工房の仲間が開いてくれた卒業パーティー！その席で師匠が語ったマスタークラスの条件とは？『新米錬金術師の店舗経営』【#6】",
-      "url": "https://hon-hikidashi.jp/book-person/218621/",
-      "date": "2026-11-14T06:30:03.000Z",
-      "summary": "キルタイムコミュニケーションの「ヴァルキリーコミックス」より、 『新米錬金術師の店舗経営』第9巻 が好評発売中です。 王立錬金術師養成学校を優秀な成績で卒業したサラサは、師匠から田舎にある一軒のお店をプレゼントされます。しかし、辺境の村にあるその建物は、想像以上のオンボロでした。 今回は、第1話～第4話の試し読みを配信します。作品が気になった方はぜひ、店頭でお買い求めください。 (adsbygoogle = window.adsbygo",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "「お前なら店ぐらいは開けると思うぞ」師匠お勧めの格安物件は、とんでもない田舎にあるようで！？『新米錬金術師の店舗経営』【#5】",
-      "url": "https://hon-hikidashi.jp/book-person/218614/",
-      "date": "2026-11-14T06:00:17.000Z",
-      "summary": "キルタイムコミュニケーションの「ヴァルキリーコミックス」より、 『新米錬金術師の店舗経営』第9巻 が好評発売中です。 王立錬金術師養成学校を優秀な成績で卒業したサラサは、師匠から田舎にある一軒のお店をプレゼントされます。しかし、辺境の村にあるその建物は、想像以上のオンボロでした。 今回は、第1話～第4話の試し読みを配信します。作品が気になった方はぜひ、店頭でお買い求めください。 (adsbygoogle = window.adsbygo",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "潰して凍らせるだけ！バナナがパキパキ食感に変身する「チョコバナナアイス」作ってみた",
-      "url": "https://news.cookpad.com/articles/67105",
-      "date": "2026-11-14T06:00:00.000Z",
-      "summary": "SNSで話題の、バナナを潰して凍らせるだけの「パキパキチョコバナナアイス」。かじるとパキッと割れる食感が楽しく、一度にまとめて作れば冷凍庫にストックできるので、ちょっと甘いものが欲しいときの常備...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "AIも人間のように「自分の手柄」を盛ると判明",
-      "url": "https://nazology.kusuguru.co.jp/archives/206519",
-      "date": "2026-11-14T06:00:00.000Z",
-      "summary": "文章を作るAIは、人のような気持ちを持たない、かたよりのない道具だと考えられがちです。 人のような感覚を持たないと考えられるAIでも、見栄を張ったり、自分をよく見せたりすることはあるのでしょうか。 では、そんなAIを何体か集めて、一緒に作業をさせたらどうなるでしょうか。 作業が終わったあと、1体ずつに「あなたはどれくらい貢献しましたか？」と聞いてみるのです。 人間なら、つい自分の働きを大きく見積もってしまいそうな場面です。 研究チームは",
-      "source": "ナゾロジー",
-      "sourceHomepage": "https://nazology.kusuguru.co.jp/",
-      "category": "documentary"
-    },
-    {
-      "title": "次は修行先を探さなければ…求人を見ても、めぼしいところは見つからない『新米錬金術師の店舗経営』【#4】",
-      "url": "https://hon-hikidashi.jp/book-person/218596/",
-      "date": "2026-11-14T05:30:26.000Z",
-      "summary": "キルタイムコミュニケーションの「ヴァルキリーコミックス」より、 『新米錬金術師の店舗経営』第9巻 が好評発売中です。 王立錬金術師養成学校を優秀な成績で卒業したサラサは、師匠から田舎にある一軒のお店をプレゼントされます。しかし、辺境の村にあるその建物は、想像以上のオンボロでした。 今回は、第1話～第4話の試し読みを配信します。作品が気になった方はぜひ、店頭でお買い求めください。 (adsbygoogle = window.adsbygo",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "錬金術師でなければ読むことのできない特殊な書物「錬金術大全」…貯金をはたいて、いざ購入！『新米錬金術師の店舗経営』【#3】",
-      "url": "https://hon-hikidashi.jp/book-person/218589/",
-      "date": "2026-11-14T05:00:41.000Z",
-      "summary": "キルタイムコミュニケーションの「ヴァルキリーコミックス」より、 『新米錬金術師の店舗経営』第9巻 が好評発売中です。 王立錬金術師養成学校を優秀な成績で卒業したサラサは、師匠から田舎にある一軒のお店をプレゼントされます。しかし、辺境の村にあるその建物は、想像以上のオンボロでした。 今回は、第1話～第4話の試し読みを配信します。作品が気になった方はぜひ、店頭でお買い求めください。 (adsbygoogle = window.adsbygo",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "1700人絶賛！魔法の液体で柔らか鶏むねのチーズ焼き",
-      "url": "https://news.cookpad.com/articles/66537",
-      "date": "2026-11-14T05:00:00.000Z",
-      "summary": "パサつくイメージが強い鶏むね肉。でも、ひと手間かけるだけで、驚くほど柔らかくなるんです。今回は、しっとりした味わいが魅力の「鶏むねのチーズ焼き」の作り方をご紹介。1. 鶏むね肉を包丁を入れて開い...",
-      "source": "クックパッドニュース",
-      "sourceHomepage": "https://news.cookpad.com/",
-      "category": "cooking"
-    },
-    {
-      "title": "“安納芋”のTシャツがキュート！安納蒼衣だけの世界観たっぷりのグラビアで魅せる『B.L.T.2027年1月号』が11月28日に発売",
-      "url": "https://hon-hikidashi.jp/news/222878/",
-      "date": "2026-11-14T04:16:15.000Z",
-      "summary": "乃木坂46・冨里奈央さんがさまざまなニットに囲まれたほっこり感満載のグラビアで魅せる 『B.L.T.2027年1月号』 が11月28日（土）に発売されます。発売にさきがけ、誌面カットが公開されました。 冨里奈央さんのカット 『B.L.T.2027年1月号』（東京ニュース通信社）撮影：HIROKAZU そのほかの『B.L.T.2027年1月号』のカットはこちら 【書誌情報】 『B.L.T.2027年1月号』 発売日：2026年11月28日",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "私の師匠はトップレベルの錬金術師――彼女の助けを借りれば高額な書物も大幅ディスカウント！？『新米錬金術師の店舗経営』【#2】",
-      "url": "https://hon-hikidashi.jp/book-person/218580/",
-      "date": "2026-11-14T04:00:37.000Z",
-      "summary": "キルタイムコミュニケーションの「ヴァルキリーコミックス」より、 『新米錬金術師の店舗経営』第9巻 が好評発売中です。 王立錬金術師養成学校を優秀な成績で卒業したサラサは、師匠から田舎にある一軒のお店をプレゼントされます。しかし、辺境の村にあるその建物は、想像以上のオンボロでした。 今回は、第1話～第4話の試し読みを配信します。作品が気になった方はぜひ、店頭でお買い求めください。 (adsbygoogle = window.adsbygo",
-      "source": "ほんのひきだし（本・出版）",
-      "sourceHomepage": "https://hon-hikidashi.jp/",
-      "category": "culture"
-    },
-    {
-      "title": "アマン エッセンシャルズとキム・ジョーンズが初のコラボレーション。旅と日常をつなぐ装い",
-      "url": "https://intojapanwaraku.com/fashion-kimono/324522/",
-      "date": "2026-11-14T04:00:35.000Z",
-      "summary": "アマンへの旅から生まれたコレクション アマン エッセンシャルズは、アマンの哲学を日々の暮らしへ届けるため、2018年にスキンケアコレクションとして誕生しました。その後、フレグランスや既製服、ライフスタイルアイテムへと展開 […]",
-      "source": "和樂web",
-      "sourceHomepage": "https://intojapanwaraku.com/",
-      "category": "culture"
     }
   ]
 }
